@@ -1,0 +1,170 @@
+[
+  {
+    "season_year": 2010,
+    "class_name": "Moto2",
+    "supply_role": "ENGINE",
+    "manufacturer_key": "HONDA",
+    "source_url": "https://global.honda/en/newsroom/news/2015/c150213eng.html"
+  },
+  {
+    "season_year": 2011,
+    "class_name": "Moto2",
+    "supply_role": "ENGINE",
+    "manufacturer_key": "HONDA",
+    "source_url": "https://global.honda/en/newsroom/news/2015/c150213eng.html"
+  },
+  {
+    "season_year": 2012,
+    "class_name": "Moto2",
+    "supply_role": "ENGINE",
+    "manufacturer_key": "HONDA",
+    "source_url": "https://global.honda/en/newsroom/news/2015/c150213eng.html"
+  },
+  {
+    "season_year": 2013,
+    "class_name": "Moto2",
+    "supply_role": "ENGINE",
+    "manufacturer_key": "HONDA",
+    "source_url": "https://global.honda/en/newsroom/news/2015/c150213eng.html"
+  },
+  {
+    "season_year": 2014,
+    "class_name": "Moto2",
+    "supply_role": "ENGINE",
+    "manufacturer_key": "HONDA",
+    "source_url": "https://global.honda/en/newsroom/news/2015/c150213eng.html"
+  },
+  {
+    "season_year": 2015,
+    "class_name": "Moto2",
+    "supply_role": "ENGINE",
+    "manufacturer_key": "HONDA",
+    "source_url": "https://global.honda/en/newsroom/news/2015/c150213eng.html"
+  },
+  {
+    "season_year": 2016,
+    "class_name": "Moto2",
+    "supply_role": "ENGINE",
+    "manufacturer_key": "HONDA",
+    "source_url": "https://global.honda/en/newsroom/news/2015/c150213eng.html"
+  },
+  {
+    "season_year": 2017,
+    "class_name": "Moto2",
+    "supply_role": "ENGINE",
+    "manufacturer_key": "HONDA",
+    "source_url": "https://global.honda/en/newsroom/news/2015/c150213eng.html"
+  },
+  {
+    "season_year": 2018,
+    "class_name": "Moto2",
+    "supply_role": "ENGINE",
+    "manufacturer_key": "HONDA",
+    "source_url": "https://global.honda/en/newsroom/news/2015/c150213eng.html"
+  },
+  {
+    "season_year": 2019,
+    "class_name": "Moto2",
+    "supply_role": "ENGINE",
+    "manufacturer_key": "TRIUMPH",
+    "source_url": "https://www.triumphmotorcycles.co.uk/discover/racing/moto2"
+  },
+  {
+    "season_year": 2020,
+    "class_name": "Moto2",
+    "supply_role": "ENGINE",
+    "manufacturer_key": "TRIUMPH",
+    "source_url": "https://www.triumphmotorcycles.co.uk/discover/racing/moto2"
+  },
+  {
+    "season_year": 2021,
+    "class_name": "Moto2",
+    "supply_role": "ENGINE",
+    "manufacturer_key": "TRIUMPH",
+    "source_url": "https://www.triumphmotorcycles.co.uk/discover/racing/moto2"
+  },
+  {
+    "season_year": 2022,
+    "class_name": "Moto2",
+    "supply_role": "ENGINE",
+    "manufacturer_key": "TRIUMPH",
+    "source_url": "https://www.triumphmotorcycles.co.uk/discover/racing/moto2"
+  },
+  {
+    "season_year": 2023,
+    "class_name": "Moto2",
+    "supply_role": "ENGINE",
+    "manufacturer_key": "TRIUMPH",
+    "source_url": "https://www.triumphmotorcycles.co.uk/discover/racing/moto2"
+  },
+  {
+    "season_year": 2024,
+    "class_name": "Moto2",
+    "supply_role": "ENGINE",
+    "manufacturer_key": "TRIUMPH",
+    "source_url": "https://www.triumphmotorcycles.co.uk/discover/racing/moto2"
+  },
+  {
+    "season_year": 2025,
+    "class_name": "Moto2",
+    "supply_role": "ENGINE",
+    "manufacturer_key": "TRIUMPH",
+    "source_url": "https://www.triumphmotorcycles.co.uk/discover/racing/moto2"
+  },
+  {
+    "season_year": 2026,
+    "class_name": "Moto2",
+    "supply_role": "ENGINE",
+    "manufacturer_key": "TRIUMPH",
+    "source_url": "https://www.triumphmotorcycles.co.uk/discover/racing/moto2"
+  },
+  {
+    "season_year": 2019,
+    "class_name": "MotoE",
+    "supply_role": "COMPLETE_MOTORCYCLE",
+    "manufacturer_key": "ENERGICA",
+    "source_url": "https://energicamotor.com/racing"
+  },
+  {
+    "season_year": 2020,
+    "class_name": "MotoE",
+    "supply_role": "COMPLETE_MOTORCYCLE",
+    "manufacturer_key": "ENERGICA",
+    "source_url": "https://energicamotor.com/racing"
+  },
+  {
+    "season_year": 2021,
+    "class_name": "MotoE",
+    "supply_role": "COMPLETE_MOTORCYCLE",
+    "manufacturer_key": "ENERGICA",
+    "source_url": "https://energicamotor.com/racing"
+  },
+  {
+    "season_year": 2022,
+    "class_name": "MotoE",
+    "supply_role": "COMPLETE_MOTORCYCLE",
+    "manufacturer_key": "ENERGICA",
+    "source_url": "https://energicamotor.com/racing"
+  },
+  {
+    "season_year": 2023,
+    "class_name": "MotoE",
+    "supply_role": "COMPLETE_MOTORCYCLE",
+    "manufacturer_key": "DUCATI",
+    "source_url": "https://www.ducati.com/ww/en/company/innovation/moto-e"
+  },
+  {
+    "season_year": 2024,
+    "class_name": "MotoE",
+    "supply_role": "COMPLETE_MOTORCYCLE",
+    "manufacturer_key": "DUCATI",
+    "source_url": "https://www.ducati.com/ww/en/company/innovation/moto-e"
+  },
+  {
+    "season_year": 2025,
+    "class_name": "MotoE",
+    "supply_role": "COMPLETE_MOTORCYCLE",
+    "manufacturer_key": "DUCATI",
+    "source_url": "https://www.ducati.com/ww/en/company/innovation/moto-e"
+  }
+]

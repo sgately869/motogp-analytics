@@ -1,0 +1,1849 @@
+{
+  "retrieved_at": "2026-10-11",
+  "scope": "Solo Grand Prix archive 1949-2026; includes MotoE; excludes sidecars and pre-1949 racing. Not a certified complete list of all starters/entrants. 2026 is in progress.",
+  "riders": 2175,
+  "season_class_records": 9374,
+  "roster_requests": 303,
+  "empty_rosters": [],
+  "date_of_birth_available": 1008,
+  "birth_place_available": 698,
+  "profile_country_available": 2014,
+  "standings_only_riders": 4,
+  "class_rider_counts": {
+    "125cc": 717,
+    "250cc": 740,
+    "350cc": 447,
+    "500cc": 642,
+    "50cc": 241,
+    "80cc": 77,
+    "Moto2": 223,
+    "Moto3": 204,
+    "MotoE": 61,
+    "MotoGP": 148
+  },
+  "issue_count": 5,
+  "coverage": [
+    {
+      "season": 1949,
+      "class_name": "125cc",
+      "roster_count": 10,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1949&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 1949,
+      "class_name": "250cc",
+      "roster_count": 15,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1949&category=f4c00279-2ae2-42fa-8bce-01c5eaedf392"
+    },
+    {
+      "season": 1949,
+      "class_name": "350cc",
+      "roster_count": 14,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1949&category=4efdd330-2aff-4c2a-b09d-a8e69bad2eac"
+    },
+    {
+      "season": 1949,
+      "class_name": "500cc",
+      "roster_count": 14,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1949&category=5a2a0bae-2060-475e-867d-3b6a34dbe370"
+    },
+    {
+      "season": 1950,
+      "class_name": "125cc",
+      "roster_count": 10,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1950&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 1950,
+      "class_name": "250cc",
+      "roster_count": 20,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1950&category=f4c00279-2ae2-42fa-8bce-01c5eaedf392"
+    },
+    {
+      "season": 1950,
+      "class_name": "350cc",
+      "roster_count": 14,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1950&category=4efdd330-2aff-4c2a-b09d-a8e69bad2eac"
+    },
+    {
+      "season": 1950,
+      "class_name": "500cc",
+      "roster_count": 17,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1950&category=5a2a0bae-2060-475e-867d-3b6a34dbe370"
+    },
+    {
+      "season": 1951,
+      "class_name": "125cc",
+      "roster_count": 17,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1951&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 1951,
+      "class_name": "250cc",
+      "roster_count": 20,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1951&category=f4c00279-2ae2-42fa-8bce-01c5eaedf392"
+    },
+    {
+      "season": 1951,
+      "class_name": "350cc",
+      "roster_count": 22,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1951&category=4efdd330-2aff-4c2a-b09d-a8e69bad2eac"
+    },
+    {
+      "season": 1951,
+      "class_name": "500cc",
+      "roster_count": 25,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1951&category=5a2a0bae-2060-475e-867d-3b6a34dbe370"
+    },
+    {
+      "season": 1952,
+      "class_name": "125cc",
+      "roster_count": 17,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1952&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 1952,
+      "class_name": "250cc",
+      "roster_count": 22,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1952&category=f4c00279-2ae2-42fa-8bce-01c5eaedf392"
+    },
+    {
+      "season": 1952,
+      "class_name": "350cc",
+      "roster_count": 16,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1952&category=4efdd330-2aff-4c2a-b09d-a8e69bad2eac"
+    },
+    {
+      "season": 1952,
+      "class_name": "500cc",
+      "roster_count": 19,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1952&category=5a2a0bae-2060-475e-867d-3b6a34dbe370"
+    },
+    {
+      "season": 1953,
+      "class_name": "125cc",
+      "roster_count": 22,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1953&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 1953,
+      "class_name": "250cc",
+      "roster_count": 16,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1953&category=f4c00279-2ae2-42fa-8bce-01c5eaedf392"
+    },
+    {
+      "season": 1953,
+      "class_name": "350cc",
+      "roster_count": 23,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1953&category=4efdd330-2aff-4c2a-b09d-a8e69bad2eac"
+    },
+    {
+      "season": 1953,
+      "class_name": "500cc",
+      "roster_count": 20,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1953&category=5a2a0bae-2060-475e-867d-3b6a34dbe370"
+    },
+    {
+      "season": 1954,
+      "class_name": "125cc",
+      "roster_count": 20,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1954&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 1954,
+      "class_name": "250cc",
+      "roster_count": 21,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1954&category=f4c00279-2ae2-42fa-8bce-01c5eaedf392"
+    },
+    {
+      "season": 1954,
+      "class_name": "350cc",
+      "roster_count": 26,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1954&category=4efdd330-2aff-4c2a-b09d-a8e69bad2eac"
+    },
+    {
+      "season": 1954,
+      "class_name": "500cc",
+      "roster_count": 27,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1954&category=5a2a0bae-2060-475e-867d-3b6a34dbe370"
+    },
+    {
+      "season": 1955,
+      "class_name": "125cc",
+      "roster_count": 20,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1955&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 1955,
+      "class_name": "250cc",
+      "roster_count": 15,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1955&category=f4c00279-2ae2-42fa-8bce-01c5eaedf392"
+    },
+    {
+      "season": 1955,
+      "class_name": "350cc",
+      "roster_count": 18,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1955&category=4efdd330-2aff-4c2a-b09d-a8e69bad2eac"
+    },
+    {
+      "season": 1955,
+      "class_name": "500cc",
+      "roster_count": 32,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1955&category=5a2a0bae-2060-475e-867d-3b6a34dbe370"
+    },
+    {
+      "season": 1956,
+      "class_name": "125cc",
+      "roster_count": 21,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1956&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 1956,
+      "class_name": "250cc",
+      "roster_count": 20,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1956&category=f4c00279-2ae2-42fa-8bce-01c5eaedf392"
+    },
+    {
+      "season": 1956,
+      "class_name": "350cc",
+      "roster_count": 19,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1956&category=4efdd330-2aff-4c2a-b09d-a8e69bad2eac"
+    },
+    {
+      "season": 1956,
+      "class_name": "500cc",
+      "roster_count": 23,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1956&category=5a2a0bae-2060-475e-867d-3b6a34dbe370"
+    },
+    {
+      "season": 1957,
+      "class_name": "125cc",
+      "roster_count": 15,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1957&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 1957,
+      "class_name": "250cc",
+      "roster_count": 21,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1957&category=f4c00279-2ae2-42fa-8bce-01c5eaedf392"
+    },
+    {
+      "season": 1957,
+      "class_name": "350cc",
+      "roster_count": 19,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1957&category=4efdd330-2aff-4c2a-b09d-a8e69bad2eac"
+    },
+    {
+      "season": 1957,
+      "class_name": "500cc",
+      "roster_count": 19,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1957&category=5a2a0bae-2060-475e-867d-3b6a34dbe370"
+    },
+    {
+      "season": 1958,
+      "class_name": "125cc",
+      "roster_count": 15,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1958&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 1958,
+      "class_name": "250cc",
+      "roster_count": 21,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1958&category=f4c00279-2ae2-42fa-8bce-01c5eaedf392"
+    },
+    {
+      "season": 1958,
+      "class_name": "350cc",
+      "roster_count": 19,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1958&category=4efdd330-2aff-4c2a-b09d-a8e69bad2eac"
+    },
+    {
+      "season": 1958,
+      "class_name": "500cc",
+      "roster_count": 17,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1958&category=5a2a0bae-2060-475e-867d-3b6a34dbe370"
+    },
+    {
+      "season": 1959,
+      "class_name": "125cc",
+      "roster_count": 17,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1959&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 1959,
+      "class_name": "250cc",
+      "roster_count": 18,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1959&category=f4c00279-2ae2-42fa-8bce-01c5eaedf392"
+    },
+    {
+      "season": 1959,
+      "class_name": "350cc",
+      "roster_count": 18,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1959&category=4efdd330-2aff-4c2a-b09d-a8e69bad2eac"
+    },
+    {
+      "season": 1959,
+      "class_name": "500cc",
+      "roster_count": 17,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1959&category=5a2a0bae-2060-475e-867d-3b6a34dbe370"
+    },
+    {
+      "season": 1960,
+      "class_name": "125cc",
+      "roster_count": 13,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1960&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 1960,
+      "class_name": "250cc",
+      "roster_count": 19,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1960&category=f4c00279-2ae2-42fa-8bce-01c5eaedf392"
+    },
+    {
+      "season": 1960,
+      "class_name": "350cc",
+      "roster_count": 14,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1960&category=4efdd330-2aff-4c2a-b09d-a8e69bad2eac"
+    },
+    {
+      "season": 1960,
+      "class_name": "500cc",
+      "roster_count": 16,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1960&category=5a2a0bae-2060-475e-867d-3b6a34dbe370"
+    },
+    {
+      "season": 1961,
+      "class_name": "125cc",
+      "roster_count": 21,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1961&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 1961,
+      "class_name": "250cc",
+      "roster_count": 19,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1961&category=f4c00279-2ae2-42fa-8bce-01c5eaedf392"
+    },
+    {
+      "season": 1961,
+      "class_name": "350cc",
+      "roster_count": 7,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1961&category=4efdd330-2aff-4c2a-b09d-a8e69bad2eac"
+    },
+    {
+      "season": 1961,
+      "class_name": "500cc",
+      "roster_count": 32,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1961&category=5a2a0bae-2060-475e-867d-3b6a34dbe370"
+    },
+    {
+      "season": 1962,
+      "class_name": "125cc",
+      "roster_count": 29,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1962&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 1962,
+      "class_name": "250cc",
+      "roster_count": 32,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1962&category=f4c00279-2ae2-42fa-8bce-01c5eaedf392"
+    },
+    {
+      "season": 1962,
+      "class_name": "350cc",
+      "roster_count": 18,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1962&category=4efdd330-2aff-4c2a-b09d-a8e69bad2eac"
+    },
+    {
+      "season": 1962,
+      "class_name": "500cc",
+      "roster_count": 28,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1962&category=5a2a0bae-2060-475e-867d-3b6a34dbe370"
+    },
+    {
+      "season": 1962,
+      "class_name": "50cc",
+      "roster_count": 16,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1962&category=03544c0c-1764-4156-9106-3969ee7b56b2"
+    },
+    {
+      "season": 1963,
+      "class_name": "125cc",
+      "roster_count": 25,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1963&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 1963,
+      "class_name": "250cc",
+      "roster_count": 25,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1963&category=f4c00279-2ae2-42fa-8bce-01c5eaedf392"
+    },
+    {
+      "season": 1963,
+      "class_name": "350cc",
+      "roster_count": 20,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1963&category=4efdd330-2aff-4c2a-b09d-a8e69bad2eac"
+    },
+    {
+      "season": 1963,
+      "class_name": "500cc",
+      "roster_count": 24,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1963&category=5a2a0bae-2060-475e-867d-3b6a34dbe370"
+    },
+    {
+      "season": 1963,
+      "class_name": "50cc",
+      "roster_count": 18,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1963&category=03544c0c-1764-4156-9106-3969ee7b56b2"
+    },
+    {
+      "season": 1964,
+      "class_name": "125cc",
+      "roster_count": 30,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1964&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 1964,
+      "class_name": "250cc",
+      "roster_count": 29,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1964&category=f4c00279-2ae2-42fa-8bce-01c5eaedf392"
+    },
+    {
+      "season": 1964,
+      "class_name": "350cc",
+      "roster_count": 23,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1964&category=4efdd330-2aff-4c2a-b09d-a8e69bad2eac"
+    },
+    {
+      "season": 1964,
+      "class_name": "500cc",
+      "roster_count": 24,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1964&category=5a2a0bae-2060-475e-867d-3b6a34dbe370"
+    },
+    {
+      "season": 1964,
+      "class_name": "50cc",
+      "roster_count": 17,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1964&category=03544c0c-1764-4156-9106-3969ee7b56b2"
+    },
+    {
+      "season": 1965,
+      "class_name": "125cc",
+      "roster_count": 31,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1965&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 1965,
+      "class_name": "250cc",
+      "roster_count": 33,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1965&category=f4c00279-2ae2-42fa-8bce-01c5eaedf392"
+    },
+    {
+      "season": 1965,
+      "class_name": "350cc",
+      "roster_count": 26,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1965&category=4efdd330-2aff-4c2a-b09d-a8e69bad2eac"
+    },
+    {
+      "season": 1965,
+      "class_name": "500cc",
+      "roster_count": 30,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1965&category=5a2a0bae-2060-475e-867d-3b6a34dbe370"
+    },
+    {
+      "season": 1965,
+      "class_name": "50cc",
+      "roster_count": 18,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1965&category=03544c0c-1764-4156-9106-3969ee7b56b2"
+    },
+    {
+      "season": 1966,
+      "class_name": "125cc",
+      "roster_count": 21,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1966&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 1966,
+      "class_name": "250cc",
+      "roster_count": 29,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1966&category=f4c00279-2ae2-42fa-8bce-01c5eaedf392"
+    },
+    {
+      "season": 1966,
+      "class_name": "350cc",
+      "roster_count": 27,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1966&category=4efdd330-2aff-4c2a-b09d-a8e69bad2eac"
+    },
+    {
+      "season": 1966,
+      "class_name": "500cc",
+      "roster_count": 21,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1966&category=5a2a0bae-2060-475e-867d-3b6a34dbe370"
+    },
+    {
+      "season": 1966,
+      "class_name": "50cc",
+      "roster_count": 16,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1966&category=03544c0c-1764-4156-9106-3969ee7b56b2"
+    },
+    {
+      "season": 1967,
+      "class_name": "125cc",
+      "roster_count": 35,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1967&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 1967,
+      "class_name": "250cc",
+      "roster_count": 25,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1967&category=f4c00279-2ae2-42fa-8bce-01c5eaedf392"
+    },
+    {
+      "season": 1967,
+      "class_name": "350cc",
+      "roster_count": 19,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1967&category=4efdd330-2aff-4c2a-b09d-a8e69bad2eac"
+    },
+    {
+      "season": 1967,
+      "class_name": "500cc",
+      "roster_count": 26,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1967&category=5a2a0bae-2060-475e-867d-3b6a34dbe370"
+    },
+    {
+      "season": 1967,
+      "class_name": "50cc",
+      "roster_count": 20,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1967&category=03544c0c-1764-4156-9106-3969ee7b56b2"
+    },
+    {
+      "season": 1968,
+      "class_name": "125cc",
+      "roster_count": 26,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1968&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 1968,
+      "class_name": "250cc",
+      "roster_count": 19,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1968&category=f4c00279-2ae2-42fa-8bce-01c5eaedf392"
+    },
+    {
+      "season": 1968,
+      "class_name": "350cc",
+      "roster_count": 19,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1968&category=4efdd330-2aff-4c2a-b09d-a8e69bad2eac"
+    },
+    {
+      "season": 1968,
+      "class_name": "500cc",
+      "roster_count": 27,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1968&category=5a2a0bae-2060-475e-867d-3b6a34dbe370"
+    },
+    {
+      "season": 1968,
+      "class_name": "50cc",
+      "roster_count": 20,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1968&category=03544c0c-1764-4156-9106-3969ee7b56b2"
+    },
+    {
+      "season": 1969,
+      "class_name": "125cc",
+      "roster_count": 54,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1969&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 1969,
+      "class_name": "250cc",
+      "roster_count": 52,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1969&category=f4c00279-2ae2-42fa-8bce-01c5eaedf392"
+    },
+    {
+      "season": 1969,
+      "class_name": "350cc",
+      "roster_count": 52,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1969&category=4efdd330-2aff-4c2a-b09d-a8e69bad2eac"
+    },
+    {
+      "season": 1969,
+      "class_name": "500cc",
+      "roster_count": 56,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1969&category=5a2a0bae-2060-475e-867d-3b6a34dbe370"
+    },
+    {
+      "season": 1969,
+      "class_name": "50cc",
+      "roster_count": 40,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1969&category=03544c0c-1764-4156-9106-3969ee7b56b2"
+    },
+    {
+      "season": 1970,
+      "class_name": "125cc",
+      "roster_count": 58,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1970&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 1970,
+      "class_name": "250cc",
+      "roster_count": 49,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1970&category=f4c00279-2ae2-42fa-8bce-01c5eaedf392"
+    },
+    {
+      "season": 1970,
+      "class_name": "350cc",
+      "roster_count": 47,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1970&category=4efdd330-2aff-4c2a-b09d-a8e69bad2eac"
+    },
+    {
+      "season": 1970,
+      "class_name": "500cc",
+      "roster_count": 49,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1970&category=5a2a0bae-2060-475e-867d-3b6a34dbe370"
+    },
+    {
+      "season": 1970,
+      "class_name": "50cc",
+      "roster_count": 37,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1970&category=03544c0c-1764-4156-9106-3969ee7b56b2"
+    },
+    {
+      "season": 1971,
+      "class_name": "125cc",
+      "roster_count": 45,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1971&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 1971,
+      "class_name": "250cc",
+      "roster_count": 49,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1971&category=f4c00279-2ae2-42fa-8bce-01c5eaedf392"
+    },
+    {
+      "season": 1971,
+      "class_name": "350cc",
+      "roster_count": 59,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1971&category=4efdd330-2aff-4c2a-b09d-a8e69bad2eac"
+    },
+    {
+      "season": 1971,
+      "class_name": "500cc",
+      "roster_count": 51,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1971&category=5a2a0bae-2060-475e-867d-3b6a34dbe370"
+    },
+    {
+      "season": 1971,
+      "class_name": "50cc",
+      "roster_count": 35,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1971&category=03544c0c-1764-4156-9106-3969ee7b56b2"
+    },
+    {
+      "season": 1972,
+      "class_name": "125cc",
+      "roster_count": 52,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1972&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 1972,
+      "class_name": "250cc",
+      "roster_count": 48,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1972&category=f4c00279-2ae2-42fa-8bce-01c5eaedf392"
+    },
+    {
+      "season": 1972,
+      "class_name": "350cc",
+      "roster_count": 41,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1972&category=4efdd330-2aff-4c2a-b09d-a8e69bad2eac"
+    },
+    {
+      "season": 1972,
+      "class_name": "500cc",
+      "roster_count": 51,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1972&category=5a2a0bae-2060-475e-867d-3b6a34dbe370"
+    },
+    {
+      "season": 1972,
+      "class_name": "50cc",
+      "roster_count": 42,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1972&category=03544c0c-1764-4156-9106-3969ee7b56b2"
+    },
+    {
+      "season": 1973,
+      "class_name": "125cc",
+      "roster_count": 50,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1973&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 1973,
+      "class_name": "250cc",
+      "roster_count": 47,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1973&category=f4c00279-2ae2-42fa-8bce-01c5eaedf392"
+    },
+    {
+      "season": 1973,
+      "class_name": "350cc",
+      "roster_count": 44,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1973&category=4efdd330-2aff-4c2a-b09d-a8e69bad2eac"
+    },
+    {
+      "season": 1973,
+      "class_name": "500cc",
+      "roster_count": 52,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1973&category=5a2a0bae-2060-475e-867d-3b6a34dbe370"
+    },
+    {
+      "season": 1973,
+      "class_name": "50cc",
+      "roster_count": 30,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1973&category=03544c0c-1764-4156-9106-3969ee7b56b2"
+    },
+    {
+      "season": 1974,
+      "class_name": "125cc",
+      "roster_count": 46,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1974&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 1974,
+      "class_name": "250cc",
+      "roster_count": 46,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1974&category=f4c00279-2ae2-42fa-8bce-01c5eaedf392"
+    },
+    {
+      "season": 1974,
+      "class_name": "350cc",
+      "roster_count": 50,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1974&category=4efdd330-2aff-4c2a-b09d-a8e69bad2eac"
+    },
+    {
+      "season": 1974,
+      "class_name": "500cc",
+      "roster_count": 37,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1974&category=5a2a0bae-2060-475e-867d-3b6a34dbe370"
+    },
+    {
+      "season": 1974,
+      "class_name": "50cc",
+      "roster_count": 32,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1974&category=03544c0c-1764-4156-9106-3969ee7b56b2"
+    },
+    {
+      "season": 1975,
+      "class_name": "125cc",
+      "roster_count": 37,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1975&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 1975,
+      "class_name": "250cc",
+      "roster_count": 41,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1975&category=f4c00279-2ae2-42fa-8bce-01c5eaedf392"
+    },
+    {
+      "season": 1975,
+      "class_name": "350cc",
+      "roster_count": 51,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1975&category=4efdd330-2aff-4c2a-b09d-a8e69bad2eac"
+    },
+    {
+      "season": 1975,
+      "class_name": "500cc",
+      "roster_count": 53,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1975&category=5a2a0bae-2060-475e-867d-3b6a34dbe370"
+    },
+    {
+      "season": 1975,
+      "class_name": "50cc",
+      "roster_count": 32,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1975&category=03544c0c-1764-4156-9106-3969ee7b56b2"
+    },
+    {
+      "season": 1976,
+      "class_name": "125cc",
+      "roster_count": 35,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1976&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 1976,
+      "class_name": "250cc",
+      "roster_count": 37,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1976&category=f4c00279-2ae2-42fa-8bce-01c5eaedf392"
+    },
+    {
+      "season": 1976,
+      "class_name": "350cc",
+      "roster_count": 39,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1976&category=4efdd330-2aff-4c2a-b09d-a8e69bad2eac"
+    },
+    {
+      "season": 1976,
+      "class_name": "500cc",
+      "roster_count": 45,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1976&category=5a2a0bae-2060-475e-867d-3b6a34dbe370"
+    },
+    {
+      "season": 1976,
+      "class_name": "50cc",
+      "roster_count": 27,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1976&category=03544c0c-1764-4156-9106-3969ee7b56b2"
+    },
+    {
+      "season": 1977,
+      "class_name": "125cc",
+      "roster_count": 37,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1977&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 1977,
+      "class_name": "250cc",
+      "roster_count": 35,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1977&category=f4c00279-2ae2-42fa-8bce-01c5eaedf392"
+    },
+    {
+      "season": 1977,
+      "class_name": "350cc",
+      "roster_count": 40,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1977&category=4efdd330-2aff-4c2a-b09d-a8e69bad2eac"
+    },
+    {
+      "season": 1977,
+      "class_name": "500cc",
+      "roster_count": 32,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1977&category=5a2a0bae-2060-475e-867d-3b6a34dbe370"
+    },
+    {
+      "season": 1977,
+      "class_name": "50cc",
+      "roster_count": 30,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1977&category=03544c0c-1764-4156-9106-3969ee7b56b2"
+    },
+    {
+      "season": 1978,
+      "class_name": "125cc",
+      "roster_count": 34,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1978&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 1978,
+      "class_name": "250cc",
+      "roster_count": 34,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1978&category=f4c00279-2ae2-42fa-8bce-01c5eaedf392"
+    },
+    {
+      "season": 1978,
+      "class_name": "350cc",
+      "roster_count": 31,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1978&category=4efdd330-2aff-4c2a-b09d-a8e69bad2eac"
+    },
+    {
+      "season": 1978,
+      "class_name": "500cc",
+      "roster_count": 31,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1978&category=5a2a0bae-2060-475e-867d-3b6a34dbe370"
+    },
+    {
+      "season": 1978,
+      "class_name": "50cc",
+      "roster_count": 28,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1978&category=03544c0c-1764-4156-9106-3969ee7b56b2"
+    },
+    {
+      "season": 1979,
+      "class_name": "125cc",
+      "roster_count": 45,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1979&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 1979,
+      "class_name": "250cc",
+      "roster_count": 39,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1979&category=f4c00279-2ae2-42fa-8bce-01c5eaedf392"
+    },
+    {
+      "season": 1979,
+      "class_name": "350cc",
+      "roster_count": 38,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1979&category=4efdd330-2aff-4c2a-b09d-a8e69bad2eac"
+    },
+    {
+      "season": 1979,
+      "class_name": "500cc",
+      "roster_count": 40,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1979&category=5a2a0bae-2060-475e-867d-3b6a34dbe370"
+    },
+    {
+      "season": 1979,
+      "class_name": "50cc",
+      "roster_count": 30,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1979&category=03544c0c-1764-4156-9106-3969ee7b56b2"
+    },
+    {
+      "season": 1980,
+      "class_name": "125cc",
+      "roster_count": 32,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1980&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 1980,
+      "class_name": "250cc",
+      "roster_count": 36,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1980&category=f4c00279-2ae2-42fa-8bce-01c5eaedf392"
+    },
+    {
+      "season": 1980,
+      "class_name": "350cc",
+      "roster_count": 25,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1980&category=4efdd330-2aff-4c2a-b09d-a8e69bad2eac"
+    },
+    {
+      "season": 1980,
+      "class_name": "500cc",
+      "roster_count": 27,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1980&category=5a2a0bae-2060-475e-867d-3b6a34dbe370"
+    },
+    {
+      "season": 1980,
+      "class_name": "50cc",
+      "roster_count": 21,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1980&category=03544c0c-1764-4156-9106-3969ee7b56b2"
+    },
+    {
+      "season": 1981,
+      "class_name": "125cc",
+      "roster_count": 38,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1981&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 1981,
+      "class_name": "250cc",
+      "roster_count": 34,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1981&category=f4c00279-2ae2-42fa-8bce-01c5eaedf392"
+    },
+    {
+      "season": 1981,
+      "class_name": "350cc",
+      "roster_count": 34,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1981&category=4efdd330-2aff-4c2a-b09d-a8e69bad2eac"
+    },
+    {
+      "season": 1981,
+      "class_name": "500cc",
+      "roster_count": 29,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1981&category=5a2a0bae-2060-475e-867d-3b6a34dbe370"
+    },
+    {
+      "season": 1981,
+      "class_name": "50cc",
+      "roster_count": 24,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1981&category=03544c0c-1764-4156-9106-3969ee7b56b2"
+    },
+    {
+      "season": 1982,
+      "class_name": "125cc",
+      "roster_count": 31,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1982&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 1982,
+      "class_name": "250cc",
+      "roster_count": 34,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1982&category=f4c00279-2ae2-42fa-8bce-01c5eaedf392"
+    },
+    {
+      "season": 1982,
+      "class_name": "350cc",
+      "roster_count": 35,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1982&category=4efdd330-2aff-4c2a-b09d-a8e69bad2eac"
+    },
+    {
+      "season": 1982,
+      "class_name": "500cc",
+      "roster_count": 30,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1982&category=5a2a0bae-2060-475e-867d-3b6a34dbe370"
+    },
+    {
+      "season": 1982,
+      "class_name": "50cc",
+      "roster_count": 23,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1982&category=03544c0c-1764-4156-9106-3969ee7b56b2"
+    },
+    {
+      "season": 1983,
+      "class_name": "125cc",
+      "roster_count": 28,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1983&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 1983,
+      "class_name": "250cc",
+      "roster_count": 32,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1983&category=f4c00279-2ae2-42fa-8bce-01c5eaedf392"
+    },
+    {
+      "season": 1983,
+      "class_name": "500cc",
+      "roster_count": 20,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1983&category=5a2a0bae-2060-475e-867d-3b6a34dbe370"
+    },
+    {
+      "season": 1983,
+      "class_name": "50cc",
+      "roster_count": 25,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1983&category=03544c0c-1764-4156-9106-3969ee7b56b2"
+    },
+    {
+      "season": 1984,
+      "class_name": "125cc",
+      "roster_count": 25,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1984&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 1984,
+      "class_name": "250cc",
+      "roster_count": 29,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1984&category=f4c00279-2ae2-42fa-8bce-01c5eaedf392"
+    },
+    {
+      "season": 1984,
+      "class_name": "500cc",
+      "roster_count": 29,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1984&category=5a2a0bae-2060-475e-867d-3b6a34dbe370"
+    },
+    {
+      "season": 1984,
+      "class_name": "80cc",
+      "roster_count": 22,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1984&category=82fc5f34-6977-4401-9be2-b8082347ea3b"
+    },
+    {
+      "season": 1985,
+      "class_name": "125cc",
+      "roster_count": 26,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1985&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 1985,
+      "class_name": "250cc",
+      "roster_count": 32,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1985&category=f4c00279-2ae2-42fa-8bce-01c5eaedf392"
+    },
+    {
+      "season": 1985,
+      "class_name": "500cc",
+      "roster_count": 27,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1985&category=5a2a0bae-2060-475e-867d-3b6a34dbe370"
+    },
+    {
+      "season": 1985,
+      "class_name": "80cc",
+      "roster_count": 25,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1985&category=82fc5f34-6977-4401-9be2-b8082347ea3b"
+    },
+    {
+      "season": 1986,
+      "class_name": "125cc",
+      "roster_count": 22,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1986&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 1986,
+      "class_name": "250cc",
+      "roster_count": 24,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1986&category=f4c00279-2ae2-42fa-8bce-01c5eaedf392"
+    },
+    {
+      "season": 1986,
+      "class_name": "500cc",
+      "roster_count": 24,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1986&category=5a2a0bae-2060-475e-867d-3b6a34dbe370"
+    },
+    {
+      "season": 1986,
+      "class_name": "80cc",
+      "roster_count": 24,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1986&category=82fc5f34-6977-4401-9be2-b8082347ea3b"
+    },
+    {
+      "season": 1987,
+      "class_name": "125cc",
+      "roster_count": 28,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1987&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 1987,
+      "class_name": "250cc",
+      "roster_count": 27,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1987&category=f4c00279-2ae2-42fa-8bce-01c5eaedf392"
+    },
+    {
+      "season": 1987,
+      "class_name": "500cc",
+      "roster_count": 24,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1987&category=5a2a0bae-2060-475e-867d-3b6a34dbe370"
+    },
+    {
+      "season": 1987,
+      "class_name": "80cc",
+      "roster_count": 26,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1987&category=82fc5f34-6977-4401-9be2-b8082347ea3b"
+    },
+    {
+      "season": 1988,
+      "class_name": "125cc",
+      "roster_count": 39,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1988&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 1988,
+      "class_name": "250cc",
+      "roster_count": 48,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1988&category=f4c00279-2ae2-42fa-8bce-01c5eaedf392"
+    },
+    {
+      "season": 1988,
+      "class_name": "500cc",
+      "roster_count": 41,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1988&category=5a2a0bae-2060-475e-867d-3b6a34dbe370"
+    },
+    {
+      "season": 1988,
+      "class_name": "80cc",
+      "roster_count": 32,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1988&category=82fc5f34-6977-4401-9be2-b8082347ea3b"
+    },
+    {
+      "season": 1989,
+      "class_name": "125cc",
+      "roster_count": 45,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1989&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 1989,
+      "class_name": "250cc",
+      "roster_count": 44,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1989&category=f4c00279-2ae2-42fa-8bce-01c5eaedf392"
+    },
+    {
+      "season": 1989,
+      "class_name": "500cc",
+      "roster_count": 46,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1989&category=5a2a0bae-2060-475e-867d-3b6a34dbe370"
+    },
+    {
+      "season": 1989,
+      "class_name": "80cc",
+      "roster_count": 33,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1989&category=82fc5f34-6977-4401-9be2-b8082347ea3b"
+    },
+    {
+      "season": 1990,
+      "class_name": "125cc",
+      "roster_count": 39,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1990&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 1990,
+      "class_name": "250cc",
+      "roster_count": 47,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1990&category=f4c00279-2ae2-42fa-8bce-01c5eaedf392"
+    },
+    {
+      "season": 1990,
+      "class_name": "500cc",
+      "roster_count": 36,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1990&category=5a2a0bae-2060-475e-867d-3b6a34dbe370"
+    },
+    {
+      "season": 1991,
+      "class_name": "125cc",
+      "roster_count": 38,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1991&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 1991,
+      "class_name": "250cc",
+      "roster_count": 41,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1991&category=f4c00279-2ae2-42fa-8bce-01c5eaedf392"
+    },
+    {
+      "season": 1991,
+      "class_name": "500cc",
+      "roster_count": 31,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1991&category=5a2a0bae-2060-475e-867d-3b6a34dbe370"
+    },
+    {
+      "season": 1992,
+      "class_name": "125cc",
+      "roster_count": 21,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1992&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 1992,
+      "class_name": "250cc",
+      "roster_count": 27,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1992&category=f4c00279-2ae2-42fa-8bce-01c5eaedf392"
+    },
+    {
+      "season": 1992,
+      "class_name": "500cc",
+      "roster_count": 28,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1992&category=5a2a0bae-2060-475e-867d-3b6a34dbe370"
+    },
+    {
+      "season": 1993,
+      "class_name": "125cc",
+      "roster_count": 35,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1993&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 1993,
+      "class_name": "250cc",
+      "roster_count": 34,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1993&category=f4c00279-2ae2-42fa-8bce-01c5eaedf392"
+    },
+    {
+      "season": 1993,
+      "class_name": "500cc",
+      "roster_count": 40,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1993&category=5a2a0bae-2060-475e-867d-3b6a34dbe370"
+    },
+    {
+      "season": 1994,
+      "class_name": "125cc",
+      "roster_count": 33,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1994&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 1994,
+      "class_name": "250cc",
+      "roster_count": 31,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1994&category=f4c00279-2ae2-42fa-8bce-01c5eaedf392"
+    },
+    {
+      "season": 1994,
+      "class_name": "500cc",
+      "roster_count": 33,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1994&category=5a2a0bae-2060-475e-867d-3b6a34dbe370"
+    },
+    {
+      "season": 1995,
+      "class_name": "125cc",
+      "roster_count": 32,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1995&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 1995,
+      "class_name": "250cc",
+      "roster_count": 33,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1995&category=f4c00279-2ae2-42fa-8bce-01c5eaedf392"
+    },
+    {
+      "season": 1995,
+      "class_name": "500cc",
+      "roster_count": 35,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1995&category=5a2a0bae-2060-475e-867d-3b6a34dbe370"
+    },
+    {
+      "season": 1996,
+      "class_name": "125cc",
+      "roster_count": 33,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1996&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 1996,
+      "class_name": "250cc",
+      "roster_count": 34,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1996&category=f4c00279-2ae2-42fa-8bce-01c5eaedf392"
+    },
+    {
+      "season": 1996,
+      "class_name": "500cc",
+      "roster_count": 32,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1996&category=5a2a0bae-2060-475e-867d-3b6a34dbe370"
+    },
+    {
+      "season": 1997,
+      "class_name": "125cc",
+      "roster_count": 31,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1997&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 1997,
+      "class_name": "250cc",
+      "roster_count": 38,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1997&category=f4c00279-2ae2-42fa-8bce-01c5eaedf392"
+    },
+    {
+      "season": 1997,
+      "class_name": "500cc",
+      "roster_count": 29,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1997&category=5a2a0bae-2060-475e-867d-3b6a34dbe370"
+    },
+    {
+      "season": 1998,
+      "class_name": "125cc",
+      "roster_count": 33,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1998&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 1998,
+      "class_name": "250cc",
+      "roster_count": 38,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1998&category=f4c00279-2ae2-42fa-8bce-01c5eaedf392"
+    },
+    {
+      "season": 1998,
+      "class_name": "500cc",
+      "roster_count": 34,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1998&category=5a2a0bae-2060-475e-867d-3b6a34dbe370"
+    },
+    {
+      "season": 1999,
+      "class_name": "125cc",
+      "roster_count": 33,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1999&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 1999,
+      "class_name": "250cc",
+      "roster_count": 31,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1999&category=f4c00279-2ae2-42fa-8bce-01c5eaedf392"
+    },
+    {
+      "season": 1999,
+      "class_name": "500cc",
+      "roster_count": 33,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=1999&category=5a2a0bae-2060-475e-867d-3b6a34dbe370"
+    },
+    {
+      "season": 2000,
+      "class_name": "125cc",
+      "roster_count": 35,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2000&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 2000,
+      "class_name": "250cc",
+      "roster_count": 38,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2000&category=f4c00279-2ae2-42fa-8bce-01c5eaedf392"
+    },
+    {
+      "season": 2000,
+      "class_name": "500cc",
+      "roster_count": 31,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2000&category=5a2a0bae-2060-475e-867d-3b6a34dbe370"
+    },
+    {
+      "season": 2001,
+      "class_name": "125cc",
+      "roster_count": 32,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2001&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 2001,
+      "class_name": "250cc",
+      "roster_count": 32,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2001&category=f4c00279-2ae2-42fa-8bce-01c5eaedf392"
+    },
+    {
+      "season": 2001,
+      "class_name": "500cc",
+      "roster_count": 27,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2001&category=5a2a0bae-2060-475e-867d-3b6a34dbe370"
+    },
+    {
+      "season": 2002,
+      "class_name": "125cc",
+      "roster_count": 37,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2002&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 2002,
+      "class_name": "250cc",
+      "roster_count": 36,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2002&category=f4c00279-2ae2-42fa-8bce-01c5eaedf392"
+    },
+    {
+      "season": 2002,
+      "class_name": "MotoGP",
+      "roster_count": 27,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2002&category=737ab122-76e1-4081-bedb-334caaa18c70"
+    },
+    {
+      "season": 2003,
+      "class_name": "125cc",
+      "roster_count": 31,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2003&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 2003,
+      "class_name": "250cc",
+      "roster_count": 33,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2003&category=f4c00279-2ae2-42fa-8bce-01c5eaedf392"
+    },
+    {
+      "season": 2003,
+      "class_name": "MotoGP",
+      "roster_count": 26,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2003&category=737ab122-76e1-4081-bedb-334caaa18c70"
+    },
+    {
+      "season": 2004,
+      "class_name": "125cc",
+      "roster_count": 34,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2004&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 2004,
+      "class_name": "250cc",
+      "roster_count": 32,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2004&category=f4c00279-2ae2-42fa-8bce-01c5eaedf392"
+    },
+    {
+      "season": 2004,
+      "class_name": "MotoGP",
+      "roster_count": 29,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2004&category=737ab122-76e1-4081-bedb-334caaa18c70"
+    },
+    {
+      "season": 2005,
+      "class_name": "125cc",
+      "roster_count": 36,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2005&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 2005,
+      "class_name": "250cc",
+      "roster_count": 28,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2005&category=f4c00279-2ae2-42fa-8bce-01c5eaedf392"
+    },
+    {
+      "season": 2005,
+      "class_name": "MotoGP",
+      "roster_count": 27,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2005&category=737ab122-76e1-4081-bedb-334caaa18c70"
+    },
+    {
+      "season": 2006,
+      "class_name": "125cc",
+      "roster_count": 29,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2006&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 2006,
+      "class_name": "250cc",
+      "roster_count": 33,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2006&category=f4c00279-2ae2-42fa-8bce-01c5eaedf392"
+    },
+    {
+      "season": 2006,
+      "class_name": "MotoGP",
+      "roster_count": 21,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2006&category=737ab122-76e1-4081-bedb-334caaa18c70"
+    },
+    {
+      "season": 2007,
+      "class_name": "125cc",
+      "roster_count": 29,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2007&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 2007,
+      "class_name": "250cc",
+      "roster_count": 30,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2007&category=f4c00279-2ae2-42fa-8bce-01c5eaedf392"
+    },
+    {
+      "season": 2007,
+      "class_name": "MotoGP",
+      "roster_count": 26,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2007&category=737ab122-76e1-4081-bedb-334caaa18c70"
+    },
+    {
+      "season": 2008,
+      "class_name": "125cc",
+      "roster_count": 35,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2008&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 2008,
+      "class_name": "250cc",
+      "roster_count": 28,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2008&category=f4c00279-2ae2-42fa-8bce-01c5eaedf392"
+    },
+    {
+      "season": 2008,
+      "class_name": "MotoGP",
+      "roster_count": 21,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2008&category=737ab122-76e1-4081-bedb-334caaa18c70"
+    },
+    {
+      "season": 2009,
+      "class_name": "125cc",
+      "roster_count": 33,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2009&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 2009,
+      "class_name": "250cc",
+      "roster_count": 29,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2009&category=f4c00279-2ae2-42fa-8bce-01c5eaedf392"
+    },
+    {
+      "season": 2009,
+      "class_name": "MotoGP",
+      "roster_count": 21,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2009&category=737ab122-76e1-4081-bedb-334caaa18c70"
+    },
+    {
+      "season": 2010,
+      "class_name": "125cc",
+      "roster_count": 28,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2010&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 2010,
+      "class_name": "Moto2",
+      "roster_count": 40,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2010&category=ea854a67-73a4-4a28-ac77-d67b3b2a530a"
+    },
+    {
+      "season": 2010,
+      "class_name": "MotoGP",
+      "roster_count": 22,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2010&category=737ab122-76e1-4081-bedb-334caaa18c70"
+    },
+    {
+      "season": 2011,
+      "class_name": "125cc",
+      "roster_count": 35,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2011&category=578be24b-3cd6-498f-9ed8-f0817be88467"
+    },
+    {
+      "season": 2011,
+      "class_name": "Moto2",
+      "roster_count": 32,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2011&category=ea854a67-73a4-4a28-ac77-d67b3b2a530a"
+    },
+    {
+      "season": 2011,
+      "class_name": "MotoGP",
+      "roster_count": 22,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2011&category=737ab122-76e1-4081-bedb-334caaa18c70"
+    },
+    {
+      "season": 2012,
+      "class_name": "Moto2",
+      "roster_count": 37,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2012&category=ea854a67-73a4-4a28-ac77-d67b3b2a530a"
+    },
+    {
+      "season": 2012,
+      "class_name": "Moto3",
+      "roster_count": 39,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2012&category=1ab203aa-e292-4842-8bed-971911357af1"
+    },
+    {
+      "season": 2012,
+      "class_name": "MotoGP",
+      "roster_count": 27,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2012&category=737ab122-76e1-4081-bedb-334caaa18c70"
+    },
+    {
+      "season": 2013,
+      "class_name": "Moto2",
+      "roster_count": 35,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2013&category=ea854a67-73a4-4a28-ac77-d67b3b2a530a"
+    },
+    {
+      "season": 2013,
+      "class_name": "Moto3",
+      "roster_count": 28,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2013&category=1ab203aa-e292-4842-8bed-971911357af1"
+    },
+    {
+      "season": 2013,
+      "class_name": "MotoGP",
+      "roster_count": 27,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2013&category=737ab122-76e1-4081-bedb-334caaa18c70"
+    },
+    {
+      "season": 2014,
+      "class_name": "Moto2",
+      "roster_count": 29,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2014&category=ea854a67-73a4-4a28-ac77-d67b3b2a530a"
+    },
+    {
+      "season": 2014,
+      "class_name": "Moto3",
+      "roster_count": 32,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2014&category=1ab203aa-e292-4842-8bed-971911357af1"
+    },
+    {
+      "season": 2014,
+      "class_name": "MotoGP",
+      "roster_count": 27,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2014&category=737ab122-76e1-4081-bedb-334caaa18c70"
+    },
+    {
+      "season": 2015,
+      "class_name": "Moto2",
+      "roster_count": 28,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2015&category=ea854a67-73a4-4a28-ac77-d67b3b2a530a"
+    },
+    {
+      "season": 2015,
+      "class_name": "Moto3",
+      "roster_count": 33,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2015&category=1ab203aa-e292-4842-8bed-971911357af1"
+    },
+    {
+      "season": 2015,
+      "class_name": "MotoGP",
+      "roster_count": 28,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2015&category=737ab122-76e1-4081-bedb-334caaa18c70"
+    },
+    {
+      "season": 2016,
+      "class_name": "Moto2",
+      "roster_count": 42,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2016&category=ea854a67-73a4-4a28-ac77-d67b3b2a530a"
+    },
+    {
+      "season": 2016,
+      "class_name": "Moto3",
+      "roster_count": 50,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2016&category=1ab203aa-e292-4842-8bed-971911357af1"
+    },
+    {
+      "season": 2016,
+      "class_name": "MotoGP",
+      "roster_count": 28,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2016&category=737ab122-76e1-4081-bedb-334caaa18c70"
+    },
+    {
+      "season": 2017,
+      "class_name": "Moto2",
+      "roster_count": 45,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2017&category=ea854a67-73a4-4a28-ac77-d67b3b2a530a"
+    },
+    {
+      "season": 2017,
+      "class_name": "Moto3",
+      "roster_count": 44,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2017&category=1ab203aa-e292-4842-8bed-971911357af1"
+    },
+    {
+      "season": 2017,
+      "class_name": "MotoGP",
+      "roster_count": 31,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2017&category=737ab122-76e1-4081-bedb-334caaa18c70"
+    },
+    {
+      "season": 2018,
+      "class_name": "Moto2",
+      "roster_count": 47,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2018&category=ea854a67-73a4-4a28-ac77-d67b3b2a530a"
+    },
+    {
+      "season": 2018,
+      "class_name": "Moto3",
+      "roster_count": 47,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2018&category=1ab203aa-e292-4842-8bed-971911357af1"
+    },
+    {
+      "season": 2018,
+      "class_name": "MotoGP",
+      "roster_count": 32,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2018&category=737ab122-76e1-4081-bedb-334caaa18c70"
+    },
+    {
+      "season": 2019,
+      "class_name": "Moto2",
+      "roster_count": 40,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2019&category=ea854a67-73a4-4a28-ac77-d67b3b2a530a"
+    },
+    {
+      "season": 2019,
+      "class_name": "Moto3",
+      "roster_count": 47,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2019&category=1ab203aa-e292-4842-8bed-971911357af1"
+    },
+    {
+      "season": 2019,
+      "class_name": "MotoE",
+      "roster_count": 18,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2019&category=cf196668-f900-4116-af79-810b91828a37"
+    },
+    {
+      "season": 2019,
+      "class_name": "MotoGP",
+      "roster_count": 28,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2019&category=737ab122-76e1-4081-bedb-334caaa18c70"
+    },
+    {
+      "season": 2020,
+      "class_name": "Moto2",
+      "roster_count": 34,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2020&category=ea854a67-73a4-4a28-ac77-d67b3b2a530a"
+    },
+    {
+      "season": 2020,
+      "class_name": "Moto3",
+      "roster_count": 37,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2020&category=1ab203aa-e292-4842-8bed-971911357af1"
+    },
+    {
+      "season": 2020,
+      "class_name": "MotoE",
+      "roster_count": 20,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2020&category=cf196668-f900-4116-af79-810b91828a37"
+    },
+    {
+      "season": 2020,
+      "class_name": "MotoGP",
+      "roster_count": 31,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2020&category=737ab122-76e1-4081-bedb-334caaa18c70"
+    },
+    {
+      "season": 2021,
+      "class_name": "Moto2",
+      "roster_count": 46,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2021&category=ea854a67-73a4-4a28-ac77-d67b3b2a530a"
+    },
+    {
+      "season": 2021,
+      "class_name": "Moto3",
+      "roster_count": 42,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2021&category=1ab203aa-e292-4842-8bed-971911357af1"
+    },
+    {
+      "season": 2021,
+      "class_name": "MotoE",
+      "roster_count": 32,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2021&category=cf196668-f900-4116-af79-810b91828a37"
+    },
+    {
+      "season": 2021,
+      "class_name": "MotoGP",
+      "roster_count": 35,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2021&category=737ab122-76e1-4081-bedb-334caaa18c70"
+    },
+    {
+      "season": 2022,
+      "class_name": "Moto2",
+      "roster_count": 45,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2022&category=ea854a67-73a4-4a28-ac77-d67b3b2a530a"
+    },
+    {
+      "season": 2022,
+      "class_name": "Moto3",
+      "roster_count": 47,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2022&category=1ab203aa-e292-4842-8bed-971911357af1"
+    },
+    {
+      "season": 2022,
+      "class_name": "MotoE",
+      "roster_count": 32,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2022&category=cf196668-f900-4116-af79-810b91828a37"
+    },
+    {
+      "season": 2022,
+      "class_name": "MotoGP",
+      "roster_count": 35,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2022&category=737ab122-76e1-4081-bedb-334caaa18c70"
+    },
+    {
+      "season": 2023,
+      "class_name": "Moto2",
+      "roster_count": 47,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2023&category=ea854a67-73a4-4a28-ac77-d67b3b2a530a"
+    },
+    {
+      "season": 2023,
+      "class_name": "Moto3",
+      "roster_count": 42,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2023&category=1ab203aa-e292-4842-8bed-971911357af1"
+    },
+    {
+      "season": 2023,
+      "class_name": "MotoE",
+      "roster_count": 20,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2023&category=cf196668-f900-4116-af79-810b91828a37"
+    },
+    {
+      "season": 2023,
+      "class_name": "MotoGP",
+      "roster_count": 33,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2023&category=737ab122-76e1-4081-bedb-334caaa18c70"
+    },
+    {
+      "season": 2024,
+      "class_name": "Moto2",
+      "roster_count": 44,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2024&category=ea854a67-73a4-4a28-ac77-d67b3b2a530a"
+    },
+    {
+      "season": 2024,
+      "class_name": "Moto3",
+      "roster_count": 35,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2024&category=1ab203aa-e292-4842-8bed-971911357af1"
+    },
+    {
+      "season": 2024,
+      "class_name": "MotoE",
+      "roster_count": 18,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2024&category=cf196668-f900-4116-af79-810b91828a37"
+    },
+    {
+      "season": 2024,
+      "class_name": "MotoGP",
+      "roster_count": 29,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2024&category=737ab122-76e1-4081-bedb-334caaa18c70"
+    },
+    {
+      "season": 2025,
+      "class_name": "Moto2",
+      "roster_count": 44,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2025&category=ea854a67-73a4-4a28-ac77-d67b3b2a530a"
+    },
+    {
+      "season": 2025,
+      "class_name": "Moto3",
+      "roster_count": 42,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2025&category=1ab203aa-e292-4842-8bed-971911357af1"
+    },
+    {
+      "season": 2025,
+      "class_name": "MotoE",
+      "roster_count": 19,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2025&category=cf196668-f900-4116-af79-810b91828a37"
+    },
+    {
+      "season": 2025,
+      "class_name": "MotoGP",
+      "roster_count": 32,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2025&category=737ab122-76e1-4081-bedb-334caaa18c70"
+    },
+    {
+      "season": 2026,
+      "class_name": "Moto2",
+      "roster_count": 34,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2026&category=ea854a67-73a4-4a28-ac77-d67b3b2a530a"
+    },
+    {
+      "season": 2026,
+      "class_name": "Moto3",
+      "roster_count": 32,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2026&category=1ab203aa-e292-4842-8bed-971911357af1"
+    },
+    {
+      "season": 2026,
+      "class_name": "MotoGP",
+      "roster_count": 33,
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2026&category=737ab122-76e1-4081-bedb-334caaa18c70"
+    }
+  ],
+  "supplementary_riders": 9,
+  "pending_identity_review": 8,
+  "pending_participation_review": 5,
+  "automatic_rider_inserts": 2162
+}

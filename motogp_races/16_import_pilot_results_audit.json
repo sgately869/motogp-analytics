@@ -1,0 +1,45 @@
+{
+  "counts": {
+    "races": 26,
+    "sessions": 27,
+    "sets": 27,
+    "entries": 475,
+    "results": 502,
+    "issues": 7
+  },
+  "issues": [
+    {
+      "race_key": "10b6074d-577a-42c5-a96b-1f13e0492a90_250cc_GP_1",
+      "issue": "Empty classification is not proof of cancellation or a complete result."
+    },
+    {
+      "race_key": "10b6074d-577a-42c5-a96b-1f13e0492a90_350cc_GP_1",
+      "session": "a323bd20-e1e3-488a-b381-a74b80efe9ed",
+      "issue": "All source points zero/absent; official_points_awarded left NULL."
+    },
+    {
+      "race_key": "10b6074d-577a-42c5-a96b-1f13e0492a90_500cc_GP_1",
+      "session": "84395b70-3f93-4e56-8475-e83a5c71e26d",
+      "issue": "All source points zero/absent; official_points_awarded left NULL."
+    },
+    {
+      "race_key": "af112d52-30dc-4c7a-bb1c-6ba2fe221f6e_125cc_GP_1",
+      "session": "b61acefb-e68c-472c-bac9-ed3ba54b87c8",
+      "issue": "All source points zero/absent; official_points_awarded left NULL."
+    },
+    {
+      "race_key": "af112d52-30dc-4c7a-bb1c-6ba2fe221f6e_250cc_GP_1",
+      "issue": "Empty classification is not proof of cancellation or a complete result."
+    },
+    {
+      "race_key": "af112d52-30dc-4c7a-bb1c-6ba2fe221f6e_500cc_GP_1",
+      "session": "837044a2-9447-4c9e-8051-4a0bbde9b508",
+      "issue": "All source points zero/absent; official_points_awarded left NULL."
+    },
+    {
+      "race_key": "f3fd8ba7-2966-46bd-8687-b92047f5e733_Moto2_GP_1",
+      "session": "43a6f2cb-2fab-477f-9a80-59ee69a31aaa",
+      "issue": "All source points zero/absent; official_points_awarded left NULL."
+    }
+  ]
+}

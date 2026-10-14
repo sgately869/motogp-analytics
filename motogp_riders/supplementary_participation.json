@@ -1,0 +1,354 @@
+[
+  {
+    "source_rider_uuid": "6ce15314-9b21-4d6c-bbda-20cb4274783d",
+    "motogp_legacy_id": 6877,
+    "profile_source_url": "https://riders.motogp.com/api/riders/searchRider?search=Cheung",
+    "statistics_source_url": "https://api.motogp.pulselive.com/motogp/v1/riders/6877/stats",
+    "first_grand_prix": [
+      {
+        "category": {
+          "id": "2391edcb-13be-4389-8627-5a5c3f967e85",
+          "legacy_id": 10,
+          "name": "125cc"
+        },
+        "event": {
+          "id": "cfeb004c-0ce8-4c20-bc42-61e8e93711a9",
+          "name": "GRAND PRIX OF CHINA",
+          "sponsored_name": "GRAND PRIX OF CHINA",
+          "short_name": "CHN",
+          "test": false,
+          "season": "2005",
+          "circuit": {
+            "id": "7cf41263-c38c-4942-ab09-9ac74339c3ec",
+            "name": "Shanghai Circuit",
+            "legacy_id": 94,
+            "place": "Shanghai",
+            "nation": "CHN",
+            "events_id": null
+          },
+          "country": {
+            "iso": "CN",
+            "name": "China",
+            "region_iso": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "source_rider_uuid": "7626fb32-73a5-418f-819b-532d12bd13da",
+    "motogp_legacy_id": 6878,
+    "profile_source_url": "https://riders.motogp.com/api/riders/searchRider?search=Chow",
+    "statistics_source_url": "https://api.motogp.pulselive.com/motogp/v1/riders/6878/stats",
+    "first_grand_prix": [
+      {
+        "category": {
+          "id": "008a50a7-e302-44ba-b468-7e9999324c64",
+          "legacy_id": 5,
+          "name": "250cc"
+        },
+        "event": {
+          "id": "2f49822c-5000-4800-8bdb-1cbc663bdb3a",
+          "name": "PORTUGUESE GRAND PRIX",
+          "sponsored_name": "PORTUGUESE GRAND PRIX",
+          "short_name": "POR",
+          "test": false,
+          "season": "2007",
+          "circuit": {
+            "id": "9450a597-8854-46a6-a6d1-514d4e224915",
+            "name": "Estoril Circuit",
+            "legacy_id": 79,
+            "place": "Estoril",
+            "nation": "POR",
+            "events_id": null
+          },
+          "country": {
+            "iso": "PT",
+            "name": "Portugal",
+            "region_iso": ""
+          }
+        }
+      },
+      {
+        "category": {
+          "id": "2391edcb-13be-4389-8627-5a5c3f967e85",
+          "legacy_id": 10,
+          "name": "125cc"
+        },
+        "event": {
+          "id": "cfeb004c-0ce8-4c20-bc42-61e8e93711a9",
+          "name": "GRAND PRIX OF CHINA",
+          "sponsored_name": "GRAND PRIX OF CHINA",
+          "short_name": "CHN",
+          "test": false,
+          "season": "2005",
+          "circuit": {
+            "id": "7cf41263-c38c-4942-ab09-9ac74339c3ec",
+            "name": "Shanghai Circuit",
+            "legacy_id": 94,
+            "place": "Shanghai",
+            "nation": "CHN",
+            "events_id": null
+          },
+          "country": {
+            "iso": "CN",
+            "name": "China",
+            "region_iso": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "source_rider_uuid": "96b7c411-5fb8-48ca-b2bf-a236866d8f3b",
+    "motogp_legacy_id": 889,
+    "profile_source_url": "https://riders.motogp.com/api/riders/searchRider?search=Chow",
+    "statistics_source_url": "https://api.motogp.pulselive.com/motogp/v1/riders/889/stats",
+    "first_grand_prix": [
+      {
+        "category": {
+          "id": "2391edcb-13be-4389-8627-5a5c3f967e85",
+          "legacy_id": 10,
+          "name": "125cc"
+        },
+        "event": {
+          "id": "59259564-3b8d-48c3-a30c-1ab88d115250",
+          "name": "MALAYSIAN GRAND PRIX",
+          "sponsored_name": "MALAYSIAN GRAND PRIX",
+          "short_name": "MAL",
+          "test": false,
+          "season": "1996",
+          "circuit": {
+            "id": "c7272655-3ec7-4d68-8753-eacf45fd151d",
+            "name": "Shah Alam",
+            "legacy_id": 1,
+            "place": "Shah Alam",
+            "nation": "MAL",
+            "events_id": null
+          },
+          "country": {
+            "iso": "MY",
+            "name": "Malaysia",
+            "region_iso": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "source_rider_uuid": "8d0fda13-a398-44ae-ae59-cbbc87d467f4",
+    "motogp_legacy_id": 7726,
+    "profile_source_url": "https://riders.motogp.com/api/riders/searchRider?search=Jantulik",
+    "statistics_source_url": "https://api.motogp.pulselive.com/motogp/v1/riders/7726/stats",
+    "first_grand_prix": [
+      {
+        "category": {
+          "id": "2391edcb-13be-4389-8627-5a5c3f967e85",
+          "legacy_id": 10,
+          "name": "125cc"
+        },
+        "event": {
+          "id": "4d2dd3de-2672-49f7-bf2c-b8b1319dcb70",
+          "name": "SAN MARINO GRAND PRIX",
+          "sponsored_name": "GP CINZANO DI SAN MARINO E  RIVIERA DI RIMINI",
+          "short_name": "RSM",
+          "test": false,
+          "season": "2009",
+          "circuit": {
+            "id": "e0d07d48-0b62-40fa-9d36-411b15af406f",
+            "name": "Misano World Circuit Marco Simoncelli",
+            "legacy_id": 38,
+            "place": "Misano Adriatico",
+            "nation": "ITA",
+            "events_id": null
+          },
+          "country": {
+            "iso": "SM",
+            "name": "San Marino",
+            "region_iso": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "source_rider_uuid": "2ae7a5ec-70cf-47e6-8e4b-4e7255220f10",
+    "motogp_legacy_id": 8011,
+    "profile_source_url": "https://riders.motogp.com/api/riders/searchRider?search=Kumar",
+    "statistics_source_url": "https://api.motogp.pulselive.com/motogp/v1/riders/8011/stats",
+    "first_grand_prix": [
+      {
+        "category": {
+          "id": "2391edcb-13be-4389-8627-5a5c3f967e85",
+          "legacy_id": 10,
+          "name": "125cc"
+        },
+        "event": {
+          "id": "78727397-86ce-4eef-a686-42632283b90b",
+          "name": "PORTUGUESE GRAND PRIX",
+          "sponsored_name": "bwin Grande Prémio de Portugal",
+          "short_name": "POR",
+          "test": false,
+          "season": "2011",
+          "circuit": {
+            "id": "9450a597-8854-46a6-a6d1-514d4e224915",
+            "name": "Estoril Circuit",
+            "legacy_id": 79,
+            "place": "Estoril",
+            "nation": "POR",
+            "events_id": null
+          },
+          "country": {
+            "iso": "PT",
+            "name": "Portugal",
+            "region_iso": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "source_rider_uuid": "5f5310f7-f3c1-48a6-8adf-9ba8ac447463",
+    "motogp_legacy_id": 7759,
+    "profile_source_url": "https://riders.motogp.com/api/riders/searchRider?search=Naimi",
+    "statistics_source_url": "https://api.motogp.pulselive.com/motogp/v1/riders/7759/stats",
+    "first_grand_prix": [
+      {
+        "category": {
+          "id": "549640b8-fd9c-4245-acfd-60e4bc38b25c",
+          "legacy_id": 2,
+          "name": "Moto2™"
+        },
+        "event": {
+          "id": "7ef3bd32-ed4c-424c-8ccf-4694769e580a",
+          "name": "GRAND PRIX OF QATAR",
+          "sponsored_name": "Commercialbank Grand Prix of Qatar",
+          "short_name": "QAT",
+          "test": false,
+          "season": "2010",
+          "circuit": {
+            "id": "e9a71399-cea9-400a-b2ef-48bfdcdf6526",
+            "name": "Lusail International Circuit",
+            "legacy_id": 93,
+            "place": "Doha",
+            "nation": "QAT",
+            "events_id": null
+          },
+          "country": {
+            "iso": "QA",
+            "name": "Qatar",
+            "region_iso": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "source_rider_uuid": "aaf4c29f-75d0-4238-8adf-120a25aa0dc5",
+    "motogp_legacy_id": 6750,
+    "profile_source_url": "https://riders.motogp.com/api/riders/searchRider?search=Nedog",
+    "statistics_source_url": "https://api.motogp.pulselive.com/motogp/v1/riders/6750/stats",
+    "first_grand_prix": [
+      {
+        "category": {
+          "id": "2391edcb-13be-4389-8627-5a5c3f967e85",
+          "legacy_id": 10,
+          "name": "125cc"
+        },
+        "event": {
+          "id": "949332d2-624b-47a1-b08b-18043d04b22b",
+          "name": "CZECH REPUBLIC GRAND PRIX",
+          "sponsored_name": "Gauloises Grand Prix České republiky",
+          "short_name": "CZE",
+          "test": false,
+          "season": "2003",
+          "circuit": {
+            "id": "b8664e71-95a8-4c71-b093-96a23fa839df",
+            "name": "CREDITAS Autodrom Brno",
+            "legacy_id": 11,
+            "place": "Brno",
+            "nation": "CZE",
+            "events_id": null
+          },
+          "country": {
+            "iso": "CZ",
+            "name": "Czechia",
+            "region_iso": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "source_rider_uuid": "6ec3fb1d-d231-4a19-b8d8-37bb6d6eee79",
+    "motogp_legacy_id": 7722,
+    "profile_source_url": "https://riders.motogp.com/api/riders/searchRider?search=Visak",
+    "statistics_source_url": "https://api.motogp.pulselive.com/motogp/v1/riders/7722/stats",
+    "first_grand_prix": [
+      {
+        "category": {
+          "id": "2391edcb-13be-4389-8627-5a5c3f967e85",
+          "legacy_id": 10,
+          "name": "125cc"
+        },
+        "event": {
+          "id": "66e7aec9-3366-4f57-95f1-fcf6b19a0cab",
+          "name": "CZECH REPUBLIC GRAND PRIX",
+          "sponsored_name": "Cardion ab Grand Prix České republiky",
+          "short_name": "CZE",
+          "test": false,
+          "season": "2009",
+          "circuit": {
+            "id": "b8664e71-95a8-4c71-b093-96a23fa839df",
+            "name": "CREDITAS Autodrom Brno",
+            "legacy_id": 11,
+            "place": "Brno",
+            "nation": "CZE",
+            "events_id": null
+          },
+          "country": {
+            "iso": "CZ",
+            "name": "Czechia",
+            "region_iso": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "source_rider_uuid": "c74ead7c-0866-42e7-b57c-6445ddace923",
+    "motogp_legacy_id": 7058,
+    "profile_source_url": "https://riders.motogp.com/api/riders/searchRider?search=Xiao",
+    "statistics_source_url": "https://api.motogp.pulselive.com/motogp/v1/riders/7058/stats",
+    "first_grand_prix": [
+      {
+        "category": {
+          "id": "008a50a7-e302-44ba-b468-7e9999324c64",
+          "legacy_id": 5,
+          "name": "250cc"
+        },
+        "event": {
+          "id": "6e98d13f-a767-4dbe-a7f6-95cccbbebbe4",
+          "name": "GRAND PRIX OF CHINA",
+          "sponsored_name": "GRAND PRIX OF CHINA",
+          "short_name": "CHN",
+          "test": false,
+          "season": "2006",
+          "circuit": {
+            "id": "7cf41263-c38c-4942-ab09-9ac74339c3ec",
+            "name": "Shanghai Circuit",
+            "legacy_id": 94,
+            "place": "Shanghai",
+            "nation": "CHN",
+            "events_id": null
+          },
+          "country": {
+            "iso": "CN",
+            "name": "China",
+            "region_iso": ""
+          }
+        }
+      }
+    ]
+  }
+]

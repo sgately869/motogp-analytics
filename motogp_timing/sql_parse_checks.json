@@ -1,0 +1,17 @@
+{
+  "checks": [
+    {
+      "file": "21_create_timing_tables.sql",
+      "parsed_units": 10
+    },
+    {
+      "file": "23_create_timing_views.sql",
+      "parsed_units": 8
+    },
+    {
+      "file": "24_check_timing_2025.sql",
+      "parsed_units": 2
+    }
+  ],
+  "scope": "Table declarations and reporting/check queries parsed with SQLGlot TSQL dialect; not a SQL Server execution test."
+}

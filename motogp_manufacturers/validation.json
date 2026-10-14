@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-12",
+  "checks_passed": [
+    "Primary/natural-key uniqueness",
+    "Cross-file foreign references",
+    "Source class/season spans",
+    "UUIDs, integer ranges and text lengths",
+    "Pramac 2024 Ducati / 2025 Yamaha joins",
+    "Ajo Moto2 2025 Kalex constructor / Triumph engine join",
+    "All SQL seed literals round-tripped to JSON",
+    "Deterministic SQL regeneration"
+  ],
+  "sql_seed_rows_checked": 16464,
+  "actual_sql_server_execution": "Not performed: user Windows SQL Server inaccessible",
+  "core_counts": {
+    "manufacturers": 105,
+    "constructors": 289,
+    "teams": 39,
+    "team_seasons": 722,
+    "team_season_names": 854,
+    "team_season_constructors": 650,
+    "class_season_suppliers": 24
+  },
+  "known_limits": [
+    "Not certified exhaustive",
+    "736 unresolved team-name/season/class mappings",
+    "Country fields intentionally not populated",
+    "Organisation-level mappings do not prove legal ownership or championship scoring identity",
+    "Most technical-support/status history remains unknown"
+  ]
+}

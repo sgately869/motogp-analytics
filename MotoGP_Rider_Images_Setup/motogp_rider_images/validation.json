@@ -1,0 +1,18 @@
+{
+  "rider_season_class_rows": 137,
+  "displayable_photos": 132,
+  "downloaded_images_decoded": 133,
+  "sql_seed_rows_round_tripped": 137,
+  "views_parsed": 4,
+  "canonical_source_identity_check": "passed",
+  "imported_2025_participant_combinations": 134,
+  "participants_with_photo": 131,
+  "participant_photo_exceptions": [
+    "Alex Escrig",
+    "Hector Garzo",
+    "Jakob Rosenthaler"
+  ],
+  "live_sql_server_test": false,
+  "power_bi_rendering_test": false,
+  "limits": "Image bytes and identities checked; visual spot-check of Marc Marquez only. Year-linked source metadata is not visual certification of every livery."
+}

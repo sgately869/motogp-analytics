@@ -1,0 +1,78 @@
+{
+  "21_create_timing_tables.sql": {
+    "bytes": 6680,
+    "sha256": "408ece363145081eebe2992b0170b25a1795214d7c3940bcea28cdac7fae66ba"
+  },
+  "22_import_timing_2025.sql": {
+    "bytes": 11034595,
+    "sha256": "5dc2535e1581a7488fe2d7ab8e140f8448be011f0711d8c54266192f9bc2aa13"
+  },
+  "22_timing_2025_audit.json": {
+    "bytes": 160427,
+    "sha256": "c760bd64f2e373abda4904c7b6c304988ee608ca37605aff377b040eb16094a6"
+  },
+  "23_create_timing_views.sql": {
+    "bytes": 5532,
+    "sha256": "6725faf615f8ec27767ff7358e38093f7047ece8aa95764dae0c899e96fb1e68"
+  },
+  "24_check_timing_2025.sql": {
+    "bytes": 3616,
+    "sha256": "a4d53e0b2c7cae2a9cad71b788fe628f8676301e96f59a99a7023097961a57a3"
+  },
+  "README.md": {
+    "bytes": 8069,
+    "sha256": "0a86577392cc5cf92edf1193048a2e30a835b46fde72592f8532d3729c34864b"
+  },
+  "SCOPE_AND_VALIDATION.md": {
+    "bytes": 5608,
+    "sha256": "3d3194cfce47862418723458f148d8f20b5026b74425eebfb4bb6f7582b943f6"
+  },
+  "build_timing.py": {
+    "bytes": 17736,
+    "sha256": "5eca59b89ce4d36591b89ba0c09ffe32dbc815c4c0e2d1e70d4caad59452af5b"
+  },
+  "fetch_timing.py": {
+    "bytes": 4726,
+    "sha256": "9a0ee7eea91e83541c10b8f89a62b4d84d74c83bf48f85449197960b68212153"
+  },
+  "jobs_2025.json": {
+    "bytes": 157052,
+    "sha256": "cabfc2c66fe7a66c54ea9cbe6916b70bc9d371d1218783d6bd24a8dd115ba569"
+  },
+  "lap_count_comparison.json": {
+    "bytes": 83,
+    "sha256": "8c69a0192e8e0a42facf7c4a5078cffdb050da55f05be70afc834744216caba3"
+  },
+  "make_schema.py": {
+    "bytes": 4079,
+    "sha256": "2e0f0b4486d007a717b787ddff2ae348fb79774a99cfbcdc54d8f262551724d9"
+  },
+  "parse_timing.py": {
+    "bytes": 7285,
+    "sha256": "4b60eb84f8a70916a68156a605b250ef1c8bc5964f21e40fa6a34ec05a6d36e6"
+  },
+  "requirements.txt": {
+    "bytes": 16,
+    "sha256": "35862353935b3121f5702c4e6c292fc8f796c7c169cc0be9a6b7c7bc8acaaf64"
+  },
+  "source_manifest.json": {
+    "bytes": 1070384,
+    "sha256": "cf8d090ec6f33662c7ba19b14f49ee7ab8cf02aa221523433f0e2c6385fba325"
+  },
+  "sql_parse_checks.json": {
+    "bytes": 391,
+    "sha256": "5141315137d4f8712143e38643cf2ab964f75f2fe56d78e8fb0357db1820a3fa"
+  },
+  "timing_2025_normalised.json": {
+    "bytes": 31742444,
+    "sha256": "203f8a6707cc9d9ee9d48fa2e50964be5f475a2bc3dbbae9f2f582dc3b0ab64e"
+  },
+  "validate_timing.py": {
+    "bytes": 3704,
+    "sha256": "114e2c39003a3c262e21dfffe8507060c6b5fd74a74f4699eb1cb7d9e91f862c"
+  },
+  "validation_report.json": {
+    "bytes": 964,
+    "sha256": "06da30f99dce32c547f4c4b7dcce7d5faf816c08ff20a8ad467b1f44f0c43dcf"
+  }
+}

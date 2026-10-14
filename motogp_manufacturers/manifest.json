@@ -1,0 +1,94 @@
+{
+  "compiled_at": "2026-10-12",
+  "source_archive_snapshot": "2026-10-11",
+  "files": {
+    "10_create_manufacturer_team_tables.sql": {
+      "bytes": 6378,
+      "sha256": "5ce31f5a4b360626235ca0381d4aa3d69d7de6b1be8fb231cc270c7fee0c2910"
+    },
+    "11_import_manufacturers_and_teams.sql": {
+      "bytes": 4791338,
+      "sha256": "43ce3f84a8fb8353363e047617d5e716def7bf4470f39900d0aefad1bea7526c"
+    },
+    "12_explore_manufacturers_and_teams.sql": {
+      "bytes": 2850,
+      "sha256": "6174345781eb94ddeb19d4a5b55f984045cb24315c0b19152078c789ee00cfe7"
+    },
+    "README.md": {
+      "bytes": 13236,
+      "sha256": "e77da956cd647d46786256f17d831d83578b7cc2c9750536e32918599ef09347"
+    },
+    "build_sql.py": {
+      "bytes": 16976,
+      "sha256": "63c17dfd6b147ce339f609aa4e3a1fe1e3d3e3a328effc38457ce21b1e56b805"
+    },
+    "class_season_suppliers.json": {
+      "bytes": 4857,
+      "sha256": "67c390f8ca592e2cdcd627def116b9dc27d09d61a5dbb2fea1cbab3b6807de84"
+    },
+    "constructor_catalogue.md": {
+      "bytes": 26391,
+      "sha256": "13b181b60bc8e4a9c2e650a4cde9851aece6ac9c89fa342403183d040beb37cf"
+    },
+    "constructors.json": {
+      "bytes": 432907,
+      "sha256": "3b91c0589fb861d9714f39539e9f74179b3991754559a48e7617fcb27576dda7"
+    },
+    "manufacturer_list.md": {
+      "bytes": 20101,
+      "sha256": "e5b8c44be34ffb0f7b936abbc6c560956392ea3b440b0bcf112fda20c6f5fb2c"
+    },
+    "manufacturers.json": {
+      "bytes": 29431,
+      "sha256": "61417da228bec7ff43b816397f045c619a489cc7901210d72a9b2be4680e29ac"
+    },
+    "observations.json": {
+      "bytes": 6125362,
+      "sha256": "0cec9533e36604149c06ff348d19198961d366a44afdaa99ff40859ee27ce9d5"
+    },
+    "schema.md": {
+      "bytes": 1380,
+      "sha256": "c3d017f3b46b2042277e4207e9400b9a5e39396f13ad5dc951b50b7826af5e75"
+    },
+    "source_coverage.json": {
+      "bytes": 86335,
+      "sha256": "d467fea5701d06fd87e04a851b7bcafb7b30dc21a228987e3dcab4e04f267f37"
+    },
+    "summary.json": {
+      "bytes": 614,
+      "sha256": "2715ad95bde7c74e579cc270dd5b6f7eb230f4ab842af912ff27f336b704f3f7"
+    },
+    "team_labels.json": {
+      "bytes": 118597,
+      "sha256": "5181817e29892c09141c4f014356e90d7edf54960f728b1133dfc66b46374508"
+    },
+    "team_mappings.json": {
+      "bytes": 572817,
+      "sha256": "295db19b1cf95d300acffb09b664f2e10eb9af30cd79e9c04bc1784b035fd78e"
+    },
+    "team_name_catalogue.md": {
+      "bytes": 50986,
+      "sha256": "38fbe3e9277ad0d8371fd98ca58b8982c9913fac30271a1275d16b7b55fa226c"
+    },
+    "team_season_constructors.json": {
+      "bytes": 249224,
+      "sha256": "6651f0054d567658ef6b6e098df3ece585dd869402e2e2f0a29555481e8e3f12"
+    },
+    "team_season_names.json": {
+      "bytes": 303169,
+      "sha256": "16abdf8521cc0de4c2a0371af0a82b82cc96eb59e62dff8b2849fcbbe9a32ea8"
+    },
+    "team_seasons.json": {
+      "bytes": 150881,
+      "sha256": "65525018e320ffa84df152f6a40397b5ff1ed983b578c846413f15e07e8ebf61"
+    },
+    "teams.json": {
+      "bytes": 4040,
+      "sha256": "445160f00e701603056dea5ee4854ce6a38f808374d264e370f7174b565ab96f"
+    },
+    "validation.json": {
+      "bytes": 1060,
+      "sha256": "1a4c40684a58d81635f504c4579c2c768b58dee690523f894b95ee48fa70bbdc"
+    }
+  }
+}

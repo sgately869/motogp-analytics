@@ -1,0 +1,42 @@
+# Python temporary files and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Local credentials and settings
+.env
+.env.*
+!.env.example
+.vscode/
+
+# Download caches and logs
+cache/
+.cache/
+downloads/
+*.log
+
+# SQL Server database files and backups
+*.mdf
+*.ndf
+*.ldf
+*.bak
+
+# Power BI report and local cache
+*.pbix
+*.pbit
+.pbi/localSettings.json
+.pbi/cache.abf
+
+# Archives and operating system files
+*.zip
+Thumbs.db
+.DS_Store
+
+# Generated timing dataset
+motogp_timing/timing_2025_normalised.json
+
+# Downloaded race responses
+/motogp_races/source_classifications/
+/motogp_races/history_cache/

@@ -1,0 +1,27 @@
+[
+  {
+    "issue": "roster_only_identity_without_first_gp_in_stats",
+    "source_rider_uuid": "92bda50b-b816-4ad3-aea8-6ee07309bf68",
+    "display_name": "Bob Keeler"
+  },
+  {
+    "issue": "roster_only_identity_without_first_gp_in_stats",
+    "source_rider_uuid": "b21b2cf3-4959-46cf-83bb-ecba54b47436",
+    "display_name": "Kadai Yaseen Ahamed"
+  },
+  {
+    "issue": "placeholder_legacy_id_and_honorary_roster_record",
+    "source_rider_uuid": "b48af5ec-3803-418e-ba66-b46022c7e391",
+    "display_name": "Mike Trimby"
+  },
+  {
+    "issue": "roster_only_identity_without_first_gp_in_stats",
+    "source_rider_uuid": "b8f6b97c-c3ac-4ec0-9679-0ba9d82925de",
+    "display_name": "S. Ferretti"
+  },
+  {
+    "issue": "roster_only_identity_without_first_gp_in_stats",
+    "source_rider_uuid": "e1fa4e5b-6441-48d8-b7e1-1fad2213afe7",
+    "display_name": "C. Stormont"
+  }
+]

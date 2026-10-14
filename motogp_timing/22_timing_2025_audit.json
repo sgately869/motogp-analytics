@@ -1,0 +1,5536 @@
+{
+  "parser_version": "2025.1",
+  "built_at": "2026-10-13T20:43:43.460038+00:00",
+  "counts": {
+    "sessions": 248,
+    "entries": 4606,
+    "revisions": 248,
+    "documents": 554,
+    "qualifying": 2026,
+    "records": 805,
+    "fastest": 2281,
+    "grids": 2375,
+    "laps": 37049,
+    "issues": 309
+  },
+  "issues": [
+    {
+      "event": "NED",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "c68c6b94-e39e-410f-b7ec-0b7e57ab453e",
+      "component": "fastest_lap_missing_rider",
+      "reason": "No published fastest lap for MGP_10033 despite completed laps; no time inferred"
+    },
+    {
+      "event": "NED",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "c68c6b94-e39e-410f-b7ec-0b7e57ab453e",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8829', 'page': 5, 'source_text': 'unfinished 31.710 14.759 28.051 257.6'}"
+    },
+    {
+      "event": "NED",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "c68c6b94-e39e-410f-b7ec-0b7e57ab453e",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8827', 'page': 5, 'source_text': 'unfinished 31.806 14.954 250.3'}"
+    },
+    {
+      "event": "NED",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "c68c6b94-e39e-410f-b7ec-0b7e57ab453e",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8473', 'page': 6, 'source_text': 'unfinished 31.894 251.3'}"
+    },
+    {
+      "event": "NED",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "c68c6b94-e39e-410f-b7ec-0b7e57ab453e",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10227', 'page': 6, 'source_text': 'unfinished 31.451 14.592 27.774 258.7'}"
+    },
+    {
+      "event": "NED",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "c68c6b94-e39e-410f-b7ec-0b7e57ab453e",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10033', 'page': 6, 'source_text': 'unfinished 31.919 14.699 257.1'}"
+    },
+    {
+      "event": "NED",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "0ae4ac1e-ac3c-4626-a986-7f8508a9574c",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10220', 'page': 4, 'source_text': 'unfinished 33.014 15.738 29.367 220.5'}"
+    },
+    {
+      "event": "NED",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "0ae4ac1e-ac3c-4626-a986-7f8508a9574c",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10226', 'page': 5, 'source_text': 'unfinished 32.996 15.759 28.849 219.7'}"
+    },
+    {
+      "event": "NED",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "0ae4ac1e-ac3c-4626-a986-7f8508a9574c",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8649', 'page': 5, 'source_text': 'unfinished 33.082 15.783 28.831 219.7'}"
+    },
+    {
+      "event": "NED",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "0ae4ac1e-ac3c-4626-a986-7f8508a9574c",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10251', 'page': 5, 'source_text': 'unfinished 33.203 16.002 29.004 213.9'}"
+    },
+    {
+      "event": "NED",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "0ae4ac1e-ac3c-4626-a986-7f8508a9574c",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10161', 'page': 5, 'source_text': 'unfinished 33.143 16.028 28.907 217.7'}"
+    },
+    {
+      "event": "NED",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "0ae4ac1e-ac3c-4626-a986-7f8508a9574c",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10534', 'page': 5, 'source_text': 'unfinished 33.399 16.219 29.244 211.7'}"
+    },
+    {
+      "event": "NED",
+      "class": "MotoE",
+      "type": "RAC",
+      "number": 2,
+      "session_uuid": "018a4ba6-c627-4c5e-9633-5d689c5f241a",
+      "component": "fastest_lap_missing_rider",
+      "reason": "No published fastest lap for MGP_10620 despite completed laps; no time inferred"
+    },
+    {
+      "event": "NED",
+      "class": "MotoGP",
+      "type": "SPR",
+      "number": null,
+      "session_uuid": "9f78e264-69fc-4bce-ba8d-62f29dab2a38",
+      "component": "fastest_lap_missing_rider",
+      "reason": "No published fastest lap for MGP_8269 despite completed laps; no time inferred"
+    },
+    {
+      "event": "NED",
+      "class": "MotoGP",
+      "type": "SPR",
+      "number": null,
+      "session_uuid": "9f78e264-69fc-4bce-ba8d-62f29dab2a38",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8520', 'page': 4, 'source_text': 'unfinished 30.438 13.599 304.4'}"
+    },
+    {
+      "event": "NED",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "a61cc70c-172c-415d-bd1a-6d9d383dea4b",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8173', 'page': 6, 'source_text': 'unfinished 30.888'}"
+    },
+    {
+      "event": "NED",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "a61cc70c-172c-415d-bd1a-6d9d383dea4b",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_9867', 'page': 6, 'source_text': 'unfinished 30.681 13.661 306.7'}"
+    },
+    {
+      "event": "NED",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "a61cc70c-172c-415d-bd1a-6d9d383dea4b",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8141', 'page': 6, 'source_text': 'unfinished 30.824 13.936 306.7'}"
+    },
+    {
+      "event": "NED",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "a61cc70c-172c-415d-bd1a-6d9d383dea4b",
+      "component": "sector_sum_difference",
+      "reason": "MGP_7199 lap 2: sectors do not sum to lap duration; printed source values retained"
+    },
+    {
+      "event": "ARG",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "c1729afc-16bb-496e-ae9d-e2381a87db3a",
+      "component": "sector_sum_difference",
+      "reason": "MGP_10257 lap 6: sectors do not sum to lap duration; printed source values retained"
+    },
+    {
+      "event": "ARG",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "5006e79f-8b35-4607-a6c7-7404d3b7edfc",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10509', 'page': 5, 'source_text': 'unfinished 29.487 238.2'}"
+    },
+    {
+      "event": "ARG",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "5006e79f-8b35-4607-a6c7-7404d3b7edfc",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8669', 'page': 5, 'source_text': 'unfinished 29.031 27.698 26.809 235.5'}"
+    },
+    {
+      "event": "ARG",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "5006e79f-8b35-4607-a6c7-7404d3b7edfc",
+      "component": "sector_sum_difference",
+      "reason": "MGP_9869 lap 10: sectors do not sum to lap duration; printed source values retained"
+    },
+    {
+      "event": "ARG",
+      "class": "MotoGP",
+      "type": "SPR",
+      "number": null,
+      "session_uuid": "830c3188-94b7-47da-a42b-076a9abcbdaa",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_7646', 'page': 4, 'source_text': 'unfinished 30.180 23.293 323.2'}"
+    },
+    {
+      "event": "ARA",
+      "class": "Moto2",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "2daa0317-f03b-434f-85d9-cd52367bb804",
+      "component": "qualifying",
+      "reason": "No positive best lap recorded for MGP_8250"
+    },
+    {
+      "event": "ARA",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "73d74e95-824d-4647-a9cf-2c8f9b390489",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8296', 'page': 6, 'source_text': 'unfinished 31.832'}"
+    },
+    {
+      "event": "ARA",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "73d74e95-824d-4647-a9cf-2c8f9b390489",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8671', 'page': 6, 'source_text': 'unfinished 35.543 31.773'}"
+    },
+    {
+      "event": "ARA",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "73d74e95-824d-4647-a9cf-2c8f9b390489",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10227', 'page': 6, 'source_text': 'unfinished 35.433 31.744'}"
+    },
+    {
+      "event": "ARA",
+      "class": "Moto3",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "04f9483d-f7f2-43c6-a41b-a801d9efcaa9",
+      "component": "qualifying",
+      "reason": "No positive best lap recorded for MGP_8649"
+    },
+    {
+      "event": "ARA",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "72014d39-0dfb-4a4b-ab5e-5da9f5901ea0",
+      "component": "sector_sum_difference",
+      "reason": "MGP_8669 lap 3: sectors do not sum to lap duration; printed source values retained"
+    },
+    {
+      "event": "ARA",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "72014d39-0dfb-4a4b-ab5e-5da9f5901ea0",
+      "component": "sector_sum_difference",
+      "reason": "MGP_8875 lap 2: sectors do not sum to lap duration; printed source values retained"
+    },
+    {
+      "event": "ARA",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "72014d39-0dfb-4a4b-ab5e-5da9f5901ea0",
+      "component": "sector_sum_difference",
+      "reason": "MGP_10143 lap 7: sectors do not sum to lap duration; printed source values retained"
+    },
+    {
+      "event": "ARA",
+      "class": "MotoGP",
+      "type": "SPR",
+      "number": null,
+      "session_uuid": "764d1ec2-7fe8-4b82-88fd-2aa5b5ebd4be",
+      "component": "fastest_lap_missing_rider",
+      "reason": "No published fastest lap for MGP_8141 despite completed laps; no time inferred"
+    },
+    {
+      "event": "ARA",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "4b5b2a29-a37a-488d-999b-c5e8c59a72e3",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_7236', 'page': 6, 'source_text': 'unfinished 31.263 30.953'}"
+    },
+    {
+      "event": "AUT",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "4903a34d-98cc-4418-998a-8a509b7ff20d",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10227', 'page': 7, 'source_text': 'unfinished 25.893 26.507 24.572 257.1'}"
+    },
+    {
+      "event": "AUT",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "4903a34d-98cc-4418-998a-8a509b7ff20d",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_7946', 'page': 7, 'source_text': 'unfinished 26.285 26.774 24.656 259.9'}"
+    },
+    {
+      "event": "AUT",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "8569dede-9020-4b3d-9cd4-dee150983441",
+      "component": "fastest_lap_missing_rider",
+      "reason": "No published fastest lap for MGP_8754 despite completed laps; no time inferred"
+    },
+    {
+      "event": "AUT",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "8569dede-9020-4b3d-9cd4-dee150983441",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8754', 'page': 6, 'source_text': 'unfinished 32.795 30.775 213.6'}"
+    },
+    {
+      "event": "AUT",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "8569dede-9020-4b3d-9cd4-dee150983441",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10251', 'page': 6, 'source_text': 'unfinished 34.608 30.240 126.9'}"
+    },
+    {
+      "event": "AUT",
+      "class": "MotoE",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "b246abb2-e959-4924-aed5-6411d6a5c484",
+      "component": "qualifying",
+      "reason": "No positive best lap recorded for MGP_8861"
+    },
+    {
+      "event": "AUT",
+      "class": "MotoE",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "d15426ba-5111-41a1-80cd-2b335cd9e434",
+      "component": "qualifying",
+      "reason": "No positive best lap recorded for MGP_10438"
+    },
+    {
+      "event": "AUT",
+      "class": "MotoE",
+      "type": "RAC",
+      "number": 1,
+      "session_uuid": "a779aa9d-2983-480a-8681-b89fadc6c7e1",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8716', 'page': 2, 'source_text': 'unfinished 30.239 27.867 124.7'}"
+    },
+    {
+      "event": "AUT",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "ce49b142-cd59-4c5c-84ec-35f02ef6cc42",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8539', 'page': 6, 'source_text': 'unfinished 24.790 310.3'}"
+    },
+    {
+      "event": "AUT",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "ce49b142-cd59-4c5c-84ec-35f02ef6cc42",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8146', 'page': 7, 'source_text': 'unfinished 24.659 25.307 310.3'}"
+    },
+    {
+      "event": "CZE",
+      "class": "Moto2",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "2f28bd94-0d5f-4c78-a108-f7fee2f87782",
+      "component": "qualifying",
+      "reason": "No positive best lap recorded for MGP_10257"
+    },
+    {
+      "event": "CZE",
+      "class": "Moto2",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "95e90968-3ef1-4db1-a8b6-825cecefd9e3",
+      "component": "qualifying",
+      "reason": "No positive best lap recorded for MGP_8525"
+    },
+    {
+      "event": "CZE",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "d1f3ae0a-43f7-41e9-bd82-6088f07d5b4c",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8490', 'page': 6, 'source_text': 'unfinished 35.174 25.800 264.7'}"
+    },
+    {
+      "event": "CZE",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "d1f3ae0a-43f7-41e9-bd82-6088f07d5b4c",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10504', 'page': 6, 'source_text': 'unfinished 35.100 25.638 28.002 259.6'}"
+    },
+    {
+      "event": "CZE",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "d1f3ae0a-43f7-41e9-bd82-6088f07d5b4c",
+      "component": "sector_sum_difference",
+      "reason": "MGP_10257 lap 1: sectors do not sum to lap duration; printed source values retained"
+    },
+    {
+      "event": "CZE",
+      "class": "Moto3",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "353d6fad-8cd3-44b8-a02e-1a4aa066ae39",
+      "component": "qualifying",
+      "reason": "No positive best lap recorded for MGP_8681"
+    },
+    {
+      "event": "CZE",
+      "class": "Moto3",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "353d6fad-8cd3-44b8-a02e-1a4aa066ae39",
+      "component": "qualifying",
+      "reason": "No positive best lap recorded for MGP_10284"
+    },
+    {
+      "event": "CZE",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "93ea4b45-f378-4400-b8c6-79e88a70bfd0",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10161', 'page': 4, 'source_text': 'unfinished 36.762 26.510 28.670 229.7'}"
+    },
+    {
+      "event": "CZE",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "93ea4b45-f378-4400-b8c6-79e88a70bfd0",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10269', 'page': 4, 'source_text': 'unfinished 37.301 26.833 224.0'}"
+    },
+    {
+      "event": "CZE",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "93ea4b45-f378-4400-b8c6-79e88a70bfd0",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_9960', 'page': 5, 'source_text': 'unfinished 36.790 229.7'}"
+    },
+    {
+      "event": "CZE",
+      "class": "MotoGP",
+      "type": "SPR",
+      "number": null,
+      "session_uuid": "40b6839b-26e7-4c07-8cb5-795703887566",
+      "component": "fastest_lap_missing_rider",
+      "reason": "No published fastest lap for MGP_6976 despite completed laps; no time inferred"
+    },
+    {
+      "event": "CZE",
+      "class": "MotoGP",
+      "type": "SPR",
+      "number": null,
+      "session_uuid": "40b6839b-26e7-4c07-8cb5-795703887566",
+      "component": "fastest_lap_missing_rider",
+      "reason": "No published fastest lap for MGP_9973 despite completed laps; no time inferred"
+    },
+    {
+      "event": "CZE",
+      "class": "MotoGP",
+      "type": "SPR",
+      "number": null,
+      "session_uuid": "40b6839b-26e7-4c07-8cb5-795703887566",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8539', 'page': 4, 'source_text': 'unfinished 32.862 24.435 26.750 316.7'}"
+    },
+    {
+      "event": "CZE",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "c2e4462e-ea88-465a-8a2c-ae63c83e8478",
+      "component": "fastest_lap_missing_rider",
+      "reason": "No published fastest lap for MGP_8141 despite completed laps; no time inferred"
+    },
+    {
+      "event": "CZE",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "c2e4462e-ea88-465a-8a2c-ae63c83e8478",
+      "component": "fastest_lap_missing_rider",
+      "reason": "No published fastest lap for MGP_8173 despite completed laps; no time inferred"
+    },
+    {
+      "event": "CZE",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "c2e4462e-ea88-465a-8a2c-ae63c83e8478",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8141', 'page': 5, 'source_text': 'unfinished 32.917 24.368 26.537 319.5'}"
+    },
+    {
+      "event": "CZE",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "c2e4462e-ea88-465a-8a2c-ae63c83e8478",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8173', 'page': 5, 'source_text': 'unfinished 32.952 24.396 26.455 315.7'}"
+    },
+    {
+      "event": "GER",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "aeff37b8-3d36-4fdc-b005-819e003370a7",
+      "component": "fastest_lap_missing_rider",
+      "reason": "No published fastest lap for MGP_8866 despite completed laps; no time inferred"
+    },
+    {
+      "event": "GER",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "aeff37b8-3d36-4fdc-b005-819e003370a7",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10257', 'page': 6, 'source_text': 'unfinished 18.839 255.3'}"
+    },
+    {
+      "event": "GER",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "aeff37b8-3d36-4fdc-b005-819e003370a7",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10227', 'page': 6, 'source_text': 'unfinished 18.849 255.9'}"
+    },
+    {
+      "event": "GER",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "aeff37b8-3d36-4fdc-b005-819e003370a7",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8752', 'page': 6, 'source_text': 'unfinished 18.998 24.006 19.570 252.3'}"
+    },
+    {
+      "event": "GER",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "aeff37b8-3d36-4fdc-b005-819e003370a7",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10635', 'page': 6, 'source_text': 'unfinished 19.055 24.311 19.620 251.1'}"
+    },
+    {
+      "event": "GER",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "aeff37b8-3d36-4fdc-b005-819e003370a7",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8866', 'page': 6, 'source_text': 'unfinished 19.090 251.7'}"
+    },
+    {
+      "event": "GER",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "fbca074c-c9ee-46ad-b425-32a547485489",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10220', 'page': 5, 'source_text': 'unfinished 20.163 24.365 19.842 216.0'}"
+    },
+    {
+      "event": "GER",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "fbca074c-c9ee-46ad-b425-32a547485489",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10424', 'page': 6, 'source_text': 'unfinished 20.087 24.046 20.021 216.0'}"
+    },
+    {
+      "event": "GER",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "fbca074c-c9ee-46ad-b425-32a547485489",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8649', 'page': 6, 'source_text': 'unfinished 20.353 217.7'}"
+    },
+    {
+      "event": "GER",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "fbca074c-c9ee-46ad-b425-32a547485489",
+      "component": "sector_sum_difference",
+      "reason": "MGP_10161 lap 8: sectors do not sum to lap duration; printed source values retained"
+    },
+    {
+      "event": "GER",
+      "class": "MotoGP",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "6e40a744-fbab-4201-9e7e-eb1f3dc1a2f9",
+      "component": "qualifying",
+      "reason": "No positive best lap recorded for MGP_7409"
+    },
+    {
+      "event": "GER",
+      "class": "MotoGP",
+      "type": "SPR",
+      "number": null,
+      "session_uuid": "6ee64e07-0b02-440e-8b5e-f08ecc04c775",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_7741', 'page': 4, 'source_text': 'unfinished 19.747 26.080 279.7'}"
+    },
+    {
+      "event": "GER",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "5dbf7768-83c4-4482-b3ea-74a0871f908a",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8658', 'page': 5, 'source_text': 'unfinished 18.078 301.6'}"
+    },
+    {
+      "event": "GER",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "5dbf7768-83c4-4482-b3ea-74a0871f908a",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_7199', 'page': 6, 'source_text': 'unfinished 18.163 23.525 19.190 293.4'}"
+    },
+    {
+      "event": "CAT",
+      "class": "Moto2",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "8b7403bd-260d-4625-8781-17012cc32fb0",
+      "component": "qualifying",
+      "reason": "No positive best lap recorded for MGP_7742"
+    },
+    {
+      "event": "CAT",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "5867a6c5-a927-4c1c-94d2-0c5b306d5135",
+      "component": "fastest_lap_missing_rider",
+      "reason": "No published fastest lap for MGP_10635 despite completed laps; no time inferred"
+    },
+    {
+      "event": "CAT",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "5867a6c5-a927-4c1c-94d2-0c5b306d5135",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8525', 'page': 6, 'source_text': 'unfinished 18.069 32.425 292.6'}"
+    },
+    {
+      "event": "CAT",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "5867a6c5-a927-4c1c-94d2-0c5b306d5135",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10635', 'page': 6, 'source_text': 'unfinished 18.294 32.305 22.039 289.5'}"
+    },
+    {
+      "event": "CAT",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "5867a6c5-a927-4c1c-94d2-0c5b306d5135",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8490', 'page': 6, 'source_text': 'unfinished 22.527 240.5'}"
+    },
+    {
+      "event": "CAT",
+      "class": "Moto3",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "b987cad8-74a7-4a72-a720-631a695ca99f",
+      "component": "qualifying",
+      "reason": "No positive best lap recorded for MGP_10114"
+    },
+    {
+      "event": "CAT",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "bfbf51ba-5cfa-4056-9829-a4f682085538",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10143', 'page': 5, 'source_text': 'unfinished 19.950 33.588 250.0'}"
+    },
+    {
+      "event": "CAT",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "bfbf51ba-5cfa-4056-9829-a4f682085538",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10251', 'page': 6, 'source_text': 'unfinished 19.940 33.725 244.8'}"
+    },
+    {
+      "event": "CAT",
+      "class": "MotoE",
+      "type": "RAC",
+      "number": 1,
+      "session_uuid": "6203acfc-3ee5-4a96-aca4-9bef7662576f",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10349', 'page': 2, 'source_text': 'unfinished 19.212 33.658 22.521 266.0'}"
+    },
+    {
+      "event": "CAT",
+      "class": "MotoE",
+      "type": "RAC",
+      "number": 1,
+      "session_uuid": "6203acfc-3ee5-4a96-aca4-9bef7662576f",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8716', 'page': 2, 'source_text': 'unfinished 23.036 34.195 22.596 238.9'}"
+    },
+    {
+      "event": "CAT",
+      "class": "MotoE",
+      "type": "RAC",
+      "number": 2,
+      "session_uuid": "6905032e-a47e-4574-8b4a-9fa58205e760",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_7835', 'page': 2, 'source_text': 'unfinished 19.085 270.6'}"
+    },
+    {
+      "event": "CAT",
+      "class": "MotoE",
+      "type": "RAC",
+      "number": 2,
+      "session_uuid": "6905032e-a47e-4574-8b4a-9fa58205e760",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10232', 'page': 2, 'source_text': 'unfinished 22.962 247.7'}"
+    },
+    {
+      "event": "CAT",
+      "class": "MotoE",
+      "type": "RAC",
+      "number": 2,
+      "session_uuid": "6905032e-a47e-4574-8b4a-9fa58205e760",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10268', 'page': 2, 'source_text': 'unfinished 23.128 246.0'}"
+    },
+    {
+      "event": "CAT",
+      "class": "MotoGP",
+      "type": "SPR",
+      "number": null,
+      "session_uuid": "b41b19d1-a884-4e14-b971-25559f2cb24e",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8173', 'page': 4, 'source_text': 'unfinished 16.576 31.606 20.343 343.9'}"
+    },
+    {
+      "event": "CAT",
+      "class": "MotoGP",
+      "type": "SPR",
+      "number": null,
+      "session_uuid": "b41b19d1-a884-4e14-b971-25559f2cb24e",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8688', 'page': 4, 'source_text': 'unfinished 16.754 349.5'}"
+    },
+    {
+      "event": "CAT",
+      "class": "MotoGP",
+      "type": "SPR",
+      "number": null,
+      "session_uuid": "b41b19d1-a884-4e14-b971-25559f2cb24e",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_9867', 'page': 4, 'source_text': 'unfinished 16.631 337.5'}"
+    },
+    {
+      "event": "CAT",
+      "class": "MotoGP",
+      "type": "SPR",
+      "number": null,
+      "session_uuid": "b41b19d1-a884-4e14-b971-25559f2cb24e",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8146', 'page': 4, 'source_text': 'unfinished 16.610 32.039 20.670 352.9'}"
+    },
+    {
+      "event": "CAT",
+      "class": "MotoGP",
+      "type": "SPR",
+      "number": null,
+      "session_uuid": "b41b19d1-a884-4e14-b971-25559f2cb24e",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_7741', 'page': 4, 'source_text': 'unfinished 16.702 31.904 20.563 338.5'}"
+    },
+    {
+      "event": "CAT",
+      "class": "MotoGP",
+      "type": "SPR",
+      "number": null,
+      "session_uuid": "b41b19d1-a884-4e14-b971-25559f2cb24e",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_7246', 'page': 4, 'source_text': 'unfinished 16.834 31.988 21.948 333.3'}"
+    },
+    {
+      "event": "CAT",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "06e18a54-500e-4132-a145-d368295dd4a3",
+      "component": "fastest_lap_missing_rider",
+      "reason": "No published fastest lap for MGP_8688 despite completed laps; no time inferred"
+    },
+    {
+      "event": "CAT",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "06e18a54-500e-4132-a145-d368295dd4a3",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_7246', 'page': 6, 'source_text': 'unfinished 16.918 32.347 20.943 342.8'}"
+    },
+    {
+      "event": "CAT",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "06e18a54-500e-4132-a145-d368295dd4a3",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8150', 'page': 6, 'source_text': 'unfinished 16.980 32.195 20.830 334.3'}"
+    },
+    {
+      "event": "CAT",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "06e18a54-500e-4132-a145-d368295dd4a3",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_7236', 'page': 6, 'source_text': 'unfinished 16.782 31.736 20.748 345.0'}"
+    },
+    {
+      "event": "CAT",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "06e18a54-500e-4132-a145-d368295dd4a3",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_7646', 'page': 6, 'source_text': 'unfinished 16.716 31.876 336.4'}"
+    },
+    {
+      "event": "RSM",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "281fc333-207d-4437-ba78-c21de19fc64b",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_7742', 'page': 7, 'source_text': 'unfinished 26.436'}"
+    },
+    {
+      "event": "RSM",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "281fc333-207d-4437-ba78-c21de19fc64b",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8827', 'page': 7, 'source_text': 'unfinished 26.866 22.286 242.1'}"
+    },
+    {
+      "event": "RSM",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "281fc333-207d-4437-ba78-c21de19fc64b",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8660', 'page': 7, 'source_text': 'unfinished 26.122 21.927 244.3'}"
+    },
+    {
+      "event": "RSM",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "281fc333-207d-4437-ba78-c21de19fc64b",
+      "component": "sector_sum_difference",
+      "reason": "MGP_8660 lap 1: sectors do not sum to lap duration; printed source values retained"
+    },
+    {
+      "event": "RSM",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "9ae0778d-0815-4830-af92-405348117531",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10226', 'page': 5, 'source_text': 'unfinished 27.084 23.745 211.7'}"
+    },
+    {
+      "event": "RSM",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "9ae0778d-0815-4830-af92-405348117531",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10193', 'page': 6, 'source_text': 'unfinished 27.416'}"
+    },
+    {
+      "event": "RSM",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "9ae0778d-0815-4830-af92-405348117531",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10323', 'page': 6, 'source_text': 'unfinished 27.403 24.389 28.497 209.7'}"
+    },
+    {
+      "event": "RSM",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "9ae0778d-0815-4830-af92-405348117531",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8663', 'page': 6, 'source_text': 'unfinished 27.595 24.582 203.3'}"
+    },
+    {
+      "event": "RSM",
+      "class": "MotoE",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "ef2a1b52-14ae-45bb-b239-715d3ad3c399",
+      "component": "qualifying",
+      "reason": "No positive best lap recorded for MGP_8716"
+    },
+    {
+      "event": "RSM",
+      "class": "MotoE",
+      "type": "RAC",
+      "number": 2,
+      "session_uuid": "71fcd859-cf90-465d-a9a2-568ae33b94cd",
+      "component": "fastest_lap_missing_rider",
+      "reason": "No published fastest lap for MGP_10438 despite completed laps; no time inferred"
+    },
+    {
+      "event": "RSM",
+      "class": "MotoE",
+      "type": "RAC",
+      "number": 2,
+      "session_uuid": "71fcd859-cf90-465d-a9a2-568ae33b94cd",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8456', 'page': 2, 'source_text': 'unfinished 27.566 23.445 27.439 231.2'}"
+    },
+    {
+      "event": "RSM",
+      "class": "MotoE",
+      "type": "RAC",
+      "number": 2,
+      "session_uuid": "71fcd859-cf90-465d-a9a2-568ae33b94cd",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10438', 'page': 2, 'source_text': \"unfinished 27.348 1'20.605\"}"
+    },
+    {
+      "event": "RSM",
+      "class": "MotoE",
+      "type": "RAC",
+      "number": 2,
+      "session_uuid": "71fcd859-cf90-465d-a9a2-568ae33b94cd",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_7835', 'page': 2, 'source_text': 'unfinished 33.808 23.731 234.7'}"
+    },
+    {
+      "event": "RSM",
+      "class": "MotoE",
+      "type": "RAC",
+      "number": 2,
+      "session_uuid": "71fcd859-cf90-465d-a9a2-568ae33b94cd",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10268', 'page': 2, 'source_text': 'unfinished 34.887 23.968 29.234 231.2'}"
+    },
+    {
+      "event": "RSM",
+      "class": "MotoGP",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "56c1bae8-2526-4040-9166-92ea7944ce67",
+      "component": "qualifying",
+      "reason": "No positive best lap recorded for MGP_8141"
+    },
+    {
+      "event": "RSM",
+      "class": "MotoGP",
+      "type": "SPR",
+      "number": null,
+      "session_uuid": "75f0af64-e1ac-4d1b-a6a1-de754657a670",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_7646', 'page': 4, 'source_text': 'unfinished 26.077 20.470 298.3'}"
+    },
+    {
+      "event": "RSM",
+      "class": "MotoGP",
+      "type": "SPR",
+      "number": null,
+      "session_uuid": "75f0af64-e1ac-4d1b-a6a1-de754657a670",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_7444', 'page': 4, 'source_text': 'unfinished 25.634 20.536 24.813 295.8'}"
+    },
+    {
+      "event": "RSM",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "8093f8dd-8476-4ff1-b2f6-e6f837ae4d50",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8295', 'page': 6, 'source_text': 'unfinished 25.742 20.542 25.145 298.3'}"
+    },
+    {
+      "event": "RSM",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "8093f8dd-8476-4ff1-b2f6-e6f837ae4d50",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8150', 'page': 6, 'source_text': 'unfinished 25.906 20.634'}"
+    },
+    {
+      "event": "RSM",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "8093f8dd-8476-4ff1-b2f6-e6f837ae4d50",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8273', 'page': 6, 'source_text': 'unfinished 25.884 20.846'}"
+    },
+    {
+      "event": "RSM",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "8093f8dd-8476-4ff1-b2f6-e6f837ae4d50",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8658', 'page': 6, 'source_text': 'unfinished 25.680'}"
+    },
+    {
+      "event": "RSM",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "8093f8dd-8476-4ff1-b2f6-e6f837ae4d50",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_7409', 'page': 6, 'source_text': 'unfinished 26.623'}"
+    },
+    {
+      "event": "RSM",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "8093f8dd-8476-4ff1-b2f6-e6f837ae4d50",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8680', 'page': 6, 'source_text': 'unfinished 25.998 20.599 301.6'}"
+    },
+    {
+      "event": "VAL",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "2a5c9089-9b79-4a24-a9f4-f8d93049ce73",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8456', 'page': 6, 'source_text': 'unfinished 21.454 272.8'}"
+    },
+    {
+      "event": "VAL",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "2a5c9089-9b79-4a24-a9f4-f8d93049ce73",
+      "component": "sector_sum_difference",
+      "reason": "MGP_8250 lap 19: sectors do not sum to lap duration; printed source values retained"
+    },
+    {
+      "event": "VAL",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "9f690383-94f2-4bde-89ab-57b1048a960d",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10473', 'page': 6, 'source_text': 'unfinished 23.152 26.277 225.4'}"
+    },
+    {
+      "event": "VAL",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "9f690383-94f2-4bde-89ab-57b1048a960d",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10114', 'page': 6, 'source_text': 'unfinished 30.580 27.082 186.8'}"
+    },
+    {
+      "event": "VAL",
+      "class": "MotoGP",
+      "type": "SPR",
+      "number": null,
+      "session_uuid": "0c50137e-7adf-4624-a66e-95be29140e03",
+      "component": "fastest_lap_missing_rider",
+      "reason": "No published fastest lap for MGP_8141 despite completed laps; no time inferred"
+    },
+    {
+      "event": "VAL",
+      "class": "MotoGP",
+      "type": "SPR",
+      "number": null,
+      "session_uuid": "0c50137e-7adf-4624-a66e-95be29140e03",
+      "component": "fastest_lap_missing_rider",
+      "reason": "No published fastest lap for MGP_8431 despite completed laps; no time inferred"
+    },
+    {
+      "event": "VAL",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "4b23dc6a-e083-4771-9f39-b8d3c1042e28",
+      "component": "fastest_lap_missing_rider",
+      "reason": "No published fastest lap for MGP_7741 despite completed laps; no time inferred"
+    },
+    {
+      "event": "VAL",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "4b23dc6a-e083-4771-9f39-b8d3c1042e28",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8520', 'page': 6, 'source_text': 'unfinished 20.500 328.9'}"
+    },
+    {
+      "event": "VAL",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "4b23dc6a-e083-4771-9f39-b8d3c1042e28",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8273', 'page': 7, 'source_text': 'unfinished 26.223 252.7'}"
+    },
+    {
+      "event": "HUN",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "0efd2c26-1925-49dd-b4cc-0a27d973a3a3",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8490', 'page': 6, 'source_text': 'unfinished 30.612 23.973 28.618 254.1'}"
+    },
+    {
+      "event": "HUN",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "0efd2c26-1925-49dd-b4cc-0a27d973a3a3",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8866', 'page': 6, 'source_text': 'unfinished 30.736 251.1'}"
+    },
+    {
+      "event": "HUN",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "0efd2c26-1925-49dd-b4cc-0a27d973a3a3",
+      "component": "sector_sum_difference",
+      "reason": "MGP_10132 lap 2: sectors do not sum to lap duration; printed source values retained"
+    },
+    {
+      "event": "HUN",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "0efd2c26-1925-49dd-b4cc-0a27d973a3a3",
+      "component": "sector_sum_difference",
+      "reason": "MGP_8296 lap 2: sectors do not sum to lap duration; printed source values retained"
+    },
+    {
+      "event": "HUN",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "887511ba-c7bd-42d3-a919-cffc62264e65",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10114', 'page': 5, 'source_text': 'unfinished 32.531 25.207 212.1'}"
+    },
+    {
+      "event": "HUN",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "887511ba-c7bd-42d3-a919-cffc62264e65",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10441', 'page': 6, 'source_text': 'unfinished 32.053 25.212 213.8'}"
+    },
+    {
+      "event": "HUN",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "887511ba-c7bd-42d3-a919-cffc62264e65",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10251', 'page': 6, 'source_text': 'unfinished 32.424 212.1'}"
+    },
+    {
+      "event": "HUN",
+      "class": "MotoE",
+      "type": "RAC",
+      "number": 1,
+      "session_uuid": "4059facd-c67e-4c17-a4e4-bccf928fd65b",
+      "component": "fastest_lap_missing_rider",
+      "reason": "No published fastest lap for MGP_10260 despite completed laps; no time inferred"
+    },
+    {
+      "event": "HUN",
+      "class": "MotoGP",
+      "type": "SPR",
+      "number": null,
+      "session_uuid": "87e77cac-6350-4026-9870-dcca529eba7f",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8295', 'page': 4, 'source_text': 'unfinished 34.193 24.007 140.2'}"
+    },
+    {
+      "event": "HUN",
+      "class": "MotoGP",
+      "type": "SPR",
+      "number": null,
+      "session_uuid": "87e77cac-6350-4026-9870-dcca529eba7f",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_7236', 'page': 4, 'source_text': 'unfinished 33.636 24.362 174.7'}"
+    },
+    {
+      "event": "HUN",
+      "class": "MotoGP",
+      "type": "SPR",
+      "number": null,
+      "session_uuid": "87e77cac-6350-4026-9870-dcca529eba7f",
+      "component": "sector_sum_difference",
+      "reason": "MGP_7646 lap 4: sectors do not sum to lap duration; printed source values retained"
+    },
+    {
+      "event": "HUN",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "8e16d03a-1da9-4839-befd-1cb92ec1f2be",
+      "component": "fastest_lap_missing_rider",
+      "reason": "No published fastest lap for MGP_8295 despite completed laps; no time inferred"
+    },
+    {
+      "event": "HUN",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "8e16d03a-1da9-4839-befd-1cb92ec1f2be",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_7236', 'page': 6, 'source_text': 'unfinished 29.350 298.3'}"
+    },
+    {
+      "event": "HUN",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "8e16d03a-1da9-4839-befd-1cb92ec1f2be",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8295', 'page': 6, 'source_text': 'unfinished 31.969 23.563 139.1'}"
+    },
+    {
+      "event": "HUN",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "8e16d03a-1da9-4839-befd-1cb92ec1f2be",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8295', 'page': 6, 'source_text': '1 unfinished P 33.819 35.555'}"
+    },
+    {
+      "event": "HUN",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "8e16d03a-1da9-4839-befd-1cb92ec1f2be",
+      "component": "lap_count_difference",
+      "reason": "MGP_8295: classification laps=1, numbered timed laps=0; retain source values without filling missing duration"
+    },
+    {
+      "event": "HUN",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "8e16d03a-1da9-4839-befd-1cb92ec1f2be",
+      "component": "sector_sum_difference",
+      "reason": "MGP_8269 lap 5: sectors do not sum to lap duration; printed source values retained"
+    },
+    {
+      "event": "HUN",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "8e16d03a-1da9-4839-befd-1cb92ec1f2be",
+      "component": "sector_sum_difference",
+      "reason": "MGP_8269 lap 6: sectors do not sum to lap duration; printed source values retained"
+    },
+    {
+      "event": "AME",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "608720cf-35bb-4b71-bb78-ae7ade563fdd",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8829', 'page': 5, 'source_text': 'unfinished 39.950'}"
+    },
+    {
+      "event": "AME",
+      "class": "Moto3",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "5b44948e-98cf-4131-bdc0-4b36bb4fb02c",
+      "component": "qualifying",
+      "reason": "No positive best lap recorded for MGP_10424"
+    },
+    {
+      "event": "AME",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "967845af-b384-4874-83e5-e4718fd2248a",
+      "component": "fastest_lap_missing_rider",
+      "reason": "No published fastest lap for MGP_9960 despite completed laps; no time inferred"
+    },
+    {
+      "event": "AME",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "967845af-b384-4874-83e5-e4718fd2248a",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10509', 'page': 4, 'source_text': 'unfinished 38.791'}"
+    },
+    {
+      "event": "AME",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "967845af-b384-4874-83e5-e4718fd2248a",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8875', 'page': 4, 'source_text': 'unfinished 37.928 33.191 34.146 235.4'}"
+    },
+    {
+      "event": "AME",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "967845af-b384-4874-83e5-e4718fd2248a",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10226', 'page': 4, 'source_text': 'unfinished 37.778 32.838 34.078 234.9'}"
+    },
+    {
+      "event": "AME",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "967845af-b384-4874-83e5-e4718fd2248a",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_9960', 'page': 4, 'source_text': 'unfinished 38.016 33.363 34.683 234.9'}"
+    },
+    {
+      "event": "AME",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "967845af-b384-4874-83e5-e4718fd2248a",
+      "component": "sector_sum_difference",
+      "reason": "MGP_9869 lap 5: sectors do not sum to lap duration; printed source values retained"
+    },
+    {
+      "event": "AME",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "a4430ad3-d6c1-49a6-aea3-f269e641ed7b",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_9867', 'page': 5, 'source_text': 'unfinished 34.618 29.693 332.7'}"
+    },
+    {
+      "event": "AME",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "a4430ad3-d6c1-49a6-aea3-f269e641ed7b",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_7646', 'page': 5, 'source_text': 'unfinished 34.655 29.831 30.260 336.9'}"
+    },
+    {
+      "event": "ITA",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "1360ddbe-d66d-424e-9bbf-b09e732ade54",
+      "component": "fastest_lap_missing_rider",
+      "reason": "No published fastest lap for MGP_10390 despite completed laps; no time inferred"
+    },
+    {
+      "event": "ITA",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "1360ddbe-d66d-424e-9bbf-b09e732ade54",
+      "component": "fastest_lap_missing_rider",
+      "reason": "No published fastest lap for MGP_8754 despite completed laps; no time inferred"
+    },
+    {
+      "event": "ITA",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "1360ddbe-d66d-424e-9bbf-b09e732ade54",
+      "component": "fastest_lap_missing_rider",
+      "reason": "No published fastest lap for MGP_9960 despite completed laps; no time inferred"
+    },
+    {
+      "event": "ITA",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "1360ddbe-d66d-424e-9bbf-b09e732ade54",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_9960', 'page': 5, 'source_text': 'unfinished 28.427 241.0'}"
+    },
+    {
+      "event": "ITA",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "1360ddbe-d66d-424e-9bbf-b09e732ade54",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10390', 'page': 5, 'source_text': 'unfinished 27.954 246.0'}"
+    },
+    {
+      "event": "ITA",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "1360ddbe-d66d-424e-9bbf-b09e732ade54",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8754', 'page': 5, 'source_text': 'unfinished 28.234 245.4'}"
+    },
+    {
+      "event": "ITA",
+      "class": "MotoGP",
+      "type": "SPR",
+      "number": null,
+      "session_uuid": "261fce04-4ca4-41dc-8128-12126e017c2b",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8658', 'page': 4, 'source_text': 'unfinished 30.581 22.851 34.614 275.5'}"
+    },
+    {
+      "event": "ITA",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "9a8b8969-a941-40f9-b22d-f1955e69bb75",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_7409', 'page': 6, 'source_text': 'unfinished 25.434 354.0'}"
+    },
+    {
+      "event": "ITA",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "9a8b8969-a941-40f9-b22d-f1955e69bb75",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_7236', 'page': 6, 'source_text': 'unfinished 25.137 22.755 35.335 352.9'}"
+    },
+    {
+      "event": "ITA",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "9a8b8969-a941-40f9-b22d-f1955e69bb75",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8295', 'page': 6, 'source_text': 'unfinished 31.528 23.140 35.574 279.7'}"
+    },
+    {
+      "event": "INA",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "2dbfdcd9-3bc2-41c9-b526-be0e1d18a6b1",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8671', 'page': 6, 'source_text': 'unfinished 26.639 18.988 19.118 254.7'}"
+    },
+    {
+      "event": "INA",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "2dbfdcd9-3bc2-41c9-b526-be0e1d18a6b1",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10227', 'page': 6, 'source_text': 'unfinished 26.644 19.119 19.255 256.5'}"
+    },
+    {
+      "event": "INA",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "2dbfdcd9-3bc2-41c9-b526-be0e1d18a6b1",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_7744', 'page': 6, 'source_text': 'unfinished 31.321 19.223 19.852 211.3'}"
+    },
+    {
+      "event": "INA",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "2dbfdcd9-3bc2-41c9-b526-be0e1d18a6b1",
+      "component": "sector_sum_difference",
+      "reason": "MGP_10132 lap 13: sectors do not sum to lap duration; printed source values retained"
+    },
+    {
+      "event": "INA",
+      "class": "Moto3",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "77c80756-af9f-4a93-add5-279c74add87d",
+      "component": "qualifying",
+      "reason": "No positive best lap recorded for MGP_10509"
+    },
+    {
+      "event": "INA",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "0113a29d-f191-49e6-9d53-0cab46f10f9d",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_9869', 'page': 5, 'source_text': 'unfinished 28.301 19.841 218.6'}"
+    },
+    {
+      "event": "INA",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "0113a29d-f191-49e6-9d53-0cab46f10f9d",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10445', 'page': 5, 'source_text': 'unfinished 28.427 19.730 19.754 223.6'}"
+    },
+    {
+      "event": "INA",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "0113a29d-f191-49e6-9d53-0cab46f10f9d",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10114', 'page': 5, 'source_text': 'unfinished 28.445 27.111 219.5'}"
+    },
+    {
+      "event": "INA",
+      "class": "MotoGP",
+      "type": "SPR",
+      "number": null,
+      "session_uuid": "f5c7c432-e4e0-45f8-b423-67443ec6e8f8",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_7236', 'page': 3, 'source_text': 'unfinished 25.633 18.654 18.872 311.2'}"
+    },
+    {
+      "event": "INA",
+      "class": "MotoGP",
+      "type": "SPR",
+      "number": null,
+      "session_uuid": "f5c7c432-e4e0-45f8-b423-67443ec6e8f8",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8295', 'page': 4, 'source_text': 'unfinished 25.543 18.693 18.872 306.8'}"
+    },
+    {
+      "event": "INA",
+      "class": "MotoGP",
+      "type": "SPR",
+      "number": null,
+      "session_uuid": "f5c7c432-e4e0-45f8-b423-67443ec6e8f8",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8476', 'page': 4, 'source_text': 'unfinished 31.408 19.666 19.878 274.8'}"
+    },
+    {
+      "event": "INA",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "a4174865-29cc-4b92-8da6-8996011846f1",
+      "component": "fastest_lap_missing_rider",
+      "reason": "No published fastest lap for MGP_8141 despite completed laps; no time inferred"
+    },
+    {
+      "event": "INA",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "a4174865-29cc-4b92-8da6-8996011846f1",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8273', 'page': 5, 'source_text': 'unfinished 25.548 18.776 19.207 313.9'}"
+    },
+    {
+      "event": "INA",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "a4174865-29cc-4b92-8da6-8996011846f1",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8688', 'page': 5, 'source_text': 'unfinished 29.390 261.5'}"
+    },
+    {
+      "event": "INA",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "a4174865-29cc-4b92-8da6-8996011846f1",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_7444', 'page': 5, 'source_text': 'unfinished 29.327 269.3'}"
+    },
+    {
+      "event": "SPA",
+      "class": "Moto2",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "0e1e36ba-9594-486d-bcef-1887dc680214",
+      "component": "qualifying",
+      "reason": "No positive best lap recorded for MGP_8490"
+    },
+    {
+      "event": "SPA",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "b42bbad9-5e00-45e9-b8ac-31b0d6d7cbea",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10033', 'page': 6, 'source_text': 'unfinished 25.012 15.133 30.038 249.4'}"
+    },
+    {
+      "event": "SPA",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "b42bbad9-5e00-45e9-b8ac-31b0d6d7cbea",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10227', 'page': 6, 'source_text': 'unfinished 24.988 15.090 29.984 249.4'}"
+    },
+    {
+      "event": "SPA",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "b42bbad9-5e00-45e9-b8ac-31b0d6d7cbea",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8671', 'page': 6, 'source_text': 'unfinished 31.963 14.969 30.524 250.0'}"
+    },
+    {
+      "event": "SPA",
+      "class": "Moto3",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "403fdc9b-79db-4f11-adb8-6a7f18a4ab2f",
+      "component": "qualifying",
+      "reason": "No positive best lap recorded for MGP_10161"
+    },
+    {
+      "event": "SPA",
+      "class": "Moto3",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "403fdc9b-79db-4f11-adb8-6a7f18a4ab2f",
+      "component": "qualifying",
+      "reason": "No positive best lap recorded for MGP_10193"
+    },
+    {
+      "event": "SPA",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "832d6416-6498-4849-87db-494f443ebbac",
+      "component": "fastest_lap_missing_rider",
+      "reason": "No published fastest lap for MGP_10041 despite completed laps; no time inferred"
+    },
+    {
+      "event": "SPA",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "832d6416-6498-4849-87db-494f443ebbac",
+      "component": "fastest_lap_missing_rider",
+      "reason": "No published fastest lap for MGP_9960 despite completed laps; no time inferred"
+    },
+    {
+      "event": "SPA",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "832d6416-6498-4849-87db-494f443ebbac",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10193', 'page': 5, 'source_text': 'unfinished 26.135 16.280 31.266 208.8'}"
+    },
+    {
+      "event": "SPA",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "832d6416-6498-4849-87db-494f443ebbac",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10041', 'page': 5, 'source_text': 'unfinished 26.069 15.908 218.6'}"
+    },
+    {
+      "event": "SPA",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "832d6416-6498-4849-87db-494f443ebbac",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10390', 'page': 5, 'source_text': 'unfinished 35.466 16.266 217.3'}"
+    },
+    {
+      "event": "SPA",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "832d6416-6498-4849-87db-494f443ebbac",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10424', 'page': 5, 'source_text': 'unfinished 35.456 16.088 217.3'}"
+    },
+    {
+      "event": "SPA",
+      "class": "MotoGP",
+      "type": "SPR",
+      "number": null,
+      "session_uuid": "6e72c98a-cee7-4935-ba7b-236d0c6f6b04",
+      "component": "fastest_lap_missing_rider",
+      "reason": "No published fastest lap for MGP_8520 despite completed laps; no time inferred"
+    },
+    {
+      "event": "SPA",
+      "class": "MotoGP",
+      "type": "SPR",
+      "number": null,
+      "session_uuid": "6e72c98a-cee7-4935-ba7b-236d0c6f6b04",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8049', 'page': 4, 'source_text': 'unfinished 24.612 14.248 294.2'}"
+    },
+    {
+      "event": "SPA",
+      "class": "MotoGP",
+      "type": "SPR",
+      "number": null,
+      "session_uuid": "6e72c98a-cee7-4935-ba7b-236d0c6f6b04",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8520', 'page': 4, 'source_text': 'unfinished 24.193 14.136 291.1'}"
+    },
+    {
+      "event": "SPA",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "99bc8d22-7f10-4790-ad76-887781411583",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_7741', 'page': 6, 'source_text': 'unfinished 24.677 14.230 29.232 294.2'}"
+    },
+    {
+      "event": "SPA",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "99bc8d22-7f10-4790-ad76-887781411583",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8141', 'page': 6, 'source_text': 'unfinished 25.027 14.325 292.6'}"
+    },
+    {
+      "event": "JPN",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "8475c0db-8aef-49db-9ce1-8a531c2f841d",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8296', 'page': 5, 'source_text': 'unfinished 28.340 21.371'}"
+    },
+    {
+      "event": "JPN",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "8475c0db-8aef-49db-9ce1-8a531c2f841d",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_7946', 'page': 5, 'source_text': 'unfinished 28.256 21.222 30.023 254.7'}"
+    },
+    {
+      "event": "JPN",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "8475c0db-8aef-49db-9ce1-8a531c2f841d",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10160', 'page': 5, 'source_text': 'unfinished 35.896'}"
+    },
+    {
+      "event": "JPN",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "ba3d7ebe-94e1-4ed1-902e-7924fe91861a",
+      "component": "fastest_lap_missing_rider",
+      "reason": "No published fastest lap for MGP_10157 despite completed laps; no time inferred"
+    },
+    {
+      "event": "JPN",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "ba3d7ebe-94e1-4ed1-902e-7924fe91861a",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10424', 'page': 5, 'source_text': 'unfinished 29.893 22.635'}"
+    },
+    {
+      "event": "JPN",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "ba3d7ebe-94e1-4ed1-902e-7924fe91861a",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10220', 'page': 5, 'source_text': 'unfinished 54.931'}"
+    },
+    {
+      "event": "JPN",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "ba3d7ebe-94e1-4ed1-902e-7924fe91861a",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10157', 'page': 5, 'source_text': 'unfinished 30.100 22.983'}"
+    },
+    {
+      "event": "JPN",
+      "class": "MotoGP",
+      "type": "SPR",
+      "number": null,
+      "session_uuid": "dd437878-d58e-49f5-9ed6-01c90c5f3daf",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8049', 'page': 4, 'source_text': 'unfinished 27.344 20.617'}"
+    },
+    {
+      "event": "JPN",
+      "class": "MotoGP",
+      "type": "SPR",
+      "number": null,
+      "session_uuid": "dd437878-d58e-49f5-9ed6-01c90c5f3daf",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8295', 'page': 4, 'source_text': 'unfinished 27.189 20.389 29.257 111.2'}"
+    },
+    {
+      "event": "JPN",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "2892395d-2e61-486a-a689-fa90c832c2e9",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_6976', 'page': 6, 'source_text': 'unfinished 27.469 20.630'}"
+    },
+    {
+      "event": "AUS",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "56ca675c-0354-461d-823e-926eed0d54be",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10143', 'page': 6, 'source_text': 'unfinished 22.656 255.5'}"
+    },
+    {
+      "event": "AUS",
+      "class": "MotoGP",
+      "type": "SPR",
+      "number": null,
+      "session_uuid": "48f6c85f-c74d-4b8b-a2a6-6aaba1feb126",
+      "component": "fastest_lap_missing_rider",
+      "reason": "No published fastest lap for MGP_7646 despite completed laps; no time inferred"
+    },
+    {
+      "event": "AUS",
+      "class": "MotoGP",
+      "type": "SPR",
+      "number": null,
+      "session_uuid": "48f6c85f-c74d-4b8b-a2a6-6aaba1feb126",
+      "component": "api_record_conflict",
+      "reason": "FastLapRider PDF conflicts with API fastestLap record. Every PDF best lap verified against Analysis.pdf; PDF used for race fastest-lap reporting. API record retained separately."
+    },
+    {
+      "event": "AUS",
+      "class": "MotoGP",
+      "type": "SPR",
+      "number": null,
+      "session_uuid": "48f6c85f-c74d-4b8b-a2a6-6aaba1feb126",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_9867', 'page': 4, 'source_text': 'unfinished 20.797 350.6'}"
+    },
+    {
+      "event": "AUS",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "7abe1629-9684-45b6-b74a-beeb0edc7f7b",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8273', 'page': 6, 'source_text': 'unfinished 21.049 345.0'}"
+    },
+    {
+      "event": "AUS",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "7abe1629-9684-45b6-b74a-beeb0edc7f7b",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8141', 'page': 6, 'source_text': 'unfinished 21.011 25.698 17.124 354.1'}"
+    },
+    {
+      "event": "AUS",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "7abe1629-9684-45b6-b74a-beeb0edc7f7b",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8049', 'page': 7, 'source_text': 'unfinished 21.250 332.3'}"
+    },
+    {
+      "event": "POR",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "60b4158e-408f-4dc9-bf17-100b1140ec7e",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10635', 'page': 6, 'source_text': 'unfinished 21.953 32.927 15.673 279.7'}"
+    },
+    {
+      "event": "POR",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "60b4158e-408f-4dc9-bf17-100b1140ec7e",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8490', 'page': 6, 'source_text': 'unfinished 21.875 289.5'}"
+    },
+    {
+      "event": "POR",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "4ac8e2dd-06c6-4843-9815-fd4fc14cf70d",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10441', 'page': 5, 'source_text': 'unfinished 23.430 34.248 16.093 240.5'}"
+    },
+    {
+      "event": "POR",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "4ac8e2dd-06c6-4843-9815-fd4fc14cf70d",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10537', 'page': 5, 'source_text': 'unfinished 24.071 231.2'}"
+    },
+    {
+      "event": "POR",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "4ac8e2dd-06c6-4843-9815-fd4fc14cf70d",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10154', 'page': 5, 'source_text': 'unfinished 23.646 34.499 17.412 236.3'}"
+    },
+    {
+      "event": "POR",
+      "class": "MotoE",
+      "type": "RAC",
+      "number": 1,
+      "session_uuid": "c1892c1c-1bde-4398-a7a2-806d6c288b63",
+      "component": "fastest_lap_missing_rider",
+      "reason": "No published fastest lap for MGP_10268 despite completed laps; no time inferred"
+    },
+    {
+      "event": "POR",
+      "class": "MotoE",
+      "type": "RAC",
+      "number": 1,
+      "session_uuid": "c1892c1c-1bde-4398-a7a2-806d6c288b63",
+      "component": "fastest_lap_missing_rider",
+      "reason": "No published fastest lap for MGP_8448 despite completed laps; no time inferred"
+    },
+    {
+      "event": "POR",
+      "class": "MotoE",
+      "type": "RAC",
+      "number": 1,
+      "session_uuid": "c1892c1c-1bde-4398-a7a2-806d6c288b63",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10268', 'page': 2, 'source_text': 'unfinished 23.794 34.455 16.350 262.7'}"
+    },
+    {
+      "event": "POR",
+      "class": "MotoE",
+      "type": "RAC",
+      "number": 2,
+      "session_uuid": "57440bf5-e084-49db-af1b-17cc6e1aae23",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10260', 'page': 2, 'source_text': 'unfinished 22.936 33.947 260.2'}"
+    },
+    {
+      "event": "POR",
+      "class": "MotoGP",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "c0c285c0-79ea-407d-b49b-47acaa89208f",
+      "component": "qualifying",
+      "reason": "No positive best lap recorded for MGP_8269"
+    },
+    {
+      "event": "POR",
+      "class": "MotoGP",
+      "type": "SPR",
+      "number": null,
+      "session_uuid": "e47938b6-4425-4944-8b91-a7e213f15e06",
+      "component": "fastest_lap_missing_rider",
+      "reason": "No published fastest lap for MGP_8476 despite completed laps; no time inferred"
+    },
+    {
+      "event": "POR",
+      "class": "MotoGP",
+      "type": "SPR",
+      "number": null,
+      "session_uuid": "e47938b6-4425-4944-8b91-a7e213f15e06",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8756', 'page': 4, 'source_text': 'unfinished 20.773 31.619 15.254 339.6'}"
+    },
+    {
+      "event": "POR",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "f81b68cc-ed2d-4d0d-9aad-9f1d5cbd69d0",
+      "component": "fastest_lap_missing_rider",
+      "reason": "No published fastest lap for MGP_8141 despite completed laps; no time inferred"
+    },
+    {
+      "event": "POR",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "f81b68cc-ed2d-4d0d-9aad-9f1d5cbd69d0",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8273', 'page': 6, 'source_text': 'unfinished 20.498 31.634 342.8'}"
+    },
+    {
+      "event": "POR",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "f81b68cc-ed2d-4d0d-9aad-9f1d5cbd69d0",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_7741', 'page': 6, 'source_text': 'unfinished 23.766'}"
+    },
+    {
+      "event": "POR",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "f81b68cc-ed2d-4d0d-9aad-9f1d5cbd69d0",
+      "component": "sector_sum_difference",
+      "reason": "MGP_8295 lap 3: sectors do not sum to lap duration; printed source values retained"
+    },
+    {
+      "event": "THA",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "4a916b78-c790-4590-bf14-7d4e350e2a20",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_7742', 'page': 7, 'source_text': 'unfinished 23.771 28.674 272.7'}"
+    },
+    {
+      "event": "THA",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "e944476f-eb07-47c0-9955-5b7ba8217a96",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10114', 'page': 4, 'source_text': 'unfinished 23.557 30.332 24.718 228.8'}"
+    },
+    {
+      "event": "THA",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "e944476f-eb07-47c0-9955-5b7ba8217a96",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10256', 'page': 4, 'source_text': 'unfinished 23.350 30.454 230.2'}"
+    },
+    {
+      "event": "THA",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "e944476f-eb07-47c0-9955-5b7ba8217a96",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10284', 'page': 4, 'source_text': 'unfinished 23.017 30.382 23.895 237.8'}"
+    },
+    {
+      "event": "THA",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "e944476f-eb07-47c0-9955-5b7ba8217a96",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_9869', 'page': 4, 'source_text': 'unfinished 22.899 237.3'}"
+    },
+    {
+      "event": "THA",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "e944476f-eb07-47c0-9955-5b7ba8217a96",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10161', 'page': 5, 'source_text': 'unfinished 23.067 30.229 23.763 233.7'}"
+    },
+    {
+      "event": "THA",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "e944476f-eb07-47c0-9955-5b7ba8217a96",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8681', 'page': 5, 'source_text': 'unfinished 22.896 30.133 235.8'}"
+    },
+    {
+      "event": "THA",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "e944476f-eb07-47c0-9955-5b7ba8217a96",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10220', 'page': 5, 'source_text': 'unfinished 23.075 234.7'}"
+    },
+    {
+      "event": "THA",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "e944476f-eb07-47c0-9955-5b7ba8217a96",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10509', 'page': 5, 'source_text': 'unfinished 23.104 234.2'}"
+    },
+    {
+      "event": "THA",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "e944476f-eb07-47c0-9955-5b7ba8217a96",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10045', 'page': 5, 'source_text': 'unfinished 23.016 236.8'}"
+    },
+    {
+      "event": "THA",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "e944476f-eb07-47c0-9955-5b7ba8217a96",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10193', 'page': 5, 'source_text': 'unfinished 25.746 30.645 24.112 220.8'}"
+    },
+    {
+      "event": "THA",
+      "class": "MotoGP",
+      "type": "SPR",
+      "number": null,
+      "session_uuid": "c3527211-a966-40df-ba52-9413fdb1d1cc",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8049', 'page': 4, 'source_text': 'unfinished 18.432 25.846 336.4'}"
+    },
+    {
+      "event": "THA",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "8a982e72-625e-440f-aad8-5bd8801944ad",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8141', 'page': 7, 'source_text': 'unfinished 18.771 26.196 23.131 327.2'}"
+    },
+    {
+      "event": "FRA",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "a335f952-99b5-44a0-bfb5-39b7847a5305",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_7742', 'page': 6, 'source_text': 'unfinished 22.379 22.034 264.5'}"
+    },
+    {
+      "event": "FRA",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "a335f952-99b5-44a0-bfb5-39b7847a5305",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8752', 'page': 6, 'source_text': 'unfinished 22.131 21.624 27.029 266.6'}"
+    },
+    {
+      "event": "FRA",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "a335f952-99b5-44a0-bfb5-39b7847a5305",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10228', 'page': 6, 'source_text': 'unfinished 27.187 22.140 214.9'}"
+    },
+    {
+      "event": "FRA",
+      "class": "Moto3",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "c8f44205-7f82-49f3-b3d5-59d1df5cb3dc",
+      "component": "qualifying",
+      "reason": "No positive best lap recorded for MGP_10193"
+    },
+    {
+      "event": "FRA",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "9d9b64fd-a53d-4eb4-aa8a-a9c607aac09a",
+      "component": "fastest_lap_missing_rider",
+      "reason": "No published fastest lap for MGP_8681 despite completed laps; no time inferred"
+    },
+    {
+      "event": "FRA",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "9d9b64fd-a53d-4eb4-aa8a-a9c607aac09a",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_9864', 'page': 5, 'source_text': 'unfinished 23.927 22.321 29.981 226.6'}"
+    },
+    {
+      "event": "FRA",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "9d9b64fd-a53d-4eb4-aa8a-a9c607aac09a",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10337', 'page': 5, 'source_text': 'unfinished 24.529 219.1'}"
+    },
+    {
+      "event": "FRA",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "9d9b64fd-a53d-4eb4-aa8a-a9c607aac09a",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10193', 'page': 6, 'source_text': 'unfinished 24.618 22.721 222.5'}"
+    },
+    {
+      "event": "FRA",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "9d9b64fd-a53d-4eb4-aa8a-a9c607aac09a",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8681', 'page': 6, 'source_text': 'unfinished 25.098 225.1'}"
+    },
+    {
+      "event": "FRA",
+      "class": "MotoE",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "90d34669-da71-4014-a173-c8c783e08fa0",
+      "component": "qualifying",
+      "reason": "No positive best lap recorded for MGP_8716"
+    },
+    {
+      "event": "FRA",
+      "class": "MotoE",
+      "type": "RAC",
+      "number": 1,
+      "session_uuid": "c145e164-397c-4429-8a2d-2f4f20653572",
+      "component": "fastest_lap_missing_rider",
+      "reason": "No published fastest lap for MGP_8272 despite completed laps; no time inferred"
+    },
+    {
+      "event": "FRA",
+      "class": "MotoE",
+      "type": "RAC",
+      "number": 1,
+      "session_uuid": "c145e164-397c-4429-8a2d-2f4f20653572",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8272', 'page': 2, 'source_text': 'unfinished 23.448 22.767 28.463 248.0'}"
+    },
+    {
+      "event": "FRA",
+      "class": "MotoE",
+      "type": "RAC",
+      "number": 2,
+      "session_uuid": "6fef0843-cb73-44c9-82f3-7b72d85a8fc6",
+      "component": "fastest_lap_missing_rider",
+      "reason": "No published fastest lap for MGP_10214 despite completed laps; no time inferred"
+    },
+    {
+      "event": "FRA",
+      "class": "MotoE",
+      "type": "RAC",
+      "number": 2,
+      "session_uuid": "6fef0843-cb73-44c9-82f3-7b72d85a8fc6",
+      "component": "fastest_lap_missing_rider",
+      "reason": "No published fastest lap for MGP_8448 despite completed laps; no time inferred"
+    },
+    {
+      "event": "FRA",
+      "class": "MotoE",
+      "type": "RAC",
+      "number": 2,
+      "session_uuid": "6fef0843-cb73-44c9-82f3-7b72d85a8fc6",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8272', 'page': 2, 'source_text': 'unfinished 23.467 246.2'}"
+    },
+    {
+      "event": "FRA",
+      "class": "MotoGP",
+      "type": "SPR",
+      "number": null,
+      "session_uuid": "7f7e2c0b-c5c4-4fe5-a76d-2a0197769004",
+      "component": "fastest_lap_missing_rider",
+      "reason": "No published fastest lap for MGP_8273 despite completed laps; no time inferred"
+    },
+    {
+      "event": "FRA",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "39581f5a-e003-42ee-9811-6b03b3f3ce8d",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8173', 'page': 6, 'source_text': 'unfinished 24.698 24.733 29.513 298.5'}"
+    },
+    {
+      "event": "FRA",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "39581f5a-e003-42ee-9811-6b03b3f3ce8d",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_7199', 'page': 6, 'source_text': 'unfinished 25.255 24.610 29.984 280.9'}"
+    },
+    {
+      "event": "FRA",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "39581f5a-e003-42ee-9811-6b03b3f3ce8d",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8049', 'page': 6, 'source_text': 'unfinished 22.996 23.275 28.085 303.1'}"
+    },
+    {
+      "event": "FRA",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "39581f5a-e003-42ee-9811-6b03b3f3ce8d",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8520', 'page': 6, 'source_text': 'unfinished 21.615 21.539 26.264 311.6'}"
+    },
+    {
+      "event": "FRA",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "39581f5a-e003-42ee-9811-6b03b3f3ce8d",
+      "component": "sector_sum_difference",
+      "reason": "MGP_7444 lap 7: sectors do not sum to lap duration; printed source values retained"
+    },
+    {
+      "event": "FRA",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "39581f5a-e003-42ee-9811-6b03b3f3ce8d",
+      "component": "sector_sum_difference",
+      "reason": "MGP_9867 lap 8: sectors do not sum to lap duration; printed source values retained"
+    },
+    {
+      "event": "FRA",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "39581f5a-e003-42ee-9811-6b03b3f3ce8d",
+      "component": "sector_sum_difference",
+      "reason": "MGP_8658 lap 6: sectors do not sum to lap duration; printed source values retained"
+    },
+    {
+      "event": "FRA",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "39581f5a-e003-42ee-9811-6b03b3f3ce8d",
+      "component": "sector_sum_difference",
+      "reason": "MGP_7409 lap 6: sectors do not sum to lap duration; printed source values retained"
+    },
+    {
+      "event": "FRA",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "39581f5a-e003-42ee-9811-6b03b3f3ce8d",
+      "component": "sector_sum_difference",
+      "reason": "MGP_8269 lap 7: sectors do not sum to lap duration; printed source values retained"
+    },
+    {
+      "event": "FRA",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "39581f5a-e003-42ee-9811-6b03b3f3ce8d",
+      "component": "sector_sum_difference",
+      "reason": "MGP_8539 lap 8: sectors do not sum to lap duration; printed source values retained"
+    },
+    {
+      "event": "FRA",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "39581f5a-e003-42ee-9811-6b03b3f3ce8d",
+      "component": "sector_sum_difference",
+      "reason": "MGP_7246 lap 8: sectors do not sum to lap duration; printed source values retained"
+    },
+    {
+      "event": "FRA",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "39581f5a-e003-42ee-9811-6b03b3f3ce8d",
+      "component": "sector_sum_difference",
+      "reason": "MGP_8680 lap 8: sectors do not sum to lap duration; printed source values retained"
+    },
+    {
+      "event": "FRA",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "39581f5a-e003-42ee-9811-6b03b3f3ce8d",
+      "component": "sector_sum_difference",
+      "reason": "MGP_8431 lap 2: sectors do not sum to lap duration; printed source values retained"
+    },
+    {
+      "event": "FRA",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "39581f5a-e003-42ee-9811-6b03b3f3ce8d",
+      "component": "sector_sum_difference",
+      "reason": "MGP_8431 lap 8: sectors do not sum to lap duration; printed source values retained"
+    },
+    {
+      "event": "FRA",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "39581f5a-e003-42ee-9811-6b03b3f3ce8d",
+      "component": "sector_sum_difference",
+      "reason": "MGP_8150 lap 2: sectors do not sum to lap duration; printed source values retained"
+    },
+    {
+      "event": "FRA",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "39581f5a-e003-42ee-9811-6b03b3f3ce8d",
+      "component": "sector_sum_difference",
+      "reason": "MGP_8150 lap 5: sectors do not sum to lap duration; printed source values retained"
+    },
+    {
+      "event": "FRA",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "39581f5a-e003-42ee-9811-6b03b3f3ce8d",
+      "component": "sector_sum_difference",
+      "reason": "MGP_8295 lap 7: sectors do not sum to lap duration; printed source values retained"
+    },
+    {
+      "event": "FRA",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "39581f5a-e003-42ee-9811-6b03b3f3ce8d",
+      "component": "sector_sum_difference",
+      "reason": "MGP_8688 lap 2: sectors do not sum to lap duration; printed source values retained"
+    },
+    {
+      "event": "FRA",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "39581f5a-e003-42ee-9811-6b03b3f3ce8d",
+      "component": "sector_sum_difference",
+      "reason": "MGP_8688 lap 8: sectors do not sum to lap duration; printed source values retained"
+    },
+    {
+      "event": "FRA",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "39581f5a-e003-42ee-9811-6b03b3f3ce8d",
+      "component": "sector_sum_difference",
+      "reason": "MGP_7741 lap 7: sectors do not sum to lap duration; printed source values retained"
+    },
+    {
+      "event": "FRA",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "39581f5a-e003-42ee-9811-6b03b3f3ce8d",
+      "component": "sector_sum_difference",
+      "reason": "MGP_8273 lap 2: sectors do not sum to lap duration; printed source values retained"
+    },
+    {
+      "event": "FRA",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "39581f5a-e003-42ee-9811-6b03b3f3ce8d",
+      "component": "sector_sum_difference",
+      "reason": "MGP_8273 lap 6: sectors do not sum to lap duration; printed source values retained"
+    },
+    {
+      "event": "FRA",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "39581f5a-e003-42ee-9811-6b03b3f3ce8d",
+      "component": "sector_sum_difference",
+      "reason": "MGP_8173 lap 7: sectors do not sum to lap duration; printed source values retained"
+    },
+    {
+      "event": "GBR",
+      "class": "Moto2",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "83fe0387-00ac-4aa2-a3da-5d5b05794ae0",
+      "component": "qualifying",
+      "reason": "No positive best lap recorded for MGP_8490"
+    },
+    {
+      "event": "GBR",
+      "class": "Moto2",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "83fe0387-00ac-4aa2-a3da-5d5b05794ae0",
+      "component": "qualifying",
+      "reason": "No positive best lap recorded for MGP_8829"
+    },
+    {
+      "event": "GBR",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "ae92587d-4fdf-49f0-a314-9a221e88457d",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10060', 'page': 5, 'source_text': 'unfinished 28.765'}"
+    },
+    {
+      "event": "GBR",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "ae92587d-4fdf-49f0-a314-9a221e88457d",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8250', 'page': 5, 'source_text': 'unfinished 28.616'}"
+    },
+    {
+      "event": "GBR",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "df4ec642-0b14-439b-b530-51a49d1df5e7",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_9864', 'page': 4, 'source_text': 'unfinished 29.256 33.507 25.540 225.9'}"
+    },
+    {
+      "event": "GBR",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "df4ec642-0b14-439b-b530-51a49d1df5e7",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_9869', 'page': 5, 'source_text': 'unfinished 29.976'}"
+    },
+    {
+      "event": "GBR",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "df4ec642-0b14-439b-b530-51a49d1df5e7",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10284', 'page': 5, 'source_text': 'unfinished 29.642 33.478 25.476 225.4'}"
+    },
+    {
+      "event": "GBR",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "df4ec642-0b14-439b-b530-51a49d1df5e7",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8873', 'page': 5, 'source_text': 'unfinished 33.607'}"
+    },
+    {
+      "event": "GBR",
+      "class": "MotoGP",
+      "type": "SPR",
+      "number": null,
+      "session_uuid": "da0eedad-b35f-4e27-82aa-41d437e2a939",
+      "component": "fastest_lap_missing_rider",
+      "reason": "No published fastest lap for MGP_7646 despite completed laps; no time inferred"
+    },
+    {
+      "event": "GBR",
+      "class": "MotoGP",
+      "type": "SPR",
+      "number": null,
+      "session_uuid": "da0eedad-b35f-4e27-82aa-41d437e2a939",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_7646', 'page': 4, 'source_text': 'unfinished 27.452'}"
+    },
+    {
+      "event": "GBR",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "d00d53fb-5bf7-40fa-88ea-79c0ed5cb7ac",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8273', 'page': 5, 'source_text': 'unfinished 28.182'}"
+    },
+    {
+      "event": "QAT",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "9a2cf2aa-2340-4e9b-9ced-6060a708cd4f",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10012', 'page': 6, 'source_text': 'unfinished 29.462 31.082 28.059 291.8'}"
+    },
+    {
+      "event": "QAT",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "9a2cf2aa-2340-4e9b-9ced-6060a708cd4f",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8490', 'page': 6, 'source_text': 'unfinished 30.129 31.304 284.2'}"
+    },
+    {
+      "event": "QAT",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "9a2cf2aa-2340-4e9b-9ced-6060a708cd4f",
+      "component": "sector_sum_difference",
+      "reason": "MGP_7742 lap 10: sectors do not sum to lap duration; printed source values retained"
+    },
+    {
+      "event": "QAT",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "f7d9c6db-c7e9-4c6f-864a-fcf918ed2717",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10251', 'page': 5, 'source_text': 'unfinished 32.146 236.8'}"
+    },
+    {
+      "event": "QAT",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "f7d9c6db-c7e9-4c6f-864a-fcf918ed2717",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8873', 'page': 5, 'source_text': 'unfinished 32.203 244.8'}"
+    },
+    {
+      "event": "QAT",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "b7bf862b-3abc-446f-a192-4dc535652f19",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8146', 'page': 5, 'source_text': 'unfinished 28.184 30.638 343.9'}"
+    },
+    {
+      "event": "QAT",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "b7bf862b-3abc-446f-a192-4dc535652f19",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_9973', 'page': 6, 'source_text': 'unfinished 28.144 337.5'}"
+    },
+    {
+      "event": "MAL",
+      "class": "Moto3",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "85a3df8f-cb64-4b2b-a47d-d0c2f7c0be2f",
+      "component": "qualifying",
+      "reason": "No positive best lap recorded for MGP_10251"
+    },
+    {
+      "event": "MAL",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "87b3cc9c-f916-4bb7-86c1-666e0cf8fb38",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_10251', 'page': 3, 'source_text': 'unfinished 28.075 221.7'}"
+    },
+    {
+      "event": "MAL",
+      "class": "MotoGP",
+      "type": "SPR",
+      "number": null,
+      "session_uuid": "fa57b8f7-6a69-433c-9eb6-59538edc2ace",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_8431', 'page': 4, 'source_text': 'unfinished 24.817 27.708 37.153 329.2'}"
+    },
+    {
+      "event": "MAL",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "c368f212-a02a-433f-a649-2aeb5bd71924",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_9867', 'page': 6, 'source_text': 'unfinished 25.111 28.011 37.397 327.2'}"
+    },
+    {
+      "event": "MAL",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "c368f212-a02a-433f-a649-2aeb5bd71924",
+      "component": "unfinished_lap_fragment",
+      "reason": "{'rider': 'MGP_7086', 'page': 6, 'source_text': 'unfinished 25.024 311.2'}"
+    }
+  ],
+  "coverage": [
+    {
+      "event": "NED",
+      "class": "Moto2",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "2f8e9f1e-ea33-4464-af02-326e13668a83",
+      "qualifying_rows": 14,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "NED",
+      "class": "Moto2",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "b3e9ffe3-3735-422e-840d-47ad0d373634",
+      "qualifying_rows": 18,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "NED",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "c68c6b94-e39e-410f-b7ec-0b7e57ab453e",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 27,
+      "grid_rows": 28,
+      "lap_rows": 467
+    },
+    {
+      "event": "NED",
+      "class": "Moto3",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "1e879c3e-049e-49f5-b5f7-d2a4c95a7029",
+      "qualifying_rows": 12,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "NED",
+      "class": "Moto3",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "6202df6d-efe4-456b-9de6-d11e0d61602c",
+      "qualifying_rows": 18,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "NED",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "0ae4ac1e-ac3c-4626-a986-7f8508a9574c",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 25,
+      "grid_rows": 26,
+      "lap_rows": 437
+    },
+    {
+      "event": "NED",
+      "class": "MotoE",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "18bf3689-170c-44c8-9e16-a89a70bae5e5",
+      "qualifying_rows": 10,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "NED",
+      "class": "MotoE",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "2de3e750-2b9e-4fad-8027-8a2b82071647",
+      "qualifying_rows": 10,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "NED",
+      "class": "MotoE",
+      "type": "RAC",
+      "number": 1,
+      "session_uuid": "d4c3989b-4b41-471a-a65d-4421945d6fc1",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 18,
+      "grid_rows": 18,
+      "lap_rows": 122
+    },
+    {
+      "event": "NED",
+      "class": "MotoE",
+      "type": "RAC",
+      "number": 2,
+      "session_uuid": "018a4ba6-c627-4c5e-9633-5d689c5f241a",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 17,
+      "grid_rows": 18,
+      "lap_rows": 120
+    },
+    {
+      "event": "NED",
+      "class": "MotoGP",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "e5a4d04b-bdc8-4d04-92f0-fcc1e29b9419",
+      "qualifying_rows": 12,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "NED",
+      "class": "MotoGP",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "66799a9a-2123-445c-b6b5-a8efa3779134",
+      "qualifying_rows": 12,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "NED",
+      "class": "MotoGP",
+      "type": "SPR",
+      "number": null,
+      "session_uuid": "9f78e264-69fc-4bce-ba8d-62f29dab2a38",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 20,
+      "grid_rows": 22,
+      "lap_rows": 257
+    },
+    {
+      "event": "NED",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "a61cc70c-172c-415d-bd1a-6d9d383dea4b",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 21,
+      "grid_rows": 22,
+      "lap_rows": 442
+    },
+    {
+      "event": "ARG",
+      "class": "Moto2",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "851bea8a-5e19-430b-a184-4f92e70243c0",
+      "qualifying_rows": 14,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "ARG",
+      "class": "Moto2",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "060a7ddf-f4a7-4166-8d62-32b65ff0a8fa",
+      "qualifying_rows": 18,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "ARG",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "c1729afc-16bb-496e-ae9d-e2381a87db3a",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 27,
+      "grid_rows": 28,
+      "lap_rows": 540
+    },
+    {
+      "event": "ARG",
+      "class": "Moto3",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "f3733629-2d91-47d1-95c3-9a4d283043d9",
+      "qualifying_rows": 12,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "ARG",
+      "class": "Moto3",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "a0b4c408-e8da-45e4-8a3d-27cebac35349",
+      "qualifying_rows": 18,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "ARG",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "5006e79f-8b35-4607-a6c7-7404d3b7edfc",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 26,
+      "grid_rows": 26,
+      "lap_rows": 446
+    },
+    {
+      "event": "ARG",
+      "class": "MotoGP",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "f3456626-118a-4222-98d9-e703d2824ef0",
+      "qualifying_rows": 12,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "ARG",
+      "class": "MotoGP",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "cb29623d-721b-4302-900d-5b53d913cee3",
+      "qualifying_rows": 12,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "ARG",
+      "class": "MotoGP",
+      "type": "SPR",
+      "number": null,
+      "session_uuid": "830c3188-94b7-47da-a42b-076a9abcbdaa",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 21,
+      "grid_rows": 22,
+      "lap_rows": 238
+    },
+    {
+      "event": "ARG",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "70e86291-e811-4f10-b7da-8778b1b1d3ab",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 19,
+      "grid_rows": 20,
+      "lap_rows": 475
+    },
+    {
+      "event": "ARA",
+      "class": "Moto2",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "a523a9d9-30cd-4147-b475-4dfb30145c8d",
+      "qualifying_rows": 14,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "ARA",
+      "class": "Moto2",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "2daa0317-f03b-434f-85d9-cd52367bb804",
+      "qualifying_rows": 18,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "ARA",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "73d74e95-824d-4647-a9cf-2c8f9b390489",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 26,
+      "grid_rows": 28,
+      "lap_rows": 474
+    },
+    {
+      "event": "ARA",
+      "class": "Moto3",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "27ac59ca-3aa0-4f5f-a294-49d6b3fc2592",
+      "qualifying_rows": 12,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "ARA",
+      "class": "Moto3",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "04f9483d-f7f2-43c6-a41b-a801d9efcaa9",
+      "qualifying_rows": 18,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "ARA",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "72014d39-0dfb-4a4b-ab5e-5da9f5901ea0",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 25,
+      "grid_rows": 25,
+      "lap_rows": 409
+    },
+    {
+      "event": "ARA",
+      "class": "MotoGP",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "a5b784d2-6fd0-4212-92d6-357ae5e4fc09",
+      "qualifying_rows": 11,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "ARA",
+      "class": "MotoGP",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "876ff48d-82e9-479a-b290-6ee2ac98a37f",
+      "qualifying_rows": 12,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "ARA",
+      "class": "MotoGP",
+      "type": "SPR",
+      "number": null,
+      "session_uuid": "764d1ec2-7fe8-4b82-88fd-2aa5b5ebd4be",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 20,
+      "grid_rows": 21,
+      "lap_rows": 219
+    },
+    {
+      "event": "ARA",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "4b5b2a29-a37a-488d-999b-c5e8c59a72e3",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 21,
+      "grid_rows": 21,
+      "lap_rows": 445
+    },
+    {
+      "event": "AUT",
+      "class": "Moto2",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "40808d44-3641-492e-8dfe-06b8c54b7b9a",
+      "qualifying_rows": 15,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "AUT",
+      "class": "Moto2",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "33313419-dec3-4211-ae98-4229aa9342f5",
+      "qualifying_rows": 18,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "AUT",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "4903a34d-98cc-4418-998a-8a509b7ff20d",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 28,
+      "grid_rows": 29,
+      "lap_rows": 609
+    },
+    {
+      "event": "AUT",
+      "class": "Moto3",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "c7b18c08-9422-4495-90f6-51805f36d33f",
+      "qualifying_rows": 12,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "AUT",
+      "class": "Moto3",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "82654d10-2dae-43aa-9fe9-782e417f8298",
+      "qualifying_rows": 18,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "AUT",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "8569dede-9020-4b3d-9cd4-dee150983441",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 24,
+      "grid_rows": 26,
+      "lap_rows": 484
+    },
+    {
+      "event": "AUT",
+      "class": "MotoE",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "b246abb2-e959-4924-aed5-6411d6a5c484",
+      "qualifying_rows": 10,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "AUT",
+      "class": "MotoE",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "d15426ba-5111-41a1-80cd-2b335cd9e434",
+      "qualifying_rows": 10,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "AUT",
+      "class": "MotoE",
+      "type": "RAC",
+      "number": 1,
+      "session_uuid": "a779aa9d-2983-480a-8681-b89fadc6c7e1",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 17,
+      "grid_rows": 18,
+      "lap_rows": 119
+    },
+    {
+      "event": "AUT",
+      "class": "MotoE",
+      "type": "RAC",
+      "number": 2,
+      "session_uuid": "51a89780-5ac8-4247-9e04-552fb64a0976",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 18,
+      "grid_rows": 18,
+      "lap_rows": 125
+    },
+    {
+      "event": "AUT",
+      "class": "MotoGP",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "19ab915e-f1b0-44ff-8cb8-bb3245c9bd5c",
+      "qualifying_rows": 11,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "AUT",
+      "class": "MotoGP",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "0ecd9f4f-ad8b-42d7-a08a-a3097fb26ead",
+      "qualifying_rows": 12,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "AUT",
+      "class": "MotoGP",
+      "type": "SPR",
+      "number": null,
+      "session_uuid": "9af3b759-9f55-4d5c-945c-1c3b5e012429",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 20,
+      "grid_rows": 20,
+      "lap_rows": 269
+    },
+    {
+      "event": "AUT",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "ce49b142-cd59-4c5c-84ec-35f02ef6cc42",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 20,
+      "grid_rows": 20,
+      "lap_rows": 537
+    },
+    {
+      "event": "CZE",
+      "class": "Moto2",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "2f28bd94-0d5f-4c78-a108-f7fee2f87782",
+      "qualifying_rows": 16,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "CZE",
+      "class": "Moto2",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "95e90968-3ef1-4db1-a8b6-825cecefd9e3",
+      "qualifying_rows": 18,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "CZE",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "d1f3ae0a-43f7-41e9-bd82-6088f07d5b4c",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 30,
+      "grid_rows": 30,
+      "lap_rows": 495
+    },
+    {
+      "event": "CZE",
+      "class": "Moto3",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "470edf9e-7442-478e-877f-a1b4cb426956",
+      "qualifying_rows": 10,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "CZE",
+      "class": "Moto3",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "353d6fad-8cd3-44b8-a02e-1a4aa066ae39",
+      "qualifying_rows": 18,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "CZE",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "93ea4b45-f378-4400-b8c6-79e88a70bfd0",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 23,
+      "grid_rows": 23,
+      "lap_rows": 344
+    },
+    {
+      "event": "CZE",
+      "class": "MotoGP",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "ae6d2e96-e442-42a3-b9f4-74a5a72ed030",
+      "qualifying_rows": 12,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "CZE",
+      "class": "MotoGP",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "7fe49d3f-0a3a-43d1-9338-e136979cb30a",
+      "qualifying_rows": 12,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "CZE",
+      "class": "MotoGP",
+      "type": "SPR",
+      "number": null,
+      "session_uuid": "40b6839b-26e7-4c07-8cb5-795703887566",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 20,
+      "grid_rows": 22,
+      "lap_rows": 196
+    },
+    {
+      "event": "CZE",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "c2e4462e-ea88-465a-8a2c-ae63c83e8478",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 19,
+      "grid_rows": 21,
+      "lap_rows": 386
+    },
+    {
+      "event": "GER",
+      "class": "Moto2",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "32b1ceed-fdd3-4ad0-8eb7-b4c494ad6714",
+      "qualifying_rows": 14,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "GER",
+      "class": "Moto2",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "e43fc855-57c8-4b2d-a21b-5abac9969d07",
+      "qualifying_rows": 18,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "GER",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "aeff37b8-3d36-4fdc-b005-819e003370a7",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 27,
+      "grid_rows": 28,
+      "lap_rows": 501
+    },
+    {
+      "event": "GER",
+      "class": "Moto3",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "e8aca569-cde2-43c3-9f6a-da6290ea4d19",
+      "qualifying_rows": 11,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "GER",
+      "class": "Moto3",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "506f779f-a143-49f1-b98c-031fedbb0a5f",
+      "qualifying_rows": 18,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "GER",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "fbca074c-c9ee-46ad-b425-32a547485489",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 25,
+      "grid_rows": 25,
+      "lap_rows": 488
+    },
+    {
+      "event": "GER",
+      "class": "MotoGP",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "5061cead-8e3d-4aa7-8984-f55286b00c61",
+      "qualifying_rows": 10,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "GER",
+      "class": "MotoGP",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "6e40a744-fbab-4201-9e7e-eb1f3dc1a2f9",
+      "qualifying_rows": 12,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "GER",
+      "class": "MotoGP",
+      "type": "SPR",
+      "number": null,
+      "session_uuid": "6ee64e07-0b02-440e-8b5e-f08ecc04c775",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 19,
+      "grid_rows": 19,
+      "lap_rows": 272
+    },
+    {
+      "event": "GER",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "5dbf7768-83c4-4482-b3ea-74a0871f908a",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 18,
+      "grid_rows": 18,
+      "lap_rows": 420
+    },
+    {
+      "event": "CAT",
+      "class": "Moto2",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "8b7403bd-260d-4625-8781-17012cc32fb0",
+      "qualifying_rows": 15,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "CAT",
+      "class": "Moto2",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "1e0d5a3f-88da-4132-8f96-84988ded6d6c",
+      "qualifying_rows": 18,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "CAT",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "5867a6c5-a927-4c1c-94d2-0c5b306d5135",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 27,
+      "grid_rows": 29,
+      "lap_rows": 533
+    },
+    {
+      "event": "CAT",
+      "class": "Moto3",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "b987cad8-74a7-4a72-a720-631a695ca99f",
+      "qualifying_rows": 12,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "CAT",
+      "class": "Moto3",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "24818d7e-3096-40af-aff4-8e58a46dda5e",
+      "qualifying_rows": 18,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "CAT",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "bfbf51ba-5cfa-4056-9829-a4f682085538",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 26,
+      "grid_rows": 26,
+      "lap_rows": 450
+    },
+    {
+      "event": "CAT",
+      "class": "MotoE",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "1bc0b5c1-4594-4fbe-bf24-f8ac1bc9f145",
+      "qualifying_rows": 9,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "CAT",
+      "class": "MotoE",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "fbe25c57-3a96-4288-a4b3-a7dd9573bfd5",
+      "qualifying_rows": 10,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "CAT",
+      "class": "MotoE",
+      "type": "RAC",
+      "number": 1,
+      "session_uuid": "6203acfc-3ee5-4a96-aca4-9bef7662576f",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 16,
+      "grid_rows": 17,
+      "lap_rows": 92
+    },
+    {
+      "event": "CAT",
+      "class": "MotoE",
+      "type": "RAC",
+      "number": 2,
+      "session_uuid": "6905032e-a47e-4574-8b4a-9fa58205e760",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 15,
+      "grid_rows": 17,
+      "lap_rows": 86
+    },
+    {
+      "event": "CAT",
+      "class": "MotoGP",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "4f80baca-feb8-4c05-a035-198ee39baa11",
+      "qualifying_rows": 14,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "CAT",
+      "class": "MotoGP",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "56f62e7f-61dd-4e57-a950-4e0e76ef027d",
+      "qualifying_rows": 12,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "CAT",
+      "class": "MotoGP",
+      "type": "SPR",
+      "number": null,
+      "session_uuid": "b41b19d1-a884-4e14-b971-25559f2cb24e",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 24,
+      "grid_rows": 24,
+      "lap_rows": 256
+    },
+    {
+      "event": "CAT",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "06e18a54-500e-4132-a145-d368295dd4a3",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 23,
+      "grid_rows": 24,
+      "lap_rows": 491
+    },
+    {
+      "event": "RSM",
+      "class": "Moto2",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "ef41e631-b671-4df0-a7e3-b4fbcbc7d4c8",
+      "qualifying_rows": 16,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "RSM",
+      "class": "Moto2",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "4fb75de1-fdde-44fd-82d1-0b5276f3b81e",
+      "qualifying_rows": 18,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "RSM",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "281fc333-207d-4437-ba78-c21de19fc64b",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 30,
+      "grid_rows": 30,
+      "lap_rows": 614
+    },
+    {
+      "event": "RSM",
+      "class": "Moto3",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "d3135dd7-19e3-4194-92c0-fec0536f0f6e",
+      "qualifying_rows": 13,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "RSM",
+      "class": "Moto3",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "7a9273f0-3766-41ee-8bce-c86fd7b5ea82",
+      "qualifying_rows": 18,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "RSM",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "9ae0778d-0815-4830-af92-405348117531",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 27,
+      "grid_rows": 27,
+      "lap_rows": 479
+    },
+    {
+      "event": "RSM",
+      "class": "MotoE",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "9c6376f8-4c66-453e-9334-5085fa16c339",
+      "qualifying_rows": 10,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "RSM",
+      "class": "MotoE",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "ef2a1b52-14ae-45bb-b239-715d3ad3c399",
+      "qualifying_rows": 10,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "RSM",
+      "class": "MotoE",
+      "type": "RAC",
+      "number": 1,
+      "session_uuid": "be8e82b8-de31-4d70-99f3-13f4e9c69640",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 18,
+      "grid_rows": 18,
+      "lap_rows": 126
+    },
+    {
+      "event": "RSM",
+      "class": "MotoE",
+      "type": "RAC",
+      "number": 2,
+      "session_uuid": "71fcd859-cf90-465d-a9a2-568ae33b94cd",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 15,
+      "grid_rows": 18,
+      "lap_rows": 103
+    },
+    {
+      "event": "RSM",
+      "class": "MotoGP",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "bb170eb1-f9ad-44b1-a2a1-d0ad016d5d47",
+      "qualifying_rows": 13,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "RSM",
+      "class": "MotoGP",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "56c1bae8-2526-4040-9166-92ea7944ce67",
+      "qualifying_rows": 12,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "RSM",
+      "class": "MotoGP",
+      "type": "SPR",
+      "number": null,
+      "session_uuid": "75f0af64-e1ac-4d1b-a6a1-de754657a670",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 22,
+      "grid_rows": 22,
+      "lap_rows": 266
+    },
+    {
+      "event": "RSM",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "8093f8dd-8476-4ff1-b2f6-e6f837ae4d50",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 22,
+      "grid_rows": 23,
+      "lap_rows": 472
+    },
+    {
+      "event": "VAL",
+      "class": "Moto2",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "de328d25-514c-4b00-b95b-3809edf4a2cf",
+      "qualifying_rows": 13,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "VAL",
+      "class": "Moto2",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "64ed00c9-3bd7-4cd9-b427-4b7839432de8",
+      "qualifying_rows": 18,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "VAL",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "2a5c9089-9b79-4a24-a9f4-f8d93049ce73",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 26,
+      "grid_rows": 27,
+      "lap_rows": 524
+    },
+    {
+      "event": "VAL",
+      "class": "Moto3",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "266b5881-e824-496a-9fbe-c24f4051cbb2",
+      "qualifying_rows": 12,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "VAL",
+      "class": "Moto3",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "94050532-9b67-42b3-a779-2c038affcc44",
+      "qualifying_rows": 18,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "VAL",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "9f690383-94f2-4bde-89ab-57b1048a960d",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 25,
+      "grid_rows": 26,
+      "lap_rows": 493
+    },
+    {
+      "event": "VAL",
+      "class": "MotoGP",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "305526c5-2377-4ecd-a853-d2a13dd41eaa",
+      "qualifying_rows": 14,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "VAL",
+      "class": "MotoGP",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "b991ebc5-2cf4-4b72-ad5f-b2ce38710627",
+      "qualifying_rows": 12,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "VAL",
+      "class": "MotoGP",
+      "type": "SPR",
+      "number": null,
+      "session_uuid": "0c50137e-7adf-4624-a66e-95be29140e03",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 22,
+      "grid_rows": 24,
+      "lap_rows": 288
+    },
+    {
+      "event": "VAL",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "4b23dc6a-e083-4771-9f39-b8d3c1042e28",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 22,
+      "grid_rows": 24,
+      "lap_rows": 552
+    },
+    {
+      "event": "HUN",
+      "class": "Moto2",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "96e5178c-ca3d-4160-a139-72bd6341aadb",
+      "qualifying_rows": 14,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "HUN",
+      "class": "Moto2",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "1663240c-9402-447f-9259-87ffa174be97",
+      "qualifying_rows": 18,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "HUN",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "0efd2c26-1925-49dd-b4cc-0a27d973a3a3",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 26,
+      "grid_rows": 28,
+      "lap_rows": 526
+    },
+    {
+      "event": "HUN",
+      "class": "Moto3",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "8469696b-229d-40af-9593-7224ecfb316e",
+      "qualifying_rows": 12,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "HUN",
+      "class": "Moto3",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "5db0aee5-2d98-4725-b7c0-9bff06708749",
+      "qualifying_rows": 18,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "HUN",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "887511ba-c7bd-42d3-a919-cffc62264e65",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 26,
+      "grid_rows": 26,
+      "lap_rows": 483
+    },
+    {
+      "event": "HUN",
+      "class": "MotoE",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "e80f770a-1c03-4d7a-af42-5ae237f0b8e5",
+      "qualifying_rows": 10,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "HUN",
+      "class": "MotoE",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "09c18273-8a81-450a-a2c3-cee5102b8862",
+      "qualifying_rows": 10,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "HUN",
+      "class": "MotoE",
+      "type": "RAC",
+      "number": 1,
+      "session_uuid": "4059facd-c67e-4c17-a4e4-bccf928fd65b",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 14,
+      "grid_rows": 18,
+      "lap_rows": 58
+    },
+    {
+      "event": "HUN",
+      "class": "MotoE",
+      "type": "RAC",
+      "number": 2,
+      "session_uuid": "22b62862-94fb-455c-90ba-e4b76a27b3f5",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 17,
+      "grid_rows": 17,
+      "lap_rows": 115
+    },
+    {
+      "event": "HUN",
+      "class": "MotoGP",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "6f03d72f-752a-4d57-b420-042d2a6b8502",
+      "qualifying_rows": 11,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "HUN",
+      "class": "MotoGP",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "565568e1-5065-42fc-ae3d-43384aa15908",
+      "qualifying_rows": 12,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "HUN",
+      "class": "MotoGP",
+      "type": "SPR",
+      "number": null,
+      "session_uuid": "87e77cac-6350-4026-9870-dcca529eba7f",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 18,
+      "grid_rows": 21,
+      "lap_rows": 233
+    },
+    {
+      "event": "HUN",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "8e16d03a-1da9-4839-befd-1cb92ec1f2be",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 20,
+      "grid_rows": 21,
+      "lap_rows": 468
+    },
+    {
+      "event": "AME",
+      "class": "Moto2",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "09d6670a-c693-4282-ad42-ef6f0c1685a0",
+      "qualifying_rows": 14,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "AME",
+      "class": "Moto2",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "ed5c7e34-2c0a-4fa3-ad65-a40f7132ec4c",
+      "qualifying_rows": 18,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "AME",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "608720cf-35bb-4b71-bb78-ae7ade563fdd",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 27,
+      "grid_rows": 27,
+      "lap_rows": 412
+    },
+    {
+      "event": "AME",
+      "class": "Moto3",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "4fb7fec2-fc03-4c8a-9151-ecdba5f4f49a",
+      "qualifying_rows": 12,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "AME",
+      "class": "Moto3",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "5b44948e-98cf-4131-bdc0-4b36bb4fb02c",
+      "qualifying_rows": 18,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "AME",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "967845af-b384-4874-83e5-e4718fd2248a",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 24,
+      "grid_rows": 25,
+      "lap_rows": 301
+    },
+    {
+      "event": "AME",
+      "class": "MotoGP",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "23e1ffb0-b5de-4c16-92cf-253cbeba923c",
+      "qualifying_rows": 12,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "AME",
+      "class": "MotoGP",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "020c5f84-bcd4-4e69-9bf7-c3c3832d6c7f",
+      "qualifying_rows": 12,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "AME",
+      "class": "MotoGP",
+      "type": "SPR",
+      "number": null,
+      "session_uuid": "cb102c51-5f14-46c4-81fa-786d376ceae3",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 22,
+      "grid_rows": 22,
+      "lap_rows": 212
+    },
+    {
+      "event": "AME",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "a4430ad3-d6c1-49a6-aea3-f269e641ed7b",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 22,
+      "grid_rows": 22,
+      "lap_rows": 382
+    },
+    {
+      "event": "ITA",
+      "class": "Moto2",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "223d29f3-9c22-4276-9c84-85f214fff98f",
+      "qualifying_rows": 14,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "ITA",
+      "class": "Moto2",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "0c26a7e9-5960-42e2-a1ef-8f0d58264c53",
+      "qualifying_rows": 18,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "ITA",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "bba6dcbb-32f5-4086-9196-458422532e02",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 28,
+      "grid_rows": 28,
+      "lap_rows": 516
+    },
+    {
+      "event": "ITA",
+      "class": "Moto3",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "d6c8985b-eb76-4888-aa25-8ca5c8c3d96e",
+      "qualifying_rows": 12,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "ITA",
+      "class": "Moto3",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "e4e3fedb-7f4a-4440-b769-1865a5c7dbcd",
+      "qualifying_rows": 18,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "ITA",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "1360ddbe-d66d-424e-9bbf-b09e732ade54",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 23,
+      "grid_rows": 26,
+      "lap_rows": 354
+    },
+    {
+      "event": "ITA",
+      "class": "MotoGP",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "61858293-17ec-4a67-a174-a522ccb154d3",
+      "qualifying_rows": 12,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "ITA",
+      "class": "MotoGP",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "b52f2a67-dbb6-4b93-a896-461ab14faf7b",
+      "qualifying_rows": 12,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "ITA",
+      "class": "MotoGP",
+      "type": "SPR",
+      "number": null,
+      "session_uuid": "261fce04-4ca4-41dc-8128-12126e017c2b",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 19,
+      "grid_rows": 22,
+      "lap_rows": 209
+    },
+    {
+      "event": "ITA",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "9a8b8969-a941-40f9-b22d-f1955e69bb75",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 21,
+      "grid_rows": 22,
+      "lap_rows": 434
+    },
+    {
+      "event": "INA",
+      "class": "Moto2",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "0bafbe06-d131-46b2-be5c-422bc331b610",
+      "qualifying_rows": 14,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "INA",
+      "class": "Moto2",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "e8f6647d-723c-435d-80a3-5787ef231b06",
+      "qualifying_rows": 18,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "INA",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "2dbfdcd9-3bc2-41c9-b526-be0e1d18a6b1",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 27,
+      "grid_rows": 28,
+      "lap_rows": 528
+    },
+    {
+      "event": "INA",
+      "class": "Moto3",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "77c80756-af9f-4a93-add5-279c74add87d",
+      "qualifying_rows": 12,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "INA",
+      "class": "Moto3",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "39a8adcf-4798-494b-8cf0-033df7fd7f89",
+      "qualifying_rows": 18,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "INA",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "0113a29d-f191-49e6-9d53-0cab46f10f9d",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 25,
+      "grid_rows": 25,
+      "lap_rows": 424
+    },
+    {
+      "event": "INA",
+      "class": "MotoGP",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "6910d8f9-ccdf-4f90-a25e-09f916adf7e1",
+      "qualifying_rows": 10,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "INA",
+      "class": "MotoGP",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "7604abaa-f75e-430e-bd9e-e880972ed668",
+      "qualifying_rows": 12,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "INA",
+      "class": "MotoGP",
+      "type": "SPR",
+      "number": null,
+      "session_uuid": "f5c7c432-e4e0-45f8-b423-67443ec6e8f8",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 18,
+      "grid_rows": 19,
+      "lap_rows": 211
+    },
+    {
+      "event": "INA",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "a4174865-29cc-4b92-8da6-8996011846f1",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 16,
+      "grid_rows": 19,
+      "lap_rows": 399
+    },
+    {
+      "event": "SPA",
+      "class": "Moto2",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "0e1e36ba-9594-486d-bcef-1887dc680214",
+      "qualifying_rows": 14,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "SPA",
+      "class": "Moto2",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "cd2974fd-b2e4-47b0-82fb-a565779ea226",
+      "qualifying_rows": 18,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "SPA",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "b42bbad9-5e00-45e9-b8ac-31b0d6d7cbea",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 26,
+      "grid_rows": 27,
+      "lap_rows": 498
+    },
+    {
+      "event": "SPA",
+      "class": "Moto3",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "403fdc9b-79db-4f11-adb8-6a7f18a4ab2f",
+      "qualifying_rows": 12,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "SPA",
+      "class": "Moto3",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "65d24ee2-c22a-45aa-b53e-8f153a6e339e",
+      "qualifying_rows": 18,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "SPA",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "832d6416-6498-4849-87db-494f443ebbac",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 22,
+      "grid_rows": 26,
+      "lap_rows": 396
+    },
+    {
+      "event": "SPA",
+      "class": "MotoGP",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "1775f462-9fd0-4152-a97c-b50cd633ac6b",
+      "qualifying_rows": 13,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "SPA",
+      "class": "MotoGP",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "19df343a-ff49-49a0-9978-141d6280a9e2",
+      "qualifying_rows": 12,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "SPA",
+      "class": "MotoGP",
+      "type": "SPR",
+      "number": null,
+      "session_uuid": "6e72c98a-cee7-4935-ba7b-236d0c6f6b04",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 22,
+      "grid_rows": 23,
+      "lap_rows": 250
+    },
+    {
+      "event": "SPA",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "99bc8d22-7f10-4790-ad76-887781411583",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 23,
+      "grid_rows": 23,
+      "lap_rows": 521
+    },
+    {
+      "event": "JPN",
+      "class": "Moto2",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "474f8c81-22c4-4c98-859d-4ee2e9308ad8",
+      "qualifying_rows": 14,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "JPN",
+      "class": "Moto2",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "0a8e8a1e-24d3-4bd3-951e-e737a6707041",
+      "qualifying_rows": 18,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "JPN",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "8475c0db-8aef-49db-9ce1-8a531c2f841d",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 26,
+      "grid_rows": 28,
+      "lap_rows": 436
+    },
+    {
+      "event": "JPN",
+      "class": "Moto3",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "0ec92bad-f2b5-4b86-adf0-503e98c2a94f",
+      "qualifying_rows": 11,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "JPN",
+      "class": "Moto3",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "74ddf36e-1137-47bb-9c50-f65c164a3949",
+      "qualifying_rows": 18,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "JPN",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "ba3d7ebe-94e1-4ed1-902e-7924fe91861a",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 23,
+      "grid_rows": 25,
+      "lap_rows": 381
+    },
+    {
+      "event": "JPN",
+      "class": "MotoGP",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "3c008f26-477b-4b26-8e15-c6779491a14a",
+      "qualifying_rows": 13,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "JPN",
+      "class": "MotoGP",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "134d8b6f-b26f-403a-98a9-3fc1ec966da2",
+      "qualifying_rows": 12,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "JPN",
+      "class": "MotoGP",
+      "type": "SPR",
+      "number": null,
+      "session_uuid": "dd437878-d58e-49f5-9ed6-01c90c5f3daf",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 21,
+      "grid_rows": 23,
+      "lap_rows": 242
+    },
+    {
+      "event": "JPN",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "2892395d-2e61-486a-a689-fa90c832c2e9",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 21,
+      "grid_rows": 21,
+      "lap_rows": 474
+    },
+    {
+      "event": "AUS",
+      "class": "Moto2",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "58910a18-a43d-4b5e-9aef-720e575f847c",
+      "qualifying_rows": 13,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "AUS",
+      "class": "Moto2",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "227d1bcc-1dbe-4349-8efe-ccf50b29c73c",
+      "qualifying_rows": 18,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "AUS",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "d567728f-e985-4580-ad38-86208c700d46",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 27,
+      "grid_rows": 27,
+      "lap_rows": 608
+    },
+    {
+      "event": "AUS",
+      "class": "Moto3",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "05369227-1b86-43ab-a17c-2eb877584c31",
+      "qualifying_rows": 12,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "AUS",
+      "class": "Moto3",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "19c6d0b5-22ff-49f5-8071-7ce8d34d299b",
+      "qualifying_rows": 18,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "AUS",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "56ca675c-0354-461d-823e-926eed0d54be",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 26,
+      "grid_rows": 26,
+      "lap_rows": 528
+    },
+    {
+      "event": "AUS",
+      "class": "MotoGP",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "df13a115-a514-4396-96dc-a74754d103bb",
+      "qualifying_rows": 12,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "AUS",
+      "class": "MotoGP",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "a4a129bd-82bf-4bce-b297-6afe325c65cd",
+      "qualifying_rows": 12,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "AUS",
+      "class": "MotoGP",
+      "type": "SPR",
+      "number": null,
+      "session_uuid": "48f6c85f-c74d-4b8b-a2a6-6aaba1feb126",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 21,
+      "grid_rows": 22,
+      "lap_rows": 271
+    },
+    {
+      "event": "AUS",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "7abe1629-9684-45b6-b74a-beeb0edc7f7b",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 22,
+      "grid_rows": 22,
+      "lap_rows": 526
+    },
+    {
+      "event": "POR",
+      "class": "Moto2",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "7740012a-6c00-4972-8d43-1bf97d1412ff",
+      "qualifying_rows": 15,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "POR",
+      "class": "Moto2",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "bfd218a8-1e0b-446b-942f-f9cafb111acd",
+      "qualifying_rows": 18,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "POR",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "60b4158e-408f-4dc9-bf17-100b1140ec7e",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 29,
+      "grid_rows": 29,
+      "lap_rows": 551
+    },
+    {
+      "event": "POR",
+      "class": "Moto3",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "2f038fda-6a0a-426b-b7eb-e9ad16cbfb34",
+      "qualifying_rows": 11,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "POR",
+      "class": "Moto3",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "1c141009-4b80-4aac-b32a-09e3fd3e2e65",
+      "qualifying_rows": 18,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "POR",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "4ac8e2dd-06c6-4843-9815-fd4fc14cf70d",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 25,
+      "grid_rows": 25,
+      "lap_rows": 445
+    },
+    {
+      "event": "POR",
+      "class": "MotoE",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "7938ab8b-ead1-4385-93b7-ec073db764df",
+      "qualifying_rows": 10,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "POR",
+      "class": "MotoE",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "90ccef1b-8735-4c7d-aeac-26bfdc92a48c",
+      "qualifying_rows": 10,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "POR",
+      "class": "MotoE",
+      "type": "RAC",
+      "number": 1,
+      "session_uuid": "c1892c1c-1bde-4398-a7a2-806d6c288b63",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 16,
+      "grid_rows": 18,
+      "lap_rows": 98
+    },
+    {
+      "event": "POR",
+      "class": "MotoE",
+      "type": "RAC",
+      "number": 2,
+      "session_uuid": "57440bf5-e084-49db-af1b-17cc6e1aae23",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 18,
+      "grid_rows": 18,
+      "lap_rows": 101
+    },
+    {
+      "event": "POR",
+      "class": "MotoGP",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "c0c285c0-79ea-407d-b49b-47acaa89208f",
+      "qualifying_rows": 12,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "POR",
+      "class": "MotoGP",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "d77f61e3-f87b-4dd5-8d38-e4ea6fd1b1ce",
+      "qualifying_rows": 12,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "POR",
+      "class": "MotoGP",
+      "type": "SPR",
+      "number": null,
+      "session_uuid": "e47938b6-4425-4944-8b91-a7e213f15e06",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 20,
+      "grid_rows": 21,
+      "lap_rows": 224
+    },
+    {
+      "event": "POR",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "f81b68cc-ed2d-4d0d-9aad-9f1d5cbd69d0",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 19,
+      "grid_rows": 21,
+      "lap_rows": 460
+    },
+    {
+      "event": "THA",
+      "class": "Moto2",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "a5b06cbe-742f-4cf9-a295-015012b42c04",
+      "qualifying_rows": 14,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "THA",
+      "class": "Moto2",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "6f35cc66-7dd7-4249-998d-3c4ae526c339",
+      "qualifying_rows": 18,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "THA",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "4a916b78-c790-4590-bf14-7d4e350e2a20",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 26,
+      "grid_rows": 28,
+      "lap_rows": 562
+    },
+    {
+      "event": "THA",
+      "class": "Moto3",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "6d825dce-692c-4f79-8b4a-c6bff6074869",
+      "qualifying_rows": 12,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "THA",
+      "class": "Moto3",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "fa027fad-c19d-41b5-9805-c094bf943614",
+      "qualifying_rows": 18,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "THA",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "e944476f-eb07-47c0-9955-5b7ba8217a96",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 25,
+      "grid_rows": 26,
+      "lap_rows": 393
+    },
+    {
+      "event": "THA",
+      "class": "MotoGP",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "0109c6b4-d9c0-4d62-987f-a211dcfe6d6e",
+      "qualifying_rows": 12,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "THA",
+      "class": "MotoGP",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "58681190-26c6-4dca-8331-376ca0159a44",
+      "qualifying_rows": 12,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "THA",
+      "class": "MotoGP",
+      "type": "SPR",
+      "number": null,
+      "session_uuid": "c3527211-a966-40df-ba52-9413fdb1d1cc",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 22,
+      "grid_rows": 22,
+      "lap_rows": 277
+    },
+    {
+      "event": "THA",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "8a982e72-625e-440f-aad8-5bd8801944ad",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 22,
+      "grid_rows": 22,
+      "lap_rows": 556
+    },
+    {
+      "event": "FRA",
+      "class": "Moto2",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "0f8059b0-dda1-4b57-9a5b-55f3a44ba912",
+      "qualifying_rows": 12,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "FRA",
+      "class": "Moto2",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "fc67cee7-e850-4ef1-9ccc-d14193f64889",
+      "qualifying_rows": 18,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "FRA",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "a335f952-99b5-44a0-bfb5-39b7847a5305",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 25,
+      "grid_rows": 26,
+      "lap_rows": 515
+    },
+    {
+      "event": "FRA",
+      "class": "Moto3",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "c8f44205-7f82-49f3-b3d5-59d1df5cb3dc",
+      "qualifying_rows": 12,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "FRA",
+      "class": "Moto3",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "be93b5e0-9e58-44c9-b6b9-3f54c1905928",
+      "qualifying_rows": 18,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "FRA",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "9d9b64fd-a53d-4eb4-aa8a-a9c607aac09a",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 25,
+      "grid_rows": 26,
+      "lap_rows": 452
+    },
+    {
+      "event": "FRA",
+      "class": "MotoE",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "8247d4df-aaf6-4bbe-a623-75375bd1f28a",
+      "qualifying_rows": 9,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "FRA",
+      "class": "MotoE",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "90d34669-da71-4014-a173-c8c783e08fa0",
+      "qualifying_rows": 10,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "FRA",
+      "class": "MotoE",
+      "type": "RAC",
+      "number": 1,
+      "session_uuid": "c145e164-397c-4429-8a2d-2f4f20653572",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 14,
+      "grid_rows": 17,
+      "lap_rows": 56
+    },
+    {
+      "event": "FRA",
+      "class": "MotoE",
+      "type": "RAC",
+      "number": 2,
+      "session_uuid": "6fef0843-cb73-44c9-82f3-7b72d85a8fc6",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 14,
+      "grid_rows": 16,
+      "lap_rows": 109
+    },
+    {
+      "event": "FRA",
+      "class": "MotoGP",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "c59418f9-a577-4e1b-bf98-53ec736ca09a",
+      "qualifying_rows": 12,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "FRA",
+      "class": "MotoGP",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "6383ad08-5781-4ede-b893-ea9c85b30c84",
+      "qualifying_rows": 12,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "FRA",
+      "class": "MotoGP",
+      "type": "SPR",
+      "number": null,
+      "session_uuid": "7f7e2c0b-c5c4-4fe5-a76d-2a0197769004",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 21,
+      "grid_rows": 22,
+      "lap_rows": 265
+    },
+    {
+      "event": "FRA",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "39581f5a-e003-42ee-9811-6b03b3f3ce8d",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 21,
+      "grid_rows": 22,
+      "lap_rows": 466
+    },
+    {
+      "event": "GBR",
+      "class": "Moto2",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "50b08f86-6b1b-4b51-b43e-a39576a4b602",
+      "qualifying_rows": 10,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "GBR",
+      "class": "Moto2",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "83fe0387-00ac-4aa2-a3da-5d5b05794ae0",
+      "qualifying_rows": 18,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "GBR",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "ae92587d-4fdf-49f0-a314-9a221e88457d",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 24,
+      "grid_rows": 24,
+      "lap_rows": 366
+    },
+    {
+      "event": "GBR",
+      "class": "Moto3",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "08fd4bf2-d2fc-46bb-a7e2-14e23f8d9906",
+      "qualifying_rows": 12,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "GBR",
+      "class": "Moto3",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "0daf00ba-f53f-497b-abc0-77ab22545f60",
+      "qualifying_rows": 18,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "GBR",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "df4ec642-0b14-439b-b530-51a49d1df5e7",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 25,
+      "grid_rows": 26,
+      "lap_rows": 351
+    },
+    {
+      "event": "GBR",
+      "class": "MotoGP",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "9781a2ab-9449-41e6-a6f9-589b4d7f8bcc",
+      "qualifying_rows": 12,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "GBR",
+      "class": "MotoGP",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "efc8e64e-690e-431c-82c1-19d89ea71cec",
+      "qualifying_rows": 12,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "GBR",
+      "class": "MotoGP",
+      "type": "SPR",
+      "number": null,
+      "session_uuid": "da0eedad-b35f-4e27-82aa-41d437e2a939",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 21,
+      "grid_rows": 22,
+      "lap_rows": 211
+    },
+    {
+      "event": "GBR",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "d00d53fb-5bf7-40fa-88ea-79c0ed5cb7ac",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 22,
+      "grid_rows": 22,
+      "lap_rows": 379
+    },
+    {
+      "event": "QAT",
+      "class": "Moto2",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "6b2e4a97-2bf4-459e-9027-c0a876477c00",
+      "qualifying_rows": 14,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "QAT",
+      "class": "Moto2",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "8a88adf8-bab1-4928-8d61-c75d27e0cd99",
+      "qualifying_rows": 18,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "QAT",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "9a2cf2aa-2340-4e9b-9ced-6060a708cd4f",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 28,
+      "grid_rows": 28,
+      "lap_rows": 465
+    },
+    {
+      "event": "QAT",
+      "class": "Moto3",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "9a490cd4-9d16-41b7-a6b2-6ccf74899126",
+      "qualifying_rows": 10,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "QAT",
+      "class": "Moto3",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "bb487ddc-0bb0-4a95-9fb2-1d537f800589",
+      "qualifying_rows": 18,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "QAT",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "f7d9c6db-c7e9-4c6f-864a-fcf918ed2717",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 24,
+      "grid_rows": 24,
+      "lap_rows": 351
+    },
+    {
+      "event": "QAT",
+      "class": "MotoGP",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "bd723112-9c50-4fab-8cd9-2e0faa0c9b68",
+      "qualifying_rows": 12,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "QAT",
+      "class": "MotoGP",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "b2a9b9e0-98ab-4c95-b1b2-d3dd630baab9",
+      "qualifying_rows": 12,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "QAT",
+      "class": "MotoGP",
+      "type": "SPR",
+      "number": null,
+      "session_uuid": "944c92f3-470e-44c4-a36b-a60a83799827",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 21,
+      "grid_rows": 21,
+      "lap_rows": 228
+    },
+    {
+      "event": "QAT",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "b7bf862b-3abc-446f-a192-4dc535652f19",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 22,
+      "grid_rows": 22,
+      "lap_rows": 443
+    },
+    {
+      "event": "MAL",
+      "class": "Moto2",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "64aafc23-5238-46d8-bdab-bb4bce504466",
+      "qualifying_rows": 16,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "MAL",
+      "class": "Moto2",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "a65b9f81-9ba1-4944-b8b1-2387977dbcc2",
+      "qualifying_rows": 18,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "MAL",
+      "class": "Moto2",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "17b4b3b3-4682-4e86-a077-56e55802831a",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 28,
+      "grid_rows": 30,
+      "lap_rows": 294
+    },
+    {
+      "event": "MAL",
+      "class": "Moto3",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "85a3df8f-cb64-4b2b-a47d-d0c2f7c0be2f",
+      "qualifying_rows": 12,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "MAL",
+      "class": "Moto3",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "e36fbb76-1e4c-410f-909d-54d5387b40a1",
+      "qualifying_rows": 18,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "MAL",
+      "class": "Moto3",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "87b3cc9c-f916-4bb7-86c1-666e0cf8fb38",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 24,
+      "grid_rows": 24,
+      "lap_rows": 228
+    },
+    {
+      "event": "MAL",
+      "class": "MotoGP",
+      "type": "Q",
+      "number": 1,
+      "session_uuid": "456be7b9-30aa-4973-88ba-9086c7b64f01",
+      "qualifying_rows": 13,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "MAL",
+      "class": "MotoGP",
+      "type": "Q",
+      "number": 2,
+      "session_uuid": "fc0a3d06-b134-4fd9-8a70-22d1514e21de",
+      "qualifying_rows": 12,
+      "fastest_lap_rows": 0,
+      "grid_rows": 0,
+      "lap_rows": 0
+    },
+    {
+      "event": "MAL",
+      "class": "MotoGP",
+      "type": "SPR",
+      "number": null,
+      "session_uuid": "fa57b8f7-6a69-433c-9eb6-59538edc2ace",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 23,
+      "grid_rows": 23,
+      "lap_rows": 217
+    },
+    {
+      "event": "MAL",
+      "class": "MotoGP",
+      "type": "RAC",
+      "number": null,
+      "session_uuid": "c368f212-a02a-433f-a649-2aeb5bd71924",
+      "qualifying_rows": 0,
+      "fastest_lap_rows": 23,
+      "grid_rows": 23,
+      "lap_rows": 429
+    }
+  ],
+  "limits": [
+    "Published grids are not proof of actual grid occupancy or pit-lane starts.",
+    "Q1/Q2 times are separate; do not rank the whole grid by minimum Q1/Q2 time.",
+    "Historical circuit records are not current-session fastest laps.",
+    "Unparsed timing documents are withheld; source URLs and reasons are retained.",
+    "No historical coverage beyond 2025 is claimed."
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "snapshot_date": "2026-10-11",
+  "validation": "Source identity/key/foreign-reference/country/length/date checks; 11549 generated SQL rows round-tripped; Python SQL regeneration byte-identical. SQL Server execution not performed.",
+  "files": {
+    "08_import_riders.sql": {
+      "bytes": 3940600,
+      "sha256": "c12316eda85f4fc4d7013bc86ec84ded9d902951759df50627fec4e0f4919ff9"
+    },
+    "09_explore_riders.sql": {
+      "bytes": 1498,
+      "sha256": "d82eba9b75d1ff54537be2a2a36d7d7f93197938bb288d167805558696bd1b69"
+    },
+    "README.md": {
+      "bytes": 10160,
+      "sha256": "89a5db804cea2549eb425ce935119079b507b583017207adc86fe92b4ff15795"
+    },
+    "build_sql.py": {
+      "bytes": 8273,
+      "sha256": "d0a58cd6df12723a84cd374350d66be349a86e47fc09526b17a0a0da52a7347e"
+    },
+    "coverage.json": {
+      "bytes": 66576,
+      "sha256": "daa1f965e73d181967a5452375c70e9459e7517398aefed4a55d915c2a5b24f9"
+    },
+    "data_issues.json": {
+      "bytes": 867,
+      "sha256": "39fa06a67895c802af782f0e84d5e8fbb2fb183426396c57996f557880ec3bc3"
+    },
+    "identity_review.json": {
+      "bytes": 2064,
+      "sha256": "411ff7fdbec50d7a5291400eddee469d76a1b437e712db6eee091b96a47f258a"
+    },
+    "rider_list.md": {
+      "bytes": 159696,
+      "sha256": "971422dbcbd1a217b328e0ae7bfbc20bcb04c6bfad837fec9a7603a04f45bef7"
+    },
+    "rider_season_records.json": {
+      "bytes": 5687168,
+      "sha256": "9db5ea3a0438cfece950687da48023c117f4741c75b7cebe96db6b5bc04504f8"
+    },
+    "riders.json": {
+      "bytes": 1522324,
+      "sha256": "35b37d5ce4616a5fba639a32f01542d23f908c3989895ee75f2d62085f27dcb9"
+    },
+    "supplementary_participation.json": {
+      "bytes": 10965,
+      "sha256": "796215ede0f89aa77d1e4dedbcdd7368add972329d94a7394241830d1b87db31"
+    }
+  }
+}

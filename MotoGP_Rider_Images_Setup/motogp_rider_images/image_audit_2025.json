@@ -1,0 +1,120 @@
+{
+  "year": 2025,
+  "built_at": "2026-10-13T21:49:54.384831+00:00",
+  "rider_season_class_rows": 137,
+  "displayable_photos": 132,
+  "status_counts": {
+    "VERIFIED": 132,
+    "UNDATED_IMAGE_REVIEW": 1,
+    "MISSING": 4
+  },
+  "by_class": {
+    "Moto2": {
+      "VERIFIED": 42,
+      "UNDATED_IMAGE_REVIEW": 1,
+      "MISSING": 1
+    },
+    "Moto3": {
+      "VERIFIED": 41,
+      "MISSING": 1
+    },
+    "MotoE": {
+      "VERIFIED": 19
+    },
+    "MotoGP": {
+      "VERIFIED": 30,
+      "MISSING": 2
+    }
+  },
+  "source_problems": [],
+  "exceptions": [
+    {
+      "source_rider_uuid": "57787b04-f675-4877-a72a-b5340a45109a",
+      "season_year": 2025,
+      "class_name": "Moto2",
+      "source_display_name": "Alex Escrig",
+      "source_team_name": "KLINT Forward Factory Team",
+      "rider_number": 11,
+      "candidate_image_url": "https://photos.motogp.com/riders/5/7/57787b04-f675-4877-a72a-b5340a45109a/profile/main/11_Alex_Escrig_Moto2_Rider_DS_2368.png",
+      "image_url": null,
+      "image_status": "UNDATED_IMAGE_REVIEW",
+      "season_evidence": "ROSTER_ASSOCIATION_ONLY",
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2025&category=ea854a67-73a4-4a28-ac77-d67b3b2a530a",
+      "retrieved_at": "2026-10-13T21:45:36.511775+00:00",
+      "checked_at": "2026-10-13T21:45:30.132648+00:00",
+      "image_sha256": "2b5cff5364b375aa53627c989c161dd852debf6a1c4053dec093994790e75449"
+    },
+    {
+      "source_rider_uuid": "a9573361-93d6-4e1b-80cc-1023df2e4338",
+      "season_year": 2025,
+      "class_name": "Moto2",
+      "source_display_name": "Hector Garzo",
+      "source_team_name": "RW NTS Idrofoglia",
+      "rider_number": 22,
+      "candidate_image_url": null,
+      "image_url": null,
+      "image_status": "MISSING",
+      "season_evidence": "NONE",
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2025&category=ea854a67-73a4-4a28-ac77-d67b3b2a530a",
+      "retrieved_at": "2026-10-13T21:45:36.511775+00:00",
+      "checked_at": null,
+      "image_sha256": null
+    },
+    {
+      "source_rider_uuid": "5c45943b-bce5-4309-95b8-95f27631f8d1",
+      "season_year": 2025,
+      "class_name": "Moto3",
+      "source_display_name": "Jakob Rosenthaler",
+      "source_team_name": "GRYD - MLav Racing",
+      "rider_number": 34,
+      "candidate_image_url": null,
+      "image_url": null,
+      "image_status": "MISSING",
+      "season_evidence": "NONE",
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2025&category=1ab203aa-e292-4842-8bed-971911357af1",
+      "retrieved_at": "2026-10-13T21:45:43.521082+00:00",
+      "checked_at": null,
+      "image_sha256": null
+    },
+    {
+      "source_rider_uuid": "fe9fa956-0cd0-4009-9484-25e7cb5bdf88",
+      "season_year": 2025,
+      "class_name": "MotoGP",
+      "source_display_name": "Andrea Dovizioso",
+      "source_team_name": "Yamaha Factory Racing Team",
+      "rider_number": 4,
+      "candidate_image_url": null,
+      "image_url": null,
+      "image_status": "MISSING",
+      "season_evidence": "NONE",
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2025&category=737ab122-76e1-4081-bedb-334caaa18c70",
+      "retrieved_at": "2026-10-13T21:45:58.568414+00:00",
+      "checked_at": null,
+      "image_sha256": null
+    },
+    {
+      "source_rider_uuid": "15049794-9e9a-45da-a2d5-a52d684914a7",
+      "season_year": 2025,
+      "class_name": "MotoGP",
+      "source_display_name": "Joel Esteban",
+      "source_team_name": "Red Bull KTM Tech3",
+      "rider_number": 78,
+      "candidate_image_url": null,
+      "image_url": null,
+      "image_status": "MISSING",
+      "season_evidence": "NONE",
+      "source_url": "https://riders.motogp.com/api/riders/getRiders?season=2025&category=737ab122-76e1-4081-bedb-334caaa18c70",
+      "retrieved_at": "2026-10-13T21:45:58.568414+00:00",
+      "checked_at": null,
+      "image_sha256": null
+    }
+  ],
+  "limitations": [
+    "Year in URL and season roster association are source evidence, not a visual certification of every team livery.",
+    "Images may change or disappear from their external host.",
+    "Older undated images are withheld from automatic season-specific display.",
+    "Single season/class portraits cannot represent all mid-season team changes.",
+    "No public reuse licence is granted by this dataset.",
+    "SQL Server and Power BI execution require local verification."
+  ]
+}

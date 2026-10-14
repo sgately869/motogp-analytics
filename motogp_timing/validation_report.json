@@ -1,0 +1,29 @@
+{
+  "passed": true,
+  "counts": {
+    "sessions": 248,
+    "entries": 4606,
+    "revisions": 248,
+    "documents": 554,
+    "qualifying": 2026,
+    "records": 805,
+    "fastest": 2281,
+    "grids": 2375,
+    "laps": 37049,
+    "issues": 309
+  },
+  "checks": [
+    "Stable source and relational keys",
+    "SQL string widths, UUIDs, SMALLINT bounds and positive-duration constraints",
+    "248 session classifications and 306 timing PDF documents parsed",
+    "Every published personal best agrees with corresponding individual lap",
+    "Thailand known-value checks",
+    "Australia API/PDF conflict retained and reported using confirmed PDF data",
+    "Hungary unfinished-lap exception retained",
+    "All four classes and race types covered"
+  ],
+  "limitations": [
+    "SQL scripts have not been executed against a live SQL Server.",
+    "Checks establish consistency with supplied archive sources, not independent certification of every historical fact."
+  ]
+}

@@ -1,0 +1,2123 @@
+[
+  {
+    "season": 1949,
+    "class_name": "125cc",
+    "rows": 10,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=72de1fab-255c-4b9a-9d4b-79ce47ab61c5&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1949,
+    "class_name": "500cc",
+    "rows": 14,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=72de1fab-255c-4b9a-9d4b-79ce47ab61c5&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1949,
+    "class_name": "250cc",
+    "rows": 15,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=72de1fab-255c-4b9a-9d4b-79ce47ab61c5&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1949,
+    "class_name": "350cc",
+    "rows": 14,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=72de1fab-255c-4b9a-9d4b-79ce47ab61c5&categoryUuid=211afccf-202f-4643-beb2-471646cfd0d3",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1950,
+    "class_name": "125cc",
+    "rows": 10,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=fc8a9643-cc67-4952-b589-d26eb6f9f855&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1950,
+    "class_name": "500cc",
+    "rows": 17,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=fc8a9643-cc67-4952-b589-d26eb6f9f855&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1950,
+    "class_name": "250cc",
+    "rows": 20,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=fc8a9643-cc67-4952-b589-d26eb6f9f855&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1950,
+    "class_name": "350cc",
+    "rows": 14,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=fc8a9643-cc67-4952-b589-d26eb6f9f855&categoryUuid=211afccf-202f-4643-beb2-471646cfd0d3",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1951,
+    "class_name": "125cc",
+    "rows": 17,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=296ab92c-cd8d-48ba-ace1-aad1455d557f&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1951,
+    "class_name": "500cc",
+    "rows": 25,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=296ab92c-cd8d-48ba-ace1-aad1455d557f&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1951,
+    "class_name": "250cc",
+    "rows": 0,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=296ab92c-cd8d-48ba-ace1-aad1455d557f&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1951,
+    "class_name": "350cc",
+    "rows": 22,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=296ab92c-cd8d-48ba-ace1-aad1455d557f&categoryUuid=211afccf-202f-4643-beb2-471646cfd0d3",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1952,
+    "class_name": "125cc",
+    "rows": 17,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=fbfa8959-79b0-4ec1-8ae1-d9082d0233da&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1952,
+    "class_name": "500cc",
+    "rows": 19,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=fbfa8959-79b0-4ec1-8ae1-d9082d0233da&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1952,
+    "class_name": "250cc",
+    "rows": 22,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=fbfa8959-79b0-4ec1-8ae1-d9082d0233da&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1952,
+    "class_name": "350cc",
+    "rows": 16,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=fbfa8959-79b0-4ec1-8ae1-d9082d0233da&categoryUuid=211afccf-202f-4643-beb2-471646cfd0d3",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1953,
+    "class_name": "125cc",
+    "rows": 0,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=f3cd4e65-3deb-4fac-9755-3360324b2bed&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1953,
+    "class_name": "500cc",
+    "rows": 20,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=f3cd4e65-3deb-4fac-9755-3360324b2bed&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1953,
+    "class_name": "250cc",
+    "rows": 16,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=f3cd4e65-3deb-4fac-9755-3360324b2bed&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1953,
+    "class_name": "350cc",
+    "rows": 23,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=f3cd4e65-3deb-4fac-9755-3360324b2bed&categoryUuid=211afccf-202f-4643-beb2-471646cfd0d3",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1954,
+    "class_name": "125cc",
+    "rows": 0,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=c8497a73-5ac9-4e4d-bc69-3e0bd93d7907&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1954,
+    "class_name": "500cc",
+    "rows": 23,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=c8497a73-5ac9-4e4d-bc69-3e0bd93d7907&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1954,
+    "class_name": "250cc",
+    "rows": 21,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=c8497a73-5ac9-4e4d-bc69-3e0bd93d7907&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1954,
+    "class_name": "350cc",
+    "rows": 0,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=c8497a73-5ac9-4e4d-bc69-3e0bd93d7907&categoryUuid=211afccf-202f-4643-beb2-471646cfd0d3",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1955,
+    "class_name": "125cc",
+    "rows": 0,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=e93dc09a-1035-4c14-bd0e-0ae762aad51b&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1955,
+    "class_name": "500cc",
+    "rows": 32,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=e93dc09a-1035-4c14-bd0e-0ae762aad51b&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1955,
+    "class_name": "250cc",
+    "rows": 15,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=e93dc09a-1035-4c14-bd0e-0ae762aad51b&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1955,
+    "class_name": "350cc",
+    "rows": 18,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=e93dc09a-1035-4c14-bd0e-0ae762aad51b&categoryUuid=211afccf-202f-4643-beb2-471646cfd0d3",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1956,
+    "class_name": "125cc",
+    "rows": 21,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=5272bf19-bfe0-4017-b7e7-9754b1ee9aa7&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1956,
+    "class_name": "500cc",
+    "rows": 23,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=5272bf19-bfe0-4017-b7e7-9754b1ee9aa7&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1956,
+    "class_name": "250cc",
+    "rows": 20,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=5272bf19-bfe0-4017-b7e7-9754b1ee9aa7&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1956,
+    "class_name": "350cc",
+    "rows": 19,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=5272bf19-bfe0-4017-b7e7-9754b1ee9aa7&categoryUuid=211afccf-202f-4643-beb2-471646cfd0d3",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1957,
+    "class_name": "125cc",
+    "rows": 0,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=fdbe09f1-381c-43eb-bdf0-c035068f3f32&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1957,
+    "class_name": "500cc",
+    "rows": 19,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=fdbe09f1-381c-43eb-bdf0-c035068f3f32&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1957,
+    "class_name": "250cc",
+    "rows": 21,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=fdbe09f1-381c-43eb-bdf0-c035068f3f32&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1957,
+    "class_name": "350cc",
+    "rows": 17,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=fdbe09f1-381c-43eb-bdf0-c035068f3f32&categoryUuid=211afccf-202f-4643-beb2-471646cfd0d3",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1958,
+    "class_name": "125cc",
+    "rows": 15,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=cb64a721-de5b-4fc4-a543-b15c5e5dcf6a&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1958,
+    "class_name": "500cc",
+    "rows": 17,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=cb64a721-de5b-4fc4-a543-b15c5e5dcf6a&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1958,
+    "class_name": "250cc",
+    "rows": 21,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=cb64a721-de5b-4fc4-a543-b15c5e5dcf6a&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1958,
+    "class_name": "350cc",
+    "rows": 19,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=cb64a721-de5b-4fc4-a543-b15c5e5dcf6a&categoryUuid=211afccf-202f-4643-beb2-471646cfd0d3",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1959,
+    "class_name": "125cc",
+    "rows": 17,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=438fc379-7133-47fa-9b73-d8d217f42b88&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1959,
+    "class_name": "500cc",
+    "rows": 17,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=438fc379-7133-47fa-9b73-d8d217f42b88&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1959,
+    "class_name": "250cc",
+    "rows": 18,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=438fc379-7133-47fa-9b73-d8d217f42b88&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1959,
+    "class_name": "350cc",
+    "rows": 18,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=438fc379-7133-47fa-9b73-d8d217f42b88&categoryUuid=211afccf-202f-4643-beb2-471646cfd0d3",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1960,
+    "class_name": "125cc",
+    "rows": 13,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=0aaccf7d-e525-4505-85aa-ae6e57c60bd8&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1960,
+    "class_name": "500cc",
+    "rows": 16,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=0aaccf7d-e525-4505-85aa-ae6e57c60bd8&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1960,
+    "class_name": "250cc",
+    "rows": 19,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=0aaccf7d-e525-4505-85aa-ae6e57c60bd8&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1960,
+    "class_name": "350cc",
+    "rows": 14,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=0aaccf7d-e525-4505-85aa-ae6e57c60bd8&categoryUuid=211afccf-202f-4643-beb2-471646cfd0d3",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1961,
+    "class_name": "125cc",
+    "rows": 21,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=690cd02f-f143-4efd-9198-05bbd64bb86a&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1961,
+    "class_name": "500cc",
+    "rows": 32,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=690cd02f-f143-4efd-9198-05bbd64bb86a&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1961,
+    "class_name": "250cc",
+    "rows": 19,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=690cd02f-f143-4efd-9198-05bbd64bb86a&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1961,
+    "class_name": "350cc",
+    "rows": 7,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=690cd02f-f143-4efd-9198-05bbd64bb86a&categoryUuid=211afccf-202f-4643-beb2-471646cfd0d3",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1962,
+    "class_name": "125cc",
+    "rows": 29,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=03b2bfac-203c-4b1f-8656-0cbb8c6d7961&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1962,
+    "class_name": "500cc",
+    "rows": 28,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=03b2bfac-203c-4b1f-8656-0cbb8c6d7961&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1962,
+    "class_name": "250cc",
+    "rows": 32,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=03b2bfac-203c-4b1f-8656-0cbb8c6d7961&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1962,
+    "class_name": "50cc",
+    "rows": 16,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=03b2bfac-203c-4b1f-8656-0cbb8c6d7961&categoryUuid=7f223edb-86d6-462d-a3fa-8efbf0f2fc51",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1962,
+    "class_name": "350cc",
+    "rows": 18,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=03b2bfac-203c-4b1f-8656-0cbb8c6d7961&categoryUuid=211afccf-202f-4643-beb2-471646cfd0d3",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1963,
+    "class_name": "125cc",
+    "rows": 25,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=473191ae-cd39-443c-bf30-920403670c07&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1963,
+    "class_name": "500cc",
+    "rows": 24,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=473191ae-cd39-443c-bf30-920403670c07&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1963,
+    "class_name": "250cc",
+    "rows": 25,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=473191ae-cd39-443c-bf30-920403670c07&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1963,
+    "class_name": "50cc",
+    "rows": 18,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=473191ae-cd39-443c-bf30-920403670c07&categoryUuid=7f223edb-86d6-462d-a3fa-8efbf0f2fc51",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1963,
+    "class_name": "350cc",
+    "rows": 20,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=473191ae-cd39-443c-bf30-920403670c07&categoryUuid=211afccf-202f-4643-beb2-471646cfd0d3",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1964,
+    "class_name": "125cc",
+    "rows": 30,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=3ff1f0bb-074a-4a8b-94b7-eb536c6589ff&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1964,
+    "class_name": "500cc",
+    "rows": 23,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=3ff1f0bb-074a-4a8b-94b7-eb536c6589ff&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1964,
+    "class_name": "250cc",
+    "rows": 29,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=3ff1f0bb-074a-4a8b-94b7-eb536c6589ff&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1964,
+    "class_name": "50cc",
+    "rows": 17,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=3ff1f0bb-074a-4a8b-94b7-eb536c6589ff&categoryUuid=7f223edb-86d6-462d-a3fa-8efbf0f2fc51",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1964,
+    "class_name": "350cc",
+    "rows": 23,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=3ff1f0bb-074a-4a8b-94b7-eb536c6589ff&categoryUuid=211afccf-202f-4643-beb2-471646cfd0d3",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1965,
+    "class_name": "125cc",
+    "rows": 0,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=3625dc59-bf95-4c13-96b1-56e3064ff62e&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1965,
+    "class_name": "500cc",
+    "rows": 30,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=3625dc59-bf95-4c13-96b1-56e3064ff62e&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1965,
+    "class_name": "250cc",
+    "rows": 33,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=3625dc59-bf95-4c13-96b1-56e3064ff62e&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1965,
+    "class_name": "50cc",
+    "rows": 18,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=3625dc59-bf95-4c13-96b1-56e3064ff62e&categoryUuid=7f223edb-86d6-462d-a3fa-8efbf0f2fc51",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1965,
+    "class_name": "350cc",
+    "rows": 26,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=3625dc59-bf95-4c13-96b1-56e3064ff62e&categoryUuid=211afccf-202f-4643-beb2-471646cfd0d3",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1966,
+    "class_name": "125cc",
+    "rows": 21,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=05f340dd-61dd-4673-b1a9-1ec6d92b93e3&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1966,
+    "class_name": "500cc",
+    "rows": 21,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=05f340dd-61dd-4673-b1a9-1ec6d92b93e3&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1966,
+    "class_name": "250cc",
+    "rows": 29,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=05f340dd-61dd-4673-b1a9-1ec6d92b93e3&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1966,
+    "class_name": "50cc",
+    "rows": 16,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=05f340dd-61dd-4673-b1a9-1ec6d92b93e3&categoryUuid=7f223edb-86d6-462d-a3fa-8efbf0f2fc51",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1966,
+    "class_name": "350cc",
+    "rows": 27,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=05f340dd-61dd-4673-b1a9-1ec6d92b93e3&categoryUuid=211afccf-202f-4643-beb2-471646cfd0d3",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1967,
+    "class_name": "125cc",
+    "rows": 35,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=7b04bc94-fa67-472b-88cf-76563ebd5be6&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1967,
+    "class_name": "500cc",
+    "rows": 26,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=7b04bc94-fa67-472b-88cf-76563ebd5be6&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1967,
+    "class_name": "250cc",
+    "rows": 25,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=7b04bc94-fa67-472b-88cf-76563ebd5be6&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1967,
+    "class_name": "50cc",
+    "rows": 20,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=7b04bc94-fa67-472b-88cf-76563ebd5be6&categoryUuid=7f223edb-86d6-462d-a3fa-8efbf0f2fc51",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1967,
+    "class_name": "350cc",
+    "rows": 19,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=7b04bc94-fa67-472b-88cf-76563ebd5be6&categoryUuid=211afccf-202f-4643-beb2-471646cfd0d3",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1968,
+    "class_name": "125cc",
+    "rows": 26,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=c01c1c33-6457-4755-b1ba-6fd23bf73563&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1968,
+    "class_name": "500cc",
+    "rows": 27,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=c01c1c33-6457-4755-b1ba-6fd23bf73563&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1968,
+    "class_name": "250cc",
+    "rows": 19,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=c01c1c33-6457-4755-b1ba-6fd23bf73563&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1968,
+    "class_name": "50cc",
+    "rows": 20,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=c01c1c33-6457-4755-b1ba-6fd23bf73563&categoryUuid=7f223edb-86d6-462d-a3fa-8efbf0f2fc51",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1968,
+    "class_name": "350cc",
+    "rows": 18,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=c01c1c33-6457-4755-b1ba-6fd23bf73563&categoryUuid=211afccf-202f-4643-beb2-471646cfd0d3",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1969,
+    "class_name": "125cc",
+    "rows": 54,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=3826b414-4a3b-4674-90e1-94f7ff3dc9bc&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1969,
+    "class_name": "500cc",
+    "rows": 56,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=3826b414-4a3b-4674-90e1-94f7ff3dc9bc&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1969,
+    "class_name": "250cc",
+    "rows": 52,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=3826b414-4a3b-4674-90e1-94f7ff3dc9bc&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1969,
+    "class_name": "50cc",
+    "rows": 40,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=3826b414-4a3b-4674-90e1-94f7ff3dc9bc&categoryUuid=7f223edb-86d6-462d-a3fa-8efbf0f2fc51",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1969,
+    "class_name": "350cc",
+    "rows": 51,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=3826b414-4a3b-4674-90e1-94f7ff3dc9bc&categoryUuid=211afccf-202f-4643-beb2-471646cfd0d3",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1970,
+    "class_name": "125cc",
+    "rows": 58,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=fea3cb28-5c7c-4888-8dae-6e851259775a&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1970,
+    "class_name": "500cc",
+    "rows": 49,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=fea3cb28-5c7c-4888-8dae-6e851259775a&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1970,
+    "class_name": "250cc",
+    "rows": 48,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=fea3cb28-5c7c-4888-8dae-6e851259775a&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1970,
+    "class_name": "50cc",
+    "rows": 37,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=fea3cb28-5c7c-4888-8dae-6e851259775a&categoryUuid=7f223edb-86d6-462d-a3fa-8efbf0f2fc51",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1970,
+    "class_name": "350cc",
+    "rows": 47,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=fea3cb28-5c7c-4888-8dae-6e851259775a&categoryUuid=211afccf-202f-4643-beb2-471646cfd0d3",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1971,
+    "class_name": "125cc",
+    "rows": 45,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=14cd72be-713f-474d-a6af-cc57ca58f252&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1971,
+    "class_name": "500cc",
+    "rows": 51,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=14cd72be-713f-474d-a6af-cc57ca58f252&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1971,
+    "class_name": "250cc",
+    "rows": 49,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=14cd72be-713f-474d-a6af-cc57ca58f252&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1971,
+    "class_name": "50cc",
+    "rows": 35,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=14cd72be-713f-474d-a6af-cc57ca58f252&categoryUuid=7f223edb-86d6-462d-a3fa-8efbf0f2fc51",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1971,
+    "class_name": "350cc",
+    "rows": 59,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=14cd72be-713f-474d-a6af-cc57ca58f252&categoryUuid=211afccf-202f-4643-beb2-471646cfd0d3",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1972,
+    "class_name": "125cc",
+    "rows": 52,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=a13b4cfc-89a9-47d5-9734-af4d61bf8b90&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1972,
+    "class_name": "500cc",
+    "rows": 51,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=a13b4cfc-89a9-47d5-9734-af4d61bf8b90&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1972,
+    "class_name": "250cc",
+    "rows": 48,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=a13b4cfc-89a9-47d5-9734-af4d61bf8b90&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1972,
+    "class_name": "50cc",
+    "rows": 42,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=a13b4cfc-89a9-47d5-9734-af4d61bf8b90&categoryUuid=7f223edb-86d6-462d-a3fa-8efbf0f2fc51",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1972,
+    "class_name": "350cc",
+    "rows": 41,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=a13b4cfc-89a9-47d5-9734-af4d61bf8b90&categoryUuid=211afccf-202f-4643-beb2-471646cfd0d3",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1973,
+    "class_name": "125cc",
+    "rows": 50,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=e39a9e8b-7aa8-4d8d-9372-91091f15d98b&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1973,
+    "class_name": "500cc",
+    "rows": 52,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=e39a9e8b-7aa8-4d8d-9372-91091f15d98b&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1973,
+    "class_name": "250cc",
+    "rows": 47,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=e39a9e8b-7aa8-4d8d-9372-91091f15d98b&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1973,
+    "class_name": "50cc",
+    "rows": 30,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=e39a9e8b-7aa8-4d8d-9372-91091f15d98b&categoryUuid=7f223edb-86d6-462d-a3fa-8efbf0f2fc51",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1973,
+    "class_name": "350cc",
+    "rows": 44,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=e39a9e8b-7aa8-4d8d-9372-91091f15d98b&categoryUuid=211afccf-202f-4643-beb2-471646cfd0d3",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1974,
+    "class_name": "125cc",
+    "rows": 46,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=7a7c657c-401c-4946-8ee7-f1c66990b608&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1974,
+    "class_name": "500cc",
+    "rows": 37,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=7a7c657c-401c-4946-8ee7-f1c66990b608&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1974,
+    "class_name": "250cc",
+    "rows": 46,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=7a7c657c-401c-4946-8ee7-f1c66990b608&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1974,
+    "class_name": "50cc",
+    "rows": 32,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=7a7c657c-401c-4946-8ee7-f1c66990b608&categoryUuid=7f223edb-86d6-462d-a3fa-8efbf0f2fc51",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1974,
+    "class_name": "350cc",
+    "rows": 50,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=7a7c657c-401c-4946-8ee7-f1c66990b608&categoryUuid=211afccf-202f-4643-beb2-471646cfd0d3",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1975,
+    "class_name": "125cc",
+    "rows": 37,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=82e72174-0426-4b33-af3f-e2f2e3f413e2&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1975,
+    "class_name": "500cc",
+    "rows": 53,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=82e72174-0426-4b33-af3f-e2f2e3f413e2&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1975,
+    "class_name": "250cc",
+    "rows": 41,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=82e72174-0426-4b33-af3f-e2f2e3f413e2&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1975,
+    "class_name": "50cc",
+    "rows": 32,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=82e72174-0426-4b33-af3f-e2f2e3f413e2&categoryUuid=7f223edb-86d6-462d-a3fa-8efbf0f2fc51",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1975,
+    "class_name": "350cc",
+    "rows": 51,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=82e72174-0426-4b33-af3f-e2f2e3f413e2&categoryUuid=211afccf-202f-4643-beb2-471646cfd0d3",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1976,
+    "class_name": "125cc",
+    "rows": 35,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=357e99b8-cc05-4fcd-b11d-2edfbb019809&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1976,
+    "class_name": "500cc",
+    "rows": 44,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=357e99b8-cc05-4fcd-b11d-2edfbb019809&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1976,
+    "class_name": "250cc",
+    "rows": 37,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=357e99b8-cc05-4fcd-b11d-2edfbb019809&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1976,
+    "class_name": "50cc",
+    "rows": 27,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=357e99b8-cc05-4fcd-b11d-2edfbb019809&categoryUuid=7f223edb-86d6-462d-a3fa-8efbf0f2fc51",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1976,
+    "class_name": "350cc",
+    "rows": 39,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=357e99b8-cc05-4fcd-b11d-2edfbb019809&categoryUuid=211afccf-202f-4643-beb2-471646cfd0d3",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1977,
+    "class_name": "125cc",
+    "rows": 37,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=f64bbe89-30bb-461c-acdc-cca30b21fed7&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1977,
+    "class_name": "500cc",
+    "rows": 32,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=f64bbe89-30bb-461c-acdc-cca30b21fed7&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1977,
+    "class_name": "250cc",
+    "rows": 35,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=f64bbe89-30bb-461c-acdc-cca30b21fed7&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1977,
+    "class_name": "50cc",
+    "rows": 30,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=f64bbe89-30bb-461c-acdc-cca30b21fed7&categoryUuid=7f223edb-86d6-462d-a3fa-8efbf0f2fc51",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1977,
+    "class_name": "350cc",
+    "rows": 40,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=f64bbe89-30bb-461c-acdc-cca30b21fed7&categoryUuid=211afccf-202f-4643-beb2-471646cfd0d3",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1978,
+    "class_name": "125cc",
+    "rows": 34,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=2ab6e465-bc0d-40a5-be66-fe0dbf0e6ab2&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1978,
+    "class_name": "500cc",
+    "rows": 31,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=2ab6e465-bc0d-40a5-be66-fe0dbf0e6ab2&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1978,
+    "class_name": "250cc",
+    "rows": 34,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=2ab6e465-bc0d-40a5-be66-fe0dbf0e6ab2&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1978,
+    "class_name": "50cc",
+    "rows": 28,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=2ab6e465-bc0d-40a5-be66-fe0dbf0e6ab2&categoryUuid=7f223edb-86d6-462d-a3fa-8efbf0f2fc51",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1978,
+    "class_name": "350cc",
+    "rows": 31,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=2ab6e465-bc0d-40a5-be66-fe0dbf0e6ab2&categoryUuid=211afccf-202f-4643-beb2-471646cfd0d3",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1979,
+    "class_name": "125cc",
+    "rows": 0,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=6339eb76-3390-4312-8c83-43a9512c8c25&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1979,
+    "class_name": "500cc",
+    "rows": 40,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=6339eb76-3390-4312-8c83-43a9512c8c25&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1979,
+    "class_name": "250cc",
+    "rows": 39,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=6339eb76-3390-4312-8c83-43a9512c8c25&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1979,
+    "class_name": "50cc",
+    "rows": 30,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=6339eb76-3390-4312-8c83-43a9512c8c25&categoryUuid=7f223edb-86d6-462d-a3fa-8efbf0f2fc51",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1979,
+    "class_name": "350cc",
+    "rows": 38,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=6339eb76-3390-4312-8c83-43a9512c8c25&categoryUuid=211afccf-202f-4643-beb2-471646cfd0d3",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1980,
+    "class_name": "125cc",
+    "rows": 32,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=a6215585-eab4-4100-9b8a-365f4e056805&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1980,
+    "class_name": "500cc",
+    "rows": 27,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=a6215585-eab4-4100-9b8a-365f4e056805&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1980,
+    "class_name": "250cc",
+    "rows": 36,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=a6215585-eab4-4100-9b8a-365f4e056805&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1980,
+    "class_name": "50cc",
+    "rows": 21,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=a6215585-eab4-4100-9b8a-365f4e056805&categoryUuid=7f223edb-86d6-462d-a3fa-8efbf0f2fc51",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1980,
+    "class_name": "350cc",
+    "rows": 25,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=a6215585-eab4-4100-9b8a-365f4e056805&categoryUuid=211afccf-202f-4643-beb2-471646cfd0d3",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1981,
+    "class_name": "125cc",
+    "rows": 38,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=8a939600-760d-440f-8e45-0c18d73631e1&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1981,
+    "class_name": "500cc",
+    "rows": 29,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=8a939600-760d-440f-8e45-0c18d73631e1&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1981,
+    "class_name": "250cc",
+    "rows": 34,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=8a939600-760d-440f-8e45-0c18d73631e1&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1981,
+    "class_name": "50cc",
+    "rows": 24,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=8a939600-760d-440f-8e45-0c18d73631e1&categoryUuid=7f223edb-86d6-462d-a3fa-8efbf0f2fc51",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1981,
+    "class_name": "350cc",
+    "rows": 34,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=8a939600-760d-440f-8e45-0c18d73631e1&categoryUuid=211afccf-202f-4643-beb2-471646cfd0d3",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1982,
+    "class_name": "125cc",
+    "rows": 31,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=502d13a9-3f2e-4e51-aa0f-0a6de157a170&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1982,
+    "class_name": "500cc",
+    "rows": 30,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=502d13a9-3f2e-4e51-aa0f-0a6de157a170&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1982,
+    "class_name": "250cc",
+    "rows": 34,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=502d13a9-3f2e-4e51-aa0f-0a6de157a170&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1982,
+    "class_name": "50cc",
+    "rows": 23,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=502d13a9-3f2e-4e51-aa0f-0a6de157a170&categoryUuid=7f223edb-86d6-462d-a3fa-8efbf0f2fc51",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1982,
+    "class_name": "350cc",
+    "rows": 35,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=502d13a9-3f2e-4e51-aa0f-0a6de157a170&categoryUuid=211afccf-202f-4643-beb2-471646cfd0d3",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1983,
+    "class_name": "125cc",
+    "rows": 0,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=17a1aefb-dd07-4fb9-bf03-05e1efd28435&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1983,
+    "class_name": "500cc",
+    "rows": 20,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=17a1aefb-dd07-4fb9-bf03-05e1efd28435&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1983,
+    "class_name": "250cc",
+    "rows": 32,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=17a1aefb-dd07-4fb9-bf03-05e1efd28435&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1983,
+    "class_name": "50cc",
+    "rows": 25,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=17a1aefb-dd07-4fb9-bf03-05e1efd28435&categoryUuid=7f223edb-86d6-462d-a3fa-8efbf0f2fc51",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1984,
+    "class_name": "125cc",
+    "rows": 0,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=9e96c443-0c9f-4f67-a3a0-d678cfeab933&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1984,
+    "class_name": "500cc",
+    "rows": 29,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=9e96c443-0c9f-4f67-a3a0-d678cfeab933&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1984,
+    "class_name": "250cc",
+    "rows": 29,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=9e96c443-0c9f-4f67-a3a0-d678cfeab933&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1984,
+    "class_name": "80cc",
+    "rows": 22,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=9e96c443-0c9f-4f67-a3a0-d678cfeab933&categoryUuid=9169fbb9-6ca5-402a-8388-788a9288c560",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1985,
+    "class_name": "125cc",
+    "rows": 26,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=d6747634-7a17-4e50-a5a4-71fdcd5b65bb&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1985,
+    "class_name": "500cc",
+    "rows": 27,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=d6747634-7a17-4e50-a5a4-71fdcd5b65bb&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1985,
+    "class_name": "250cc",
+    "rows": 32,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=d6747634-7a17-4e50-a5a4-71fdcd5b65bb&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1985,
+    "class_name": "80cc",
+    "rows": 25,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=d6747634-7a17-4e50-a5a4-71fdcd5b65bb&categoryUuid=9169fbb9-6ca5-402a-8388-788a9288c560",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1986,
+    "class_name": "125cc",
+    "rows": 22,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=8dd7d599-ac03-4486-8d46-edf2edc3146d&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1986,
+    "class_name": "500cc",
+    "rows": 24,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=8dd7d599-ac03-4486-8d46-edf2edc3146d&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1986,
+    "class_name": "250cc",
+    "rows": 24,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=8dd7d599-ac03-4486-8d46-edf2edc3146d&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1986,
+    "class_name": "80cc",
+    "rows": 24,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=8dd7d599-ac03-4486-8d46-edf2edc3146d&categoryUuid=9169fbb9-6ca5-402a-8388-788a9288c560",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1987,
+    "class_name": "125cc",
+    "rows": 27,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=1b77d8dc-001c-40cc-8a71-8ccd5ef96214&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1987,
+    "class_name": "500cc",
+    "rows": 24,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=1b77d8dc-001c-40cc-8a71-8ccd5ef96214&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1987,
+    "class_name": "250cc",
+    "rows": 27,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=1b77d8dc-001c-40cc-8a71-8ccd5ef96214&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1987,
+    "class_name": "80cc",
+    "rows": 26,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=1b77d8dc-001c-40cc-8a71-8ccd5ef96214&categoryUuid=9169fbb9-6ca5-402a-8388-788a9288c560",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1988,
+    "class_name": "125cc",
+    "rows": 40,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=b9332591-9e09-441e-938b-9396daf74930&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1988,
+    "class_name": "500cc",
+    "rows": 41,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=b9332591-9e09-441e-938b-9396daf74930&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1988,
+    "class_name": "250cc",
+    "rows": 48,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=b9332591-9e09-441e-938b-9396daf74930&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1988,
+    "class_name": "80cc",
+    "rows": 32,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=b9332591-9e09-441e-938b-9396daf74930&categoryUuid=9169fbb9-6ca5-402a-8388-788a9288c560",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1989,
+    "class_name": "125cc",
+    "rows": 46,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=e6dac447-28af-4394-a570-93d33d138cc9&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1989,
+    "class_name": "500cc",
+    "rows": 46,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=e6dac447-28af-4394-a570-93d33d138cc9&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1989,
+    "class_name": "250cc",
+    "rows": 0,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=e6dac447-28af-4394-a570-93d33d138cc9&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1989,
+    "class_name": "80cc",
+    "rows": 33,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=e6dac447-28af-4394-a570-93d33d138cc9&categoryUuid=9169fbb9-6ca5-402a-8388-788a9288c560",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1990,
+    "class_name": "125cc",
+    "rows": 40,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=79ccac73-5093-489c-9d37-e77a005723f9&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1990,
+    "class_name": "500cc",
+    "rows": 36,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=79ccac73-5093-489c-9d37-e77a005723f9&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1990,
+    "class_name": "250cc",
+    "rows": 47,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=79ccac73-5093-489c-9d37-e77a005723f9&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1991,
+    "class_name": "125cc",
+    "rows": 39,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=af5f5823-349b-40ba-b3a5-4ecd9f7f167e&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1991,
+    "class_name": "500cc",
+    "rows": 31,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=af5f5823-349b-40ba-b3a5-4ecd9f7f167e&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1991,
+    "class_name": "250cc",
+    "rows": 41,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=af5f5823-349b-40ba-b3a5-4ecd9f7f167e&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1992,
+    "class_name": "125cc",
+    "rows": 22,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=7163a8f0-30a6-4265-99af-d0f8d8002265&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1992,
+    "class_name": "500cc",
+    "rows": 28,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=7163a8f0-30a6-4265-99af-d0f8d8002265&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1992,
+    "class_name": "250cc",
+    "rows": 27,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=7163a8f0-30a6-4265-99af-d0f8d8002265&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1993,
+    "class_name": "125cc",
+    "rows": 35,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=42940628-e094-4932-ae21-d4dc4c339ecb&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1993,
+    "class_name": "500cc",
+    "rows": 40,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=42940628-e094-4932-ae21-d4dc4c339ecb&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1993,
+    "class_name": "250cc",
+    "rows": 34,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=42940628-e094-4932-ae21-d4dc4c339ecb&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1994,
+    "class_name": "125cc",
+    "rows": 33,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=8e97de51-4291-4162-8952-e222ee738041&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1994,
+    "class_name": "500cc",
+    "rows": 33,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=8e97de51-4291-4162-8952-e222ee738041&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1994,
+    "class_name": "250cc",
+    "rows": 31,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=8e97de51-4291-4162-8952-e222ee738041&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1995,
+    "class_name": "125cc",
+    "rows": 0,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=5518c28f-48db-423f-8241-b2fe0654ee19&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1995,
+    "class_name": "500cc",
+    "rows": 32,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=5518c28f-48db-423f-8241-b2fe0654ee19&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1995,
+    "class_name": "250cc",
+    "rows": 0,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=5518c28f-48db-423f-8241-b2fe0654ee19&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1996,
+    "class_name": "125cc",
+    "rows": 33,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=907eee47-4666-4cd4-b41e-b2278821b8f3&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1996,
+    "class_name": "500cc",
+    "rows": 32,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=907eee47-4666-4cd4-b41e-b2278821b8f3&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1996,
+    "class_name": "250cc",
+    "rows": 0,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=907eee47-4666-4cd4-b41e-b2278821b8f3&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1997,
+    "class_name": "125cc",
+    "rows": 31,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=6288b239-6282-4411-86db-9dbdbf0351b3&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1997,
+    "class_name": "500cc",
+    "rows": 29,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=6288b239-6282-4411-86db-9dbdbf0351b3&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1997,
+    "class_name": "250cc",
+    "rows": 38,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=6288b239-6282-4411-86db-9dbdbf0351b3&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1998,
+    "class_name": "125cc",
+    "rows": 34,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=a61f83c3-8a0f-446f-b48e-b468fb5c6476&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1998,
+    "class_name": "500cc",
+    "rows": 34,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=a61f83c3-8a0f-446f-b48e-b468fb5c6476&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1998,
+    "class_name": "250cc",
+    "rows": 38,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=a61f83c3-8a0f-446f-b48e-b468fb5c6476&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1999,
+    "class_name": "125cc",
+    "rows": 33,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=2fd3e95f-5aca-46ba-a8f3-513a36f304b9&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1999,
+    "class_name": "500cc",
+    "rows": 33,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=2fd3e95f-5aca-46ba-a8f3-513a36f304b9&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 1999,
+    "class_name": "250cc",
+    "rows": 31,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=2fd3e95f-5aca-46ba-a8f3-513a36f304b9&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2000,
+    "class_name": "125cc",
+    "rows": 0,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=ef1e2970-0ff9-4933-95ac-404845820462&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2000,
+    "class_name": "500cc",
+    "rows": 31,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=ef1e2970-0ff9-4933-95ac-404845820462&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2000,
+    "class_name": "250cc",
+    "rows": 0,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=ef1e2970-0ff9-4933-95ac-404845820462&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2001,
+    "class_name": "125cc",
+    "rows": 0,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=ddcfcd44-02fe-4370-8904-6b953075caeb&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2001,
+    "class_name": "500cc",
+    "rows": 27,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=ddcfcd44-02fe-4370-8904-6b953075caeb&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2001,
+    "class_name": "250cc",
+    "rows": 32,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=ddcfcd44-02fe-4370-8904-6b953075caeb&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2002,
+    "class_name": "125cc",
+    "rows": 37,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=445a3d24-886b-48c2-97f7-73af994ffec0&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2002,
+    "class_name": "MotoGP",
+    "rows": 27,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=445a3d24-886b-48c2-97f7-73af994ffec0&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2002,
+    "class_name": "250cc",
+    "rows": 36,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=445a3d24-886b-48c2-97f7-73af994ffec0&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2003,
+    "class_name": "125cc",
+    "rows": 31,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=632718a6-f1fe-4f5a-b95d-03b8e7635d70&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2003,
+    "class_name": "MotoGP",
+    "rows": 26,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=632718a6-f1fe-4f5a-b95d-03b8e7635d70&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2003,
+    "class_name": "250cc",
+    "rows": 33,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=632718a6-f1fe-4f5a-b95d-03b8e7635d70&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2004,
+    "class_name": "125cc",
+    "rows": 0,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=6c0e0734-0e32-4c4a-9987-0439449543ab&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2004,
+    "class_name": "MotoGP",
+    "rows": 29,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=6c0e0734-0e32-4c4a-9987-0439449543ab&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2004,
+    "class_name": "250cc",
+    "rows": 0,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=6c0e0734-0e32-4c4a-9987-0439449543ab&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2005,
+    "class_name": "125cc",
+    "rows": 36,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=6b581433-8531-4c5b-afca-15c7eb27e809&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2005,
+    "class_name": "MotoGP",
+    "rows": 27,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=6b581433-8531-4c5b-afca-15c7eb27e809&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2005,
+    "class_name": "250cc",
+    "rows": 28,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=6b581433-8531-4c5b-afca-15c7eb27e809&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2006,
+    "class_name": "125cc",
+    "rows": 28,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=dbb075a1-44f4-46f5-9f9b-95f5ac24949b&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2006,
+    "class_name": "MotoGP",
+    "rows": 21,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=dbb075a1-44f4-46f5-9f9b-95f5ac24949b&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2006,
+    "class_name": "250cc",
+    "rows": 28,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=dbb075a1-44f4-46f5-9f9b-95f5ac24949b&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2007,
+    "class_name": "125cc",
+    "rows": 29,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=a3f86bb3-b914-4dc0-984d-e4949a4f037e&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2007,
+    "class_name": "MotoGP",
+    "rows": 26,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=a3f86bb3-b914-4dc0-984d-e4949a4f037e&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2007,
+    "class_name": "250cc",
+    "rows": 30,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=a3f86bb3-b914-4dc0-984d-e4949a4f037e&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2008,
+    "class_name": "125cc",
+    "rows": 35,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=46e254dc-f6d6-402c-b7c8-8e7c14469678&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2008,
+    "class_name": "MotoGP",
+    "rows": 21,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=46e254dc-f6d6-402c-b7c8-8e7c14469678&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2008,
+    "class_name": "250cc",
+    "rows": 28,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=46e254dc-f6d6-402c-b7c8-8e7c14469678&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2009,
+    "class_name": "125cc",
+    "rows": 33,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=6487b826-eaaa-43e6-a2d2-4c5cafa948ae&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2009,
+    "class_name": "MotoGP",
+    "rows": 21,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=6487b826-eaaa-43e6-a2d2-4c5cafa948ae&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2009,
+    "class_name": "250cc",
+    "rows": 29,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=6487b826-eaaa-43e6-a2d2-4c5cafa948ae&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2010,
+    "class_name": "125cc",
+    "rows": 28,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=d5bd3042-f4dc-4fdc-897a-e284d07592e6&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2010,
+    "class_name": "Moto2",
+    "rows": 40,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=d5bd3042-f4dc-4fdc-897a-e284d07592e6&categoryUuid=549640b8-fd9c-4245-acfd-60e4bc38b25c",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2010,
+    "class_name": "MotoGP",
+    "rows": 22,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=d5bd3042-f4dc-4fdc-897a-e284d07592e6&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2011,
+    "class_name": "125cc",
+    "rows": 34,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=b6cf5327-3c57-41d6-874c-bf330fcfc0fc&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2011,
+    "class_name": "Moto2",
+    "rows": 32,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=b6cf5327-3c57-41d6-874c-bf330fcfc0fc&categoryUuid=549640b8-fd9c-4245-acfd-60e4bc38b25c",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2011,
+    "class_name": "MotoGP",
+    "rows": 22,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=b6cf5327-3c57-41d6-874c-bf330fcfc0fc&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2012,
+    "class_name": "Moto3",
+    "rows": 39,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=1b0857d2-afa8-4b59-b876-079c68084527&categoryUuid=954f7e65-2ef2-4423-b949-4961cc603e45",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2012,
+    "class_name": "Moto2",
+    "rows": 37,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=1b0857d2-afa8-4b59-b876-079c68084527&categoryUuid=549640b8-fd9c-4245-acfd-60e4bc38b25c",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2012,
+    "class_name": "MotoGP",
+    "rows": 27,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=1b0857d2-afa8-4b59-b876-079c68084527&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2013,
+    "class_name": "Moto3",
+    "rows": 28,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=a0def534-ce1b-492c-bc46-e87e95d28230&categoryUuid=954f7e65-2ef2-4423-b949-4961cc603e45",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2013,
+    "class_name": "Moto2",
+    "rows": 35,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=a0def534-ce1b-492c-bc46-e87e95d28230&categoryUuid=549640b8-fd9c-4245-acfd-60e4bc38b25c",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2013,
+    "class_name": "MotoGP",
+    "rows": 27,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=a0def534-ce1b-492c-bc46-e87e95d28230&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2014,
+    "class_name": "Moto3",
+    "rows": 32,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=bf5c15b5-f062-4a88-a304-29892743108d&categoryUuid=954f7e65-2ef2-4423-b949-4961cc603e45",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2014,
+    "class_name": "Moto2",
+    "rows": 29,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=bf5c15b5-f062-4a88-a304-29892743108d&categoryUuid=549640b8-fd9c-4245-acfd-60e4bc38b25c",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2014,
+    "class_name": "MotoGP",
+    "rows": 27,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=bf5c15b5-f062-4a88-a304-29892743108d&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2015,
+    "class_name": "Moto3",
+    "rows": 33,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=cbe871d8-d8fa-47cb-8b63-cabe0015223e&categoryUuid=954f7e65-2ef2-4423-b949-4961cc603e45",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2015,
+    "class_name": "Moto2",
+    "rows": 28,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=cbe871d8-d8fa-47cb-8b63-cabe0015223e&categoryUuid=549640b8-fd9c-4245-acfd-60e4bc38b25c",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2015,
+    "class_name": "MotoGP",
+    "rows": 28,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=cbe871d8-d8fa-47cb-8b63-cabe0015223e&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2016,
+    "class_name": "Moto3",
+    "rows": 50,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=ba354746-c4da-4dc8-8b8e-776fcc43287d&categoryUuid=954f7e65-2ef2-4423-b949-4961cc603e45",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2016,
+    "class_name": "Moto2",
+    "rows": 43,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=ba354746-c4da-4dc8-8b8e-776fcc43287d&categoryUuid=549640b8-fd9c-4245-acfd-60e4bc38b25c",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2016,
+    "class_name": "MotoGP",
+    "rows": 28,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=ba354746-c4da-4dc8-8b8e-776fcc43287d&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2017,
+    "class_name": "Moto3",
+    "rows": 45,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=e24e8a8c-4673-498d-86e0-731581d7c586&categoryUuid=954f7e65-2ef2-4423-b949-4961cc603e45",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2017,
+    "class_name": "Moto2",
+    "rows": 46,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=e24e8a8c-4673-498d-86e0-731581d7c586&categoryUuid=549640b8-fd9c-4245-acfd-60e4bc38b25c",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2017,
+    "class_name": "MotoGP",
+    "rows": 31,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=e24e8a8c-4673-498d-86e0-731581d7c586&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2018,
+    "class_name": "Moto3",
+    "rows": 48,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=c0844c71-783c-4f86-abce-a9a67adcc1a9&categoryUuid=954f7e65-2ef2-4423-b949-4961cc603e45",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2018,
+    "class_name": "Moto2",
+    "rows": 49,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=c0844c71-783c-4f86-abce-a9a67adcc1a9&categoryUuid=549640b8-fd9c-4245-acfd-60e4bc38b25c",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2018,
+    "class_name": "MotoGP",
+    "rows": 32,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=c0844c71-783c-4f86-abce-a9a67adcc1a9&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2019,
+    "class_name": "Moto3",
+    "rows": 50,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=cbc5dc8d-3aae-4327-bd88-d1cdeea9b654&categoryUuid=954f7e65-2ef2-4423-b949-4961cc603e45",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2019,
+    "class_name": "MotoE",
+    "rows": 18,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=cbc5dc8d-3aae-4327-bd88-d1cdeea9b654&categoryUuid=3bda82ba-0445-440c-9375-cd48d777bd95",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2019,
+    "class_name": "Moto2",
+    "rows": 43,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=cbc5dc8d-3aae-4327-bd88-d1cdeea9b654&categoryUuid=549640b8-fd9c-4245-acfd-60e4bc38b25c",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2019,
+    "class_name": "MotoGP",
+    "rows": 28,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=cbc5dc8d-3aae-4327-bd88-d1cdeea9b654&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2020,
+    "class_name": "Moto3",
+    "rows": 33,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=fa729c5c-a34a-40b9-8ebf-2578d9433517&categoryUuid=954f7e65-2ef2-4423-b949-4961cc603e45",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2020,
+    "class_name": "MotoE",
+    "rows": 18,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=fa729c5c-a34a-40b9-8ebf-2578d9433517&categoryUuid=3bda82ba-0445-440c-9375-cd48d777bd95",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2020,
+    "class_name": "Moto2",
+    "rows": 35,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=fa729c5c-a34a-40b9-8ebf-2578d9433517&categoryUuid=549640b8-fd9c-4245-acfd-60e4bc38b25c",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2020,
+    "class_name": "MotoGP",
+    "rows": 25,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=fa729c5c-a34a-40b9-8ebf-2578d9433517&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2021,
+    "class_name": "Moto3",
+    "rows": 39,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=db8dc197-c7b2-4c1b-b3a4-7dc723c087ed&categoryUuid=954f7e65-2ef2-4423-b949-4961cc603e45",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2021,
+    "class_name": "MotoE",
+    "rows": 19,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=db8dc197-c7b2-4c1b-b3a4-7dc723c087ed&categoryUuid=3bda82ba-0445-440c-9375-cd48d777bd95",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2021,
+    "class_name": "Moto2",
+    "rows": 43,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=db8dc197-c7b2-4c1b-b3a4-7dc723c087ed&categoryUuid=549640b8-fd9c-4245-acfd-60e4bc38b25c",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2021,
+    "class_name": "MotoGP",
+    "rows": 30,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=db8dc197-c7b2-4c1b-b3a4-7dc723c087ed&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2022,
+    "class_name": "Moto3",
+    "rows": 44,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=db8dc197-c7b2-4c1b-b3a4-6dc534c014ef&categoryUuid=954f7e65-2ef2-4423-b949-4961cc603e45",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2022,
+    "class_name": "MotoE",
+    "rows": 23,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=db8dc197-c7b2-4c1b-b3a4-6dc534c014ef&categoryUuid=3bda82ba-0445-440c-9375-cd48d777bd95",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2022,
+    "class_name": "Moto2",
+    "rows": 42,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=db8dc197-c7b2-4c1b-b3a4-6dc534c014ef&categoryUuid=549640b8-fd9c-4245-acfd-60e4bc38b25c",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2022,
+    "class_name": "MotoGP",
+    "rows": 31,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=db8dc197-c7b2-4c1b-b3a4-6dc534c014ef&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2023,
+    "class_name": "Moto3",
+    "rows": 40,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=db8dc197-c7b2-4c1b-b3a4-6dc534c023ef&categoryUuid=954f7e65-2ef2-4423-b949-4961cc603e45",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2023,
+    "class_name": "MotoE",
+    "rows": 20,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=db8dc197-c7b2-4c1b-b3a4-6dc534c023ef&categoryUuid=3bda82ba-0445-440c-9375-cd48d777bd95",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2023,
+    "class_name": "Moto2",
+    "rows": 46,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=db8dc197-c7b2-4c1b-b3a4-6dc534c023ef&categoryUuid=549640b8-fd9c-4245-acfd-60e4bc38b25c",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2023,
+    "class_name": "MotoGP",
+    "rows": 31,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=db8dc197-c7b2-4c1b-b3a4-6dc534c023ef&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2024,
+    "class_name": "Moto3",
+    "rows": 35,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=dd12382e-1d9f-46ee-a5f7-c5104db28e43&categoryUuid=954f7e65-2ef2-4423-b949-4961cc603e45",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2024,
+    "class_name": "MotoE",
+    "rows": 18,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=dd12382e-1d9f-46ee-a5f7-c5104db28e43&categoryUuid=3bda82ba-0445-440c-9375-cd48d777bd95",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2024,
+    "class_name": "Moto2",
+    "rows": 42,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=dd12382e-1d9f-46ee-a5f7-c5104db28e43&categoryUuid=549640b8-fd9c-4245-acfd-60e4bc38b25c",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2024,
+    "class_name": "MotoGP",
+    "rows": 29,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=dd12382e-1d9f-46ee-a5f7-c5104db28e43&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2025,
+    "class_name": "Moto3",
+    "rows": 40,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=ae6c6f0d-c652-44f8-94aa-420fc5b3dab4&categoryUuid=954f7e65-2ef2-4423-b949-4961cc603e45",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2025,
+    "class_name": "MotoE",
+    "rows": 19,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=ae6c6f0d-c652-44f8-94aa-420fc5b3dab4&categoryUuid=3bda82ba-0445-440c-9375-cd48d777bd95",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2025,
+    "class_name": "Moto2",
+    "rows": 43,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=ae6c6f0d-c652-44f8-94aa-420fc5b3dab4&categoryUuid=549640b8-fd9c-4245-acfd-60e4bc38b25c",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2025,
+    "class_name": "MotoGP",
+    "rows": 29,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=ae6c6f0d-c652-44f8-94aa-420fc5b3dab4&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2026,
+    "class_name": "Moto3",
+    "rows": 32,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=e88b4e43-2209-47aa-8e83-0e0b1cedde6e&categoryUuid=954f7e65-2ef2-4423-b949-4961cc603e45",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2026,
+    "class_name": "Moto2",
+    "rows": 34,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=e88b4e43-2209-47aa-8e83-0e0b1cedde6e&categoryUuid=549640b8-fd9c-4245-acfd-60e4bc38b25c",
+    "retrieved_at": "2026-10-11"
+  },
+  {
+    "season": 2026,
+    "class_name": "MotoGP",
+    "rows": 32,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=e88b4e43-2209-47aa-8e83-0e0b1cedde6e&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "retrieved_at": "2026-10-11"
+  }
+]

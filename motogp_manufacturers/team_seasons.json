@@ -1,0 +1,5778 @@
+[
+  {
+    "team_season_key": "AJO_MOTORSPORT_2003_125cc",
+    "team_key": "AJO_MOTORSPORT",
+    "season_year": 2003,
+    "class_name": "125cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "AJO_MOTORSPORT_2004_125cc",
+    "team_key": "AJO_MOTORSPORT",
+    "season_year": 2004,
+    "class_name": "125cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "AJO_MOTORSPORT_2005_125cc",
+    "team_key": "AJO_MOTORSPORT",
+    "season_year": 2005,
+    "class_name": "125cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "AJO_MOTORSPORT_2006_125cc",
+    "team_key": "AJO_MOTORSPORT",
+    "season_year": 2006,
+    "class_name": "125cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "AJO_MOTORSPORT_2007_125cc",
+    "team_key": "AJO_MOTORSPORT",
+    "season_year": 2007,
+    "class_name": "125cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "AJO_MOTORSPORT_2008_125cc",
+    "team_key": "AJO_MOTORSPORT",
+    "season_year": 2008,
+    "class_name": "125cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "AJO_MOTORSPORT_2009_125cc",
+    "team_key": "AJO_MOTORSPORT",
+    "season_year": 2009,
+    "class_name": "125cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "AJO_MOTORSPORT_2010_125cc",
+    "team_key": "AJO_MOTORSPORT",
+    "season_year": 2010,
+    "class_name": "125cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "AJO_MOTORSPORT_2010_Moto2",
+    "team_key": "AJO_MOTORSPORT",
+    "season_year": 2010,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "AJO_MOTORSPORT_2011_125cc",
+    "team_key": "AJO_MOTORSPORT",
+    "season_year": 2011,
+    "class_name": "125cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "AJO_MOTORSPORT_2012_Moto3",
+    "team_key": "AJO_MOTORSPORT",
+    "season_year": 2012,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "AJO_MOTORSPORT_2013_Moto3",
+    "team_key": "AJO_MOTORSPORT",
+    "season_year": 2013,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "AJO_MOTORSPORT_2014_Moto3",
+    "team_key": "AJO_MOTORSPORT",
+    "season_year": 2014,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "AJO_MOTORSPORT_2015_Moto2",
+    "team_key": "AJO_MOTORSPORT",
+    "season_year": 2015,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "AJO_MOTORSPORT_2015_Moto3",
+    "team_key": "AJO_MOTORSPORT",
+    "season_year": 2015,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "AJO_MOTORSPORT_2016_Moto2",
+    "team_key": "AJO_MOTORSPORT",
+    "season_year": 2016,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "AJO_MOTORSPORT_2016_Moto3",
+    "team_key": "AJO_MOTORSPORT",
+    "season_year": 2016,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "AJO_MOTORSPORT_2017_Moto2",
+    "team_key": "AJO_MOTORSPORT",
+    "season_year": 2017,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "AJO_MOTORSPORT_2017_Moto3",
+    "team_key": "AJO_MOTORSPORT",
+    "season_year": 2017,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "AJO_MOTORSPORT_2018_Moto2",
+    "team_key": "AJO_MOTORSPORT",
+    "season_year": 2018,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "AJO_MOTORSPORT_2018_Moto3",
+    "team_key": "AJO_MOTORSPORT",
+    "season_year": 2018,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "AJO_MOTORSPORT_2019_Moto2",
+    "team_key": "AJO_MOTORSPORT",
+    "season_year": 2019,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "AJO_MOTORSPORT_2019_Moto3",
+    "team_key": "AJO_MOTORSPORT",
+    "season_year": 2019,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "AJO_MOTORSPORT_2019_MotoE",
+    "team_key": "AJO_MOTORSPORT",
+    "season_year": 2019,
+    "class_name": "MotoE",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "AJO_MOTORSPORT_2020_Moto2",
+    "team_key": "AJO_MOTORSPORT",
+    "season_year": 2020,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "AJO_MOTORSPORT_2020_Moto3",
+    "team_key": "AJO_MOTORSPORT",
+    "season_year": 2020,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "AJO_MOTORSPORT_2020_MotoE",
+    "team_key": "AJO_MOTORSPORT",
+    "season_year": 2020,
+    "class_name": "MotoE",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "AJO_MOTORSPORT_2021_Moto2",
+    "team_key": "AJO_MOTORSPORT",
+    "season_year": 2021,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "AJO_MOTORSPORT_2021_Moto3",
+    "team_key": "AJO_MOTORSPORT",
+    "season_year": 2021,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "AJO_MOTORSPORT_2021_MotoE",
+    "team_key": "AJO_MOTORSPORT",
+    "season_year": 2021,
+    "class_name": "MotoE",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "AJO_MOTORSPORT_2022_Moto2",
+    "team_key": "AJO_MOTORSPORT",
+    "season_year": 2022,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "AJO_MOTORSPORT_2022_Moto3",
+    "team_key": "AJO_MOTORSPORT",
+    "season_year": 2022,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "AJO_MOTORSPORT_2022_MotoE",
+    "team_key": "AJO_MOTORSPORT",
+    "season_year": 2022,
+    "class_name": "MotoE",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "AJO_MOTORSPORT_2023_Moto2",
+    "team_key": "AJO_MOTORSPORT",
+    "season_year": 2023,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "AJO_MOTORSPORT_2023_Moto3",
+    "team_key": "AJO_MOTORSPORT",
+    "season_year": 2023,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "AJO_MOTORSPORT_2024_Moto2",
+    "team_key": "AJO_MOTORSPORT",
+    "season_year": 2024,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "AJO_MOTORSPORT_2024_Moto3",
+    "team_key": "AJO_MOTORSPORT",
+    "season_year": 2024,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "AJO_MOTORSPORT_2025_Moto2",
+    "team_key": "AJO_MOTORSPORT",
+    "season_year": 2025,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "AJO_MOTORSPORT_2025_Moto3",
+    "team_key": "AJO_MOTORSPORT",
+    "season_year": 2025,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "AJO_MOTORSPORT_2026_Moto2",
+    "team_key": "AJO_MOTORSPORT",
+    "season_year": 2026,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "AJO_MOTORSPORT_2026_Moto3",
+    "team_key": "AJO_MOTORSPORT",
+    "season_year": 2026,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "AMERICAN_RACING_2019_Moto2",
+    "team_key": "AMERICAN_RACING",
+    "season_year": 2019,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "AMERICAN_RACING_2020_Moto2",
+    "team_key": "AMERICAN_RACING",
+    "season_year": 2020,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "AMERICAN_RACING_2021_Moto2",
+    "team_key": "AMERICAN_RACING",
+    "season_year": 2021,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "AMERICAN_RACING_2022_Moto2",
+    "team_key": "AMERICAN_RACING",
+    "season_year": 2022,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "AMERICAN_RACING_2023_Moto2",
+    "team_key": "AMERICAN_RACING",
+    "season_year": 2023,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "AMERICAN_RACING_2024_Moto2",
+    "team_key": "AMERICAN_RACING",
+    "season_year": 2024,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "AMERICAN_RACING_2025_Moto2",
+    "team_key": "AMERICAN_RACING",
+    "season_year": 2025,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "AMERICAN_RACING_2026_Moto2",
+    "team_key": "AMERICAN_RACING",
+    "season_year": 2026,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "APRILIA_FACTORY_TEAM_2003_MotoGP",
+    "team_key": "APRILIA_FACTORY_TEAM",
+    "season_year": 2003,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "APRILIA_FACTORY_TEAM_2019_MotoGP",
+    "team_key": "APRILIA_FACTORY_TEAM",
+    "season_year": 2019,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "APRILIA_FACTORY_TEAM_2020_MotoGP",
+    "team_key": "APRILIA_FACTORY_TEAM",
+    "season_year": 2020,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "APRILIA_FACTORY_TEAM_2021_MotoGP",
+    "team_key": "APRILIA_FACTORY_TEAM",
+    "season_year": 2021,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "APRILIA_FACTORY_TEAM_2022_MotoGP",
+    "team_key": "APRILIA_FACTORY_TEAM",
+    "season_year": 2022,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "APRILIA_FACTORY_TEAM_2023_MotoGP",
+    "team_key": "APRILIA_FACTORY_TEAM",
+    "season_year": 2023,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "APRILIA_FACTORY_TEAM_2024_MotoGP",
+    "team_key": "APRILIA_FACTORY_TEAM",
+    "season_year": 2024,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "APRILIA_FACTORY_TEAM_2025_MotoGP",
+    "team_key": "APRILIA_FACTORY_TEAM",
+    "season_year": 2025,
+    "class_name": "MotoGP",
+    "entry_status": "FACTORY",
+    "status_source_url": "https://www.motogp.com/en/glossary"
+  },
+  {
+    "team_season_key": "APRILIA_FACTORY_TEAM_2026_MotoGP",
+    "team_key": "APRILIA_FACTORY_TEAM",
+    "season_year": 2026,
+    "class_name": "MotoGP",
+    "entry_status": "FACTORY",
+    "status_source_url": "https://www.motogp.com/en/glossary"
+  },
+  {
+    "team_season_key": "ASPAR_TEAM_2002_125cc",
+    "team_key": "ASPAR_TEAM",
+    "season_year": 2002,
+    "class_name": "125cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ASPAR_TEAM_2003_125cc",
+    "team_key": "ASPAR_TEAM",
+    "season_year": 2003,
+    "class_name": "125cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ASPAR_TEAM_2003_250cc",
+    "team_key": "ASPAR_TEAM",
+    "season_year": 2003,
+    "class_name": "250cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ASPAR_TEAM_2004_250cc",
+    "team_key": "ASPAR_TEAM",
+    "season_year": 2004,
+    "class_name": "250cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ASPAR_TEAM_2005_125cc",
+    "team_key": "ASPAR_TEAM",
+    "season_year": 2005,
+    "class_name": "125cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ASPAR_TEAM_2005_250cc",
+    "team_key": "ASPAR_TEAM",
+    "season_year": 2005,
+    "class_name": "250cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ASPAR_TEAM_2006_125cc",
+    "team_key": "ASPAR_TEAM",
+    "season_year": 2006,
+    "class_name": "125cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ASPAR_TEAM_2006_250cc",
+    "team_key": "ASPAR_TEAM",
+    "season_year": 2006,
+    "class_name": "250cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ASPAR_TEAM_2007_125cc",
+    "team_key": "ASPAR_TEAM",
+    "season_year": 2007,
+    "class_name": "125cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ASPAR_TEAM_2007_250cc",
+    "team_key": "ASPAR_TEAM",
+    "season_year": 2007,
+    "class_name": "250cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ASPAR_TEAM_2008_125cc",
+    "team_key": "ASPAR_TEAM",
+    "season_year": 2008,
+    "class_name": "125cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ASPAR_TEAM_2008_250cc",
+    "team_key": "ASPAR_TEAM",
+    "season_year": 2008,
+    "class_name": "250cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ASPAR_TEAM_2009_125cc",
+    "team_key": "ASPAR_TEAM",
+    "season_year": 2009,
+    "class_name": "125cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ASPAR_TEAM_2009_250cc",
+    "team_key": "ASPAR_TEAM",
+    "season_year": 2009,
+    "class_name": "250cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ASPAR_TEAM_2010_125cc",
+    "team_key": "ASPAR_TEAM",
+    "season_year": 2010,
+    "class_name": "125cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ASPAR_TEAM_2010_Moto2",
+    "team_key": "ASPAR_TEAM",
+    "season_year": 2010,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ASPAR_TEAM_2010_MotoGP",
+    "team_key": "ASPAR_TEAM",
+    "season_year": 2010,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ASPAR_TEAM_2011_125cc",
+    "team_key": "ASPAR_TEAM",
+    "season_year": 2011,
+    "class_name": "125cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ASPAR_TEAM_2011_Moto2",
+    "team_key": "ASPAR_TEAM",
+    "season_year": 2011,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ASPAR_TEAM_2011_MotoGP",
+    "team_key": "ASPAR_TEAM",
+    "season_year": 2011,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ASPAR_TEAM_2012_Moto2",
+    "team_key": "ASPAR_TEAM",
+    "season_year": 2012,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ASPAR_TEAM_2012_Moto3",
+    "team_key": "ASPAR_TEAM",
+    "season_year": 2012,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ASPAR_TEAM_2012_MotoGP",
+    "team_key": "ASPAR_TEAM",
+    "season_year": 2012,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ASPAR_TEAM_2013_Moto2",
+    "team_key": "ASPAR_TEAM",
+    "season_year": 2013,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ASPAR_TEAM_2013_Moto3",
+    "team_key": "ASPAR_TEAM",
+    "season_year": 2013,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ASPAR_TEAM_2013_MotoGP",
+    "team_key": "ASPAR_TEAM",
+    "season_year": 2013,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ASPAR_TEAM_2014_Moto2",
+    "team_key": "ASPAR_TEAM",
+    "season_year": 2014,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ASPAR_TEAM_2014_Moto3",
+    "team_key": "ASPAR_TEAM",
+    "season_year": 2014,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ASPAR_TEAM_2014_MotoGP",
+    "team_key": "ASPAR_TEAM",
+    "season_year": 2014,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ASPAR_TEAM_2015_MotoGP",
+    "team_key": "ASPAR_TEAM",
+    "season_year": 2015,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ASPAR_TEAM_2016_Moto3",
+    "team_key": "ASPAR_TEAM",
+    "season_year": 2016,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ASPAR_TEAM_2016_MotoGP",
+    "team_key": "ASPAR_TEAM",
+    "season_year": 2016,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ASPAR_TEAM_2017_Moto3",
+    "team_key": "ASPAR_TEAM",
+    "season_year": 2017,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ASPAR_TEAM_2017_MotoGP",
+    "team_key": "ASPAR_TEAM",
+    "season_year": 2017,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ASPAR_TEAM_2020_Moto2",
+    "team_key": "ASPAR_TEAM",
+    "season_year": 2020,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ASPAR_TEAM_2020_Moto3",
+    "team_key": "ASPAR_TEAM",
+    "season_year": 2020,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ASPAR_TEAM_2020_MotoE",
+    "team_key": "ASPAR_TEAM",
+    "season_year": 2020,
+    "class_name": "MotoE",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ASPAR_TEAM_2021_Moto2",
+    "team_key": "ASPAR_TEAM",
+    "season_year": 2021,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ASPAR_TEAM_2021_Moto3",
+    "team_key": "ASPAR_TEAM",
+    "season_year": 2021,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ASPAR_TEAM_2021_MotoE",
+    "team_key": "ASPAR_TEAM",
+    "season_year": 2021,
+    "class_name": "MotoE",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ASPAR_TEAM_2022_Moto2",
+    "team_key": "ASPAR_TEAM",
+    "season_year": 2022,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ASPAR_TEAM_2022_Moto3",
+    "team_key": "ASPAR_TEAM",
+    "season_year": 2022,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ASPAR_TEAM_2022_MotoE",
+    "team_key": "ASPAR_TEAM",
+    "season_year": 2022,
+    "class_name": "MotoE",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ASPAR_TEAM_2023_Moto2",
+    "team_key": "ASPAR_TEAM",
+    "season_year": 2023,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ASPAR_TEAM_2023_Moto3",
+    "team_key": "ASPAR_TEAM",
+    "season_year": 2023,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ASPAR_TEAM_2023_MotoE",
+    "team_key": "ASPAR_TEAM",
+    "season_year": 2023,
+    "class_name": "MotoE",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ASPAR_TEAM_2024_Moto2",
+    "team_key": "ASPAR_TEAM",
+    "season_year": 2024,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ASPAR_TEAM_2024_Moto3",
+    "team_key": "ASPAR_TEAM",
+    "season_year": 2024,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ASPAR_TEAM_2024_MotoE",
+    "team_key": "ASPAR_TEAM",
+    "season_year": 2024,
+    "class_name": "MotoE",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ASPAR_TEAM_2025_Moto2",
+    "team_key": "ASPAR_TEAM",
+    "season_year": 2025,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ASPAR_TEAM_2025_Moto3",
+    "team_key": "ASPAR_TEAM",
+    "season_year": 2025,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ASPAR_TEAM_2025_MotoE",
+    "team_key": "ASPAR_TEAM",
+    "season_year": 2025,
+    "class_name": "MotoE",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ASPAR_TEAM_2026_Moto2",
+    "team_key": "ASPAR_TEAM",
+    "season_year": 2026,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ASPAR_TEAM_2026_Moto3",
+    "team_key": "ASPAR_TEAM",
+    "season_year": 2026,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "BOE_MOTORSPORTS_2017_Moto3",
+    "team_key": "BOE_MOTORSPORTS",
+    "season_year": 2017,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "BOE_MOTORSPORTS_2018_Moto3",
+    "team_key": "BOE_MOTORSPORTS",
+    "season_year": 2018,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "BOE_MOTORSPORTS_2019_Moto3",
+    "team_key": "BOE_MOTORSPORTS",
+    "season_year": 2019,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "BOE_MOTORSPORTS_2020_Moto3",
+    "team_key": "BOE_MOTORSPORTS",
+    "season_year": 2020,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "BOE_MOTORSPORTS_2021_Moto3",
+    "team_key": "BOE_MOTORSPORTS",
+    "season_year": 2021,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "BOE_MOTORSPORTS_2022_Moto3",
+    "team_key": "BOE_MOTORSPORTS",
+    "season_year": 2022,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "BOE_MOTORSPORTS_2023_Moto3",
+    "team_key": "BOE_MOTORSPORTS",
+    "season_year": 2023,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "BOE_MOTORSPORTS_2024_Moto3",
+    "team_key": "BOE_MOTORSPORTS",
+    "season_year": 2024,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "BOE_MOTORSPORTS_2025_Moto3",
+    "team_key": "BOE_MOTORSPORTS",
+    "season_year": 2025,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "CAMPETELLA_RACING_2002_250cc",
+    "team_key": "CAMPETELLA_RACING",
+    "season_year": 2002,
+    "class_name": "250cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "CAMPETELLA_RACING_2003_250cc",
+    "team_key": "CAMPETELLA_RACING",
+    "season_year": 2003,
+    "class_name": "250cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "CAMPETELLA_RACING_2004_250cc",
+    "team_key": "CAMPETELLA_RACING",
+    "season_year": 2004,
+    "class_name": "250cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "CAMPETELLA_RACING_2005_250cc",
+    "team_key": "CAMPETELLA_RACING",
+    "season_year": 2005,
+    "class_name": "250cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "CAMPETELLA_RACING_2006_125cc",
+    "team_key": "CAMPETELLA_RACING",
+    "season_year": 2006,
+    "class_name": "125cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "CAMPETELLA_RACING_2006_250cc",
+    "team_key": "CAMPETELLA_RACING",
+    "season_year": 2006,
+    "class_name": "250cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "CAMPETELLA_RACING_2007_125cc",
+    "team_key": "CAMPETELLA_RACING",
+    "season_year": 2007,
+    "class_name": "125cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "CAMPETELLA_RACING_2007_250cc",
+    "team_key": "CAMPETELLA_RACING",
+    "season_year": 2007,
+    "class_name": "250cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "CAMPETELLA_RACING_2008_125cc",
+    "team_key": "CAMPETELLA_RACING",
+    "season_year": 2008,
+    "class_name": "125cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "CAMPETELLA_RACING_2008_250cc",
+    "team_key": "CAMPETELLA_RACING",
+    "season_year": 2008,
+    "class_name": "250cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "CIP_2009_250cc",
+    "team_key": "CIP",
+    "season_year": 2009,
+    "class_name": "250cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "CIP_2010_Moto2",
+    "team_key": "CIP",
+    "season_year": 2010,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "CIP_2011_Moto2",
+    "team_key": "CIP",
+    "season_year": 2011,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "CIP_2012_Moto2",
+    "team_key": "CIP",
+    "season_year": 2012,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "CIP_2012_Moto3",
+    "team_key": "CIP",
+    "season_year": 2012,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "CIP_2013_Moto3",
+    "team_key": "CIP",
+    "season_year": 2013,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "CIP_2014_Moto3",
+    "team_key": "CIP",
+    "season_year": 2014,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "CIP_2015_Moto3",
+    "team_key": "CIP",
+    "season_year": 2015,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "CIP_2016_Moto3",
+    "team_key": "CIP",
+    "season_year": 2016,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "CIP_2017_Moto3",
+    "team_key": "CIP",
+    "season_year": 2017,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "CIP_2018_Moto3",
+    "team_key": "CIP",
+    "season_year": 2018,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "CIP_2019_Moto3",
+    "team_key": "CIP",
+    "season_year": 2019,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "CIP_2020_Moto3",
+    "team_key": "CIP",
+    "season_year": 2020,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "CIP_2021_Moto3",
+    "team_key": "CIP",
+    "season_year": 2021,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "CIP_2022_Moto3",
+    "team_key": "CIP",
+    "season_year": 2022,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "CIP_2023_Moto3",
+    "team_key": "CIP",
+    "season_year": 2023,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "CIP_2024_Moto3",
+    "team_key": "CIP",
+    "season_year": 2024,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "CIP_2025_Moto3",
+    "team_key": "CIP",
+    "season_year": 2025,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "CIP_2026_Moto3",
+    "team_key": "CIP",
+    "season_year": 2026,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "DUCATI_FACTORY_TEAM_2003_MotoGP",
+    "team_key": "DUCATI_FACTORY_TEAM",
+    "season_year": 2003,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "DUCATI_FACTORY_TEAM_2004_MotoGP",
+    "team_key": "DUCATI_FACTORY_TEAM",
+    "season_year": 2004,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "DUCATI_FACTORY_TEAM_2005_MotoGP",
+    "team_key": "DUCATI_FACTORY_TEAM",
+    "season_year": 2005,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "DUCATI_FACTORY_TEAM_2006_MotoGP",
+    "team_key": "DUCATI_FACTORY_TEAM",
+    "season_year": 2006,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "DUCATI_FACTORY_TEAM_2007_MotoGP",
+    "team_key": "DUCATI_FACTORY_TEAM",
+    "season_year": 2007,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "DUCATI_FACTORY_TEAM_2008_MotoGP",
+    "team_key": "DUCATI_FACTORY_TEAM",
+    "season_year": 2008,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "DUCATI_FACTORY_TEAM_2009_MotoGP",
+    "team_key": "DUCATI_FACTORY_TEAM",
+    "season_year": 2009,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "DUCATI_FACTORY_TEAM_2010_MotoGP",
+    "team_key": "DUCATI_FACTORY_TEAM",
+    "season_year": 2010,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "DUCATI_FACTORY_TEAM_2011_MotoGP",
+    "team_key": "DUCATI_FACTORY_TEAM",
+    "season_year": 2011,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "DUCATI_FACTORY_TEAM_2012_MotoGP",
+    "team_key": "DUCATI_FACTORY_TEAM",
+    "season_year": 2012,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "DUCATI_FACTORY_TEAM_2013_MotoGP",
+    "team_key": "DUCATI_FACTORY_TEAM",
+    "season_year": 2013,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "DUCATI_FACTORY_TEAM_2014_MotoGP",
+    "team_key": "DUCATI_FACTORY_TEAM",
+    "season_year": 2014,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "DUCATI_FACTORY_TEAM_2015_MotoGP",
+    "team_key": "DUCATI_FACTORY_TEAM",
+    "season_year": 2015,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "DUCATI_FACTORY_TEAM_2016_MotoGP",
+    "team_key": "DUCATI_FACTORY_TEAM",
+    "season_year": 2016,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "DUCATI_FACTORY_TEAM_2017_MotoGP",
+    "team_key": "DUCATI_FACTORY_TEAM",
+    "season_year": 2017,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "DUCATI_FACTORY_TEAM_2018_MotoGP",
+    "team_key": "DUCATI_FACTORY_TEAM",
+    "season_year": 2018,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "DUCATI_FACTORY_TEAM_2019_MotoGP",
+    "team_key": "DUCATI_FACTORY_TEAM",
+    "season_year": 2019,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "DUCATI_FACTORY_TEAM_2020_MotoGP",
+    "team_key": "DUCATI_FACTORY_TEAM",
+    "season_year": 2020,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "DUCATI_FACTORY_TEAM_2021_MotoGP",
+    "team_key": "DUCATI_FACTORY_TEAM",
+    "season_year": 2021,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "DUCATI_FACTORY_TEAM_2022_MotoGP",
+    "team_key": "DUCATI_FACTORY_TEAM",
+    "season_year": 2022,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "DUCATI_FACTORY_TEAM_2023_MotoGP",
+    "team_key": "DUCATI_FACTORY_TEAM",
+    "season_year": 2023,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "DUCATI_FACTORY_TEAM_2024_MotoGP",
+    "team_key": "DUCATI_FACTORY_TEAM",
+    "season_year": 2024,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "DUCATI_FACTORY_TEAM_2025_MotoGP",
+    "team_key": "DUCATI_FACTORY_TEAM",
+    "season_year": 2025,
+    "class_name": "MotoGP",
+    "entry_status": "FACTORY",
+    "status_source_url": "https://www.motogp.com/en/glossary"
+  },
+  {
+    "team_season_key": "DUCATI_FACTORY_TEAM_2026_MotoGP",
+    "team_key": "DUCATI_FACTORY_TEAM",
+    "season_year": 2026,
+    "class_name": "MotoGP",
+    "entry_status": "FACTORY",
+    "status_source_url": "https://www.motogp.com/en/glossary"
+  },
+  {
+    "team_season_key": "FANTIC_RACING_2023_Moto2",
+    "team_key": "FANTIC_RACING",
+    "season_year": 2023,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "FANTIC_RACING_2024_Moto2",
+    "team_key": "FANTIC_RACING",
+    "season_year": 2024,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "FANTIC_RACING_2025_Moto2",
+    "team_key": "FANTIC_RACING",
+    "season_year": 2025,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "FANTIC_RACING_2026_Moto2",
+    "team_key": "FANTIC_RACING",
+    "season_year": 2026,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "FORWARD_RACING_2010_Moto2",
+    "team_key": "FORWARD_RACING",
+    "season_year": 2010,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "FORWARD_RACING_2011_Moto2",
+    "team_key": "FORWARD_RACING",
+    "season_year": 2011,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "FORWARD_RACING_2012_Moto2",
+    "team_key": "FORWARD_RACING",
+    "season_year": 2012,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "FORWARD_RACING_2012_MotoGP",
+    "team_key": "FORWARD_RACING",
+    "season_year": 2012,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "FORWARD_RACING_2013_Moto2",
+    "team_key": "FORWARD_RACING",
+    "season_year": 2013,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "FORWARD_RACING_2013_MotoGP",
+    "team_key": "FORWARD_RACING",
+    "season_year": 2013,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "FORWARD_RACING_2014_Moto2",
+    "team_key": "FORWARD_RACING",
+    "season_year": 2014,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "FORWARD_RACING_2014_MotoGP",
+    "team_key": "FORWARD_RACING",
+    "season_year": 2014,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "FORWARD_RACING_2015_Moto2",
+    "team_key": "FORWARD_RACING",
+    "season_year": 2015,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "FORWARD_RACING_2015_MotoGP",
+    "team_key": "FORWARD_RACING",
+    "season_year": 2015,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "FORWARD_RACING_2016_Moto2",
+    "team_key": "FORWARD_RACING",
+    "season_year": 2016,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "FORWARD_RACING_2017_Moto2",
+    "team_key": "FORWARD_RACING",
+    "season_year": 2017,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "FORWARD_RACING_2018_Moto2",
+    "team_key": "FORWARD_RACING",
+    "season_year": 2018,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "FORWARD_RACING_2019_Moto2",
+    "team_key": "FORWARD_RACING",
+    "season_year": 2019,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "FORWARD_RACING_2020_Moto2",
+    "team_key": "FORWARD_RACING",
+    "season_year": 2020,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "FORWARD_RACING_2021_Moto2",
+    "team_key": "FORWARD_RACING",
+    "season_year": 2021,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "FORWARD_RACING_2021_Moto3",
+    "team_key": "FORWARD_RACING",
+    "season_year": 2021,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "FORWARD_RACING_2022_Moto2",
+    "team_key": "FORWARD_RACING",
+    "season_year": 2022,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "FORWARD_RACING_2023_Moto2",
+    "team_key": "FORWARD_RACING",
+    "season_year": 2023,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "FORWARD_RACING_2024_Moto2",
+    "team_key": "FORWARD_RACING",
+    "season_year": 2024,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "FORWARD_RACING_2024_MotoE",
+    "team_key": "FORWARD_RACING",
+    "season_year": 2024,
+    "class_name": "MotoE",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "FORWARD_RACING_2025_Moto2",
+    "team_key": "FORWARD_RACING",
+    "season_year": 2025,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "FORWARD_RACING_2025_MotoE",
+    "team_key": "FORWARD_RACING",
+    "season_year": 2025,
+    "class_name": "MotoE",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "FORWARD_RACING_2026_Moto2",
+    "team_key": "FORWARD_RACING",
+    "season_year": 2026,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "GRESINI_RACING_2002_250cc",
+    "team_key": "GRESINI_RACING",
+    "season_year": 2002,
+    "class_name": "250cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "GRESINI_RACING_2002_MotoGP",
+    "team_key": "GRESINI_RACING",
+    "season_year": 2002,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "GRESINI_RACING_2007_MotoGP",
+    "team_key": "GRESINI_RACING",
+    "season_year": 2007,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "GRESINI_RACING_2008_MotoGP",
+    "team_key": "GRESINI_RACING",
+    "season_year": 2008,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "GRESINI_RACING_2009_MotoGP",
+    "team_key": "GRESINI_RACING",
+    "season_year": 2009,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "GRESINI_RACING_2010_Moto2",
+    "team_key": "GRESINI_RACING",
+    "season_year": 2010,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "GRESINI_RACING_2010_MotoGP",
+    "team_key": "GRESINI_RACING",
+    "season_year": 2010,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "GRESINI_RACING_2011_Moto2",
+    "team_key": "GRESINI_RACING",
+    "season_year": 2011,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "GRESINI_RACING_2011_MotoGP",
+    "team_key": "GRESINI_RACING",
+    "season_year": 2011,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "GRESINI_RACING_2012_Moto2",
+    "team_key": "GRESINI_RACING",
+    "season_year": 2012,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "GRESINI_RACING_2012_Moto3",
+    "team_key": "GRESINI_RACING",
+    "season_year": 2012,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "GRESINI_RACING_2012_MotoGP",
+    "team_key": "GRESINI_RACING",
+    "season_year": 2012,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "GRESINI_RACING_2013_Moto2",
+    "team_key": "GRESINI_RACING",
+    "season_year": 2013,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "GRESINI_RACING_2013_Moto3",
+    "team_key": "GRESINI_RACING",
+    "season_year": 2013,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "GRESINI_RACING_2013_MotoGP",
+    "team_key": "GRESINI_RACING",
+    "season_year": 2013,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "GRESINI_RACING_2014_Moto2",
+    "team_key": "GRESINI_RACING",
+    "season_year": 2014,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "GRESINI_RACING_2014_MotoGP",
+    "team_key": "GRESINI_RACING",
+    "season_year": 2014,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "GRESINI_RACING_2015_Moto2",
+    "team_key": "GRESINI_RACING",
+    "season_year": 2015,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "GRESINI_RACING_2015_Moto3",
+    "team_key": "GRESINI_RACING",
+    "season_year": 2015,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "GRESINI_RACING_2015_MotoGP",
+    "team_key": "GRESINI_RACING",
+    "season_year": 2015,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "GRESINI_RACING_2016_Moto2",
+    "team_key": "GRESINI_RACING",
+    "season_year": 2016,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "GRESINI_RACING_2016_Moto3",
+    "team_key": "GRESINI_RACING",
+    "season_year": 2016,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "GRESINI_RACING_2016_MotoGP",
+    "team_key": "GRESINI_RACING",
+    "season_year": 2016,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "GRESINI_RACING_2017_Moto2",
+    "team_key": "GRESINI_RACING",
+    "season_year": 2017,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "GRESINI_RACING_2017_Moto3",
+    "team_key": "GRESINI_RACING",
+    "season_year": 2017,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "GRESINI_RACING_2017_MotoGP",
+    "team_key": "GRESINI_RACING",
+    "season_year": 2017,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "GRESINI_RACING_2018_Moto2",
+    "team_key": "GRESINI_RACING",
+    "season_year": 2018,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "GRESINI_RACING_2018_Moto3",
+    "team_key": "GRESINI_RACING",
+    "season_year": 2018,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "GRESINI_RACING_2018_MotoGP",
+    "team_key": "GRESINI_RACING",
+    "season_year": 2018,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "GRESINI_RACING_2019_Moto2",
+    "team_key": "GRESINI_RACING",
+    "season_year": 2019,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "GRESINI_RACING_2019_Moto3",
+    "team_key": "GRESINI_RACING",
+    "season_year": 2019,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "GRESINI_RACING_2019_MotoE",
+    "team_key": "GRESINI_RACING",
+    "season_year": 2019,
+    "class_name": "MotoE",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "GRESINI_RACING_2019_MotoGP",
+    "team_key": "GRESINI_RACING",
+    "season_year": 2019,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "GRESINI_RACING_2020_Moto2",
+    "team_key": "GRESINI_RACING",
+    "season_year": 2020,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "GRESINI_RACING_2020_Moto3",
+    "team_key": "GRESINI_RACING",
+    "season_year": 2020,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "GRESINI_RACING_2020_MotoE",
+    "team_key": "GRESINI_RACING",
+    "season_year": 2020,
+    "class_name": "MotoE",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "GRESINI_RACING_2020_MotoGP",
+    "team_key": "GRESINI_RACING",
+    "season_year": 2020,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "GRESINI_RACING_2021_Moto2",
+    "team_key": "GRESINI_RACING",
+    "season_year": 2021,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "GRESINI_RACING_2021_Moto3",
+    "team_key": "GRESINI_RACING",
+    "season_year": 2021,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "GRESINI_RACING_2021_MotoE",
+    "team_key": "GRESINI_RACING",
+    "season_year": 2021,
+    "class_name": "MotoE",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "GRESINI_RACING_2021_MotoGP",
+    "team_key": "GRESINI_RACING",
+    "season_year": 2021,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "GRESINI_RACING_2022_Moto2",
+    "team_key": "GRESINI_RACING",
+    "season_year": 2022,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "GRESINI_RACING_2022_MotoE",
+    "team_key": "GRESINI_RACING",
+    "season_year": 2022,
+    "class_name": "MotoE",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "GRESINI_RACING_2022_MotoGP",
+    "team_key": "GRESINI_RACING",
+    "season_year": 2022,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "GRESINI_RACING_2023_Moto2",
+    "team_key": "GRESINI_RACING",
+    "season_year": 2023,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "GRESINI_RACING_2023_MotoE",
+    "team_key": "GRESINI_RACING",
+    "season_year": 2023,
+    "class_name": "MotoE",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "GRESINI_RACING_2023_MotoGP",
+    "team_key": "GRESINI_RACING",
+    "season_year": 2023,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "GRESINI_RACING_2024_Moto2",
+    "team_key": "GRESINI_RACING",
+    "season_year": 2024,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "GRESINI_RACING_2024_MotoE",
+    "team_key": "GRESINI_RACING",
+    "season_year": 2024,
+    "class_name": "MotoE",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "GRESINI_RACING_2024_MotoGP",
+    "team_key": "GRESINI_RACING",
+    "season_year": 2024,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "GRESINI_RACING_2025_Moto2",
+    "team_key": "GRESINI_RACING",
+    "season_year": 2025,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "GRESINI_RACING_2025_MotoE",
+    "team_key": "GRESINI_RACING",
+    "season_year": 2025,
+    "class_name": "MotoE",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "GRESINI_RACING_2025_MotoGP",
+    "team_key": "GRESINI_RACING",
+    "season_year": 2025,
+    "class_name": "MotoGP",
+    "entry_status": "INDEPENDENT",
+    "status_source_url": "https://www.motogp.com/en/glossary"
+  },
+  {
+    "team_season_key": "GRESINI_RACING_2026_Moto2",
+    "team_key": "GRESINI_RACING",
+    "season_year": 2026,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "GRESINI_RACING_2026_MotoGP",
+    "team_key": "GRESINI_RACING",
+    "season_year": 2026,
+    "class_name": "MotoGP",
+    "entry_status": "INDEPENDENT",
+    "status_source_url": "https://www.motogp.com/en/glossary"
+  },
+  {
+    "team_season_key": "HONDA_FACTORY_TEAM_2002_MotoGP",
+    "team_key": "HONDA_FACTORY_TEAM",
+    "season_year": 2002,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "HONDA_FACTORY_TEAM_2003_MotoGP",
+    "team_key": "HONDA_FACTORY_TEAM",
+    "season_year": 2003,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "HONDA_FACTORY_TEAM_2004_MotoGP",
+    "team_key": "HONDA_FACTORY_TEAM",
+    "season_year": 2004,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "HONDA_FACTORY_TEAM_2005_MotoGP",
+    "team_key": "HONDA_FACTORY_TEAM",
+    "season_year": 2005,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "HONDA_FACTORY_TEAM_2006_MotoGP",
+    "team_key": "HONDA_FACTORY_TEAM",
+    "season_year": 2006,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "HONDA_FACTORY_TEAM_2007_MotoGP",
+    "team_key": "HONDA_FACTORY_TEAM",
+    "season_year": 2007,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "HONDA_FACTORY_TEAM_2008_MotoGP",
+    "team_key": "HONDA_FACTORY_TEAM",
+    "season_year": 2008,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "HONDA_FACTORY_TEAM_2009_MotoGP",
+    "team_key": "HONDA_FACTORY_TEAM",
+    "season_year": 2009,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "HONDA_FACTORY_TEAM_2010_MotoGP",
+    "team_key": "HONDA_FACTORY_TEAM",
+    "season_year": 2010,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "HONDA_FACTORY_TEAM_2011_MotoGP",
+    "team_key": "HONDA_FACTORY_TEAM",
+    "season_year": 2011,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "HONDA_FACTORY_TEAM_2012_MotoGP",
+    "team_key": "HONDA_FACTORY_TEAM",
+    "season_year": 2012,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "HONDA_FACTORY_TEAM_2013_MotoGP",
+    "team_key": "HONDA_FACTORY_TEAM",
+    "season_year": 2013,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "HONDA_FACTORY_TEAM_2014_MotoGP",
+    "team_key": "HONDA_FACTORY_TEAM",
+    "season_year": 2014,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "HONDA_FACTORY_TEAM_2015_MotoGP",
+    "team_key": "HONDA_FACTORY_TEAM",
+    "season_year": 2015,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "HONDA_FACTORY_TEAM_2016_MotoGP",
+    "team_key": "HONDA_FACTORY_TEAM",
+    "season_year": 2016,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "HONDA_FACTORY_TEAM_2017_MotoGP",
+    "team_key": "HONDA_FACTORY_TEAM",
+    "season_year": 2017,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "HONDA_FACTORY_TEAM_2018_MotoGP",
+    "team_key": "HONDA_FACTORY_TEAM",
+    "season_year": 2018,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "HONDA_FACTORY_TEAM_2019_MotoGP",
+    "team_key": "HONDA_FACTORY_TEAM",
+    "season_year": 2019,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "HONDA_FACTORY_TEAM_2020_MotoGP",
+    "team_key": "HONDA_FACTORY_TEAM",
+    "season_year": 2020,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "HONDA_FACTORY_TEAM_2021_MotoGP",
+    "team_key": "HONDA_FACTORY_TEAM",
+    "season_year": 2021,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "HONDA_FACTORY_TEAM_2022_MotoGP",
+    "team_key": "HONDA_FACTORY_TEAM",
+    "season_year": 2022,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "HONDA_FACTORY_TEAM_2023_MotoGP",
+    "team_key": "HONDA_FACTORY_TEAM",
+    "season_year": 2023,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "HONDA_FACTORY_TEAM_2024_MotoGP",
+    "team_key": "HONDA_FACTORY_TEAM",
+    "season_year": 2024,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "HONDA_FACTORY_TEAM_2025_MotoGP",
+    "team_key": "HONDA_FACTORY_TEAM",
+    "season_year": 2025,
+    "class_name": "MotoGP",
+    "entry_status": "FACTORY",
+    "status_source_url": "https://www.motogp.com/en/glossary"
+  },
+  {
+    "team_season_key": "HONDA_FACTORY_TEAM_2026_MotoGP",
+    "team_key": "HONDA_FACTORY_TEAM",
+    "season_year": 2026,
+    "class_name": "MotoGP",
+    "entry_status": "FACTORY",
+    "status_source_url": "https://www.motogp.com/en/glossary"
+  },
+  {
+    "team_season_key": "HONDA_TEAM_ASIA_2013_Moto2",
+    "team_key": "HONDA_TEAM_ASIA",
+    "season_year": 2013,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "HONDA_TEAM_ASIA_2014_Moto2",
+    "team_key": "HONDA_TEAM_ASIA",
+    "season_year": 2014,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "HONDA_TEAM_ASIA_2014_Moto3",
+    "team_key": "HONDA_TEAM_ASIA",
+    "season_year": 2014,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "HONDA_TEAM_ASIA_2015_Moto2",
+    "team_key": "HONDA_TEAM_ASIA",
+    "season_year": 2015,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "HONDA_TEAM_ASIA_2016_Moto2",
+    "team_key": "HONDA_TEAM_ASIA",
+    "season_year": 2016,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "HONDA_TEAM_ASIA_2016_Moto3",
+    "team_key": "HONDA_TEAM_ASIA",
+    "season_year": 2016,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "HONDA_TEAM_ASIA_2017_Moto2",
+    "team_key": "HONDA_TEAM_ASIA",
+    "season_year": 2017,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "HONDA_TEAM_ASIA_2017_Moto3",
+    "team_key": "HONDA_TEAM_ASIA",
+    "season_year": 2017,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "HONDA_TEAM_ASIA_2018_Moto2",
+    "team_key": "HONDA_TEAM_ASIA",
+    "season_year": 2018,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "HONDA_TEAM_ASIA_2018_Moto3",
+    "team_key": "HONDA_TEAM_ASIA",
+    "season_year": 2018,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "HONDA_TEAM_ASIA_2019_Moto2",
+    "team_key": "HONDA_TEAM_ASIA",
+    "season_year": 2019,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "HONDA_TEAM_ASIA_2019_Moto3",
+    "team_key": "HONDA_TEAM_ASIA",
+    "season_year": 2019,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "HONDA_TEAM_ASIA_2020_Moto2",
+    "team_key": "HONDA_TEAM_ASIA",
+    "season_year": 2020,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "HONDA_TEAM_ASIA_2020_Moto3",
+    "team_key": "HONDA_TEAM_ASIA",
+    "season_year": 2020,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "HONDA_TEAM_ASIA_2021_Moto2",
+    "team_key": "HONDA_TEAM_ASIA",
+    "season_year": 2021,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "HONDA_TEAM_ASIA_2021_Moto3",
+    "team_key": "HONDA_TEAM_ASIA",
+    "season_year": 2021,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "HONDA_TEAM_ASIA_2022_Moto2",
+    "team_key": "HONDA_TEAM_ASIA",
+    "season_year": 2022,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "HONDA_TEAM_ASIA_2022_Moto3",
+    "team_key": "HONDA_TEAM_ASIA",
+    "season_year": 2022,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "HONDA_TEAM_ASIA_2023_Moto2",
+    "team_key": "HONDA_TEAM_ASIA",
+    "season_year": 2023,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "HONDA_TEAM_ASIA_2023_Moto3",
+    "team_key": "HONDA_TEAM_ASIA",
+    "season_year": 2023,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "HONDA_TEAM_ASIA_2024_Moto2",
+    "team_key": "HONDA_TEAM_ASIA",
+    "season_year": 2024,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "HONDA_TEAM_ASIA_2024_Moto3",
+    "team_key": "HONDA_TEAM_ASIA",
+    "season_year": 2024,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "HONDA_TEAM_ASIA_2025_Moto2",
+    "team_key": "HONDA_TEAM_ASIA",
+    "season_year": 2025,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "HONDA_TEAM_ASIA_2025_Moto3",
+    "team_key": "HONDA_TEAM_ASIA",
+    "season_year": 2025,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "HONDA_TEAM_ASIA_2026_Moto2",
+    "team_key": "HONDA_TEAM_ASIA",
+    "season_year": 2026,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "HONDA_TEAM_ASIA_2026_Moto3",
+    "team_key": "HONDA_TEAM_ASIA",
+    "season_year": 2026,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "INTACT_GP_2013_Moto2",
+    "team_key": "INTACT_GP",
+    "season_year": 2013,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "INTACT_GP_2014_Moto2",
+    "team_key": "INTACT_GP",
+    "season_year": 2014,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "INTACT_GP_2015_Moto2",
+    "team_key": "INTACT_GP",
+    "season_year": 2015,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "INTACT_GP_2016_Moto2",
+    "team_key": "INTACT_GP",
+    "season_year": 2016,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "INTACT_GP_2017_Moto2",
+    "team_key": "INTACT_GP",
+    "season_year": 2017,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "INTACT_GP_2018_Moto2",
+    "team_key": "INTACT_GP",
+    "season_year": 2018,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "INTACT_GP_2018_MotoGP",
+    "team_key": "INTACT_GP",
+    "season_year": 2018,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "INTACT_GP_2019_Moto2",
+    "team_key": "INTACT_GP",
+    "season_year": 2019,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "INTACT_GP_2019_MotoE",
+    "team_key": "INTACT_GP",
+    "season_year": 2019,
+    "class_name": "MotoE",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "INTACT_GP_2020_Moto2",
+    "team_key": "INTACT_GP",
+    "season_year": 2020,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "INTACT_GP_2020_Moto3",
+    "team_key": "INTACT_GP",
+    "season_year": 2020,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "INTACT_GP_2020_MotoE",
+    "team_key": "INTACT_GP",
+    "season_year": 2020,
+    "class_name": "MotoE",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "INTACT_GP_2021_Moto2",
+    "team_key": "INTACT_GP",
+    "season_year": 2021,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "INTACT_GP_2021_MotoE",
+    "team_key": "INTACT_GP",
+    "season_year": 2021,
+    "class_name": "MotoE",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "INTACT_GP_2022_Moto2",
+    "team_key": "INTACT_GP",
+    "season_year": 2022,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "INTACT_GP_2022_MotoE",
+    "team_key": "INTACT_GP",
+    "season_year": 2022,
+    "class_name": "MotoE",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "INTACT_GP_2023_Moto2",
+    "team_key": "INTACT_GP",
+    "season_year": 2023,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "INTACT_GP_2023_Moto3",
+    "team_key": "INTACT_GP",
+    "season_year": 2023,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "INTACT_GP_2023_MotoE",
+    "team_key": "INTACT_GP",
+    "season_year": 2023,
+    "class_name": "MotoE",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "INTACT_GP_2024_Moto2",
+    "team_key": "INTACT_GP",
+    "season_year": 2024,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "INTACT_GP_2024_Moto3",
+    "team_key": "INTACT_GP",
+    "season_year": 2024,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "INTACT_GP_2024_MotoE",
+    "team_key": "INTACT_GP",
+    "season_year": 2024,
+    "class_name": "MotoE",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "INTACT_GP_2025_Moto2",
+    "team_key": "INTACT_GP",
+    "season_year": 2025,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "INTACT_GP_2025_Moto3",
+    "team_key": "INTACT_GP",
+    "season_year": 2025,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "INTACT_GP_2025_MotoE",
+    "team_key": "INTACT_GP",
+    "season_year": 2025,
+    "class_name": "MotoE",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "INTACT_GP_2026_Moto2",
+    "team_key": "INTACT_GP",
+    "season_year": 2026,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "INTACT_GP_2026_Moto3",
+    "team_key": "INTACT_GP",
+    "season_year": 2026,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ITALTRANS_RACING_2010_Moto2",
+    "team_key": "ITALTRANS_RACING",
+    "season_year": 2010,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ITALTRANS_RACING_2011_Moto2",
+    "team_key": "ITALTRANS_RACING",
+    "season_year": 2011,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ITALTRANS_RACING_2012_Moto2",
+    "team_key": "ITALTRANS_RACING",
+    "season_year": 2012,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ITALTRANS_RACING_2012_MotoGP",
+    "team_key": "ITALTRANS_RACING",
+    "season_year": 2012,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ITALTRANS_RACING_2013_Moto2",
+    "team_key": "ITALTRANS_RACING",
+    "season_year": 2013,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ITALTRANS_RACING_2014_Moto2",
+    "team_key": "ITALTRANS_RACING",
+    "season_year": 2014,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ITALTRANS_RACING_2015_Moto2",
+    "team_key": "ITALTRANS_RACING",
+    "season_year": 2015,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ITALTRANS_RACING_2016_Moto2",
+    "team_key": "ITALTRANS_RACING",
+    "season_year": 2016,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ITALTRANS_RACING_2017_Moto2",
+    "team_key": "ITALTRANS_RACING",
+    "season_year": 2017,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ITALTRANS_RACING_2018_Moto2",
+    "team_key": "ITALTRANS_RACING",
+    "season_year": 2018,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ITALTRANS_RACING_2018_Moto3",
+    "team_key": "ITALTRANS_RACING",
+    "season_year": 2018,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ITALTRANS_RACING_2019_Moto2",
+    "team_key": "ITALTRANS_RACING",
+    "season_year": 2019,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ITALTRANS_RACING_2020_Moto2",
+    "team_key": "ITALTRANS_RACING",
+    "season_year": 2020,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ITALTRANS_RACING_2021_Moto2",
+    "team_key": "ITALTRANS_RACING",
+    "season_year": 2021,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ITALTRANS_RACING_2022_Moto2",
+    "team_key": "ITALTRANS_RACING",
+    "season_year": 2022,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ITALTRANS_RACING_2023_Moto2",
+    "team_key": "ITALTRANS_RACING",
+    "season_year": 2023,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ITALTRANS_RACING_2024_Moto2",
+    "team_key": "ITALTRANS_RACING",
+    "season_year": 2024,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ITALTRANS_RACING_2025_Moto2",
+    "team_key": "ITALTRANS_RACING",
+    "season_year": 2025,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "ITALTRANS_RACING_2026_Moto2",
+    "team_key": "ITALTRANS_RACING",
+    "season_year": 2026,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "KANEMOTO_RACING_2002_MotoGP",
+    "team_key": "KANEMOTO_RACING",
+    "season_year": 2002,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "KAWASAKI_FACTORY_TEAM_2003_MotoGP",
+    "team_key": "KAWASAKI_FACTORY_TEAM",
+    "season_year": 2003,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "KAWASAKI_FACTORY_TEAM_2004_MotoGP",
+    "team_key": "KAWASAKI_FACTORY_TEAM",
+    "season_year": 2004,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "KAWASAKI_FACTORY_TEAM_2005_MotoGP",
+    "team_key": "KAWASAKI_FACTORY_TEAM",
+    "season_year": 2005,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "KAWASAKI_FACTORY_TEAM_2006_MotoGP",
+    "team_key": "KAWASAKI_FACTORY_TEAM",
+    "season_year": 2006,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "KAWASAKI_FACTORY_TEAM_2007_MotoGP",
+    "team_key": "KAWASAKI_FACTORY_TEAM",
+    "season_year": 2007,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "KAWASAKI_FACTORY_TEAM_2008_MotoGP",
+    "team_key": "KAWASAKI_FACTORY_TEAM",
+    "season_year": 2008,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "KIEFER_RACING_2003_250cc",
+    "team_key": "KIEFER_RACING",
+    "season_year": 2003,
+    "class_name": "250cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "KIEFER_RACING_2005_125cc",
+    "team_key": "KIEFER_RACING",
+    "season_year": 2005,
+    "class_name": "125cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "KIEFER_RACING_2005_250cc",
+    "team_key": "KIEFER_RACING",
+    "season_year": 2005,
+    "class_name": "250cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "KIEFER_RACING_2006_250cc",
+    "team_key": "KIEFER_RACING",
+    "season_year": 2006,
+    "class_name": "250cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "KIEFER_RACING_2007_250cc",
+    "team_key": "KIEFER_RACING",
+    "season_year": 2007,
+    "class_name": "250cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "KIEFER_RACING_2008_125cc",
+    "team_key": "KIEFER_RACING",
+    "season_year": 2008,
+    "class_name": "125cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "KIEFER_RACING_2009_125cc",
+    "team_key": "KIEFER_RACING",
+    "season_year": 2009,
+    "class_name": "125cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "KIEFER_RACING_2009_250cc",
+    "team_key": "KIEFER_RACING",
+    "season_year": 2009,
+    "class_name": "250cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "KIEFER_RACING_2010_Moto2",
+    "team_key": "KIEFER_RACING",
+    "season_year": 2010,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "KIEFER_RACING_2011_Moto2",
+    "team_key": "KIEFER_RACING",
+    "season_year": 2011,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "KIEFER_RACING_2012_Moto2",
+    "team_key": "KIEFER_RACING",
+    "season_year": 2012,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "KIEFER_RACING_2017_Moto2",
+    "team_key": "KIEFER_RACING",
+    "season_year": 2017,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "KIEFER_RACING_2018_Moto2",
+    "team_key": "KIEFER_RACING",
+    "season_year": 2018,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "KIEFER_RACING_2019_Moto2",
+    "team_key": "KIEFER_RACING",
+    "season_year": 2019,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "KIEFER_RACING_2019_Moto3",
+    "team_key": "KIEFER_RACING",
+    "season_year": 2019,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "KTM_FACTORY_TEAM_2016_MotoGP",
+    "team_key": "KTM_FACTORY_TEAM",
+    "season_year": 2016,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "KTM_FACTORY_TEAM_2017_MotoGP",
+    "team_key": "KTM_FACTORY_TEAM",
+    "season_year": 2017,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "KTM_FACTORY_TEAM_2018_MotoGP",
+    "team_key": "KTM_FACTORY_TEAM",
+    "season_year": 2018,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "KTM_FACTORY_TEAM_2019_MotoGP",
+    "team_key": "KTM_FACTORY_TEAM",
+    "season_year": 2019,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "KTM_FACTORY_TEAM_2020_MotoGP",
+    "team_key": "KTM_FACTORY_TEAM",
+    "season_year": 2020,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "KTM_FACTORY_TEAM_2021_MotoGP",
+    "team_key": "KTM_FACTORY_TEAM",
+    "season_year": 2021,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "KTM_FACTORY_TEAM_2022_MotoGP",
+    "team_key": "KTM_FACTORY_TEAM",
+    "season_year": 2022,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "KTM_FACTORY_TEAM_2023_MotoGP",
+    "team_key": "KTM_FACTORY_TEAM",
+    "season_year": 2023,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "KTM_FACTORY_TEAM_2024_MotoGP",
+    "team_key": "KTM_FACTORY_TEAM",
+    "season_year": 2024,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "KTM_FACTORY_TEAM_2025_MotoGP",
+    "team_key": "KTM_FACTORY_TEAM",
+    "season_year": 2025,
+    "class_name": "MotoGP",
+    "entry_status": "FACTORY",
+    "status_source_url": "https://www.motogp.com/en/glossary"
+  },
+  {
+    "team_season_key": "KTM_FACTORY_TEAM_2026_MotoGP",
+    "team_key": "KTM_FACTORY_TEAM",
+    "season_year": 2026,
+    "class_name": "MotoGP",
+    "entry_status": "FACTORY",
+    "status_source_url": "https://www.motogp.com/en/glossary"
+  },
+  {
+    "team_season_key": "LCR_RACING_TEAM_2002_125cc",
+    "team_key": "LCR_RACING_TEAM",
+    "season_year": 2002,
+    "class_name": "125cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "LCR_RACING_TEAM_2002_250cc",
+    "team_key": "LCR_RACING_TEAM",
+    "season_year": 2002,
+    "class_name": "250cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "LCR_RACING_TEAM_2003_125cc",
+    "team_key": "LCR_RACING_TEAM",
+    "season_year": 2003,
+    "class_name": "125cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "LCR_RACING_TEAM_2003_250cc",
+    "team_key": "LCR_RACING_TEAM",
+    "season_year": 2003,
+    "class_name": "250cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "LCR_RACING_TEAM_2004_125cc",
+    "team_key": "LCR_RACING_TEAM",
+    "season_year": 2004,
+    "class_name": "125cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "LCR_RACING_TEAM_2004_250cc",
+    "team_key": "LCR_RACING_TEAM",
+    "season_year": 2004,
+    "class_name": "250cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "LCR_RACING_TEAM_2005_250cc",
+    "team_key": "LCR_RACING_TEAM",
+    "season_year": 2005,
+    "class_name": "250cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "LCR_RACING_TEAM_2006_MotoGP",
+    "team_key": "LCR_RACING_TEAM",
+    "season_year": 2006,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "LCR_RACING_TEAM_2007_250cc",
+    "team_key": "LCR_RACING_TEAM",
+    "season_year": 2007,
+    "class_name": "250cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "LCR_RACING_TEAM_2007_MotoGP",
+    "team_key": "LCR_RACING_TEAM",
+    "season_year": 2007,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "LCR_RACING_TEAM_2008_MotoGP",
+    "team_key": "LCR_RACING_TEAM",
+    "season_year": 2008,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "LCR_RACING_TEAM_2009_MotoGP",
+    "team_key": "LCR_RACING_TEAM",
+    "season_year": 2009,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "LCR_RACING_TEAM_2010_MotoGP",
+    "team_key": "LCR_RACING_TEAM",
+    "season_year": 2010,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "LCR_RACING_TEAM_2011_MotoGP",
+    "team_key": "LCR_RACING_TEAM",
+    "season_year": 2011,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "LCR_RACING_TEAM_2012_MotoGP",
+    "team_key": "LCR_RACING_TEAM",
+    "season_year": 2012,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "LCR_RACING_TEAM_2013_MotoGP",
+    "team_key": "LCR_RACING_TEAM",
+    "season_year": 2013,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "LCR_RACING_TEAM_2014_MotoGP",
+    "team_key": "LCR_RACING_TEAM",
+    "season_year": 2014,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "LCR_RACING_TEAM_2015_MotoGP",
+    "team_key": "LCR_RACING_TEAM",
+    "season_year": 2015,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "LCR_RACING_TEAM_2016_MotoGP",
+    "team_key": "LCR_RACING_TEAM",
+    "season_year": 2016,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "LCR_RACING_TEAM_2017_MotoGP",
+    "team_key": "LCR_RACING_TEAM",
+    "season_year": 2017,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "LCR_RACING_TEAM_2018_MotoGP",
+    "team_key": "LCR_RACING_TEAM",
+    "season_year": 2018,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "LCR_RACING_TEAM_2019_MotoE",
+    "team_key": "LCR_RACING_TEAM",
+    "season_year": 2019,
+    "class_name": "MotoE",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "LCR_RACING_TEAM_2019_MotoGP",
+    "team_key": "LCR_RACING_TEAM",
+    "season_year": 2019,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "LCR_RACING_TEAM_2020_MotoE",
+    "team_key": "LCR_RACING_TEAM",
+    "season_year": 2020,
+    "class_name": "MotoE",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "LCR_RACING_TEAM_2020_MotoGP",
+    "team_key": "LCR_RACING_TEAM",
+    "season_year": 2020,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "LCR_RACING_TEAM_2021_MotoE",
+    "team_key": "LCR_RACING_TEAM",
+    "season_year": 2021,
+    "class_name": "MotoE",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "LCR_RACING_TEAM_2021_MotoGP",
+    "team_key": "LCR_RACING_TEAM",
+    "season_year": 2021,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "LCR_RACING_TEAM_2022_MotoE",
+    "team_key": "LCR_RACING_TEAM",
+    "season_year": 2022,
+    "class_name": "MotoE",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "LCR_RACING_TEAM_2022_MotoGP",
+    "team_key": "LCR_RACING_TEAM",
+    "season_year": 2022,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "LCR_RACING_TEAM_2023_MotoE",
+    "team_key": "LCR_RACING_TEAM",
+    "season_year": 2023,
+    "class_name": "MotoE",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "LCR_RACING_TEAM_2023_MotoGP",
+    "team_key": "LCR_RACING_TEAM",
+    "season_year": 2023,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "LCR_RACING_TEAM_2024_MotoE",
+    "team_key": "LCR_RACING_TEAM",
+    "season_year": 2024,
+    "class_name": "MotoE",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "LCR_RACING_TEAM_2024_MotoGP",
+    "team_key": "LCR_RACING_TEAM",
+    "season_year": 2024,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "LCR_RACING_TEAM_2025_MotoE",
+    "team_key": "LCR_RACING_TEAM",
+    "season_year": 2025,
+    "class_name": "MotoE",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "LCR_RACING_TEAM_2025_MotoGP",
+    "team_key": "LCR_RACING_TEAM",
+    "season_year": 2025,
+    "class_name": "MotoGP",
+    "entry_status": "INDEPENDENT",
+    "status_source_url": "https://www.motogp.com/en/glossary"
+  },
+  {
+    "team_season_key": "LCR_RACING_TEAM_2026_MotoGP",
+    "team_key": "LCR_RACING_TEAM",
+    "season_year": 2026,
+    "class_name": "MotoGP",
+    "entry_status": "INDEPENDENT",
+    "status_source_url": "https://www.motogp.com/en/glossary"
+  },
+  {
+    "team_season_key": "LEOPARD_RACING_2015_Moto3",
+    "team_key": "LEOPARD_RACING",
+    "season_year": 2015,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "LEOPARD_RACING_2016_Moto2",
+    "team_key": "LEOPARD_RACING",
+    "season_year": 2016,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "LEOPARD_RACING_2016_Moto3",
+    "team_key": "LEOPARD_RACING",
+    "season_year": 2016,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "LEOPARD_RACING_2017_Moto3",
+    "team_key": "LEOPARD_RACING",
+    "season_year": 2017,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "LEOPARD_RACING_2018_Moto3",
+    "team_key": "LEOPARD_RACING",
+    "season_year": 2018,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "LEOPARD_RACING_2019_Moto3",
+    "team_key": "LEOPARD_RACING",
+    "season_year": 2019,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "LEOPARD_RACING_2020_Moto3",
+    "team_key": "LEOPARD_RACING",
+    "season_year": 2020,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "LEOPARD_RACING_2021_Moto3",
+    "team_key": "LEOPARD_RACING",
+    "season_year": 2021,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "LEOPARD_RACING_2022_Moto3",
+    "team_key": "LEOPARD_RACING",
+    "season_year": 2022,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "LEOPARD_RACING_2023_Moto3",
+    "team_key": "LEOPARD_RACING",
+    "season_year": 2023,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "LEOPARD_RACING_2024_Moto3",
+    "team_key": "LEOPARD_RACING",
+    "season_year": 2024,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "LEOPARD_RACING_2025_Moto3",
+    "team_key": "LEOPARD_RACING",
+    "season_year": 2025,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "LEOPARD_RACING_2026_Moto3",
+    "team_key": "LEOPARD_RACING",
+    "season_year": 2026,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "MARC_VDS_RACING_2010_Moto2",
+    "team_key": "MARC_VDS_RACING",
+    "season_year": 2010,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "MARC_VDS_RACING_2011_Moto2",
+    "team_key": "MARC_VDS_RACING",
+    "season_year": 2011,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "MARC_VDS_RACING_2012_Moto2",
+    "team_key": "MARC_VDS_RACING",
+    "season_year": 2012,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "MARC_VDS_RACING_2013_Moto2",
+    "team_key": "MARC_VDS_RACING",
+    "season_year": 2013,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "MARC_VDS_RACING_2013_Moto3",
+    "team_key": "MARC_VDS_RACING",
+    "season_year": 2013,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "MARC_VDS_RACING_2014_Moto2",
+    "team_key": "MARC_VDS_RACING",
+    "season_year": 2014,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "MARC_VDS_RACING_2014_Moto3",
+    "team_key": "MARC_VDS_RACING",
+    "season_year": 2014,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "MARC_VDS_RACING_2015_Moto2",
+    "team_key": "MARC_VDS_RACING",
+    "season_year": 2015,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "MARC_VDS_RACING_2015_MotoGP",
+    "team_key": "MARC_VDS_RACING",
+    "season_year": 2015,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "MARC_VDS_RACING_2016_Moto2",
+    "team_key": "MARC_VDS_RACING",
+    "season_year": 2016,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "MARC_VDS_RACING_2016_MotoGP",
+    "team_key": "MARC_VDS_RACING",
+    "season_year": 2016,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "MARC_VDS_RACING_2017_Moto2",
+    "team_key": "MARC_VDS_RACING",
+    "season_year": 2017,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "MARC_VDS_RACING_2017_MotoGP",
+    "team_key": "MARC_VDS_RACING",
+    "season_year": 2017,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "MARC_VDS_RACING_2018_Moto2",
+    "team_key": "MARC_VDS_RACING",
+    "season_year": 2018,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "MARC_VDS_RACING_2018_MotoGP",
+    "team_key": "MARC_VDS_RACING",
+    "season_year": 2018,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "MARC_VDS_RACING_2019_Moto2",
+    "team_key": "MARC_VDS_RACING",
+    "season_year": 2019,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "MARC_VDS_RACING_2019_MotoE",
+    "team_key": "MARC_VDS_RACING",
+    "season_year": 2019,
+    "class_name": "MotoE",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "MARC_VDS_RACING_2020_Moto2",
+    "team_key": "MARC_VDS_RACING",
+    "season_year": 2020,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "MARC_VDS_RACING_2020_MotoE",
+    "team_key": "MARC_VDS_RACING",
+    "season_year": 2020,
+    "class_name": "MotoE",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "MARC_VDS_RACING_2021_Moto2",
+    "team_key": "MARC_VDS_RACING",
+    "season_year": 2021,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "MARC_VDS_RACING_2021_MotoE",
+    "team_key": "MARC_VDS_RACING",
+    "season_year": 2021,
+    "class_name": "MotoE",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "MARC_VDS_RACING_2022_Moto2",
+    "team_key": "MARC_VDS_RACING",
+    "season_year": 2022,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "MARC_VDS_RACING_2022_MotoE",
+    "team_key": "MARC_VDS_RACING",
+    "season_year": 2022,
+    "class_name": "MotoE",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "MARC_VDS_RACING_2023_Moto2",
+    "team_key": "MARC_VDS_RACING",
+    "season_year": 2023,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "MARC_VDS_RACING_2024_Moto2",
+    "team_key": "MARC_VDS_RACING",
+    "season_year": 2024,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "MARC_VDS_RACING_2025_Moto2",
+    "team_key": "MARC_VDS_RACING",
+    "season_year": 2025,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "MARC_VDS_RACING_2026_Moto2",
+    "team_key": "MARC_VDS_RACING",
+    "season_year": 2026,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "MATTEONI_RACING_2002_125cc",
+    "team_key": "MATTEONI_RACING",
+    "season_year": 2002,
+    "class_name": "125cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "MATTEONI_RACING_2002_250cc",
+    "team_key": "MATTEONI_RACING",
+    "season_year": 2002,
+    "class_name": "250cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "MATTEONI_RACING_2003_125cc",
+    "team_key": "MATTEONI_RACING",
+    "season_year": 2003,
+    "class_name": "125cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "MATTEONI_RACING_2003_250cc",
+    "team_key": "MATTEONI_RACING",
+    "season_year": 2003,
+    "class_name": "250cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "MATTEONI_RACING_2004_125cc",
+    "team_key": "MATTEONI_RACING",
+    "season_year": 2004,
+    "class_name": "125cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "MATTEONI_RACING_2004_250cc",
+    "team_key": "MATTEONI_RACING",
+    "season_year": 2004,
+    "class_name": "250cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "MATTEONI_RACING_2005_125cc",
+    "team_key": "MATTEONI_RACING",
+    "season_year": 2005,
+    "class_name": "125cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "MATTEONI_RACING_2005_250cc",
+    "team_key": "MATTEONI_RACING",
+    "season_year": 2005,
+    "class_name": "250cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "MATTEONI_RACING_2006_250cc",
+    "team_key": "MATTEONI_RACING",
+    "season_year": 2006,
+    "class_name": "250cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "MATTEONI_RACING_2008_250cc",
+    "team_key": "MATTEONI_RACING",
+    "season_year": 2008,
+    "class_name": "250cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "MATTEONI_RACING_2009_250cc",
+    "team_key": "MATTEONI_RACING",
+    "season_year": 2009,
+    "class_name": "250cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "MATTEONI_RACING_2010_125cc",
+    "team_key": "MATTEONI_RACING",
+    "season_year": 2010,
+    "class_name": "125cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "MATTEONI_RACING_2010_Moto2",
+    "team_key": "MATTEONI_RACING",
+    "season_year": 2010,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "MATTEONI_RACING_2011_125cc",
+    "team_key": "MATTEONI_RACING",
+    "season_year": 2011,
+    "class_name": "125cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "MSI_RACING_2022_Moto3",
+    "team_key": "MSI_RACING",
+    "season_year": 2022,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "MSI_RACING_2023_Moto3",
+    "team_key": "MSI_RACING",
+    "season_year": 2023,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "MSI_RACING_2024_Moto2",
+    "team_key": "MSI_RACING",
+    "season_year": 2024,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "MSI_RACING_2024_Moto3",
+    "team_key": "MSI_RACING",
+    "season_year": 2024,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "MSI_RACING_2024_MotoE",
+    "team_key": "MSI_RACING",
+    "season_year": 2024,
+    "class_name": "MotoE",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "MSI_RACING_2025_Moto2",
+    "team_key": "MSI_RACING",
+    "season_year": 2025,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "MSI_RACING_2025_Moto3",
+    "team_key": "MSI_RACING",
+    "season_year": 2025,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "MSI_RACING_2025_MotoE",
+    "team_key": "MSI_RACING",
+    "season_year": 2025,
+    "class_name": "MotoE",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "MSI_RACING_2026_Moto2",
+    "team_key": "MSI_RACING",
+    "season_year": 2026,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "MSI_RACING_2026_Moto3",
+    "team_key": "MSI_RACING",
+    "season_year": 2026,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "MTA_RACING_2024_Moto3",
+    "team_key": "MTA_RACING",
+    "season_year": 2024,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "MTA_RACING_2025_Moto3",
+    "team_key": "MTA_RACING",
+    "season_year": 2025,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "MTA_RACING_2026_Moto3",
+    "team_key": "MTA_RACING",
+    "season_year": 2026,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "PRAMAC_RACING_2002_MotoGP",
+    "team_key": "PRAMAC_RACING",
+    "season_year": 2002,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "PRAMAC_RACING_2003_MotoGP",
+    "team_key": "PRAMAC_RACING",
+    "season_year": 2003,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "PRAMAC_RACING_2005_MotoGP",
+    "team_key": "PRAMAC_RACING",
+    "season_year": 2005,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "PRAMAC_RACING_2006_MotoGP",
+    "team_key": "PRAMAC_RACING",
+    "season_year": 2006,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "PRAMAC_RACING_2007_MotoGP",
+    "team_key": "PRAMAC_RACING",
+    "season_year": 2007,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "PRAMAC_RACING_2009_MotoGP",
+    "team_key": "PRAMAC_RACING",
+    "season_year": 2009,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "PRAMAC_RACING_2010_MotoGP",
+    "team_key": "PRAMAC_RACING",
+    "season_year": 2010,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "PRAMAC_RACING_2011_MotoGP",
+    "team_key": "PRAMAC_RACING",
+    "season_year": 2011,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "PRAMAC_RACING_2012_MotoGP",
+    "team_key": "PRAMAC_RACING",
+    "season_year": 2012,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "PRAMAC_RACING_2013_MotoGP",
+    "team_key": "PRAMAC_RACING",
+    "season_year": 2013,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "PRAMAC_RACING_2014_MotoGP",
+    "team_key": "PRAMAC_RACING",
+    "season_year": 2014,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "PRAMAC_RACING_2015_MotoGP",
+    "team_key": "PRAMAC_RACING",
+    "season_year": 2015,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "PRAMAC_RACING_2016_MotoGP",
+    "team_key": "PRAMAC_RACING",
+    "season_year": 2016,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "PRAMAC_RACING_2017_MotoGP",
+    "team_key": "PRAMAC_RACING",
+    "season_year": 2017,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "PRAMAC_RACING_2018_Moto2",
+    "team_key": "PRAMAC_RACING",
+    "season_year": 2018,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "PRAMAC_RACING_2018_MotoGP",
+    "team_key": "PRAMAC_RACING",
+    "season_year": 2018,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "PRAMAC_RACING_2019_MotoE",
+    "team_key": "PRAMAC_RACING",
+    "season_year": 2019,
+    "class_name": "MotoE",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "PRAMAC_RACING_2019_MotoGP",
+    "team_key": "PRAMAC_RACING",
+    "season_year": 2019,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "PRAMAC_RACING_2020_MotoE",
+    "team_key": "PRAMAC_RACING",
+    "season_year": 2020,
+    "class_name": "MotoE",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "PRAMAC_RACING_2020_MotoGP",
+    "team_key": "PRAMAC_RACING",
+    "season_year": 2020,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "PRAMAC_RACING_2021_MotoE",
+    "team_key": "PRAMAC_RACING",
+    "season_year": 2021,
+    "class_name": "MotoE",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "PRAMAC_RACING_2021_MotoGP",
+    "team_key": "PRAMAC_RACING",
+    "season_year": 2021,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "PRAMAC_RACING_2022_MotoE",
+    "team_key": "PRAMAC_RACING",
+    "season_year": 2022,
+    "class_name": "MotoE",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "PRAMAC_RACING_2022_MotoGP",
+    "team_key": "PRAMAC_RACING",
+    "season_year": 2022,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "PRAMAC_RACING_2023_MotoE",
+    "team_key": "PRAMAC_RACING",
+    "season_year": 2023,
+    "class_name": "MotoE",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "PRAMAC_RACING_2023_MotoGP",
+    "team_key": "PRAMAC_RACING",
+    "season_year": 2023,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "PRAMAC_RACING_2024_MotoGP",
+    "team_key": "PRAMAC_RACING",
+    "season_year": 2024,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "PRAMAC_RACING_2025_Moto2",
+    "team_key": "PRAMAC_RACING",
+    "season_year": 2025,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "PRAMAC_RACING_2025_MotoGP",
+    "team_key": "PRAMAC_RACING",
+    "season_year": 2025,
+    "class_name": "MotoGP",
+    "entry_status": "INDEPENDENT",
+    "status_source_url": "https://www.motogp.com/en/glossary"
+  },
+  {
+    "team_season_key": "PRAMAC_RACING_2026_Moto2",
+    "team_key": "PRAMAC_RACING",
+    "season_year": 2026,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "PRAMAC_RACING_2026_MotoGP",
+    "team_key": "PRAMAC_RACING",
+    "season_year": 2026,
+    "class_name": "MotoGP",
+    "entry_status": "INDEPENDENT",
+    "status_source_url": "https://www.motogp.com/en/glossary"
+  },
+  {
+    "team_season_key": "RW_RACING_GP_2011_125cc",
+    "team_key": "RW_RACING_GP",
+    "season_year": 2011,
+    "class_name": "125cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "RW_RACING_GP_2012_Moto3",
+    "team_key": "RW_RACING_GP",
+    "season_year": 2012,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "RW_RACING_GP_2013_Moto3",
+    "team_key": "RW_RACING_GP",
+    "season_year": 2013,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "RW_RACING_GP_2015_Moto3",
+    "team_key": "RW_RACING_GP",
+    "season_year": 2015,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "RW_RACING_GP_2016_Moto3",
+    "team_key": "RW_RACING_GP",
+    "season_year": 2016,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "RW_RACING_GP_2017_Moto2",
+    "team_key": "RW_RACING_GP",
+    "season_year": 2017,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "RW_RACING_GP_2018_Moto2",
+    "team_key": "RW_RACING_GP",
+    "season_year": 2018,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "RW_RACING_GP_2019_Moto2",
+    "team_key": "RW_RACING_GP",
+    "season_year": 2019,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "RW_RACING_GP_2020_Moto2",
+    "team_key": "RW_RACING_GP",
+    "season_year": 2020,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "RW_RACING_GP_2021_Moto2",
+    "team_key": "RW_RACING_GP",
+    "season_year": 2021,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "RW_RACING_GP_2022_Moto2",
+    "team_key": "RW_RACING_GP",
+    "season_year": 2022,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "RW_RACING_GP_2023_Moto2",
+    "team_key": "RW_RACING_GP",
+    "season_year": 2023,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "RW_RACING_GP_2024_Moto2",
+    "team_key": "RW_RACING_GP",
+    "season_year": 2024,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "RW_RACING_GP_2025_Moto2",
+    "team_key": "RW_RACING_GP",
+    "season_year": 2025,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "RW_RACING_GP_2026_Moto2",
+    "team_key": "RW_RACING_GP",
+    "season_year": 2026,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SAG_RACING_TEAM_2007_250cc",
+    "team_key": "SAG_RACING_TEAM",
+    "season_year": 2007,
+    "class_name": "250cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SAG_RACING_TEAM_2008_250cc",
+    "team_key": "SAG_RACING_TEAM",
+    "season_year": 2008,
+    "class_name": "250cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SAG_RACING_TEAM_2009_250cc",
+    "team_key": "SAG_RACING_TEAM",
+    "season_year": 2009,
+    "class_name": "250cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SAG_RACING_TEAM_2010_Moto2",
+    "team_key": "SAG_RACING_TEAM",
+    "season_year": 2010,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SAG_RACING_TEAM_2011_Moto2",
+    "team_key": "SAG_RACING_TEAM",
+    "season_year": 2011,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SAG_RACING_TEAM_2012_Moto2",
+    "team_key": "SAG_RACING_TEAM",
+    "season_year": 2012,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SAG_RACING_TEAM_2012_Moto3",
+    "team_key": "SAG_RACING_TEAM",
+    "season_year": 2012,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SAG_RACING_TEAM_2013_Moto2",
+    "team_key": "SAG_RACING_TEAM",
+    "season_year": 2013,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SAG_RACING_TEAM_2014_Moto2",
+    "team_key": "SAG_RACING_TEAM",
+    "season_year": 2014,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SAG_RACING_TEAM_2016_Moto2",
+    "team_key": "SAG_RACING_TEAM",
+    "season_year": 2016,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SAG_RACING_TEAM_2017_Moto2",
+    "team_key": "SAG_RACING_TEAM",
+    "season_year": 2017,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SAG_RACING_TEAM_2018_Moto2",
+    "team_key": "SAG_RACING_TEAM",
+    "season_year": 2018,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SAG_RACING_TEAM_2019_Moto2",
+    "team_key": "SAG_RACING_TEAM",
+    "season_year": 2019,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SAG_RACING_TEAM_2020_Moto2",
+    "team_key": "SAG_RACING_TEAM",
+    "season_year": 2020,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SAG_RACING_TEAM_2021_Moto2",
+    "team_key": "SAG_RACING_TEAM",
+    "season_year": 2021,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SAG_RACING_TEAM_2022_Moto2",
+    "team_key": "SAG_RACING_TEAM",
+    "season_year": 2022,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SAG_RACING_TEAM_2023_Moto2",
+    "team_key": "SAG_RACING_TEAM",
+    "season_year": 2023,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SIC58_SQUADRA_CORSE_2017_Moto3",
+    "team_key": "SIC58_SQUADRA_CORSE",
+    "season_year": 2017,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SIC58_SQUADRA_CORSE_2018_Moto3",
+    "team_key": "SIC58_SQUADRA_CORSE",
+    "season_year": 2018,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SIC58_SQUADRA_CORSE_2019_Moto3",
+    "team_key": "SIC58_SQUADRA_CORSE",
+    "season_year": 2019,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SIC58_SQUADRA_CORSE_2019_MotoE",
+    "team_key": "SIC58_SQUADRA_CORSE",
+    "season_year": 2019,
+    "class_name": "MotoE",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SIC58_SQUADRA_CORSE_2020_Moto3",
+    "team_key": "SIC58_SQUADRA_CORSE",
+    "season_year": 2020,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SIC58_SQUADRA_CORSE_2020_MotoE",
+    "team_key": "SIC58_SQUADRA_CORSE",
+    "season_year": 2020,
+    "class_name": "MotoE",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SIC58_SQUADRA_CORSE_2021_Moto3",
+    "team_key": "SIC58_SQUADRA_CORSE",
+    "season_year": 2021,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SIC58_SQUADRA_CORSE_2021_MotoE",
+    "team_key": "SIC58_SQUADRA_CORSE",
+    "season_year": 2021,
+    "class_name": "MotoE",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SIC58_SQUADRA_CORSE_2022_Moto3",
+    "team_key": "SIC58_SQUADRA_CORSE",
+    "season_year": 2022,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SIC58_SQUADRA_CORSE_2022_MotoE",
+    "team_key": "SIC58_SQUADRA_CORSE",
+    "season_year": 2022,
+    "class_name": "MotoE",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SIC58_SQUADRA_CORSE_2023_Moto3",
+    "team_key": "SIC58_SQUADRA_CORSE",
+    "season_year": 2023,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SIC58_SQUADRA_CORSE_2023_MotoE",
+    "team_key": "SIC58_SQUADRA_CORSE",
+    "season_year": 2023,
+    "class_name": "MotoE",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SIC58_SQUADRA_CORSE_2024_Moto3",
+    "team_key": "SIC58_SQUADRA_CORSE",
+    "season_year": 2024,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SIC58_SQUADRA_CORSE_2024_MotoE",
+    "team_key": "SIC58_SQUADRA_CORSE",
+    "season_year": 2024,
+    "class_name": "MotoE",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SIC58_SQUADRA_CORSE_2025_Moto3",
+    "team_key": "SIC58_SQUADRA_CORSE",
+    "season_year": 2025,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SIC58_SQUADRA_CORSE_2025_MotoE",
+    "team_key": "SIC58_SQUADRA_CORSE",
+    "season_year": 2025,
+    "class_name": "MotoE",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SIC58_SQUADRA_CORSE_2026_Moto3",
+    "team_key": "SIC58_SQUADRA_CORSE",
+    "season_year": 2026,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SNIPERS_TEAM_2017_Moto3",
+    "team_key": "SNIPERS_TEAM",
+    "season_year": 2017,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SNIPERS_TEAM_2018_Moto2",
+    "team_key": "SNIPERS_TEAM",
+    "season_year": 2018,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SNIPERS_TEAM_2018_Moto3",
+    "team_key": "SNIPERS_TEAM",
+    "season_year": 2018,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SNIPERS_TEAM_2019_Moto3",
+    "team_key": "SNIPERS_TEAM",
+    "season_year": 2019,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SNIPERS_TEAM_2020_Moto3",
+    "team_key": "SNIPERS_TEAM",
+    "season_year": 2020,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SNIPERS_TEAM_2021_Moto3",
+    "team_key": "SNIPERS_TEAM",
+    "season_year": 2021,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SNIPERS_TEAM_2022_Moto3",
+    "team_key": "SNIPERS_TEAM",
+    "season_year": 2022,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SNIPERS_TEAM_2023_Moto3",
+    "team_key": "SNIPERS_TEAM",
+    "season_year": 2023,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SNIPERS_TEAM_2024_Moto3",
+    "team_key": "SNIPERS_TEAM",
+    "season_year": 2024,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SNIPERS_TEAM_2025_Moto3",
+    "team_key": "SNIPERS_TEAM",
+    "season_year": 2025,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SNIPERS_TEAM_2025_MotoE",
+    "team_key": "SNIPERS_TEAM",
+    "season_year": 2025,
+    "class_name": "MotoE",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SNIPERS_TEAM_2026_Moto3",
+    "team_key": "SNIPERS_TEAM",
+    "season_year": 2026,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SPEED_UP_RACING_2010_Moto2",
+    "team_key": "SPEED_UP_RACING",
+    "season_year": 2010,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SPEED_UP_RACING_2014_Moto2",
+    "team_key": "SPEED_UP_RACING",
+    "season_year": 2014,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SPEED_UP_RACING_2015_Moto2",
+    "team_key": "SPEED_UP_RACING",
+    "season_year": 2015,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SPEED_UP_RACING_2016_Moto2",
+    "team_key": "SPEED_UP_RACING",
+    "season_year": 2016,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SPEED_UP_RACING_2017_Moto2",
+    "team_key": "SPEED_UP_RACING",
+    "season_year": 2017,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SPEED_UP_RACING_2018_Moto2",
+    "team_key": "SPEED_UP_RACING",
+    "season_year": 2018,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SPEED_UP_RACING_2018_Moto3",
+    "team_key": "SPEED_UP_RACING",
+    "season_year": 2018,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SPEED_UP_RACING_2019_Moto2",
+    "team_key": "SPEED_UP_RACING",
+    "season_year": 2019,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SPEED_UP_RACING_2020_Moto2",
+    "team_key": "SPEED_UP_RACING",
+    "season_year": 2020,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SPEED_UP_RACING_2021_Moto2",
+    "team_key": "SPEED_UP_RACING",
+    "season_year": 2021,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SPEED_UP_RACING_2022_Moto2",
+    "team_key": "SPEED_UP_RACING",
+    "season_year": 2022,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SPEED_UP_RACING_2023_Moto2",
+    "team_key": "SPEED_UP_RACING",
+    "season_year": 2023,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SPEED_UP_RACING_2024_Moto2",
+    "team_key": "SPEED_UP_RACING",
+    "season_year": 2024,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SPEED_UP_RACING_2025_Moto2",
+    "team_key": "SPEED_UP_RACING",
+    "season_year": 2025,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SPEED_UP_RACING_2026_Moto2",
+    "team_key": "SPEED_UP_RACING",
+    "season_year": 2026,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SUZUKI_FACTORY_TEAM_2002_MotoGP",
+    "team_key": "SUZUKI_FACTORY_TEAM",
+    "season_year": 2002,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SUZUKI_FACTORY_TEAM_2003_MotoGP",
+    "team_key": "SUZUKI_FACTORY_TEAM",
+    "season_year": 2003,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SUZUKI_FACTORY_TEAM_2004_MotoGP",
+    "team_key": "SUZUKI_FACTORY_TEAM",
+    "season_year": 2004,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SUZUKI_FACTORY_TEAM_2005_MotoGP",
+    "team_key": "SUZUKI_FACTORY_TEAM",
+    "season_year": 2005,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SUZUKI_FACTORY_TEAM_2006_MotoGP",
+    "team_key": "SUZUKI_FACTORY_TEAM",
+    "season_year": 2006,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SUZUKI_FACTORY_TEAM_2007_MotoGP",
+    "team_key": "SUZUKI_FACTORY_TEAM",
+    "season_year": 2007,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SUZUKI_FACTORY_TEAM_2008_MotoGP",
+    "team_key": "SUZUKI_FACTORY_TEAM",
+    "season_year": 2008,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SUZUKI_FACTORY_TEAM_2009_MotoGP",
+    "team_key": "SUZUKI_FACTORY_TEAM",
+    "season_year": 2009,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SUZUKI_FACTORY_TEAM_2010_MotoGP",
+    "team_key": "SUZUKI_FACTORY_TEAM",
+    "season_year": 2010,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SUZUKI_FACTORY_TEAM_2011_MotoGP",
+    "team_key": "SUZUKI_FACTORY_TEAM",
+    "season_year": 2011,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SUZUKI_FACTORY_TEAM_2015_MotoGP",
+    "team_key": "SUZUKI_FACTORY_TEAM",
+    "season_year": 2015,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SUZUKI_FACTORY_TEAM_2016_MotoGP",
+    "team_key": "SUZUKI_FACTORY_TEAM",
+    "season_year": 2016,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SUZUKI_FACTORY_TEAM_2017_MotoGP",
+    "team_key": "SUZUKI_FACTORY_TEAM",
+    "season_year": 2017,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SUZUKI_FACTORY_TEAM_2018_MotoGP",
+    "team_key": "SUZUKI_FACTORY_TEAM",
+    "season_year": 2018,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SUZUKI_FACTORY_TEAM_2019_MotoGP",
+    "team_key": "SUZUKI_FACTORY_TEAM",
+    "season_year": 2019,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SUZUKI_FACTORY_TEAM_2020_MotoGP",
+    "team_key": "SUZUKI_FACTORY_TEAM",
+    "season_year": 2020,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SUZUKI_FACTORY_TEAM_2021_MotoGP",
+    "team_key": "SUZUKI_FACTORY_TEAM",
+    "season_year": 2021,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "SUZUKI_FACTORY_TEAM_2022_MotoGP",
+    "team_key": "SUZUKI_FACTORY_TEAM",
+    "season_year": 2022,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "TEAM_ROBERTS_2002_250cc",
+    "team_key": "TEAM_ROBERTS",
+    "season_year": 2002,
+    "class_name": "250cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "TEAM_ROBERTS_2002_MotoGP",
+    "team_key": "TEAM_ROBERTS",
+    "season_year": 2002,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "TEAM_ROBERTS_2003_MotoGP",
+    "team_key": "TEAM_ROBERTS",
+    "season_year": 2003,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "TEAM_ROBERTS_2004_MotoGP",
+    "team_key": "TEAM_ROBERTS",
+    "season_year": 2004,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "TEAM_ROBERTS_2005_MotoGP",
+    "team_key": "TEAM_ROBERTS",
+    "season_year": 2005,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "TEAM_ROBERTS_2006_MotoGP",
+    "team_key": "TEAM_ROBERTS",
+    "season_year": 2006,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "TEAM_ROBERTS_2007_MotoGP",
+    "team_key": "TEAM_ROBERTS",
+    "season_year": 2007,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "TECH3_2002_MotoGP",
+    "team_key": "TECH3",
+    "season_year": 2002,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "TECH3_2004_MotoGP",
+    "team_key": "TECH3",
+    "season_year": 2004,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "TECH3_2006_MotoGP",
+    "team_key": "TECH3",
+    "season_year": 2006,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "TECH3_2007_MotoGP",
+    "team_key": "TECH3",
+    "season_year": 2007,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "TECH3_2008_MotoGP",
+    "team_key": "TECH3",
+    "season_year": 2008,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "TECH3_2009_MotoGP",
+    "team_key": "TECH3",
+    "season_year": 2009,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "TECH3_2010_Moto2",
+    "team_key": "TECH3",
+    "season_year": 2010,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "TECH3_2010_MotoGP",
+    "team_key": "TECH3",
+    "season_year": 2010,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "TECH3_2011_Moto2",
+    "team_key": "TECH3",
+    "season_year": 2011,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "TECH3_2011_MotoGP",
+    "team_key": "TECH3",
+    "season_year": 2011,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "TECH3_2012_Moto2",
+    "team_key": "TECH3",
+    "season_year": 2012,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "TECH3_2012_MotoGP",
+    "team_key": "TECH3",
+    "season_year": 2012,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "TECH3_2013_Moto2",
+    "team_key": "TECH3",
+    "season_year": 2013,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "TECH3_2013_MotoGP",
+    "team_key": "TECH3",
+    "season_year": 2013,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "TECH3_2014_Moto2",
+    "team_key": "TECH3",
+    "season_year": 2014,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "TECH3_2014_MotoGP",
+    "team_key": "TECH3",
+    "season_year": 2014,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "TECH3_2015_Moto2",
+    "team_key": "TECH3",
+    "season_year": 2015,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "TECH3_2015_MotoGP",
+    "team_key": "TECH3",
+    "season_year": 2015,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "TECH3_2016_Moto2",
+    "team_key": "TECH3",
+    "season_year": 2016,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "TECH3_2016_MotoGP",
+    "team_key": "TECH3",
+    "season_year": 2016,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "TECH3_2017_Moto2",
+    "team_key": "TECH3",
+    "season_year": 2017,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "TECH3_2017_MotoGP",
+    "team_key": "TECH3",
+    "season_year": 2017,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "TECH3_2018_Moto2",
+    "team_key": "TECH3",
+    "season_year": 2018,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "TECH3_2018_Moto3",
+    "team_key": "TECH3",
+    "season_year": 2018,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "TECH3_2018_MotoGP",
+    "team_key": "TECH3",
+    "season_year": 2018,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "TECH3_2019_Moto2",
+    "team_key": "TECH3",
+    "season_year": 2019,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "TECH3_2019_MotoE",
+    "team_key": "TECH3",
+    "season_year": 2019,
+    "class_name": "MotoE",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "TECH3_2019_MotoGP",
+    "team_key": "TECH3",
+    "season_year": 2019,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "TECH3_2020_Moto3",
+    "team_key": "TECH3",
+    "season_year": 2020,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "TECH3_2020_MotoE",
+    "team_key": "TECH3",
+    "season_year": 2020,
+    "class_name": "MotoE",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "TECH3_2020_MotoGP",
+    "team_key": "TECH3",
+    "season_year": 2020,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "TECH3_2021_Moto3",
+    "team_key": "TECH3",
+    "season_year": 2021,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "TECH3_2021_MotoE",
+    "team_key": "TECH3",
+    "season_year": 2021,
+    "class_name": "MotoE",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "TECH3_2021_MotoGP",
+    "team_key": "TECH3",
+    "season_year": 2021,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "TECH3_2022_Moto3",
+    "team_key": "TECH3",
+    "season_year": 2022,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "TECH3_2022_MotoE",
+    "team_key": "TECH3",
+    "season_year": 2022,
+    "class_name": "MotoE",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "TECH3_2022_MotoGP",
+    "team_key": "TECH3",
+    "season_year": 2022,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "TECH3_2023_Moto3",
+    "team_key": "TECH3",
+    "season_year": 2023,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "TECH3_2023_MotoE",
+    "team_key": "TECH3",
+    "season_year": 2023,
+    "class_name": "MotoE",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "TECH3_2023_MotoGP",
+    "team_key": "TECH3",
+    "season_year": 2023,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "TECH3_2024_Moto3",
+    "team_key": "TECH3",
+    "season_year": 2024,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "TECH3_2024_MotoE",
+    "team_key": "TECH3",
+    "season_year": 2024,
+    "class_name": "MotoE",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "TECH3_2024_MotoGP",
+    "team_key": "TECH3",
+    "season_year": 2024,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "TECH3_2025_Moto3",
+    "team_key": "TECH3",
+    "season_year": 2025,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "TECH3_2025_MotoGP",
+    "team_key": "TECH3",
+    "season_year": 2025,
+    "class_name": "MotoGP",
+    "entry_status": "INDEPENDENT",
+    "status_source_url": "https://www.motogp.com/en/glossary"
+  },
+  {
+    "team_season_key": "TECH3_2026_Moto3",
+    "team_key": "TECH3",
+    "season_year": 2026,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "TECH3_2026_MotoGP",
+    "team_key": "TECH3",
+    "season_year": 2026,
+    "class_name": "MotoGP",
+    "entry_status": "INDEPENDENT",
+    "status_source_url": "https://www.motogp.com/en/glossary"
+  },
+  {
+    "team_season_key": "TRACKHOUSE_RACING_2024_MotoGP",
+    "team_key": "TRACKHOUSE_RACING",
+    "season_year": 2024,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "TRACKHOUSE_RACING_2025_MotoGP",
+    "team_key": "TRACKHOUSE_RACING",
+    "season_year": 2025,
+    "class_name": "MotoGP",
+    "entry_status": "INDEPENDENT",
+    "status_source_url": "https://www.motogp.com/en/glossary"
+  },
+  {
+    "team_season_key": "TRACKHOUSE_RACING_2026_MotoGP",
+    "team_key": "TRACKHOUSE_RACING",
+    "season_year": 2026,
+    "class_name": "MotoGP",
+    "entry_status": "INDEPENDENT",
+    "status_source_url": "https://www.motogp.com/en/glossary"
+  },
+  {
+    "team_season_key": "VR46_RACING_TEAM_2014_Moto3",
+    "team_key": "VR46_RACING_TEAM",
+    "season_year": 2014,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "VR46_RACING_TEAM_2015_Moto3",
+    "team_key": "VR46_RACING_TEAM",
+    "season_year": 2015,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "VR46_RACING_TEAM_2016_Moto3",
+    "team_key": "VR46_RACING_TEAM",
+    "season_year": 2016,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "VR46_RACING_TEAM_2017_Moto2",
+    "team_key": "VR46_RACING_TEAM",
+    "season_year": 2017,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "VR46_RACING_TEAM_2017_Moto3",
+    "team_key": "VR46_RACING_TEAM",
+    "season_year": 2017,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "VR46_RACING_TEAM_2018_Moto2",
+    "team_key": "VR46_RACING_TEAM",
+    "season_year": 2018,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "VR46_RACING_TEAM_2018_Moto3",
+    "team_key": "VR46_RACING_TEAM",
+    "season_year": 2018,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "VR46_RACING_TEAM_2019_Moto2",
+    "team_key": "VR46_RACING_TEAM",
+    "season_year": 2019,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "VR46_RACING_TEAM_2019_Moto3",
+    "team_key": "VR46_RACING_TEAM",
+    "season_year": 2019,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "VR46_RACING_TEAM_2020_Moto2",
+    "team_key": "VR46_RACING_TEAM",
+    "season_year": 2020,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "VR46_RACING_TEAM_2020_Moto3",
+    "team_key": "VR46_RACING_TEAM",
+    "season_year": 2020,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "VR46_RACING_TEAM_2021_Moto2",
+    "team_key": "VR46_RACING_TEAM",
+    "season_year": 2021,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "VR46_RACING_TEAM_2021_Moto3",
+    "team_key": "VR46_RACING_TEAM",
+    "season_year": 2021,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "VR46_RACING_TEAM_2021_MotoGP",
+    "team_key": "VR46_RACING_TEAM",
+    "season_year": 2021,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "VR46_RACING_TEAM_2022_Moto2",
+    "team_key": "VR46_RACING_TEAM",
+    "season_year": 2022,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "VR46_RACING_TEAM_2022_MotoGP",
+    "team_key": "VR46_RACING_TEAM",
+    "season_year": 2022,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "VR46_RACING_TEAM_2023_MotoGP",
+    "team_key": "VR46_RACING_TEAM",
+    "season_year": 2023,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "VR46_RACING_TEAM_2024_MotoGP",
+    "team_key": "VR46_RACING_TEAM",
+    "season_year": 2024,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "VR46_RACING_TEAM_2025_MotoGP",
+    "team_key": "VR46_RACING_TEAM",
+    "season_year": 2025,
+    "class_name": "MotoGP",
+    "entry_status": "INDEPENDENT",
+    "status_source_url": "https://www.motogp.com/en/glossary"
+  },
+  {
+    "team_season_key": "VR46_RACING_TEAM_2026_MotoGP",
+    "team_key": "VR46_RACING_TEAM",
+    "season_year": 2026,
+    "class_name": "MotoGP",
+    "entry_status": "INDEPENDENT",
+    "status_source_url": "https://www.motogp.com/en/glossary"
+  },
+  {
+    "team_season_key": "WCM_2002_MotoGP",
+    "team_key": "WCM",
+    "season_year": 2002,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "WCM_2004_MotoGP",
+    "team_key": "WCM",
+    "season_year": 2004,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "WCM_2005_MotoGP",
+    "team_key": "WCM",
+    "season_year": 2005,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "WCM_2007_250cc",
+    "team_key": "WCM",
+    "season_year": 2007,
+    "class_name": "250cc",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "YAMAHA_FACTORY_TEAM_2002_MotoGP",
+    "team_key": "YAMAHA_FACTORY_TEAM",
+    "season_year": 2002,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "YAMAHA_FACTORY_TEAM_2003_MotoGP",
+    "team_key": "YAMAHA_FACTORY_TEAM",
+    "season_year": 2003,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "YAMAHA_FACTORY_TEAM_2004_MotoGP",
+    "team_key": "YAMAHA_FACTORY_TEAM",
+    "season_year": 2004,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "YAMAHA_FACTORY_TEAM_2006_MotoGP",
+    "team_key": "YAMAHA_FACTORY_TEAM",
+    "season_year": 2006,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "YAMAHA_FACTORY_TEAM_2007_MotoGP",
+    "team_key": "YAMAHA_FACTORY_TEAM",
+    "season_year": 2007,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "YAMAHA_FACTORY_TEAM_2008_MotoGP",
+    "team_key": "YAMAHA_FACTORY_TEAM",
+    "season_year": 2008,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "YAMAHA_FACTORY_TEAM_2009_MotoGP",
+    "team_key": "YAMAHA_FACTORY_TEAM",
+    "season_year": 2009,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "YAMAHA_FACTORY_TEAM_2010_MotoGP",
+    "team_key": "YAMAHA_FACTORY_TEAM",
+    "season_year": 2010,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "YAMAHA_FACTORY_TEAM_2014_MotoGP",
+    "team_key": "YAMAHA_FACTORY_TEAM",
+    "season_year": 2014,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "YAMAHA_FACTORY_TEAM_2015_MotoGP",
+    "team_key": "YAMAHA_FACTORY_TEAM",
+    "season_year": 2015,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "YAMAHA_FACTORY_TEAM_2016_MotoGP",
+    "team_key": "YAMAHA_FACTORY_TEAM",
+    "season_year": 2016,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "YAMAHA_FACTORY_TEAM_2017_MotoGP",
+    "team_key": "YAMAHA_FACTORY_TEAM",
+    "season_year": 2017,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "YAMAHA_FACTORY_TEAM_2018_MotoGP",
+    "team_key": "YAMAHA_FACTORY_TEAM",
+    "season_year": 2018,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "YAMAHA_FACTORY_TEAM_2019_MotoGP",
+    "team_key": "YAMAHA_FACTORY_TEAM",
+    "season_year": 2019,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "YAMAHA_FACTORY_TEAM_2020_MotoGP",
+    "team_key": "YAMAHA_FACTORY_TEAM",
+    "season_year": 2020,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "YAMAHA_FACTORY_TEAM_2021_MotoGP",
+    "team_key": "YAMAHA_FACTORY_TEAM",
+    "season_year": 2021,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "YAMAHA_FACTORY_TEAM_2022_MotoGP",
+    "team_key": "YAMAHA_FACTORY_TEAM",
+    "season_year": 2022,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "YAMAHA_FACTORY_TEAM_2023_MotoGP",
+    "team_key": "YAMAHA_FACTORY_TEAM",
+    "season_year": 2023,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "YAMAHA_FACTORY_TEAM_2024_MotoGP",
+    "team_key": "YAMAHA_FACTORY_TEAM",
+    "season_year": 2024,
+    "class_name": "MotoGP",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "YAMAHA_FACTORY_TEAM_2025_MotoGP",
+    "team_key": "YAMAHA_FACTORY_TEAM",
+    "season_year": 2025,
+    "class_name": "MotoGP",
+    "entry_status": "FACTORY",
+    "status_source_url": "https://www.motogp.com/en/glossary"
+  },
+  {
+    "team_season_key": "YAMAHA_FACTORY_TEAM_2026_MotoGP",
+    "team_key": "YAMAHA_FACTORY_TEAM",
+    "season_year": 2026,
+    "class_name": "MotoGP",
+    "entry_status": "FACTORY",
+    "status_source_url": "https://www.motogp.com/en/glossary"
+  },
+  {
+    "team_season_key": "YAMAHA_VR46_MASTER_CAMP_2018_Moto3",
+    "team_key": "YAMAHA_VR46_MASTER_CAMP",
+    "season_year": 2018,
+    "class_name": "Moto3",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "YAMAHA_VR46_MASTER_CAMP_2021_Moto2",
+    "team_key": "YAMAHA_VR46_MASTER_CAMP",
+    "season_year": 2021,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "YAMAHA_VR46_MASTER_CAMP_2022_Moto2",
+    "team_key": "YAMAHA_VR46_MASTER_CAMP",
+    "season_year": 2022,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "YAMAHA_VR46_MASTER_CAMP_2023_Moto2",
+    "team_key": "YAMAHA_VR46_MASTER_CAMP",
+    "season_year": 2023,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  },
+  {
+    "team_season_key": "YAMAHA_VR46_MASTER_CAMP_2024_Moto2",
+    "team_key": "YAMAHA_VR46_MASTER_CAMP",
+    "season_year": 2024,
+    "class_name": "Moto2",
+    "entry_status": "UNKNOWN",
+    "status_source_url": null
+  }
+]

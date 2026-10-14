@@ -1,0 +1,74 @@
+[
+  {
+    "reason": "same_name_multiple_source_ids_do_not_merge_without_review",
+    "display_name": "Manuel Hernandez",
+    "records": [
+      {
+        "source_rider_uuid": "18372897-7d48-4a29-8e70-646d720d1118",
+        "motogp_legacy_id": 506,
+        "date_of_birth": null,
+        "birth_place": null
+      },
+      {
+        "source_rider_uuid": "34155397-61be-48a4-be42-fc4817576503",
+        "motogp_legacy_id": 6844,
+        "date_of_birth": "1984-08-24",
+        "birth_place": "Cartagena"
+      }
+    ]
+  },
+  {
+    "reason": "same_name_multiple_source_ids_do_not_merge_without_review",
+    "display_name": "Cees Van Dongen",
+    "records": [
+      {
+        "source_rider_uuid": "433ca93d-4e26-4ba9-a518-a53c0f233e5a",
+        "motogp_legacy_id": 1959,
+        "date_of_birth": null,
+        "birth_place": null
+      },
+      {
+        "source_rider_uuid": "6c2eb35f-8e05-4c69-8003-09c5331a80da",
+        "motogp_legacy_id": 2231,
+        "date_of_birth": "1932-02-25",
+        "birth_place": null
+      }
+    ]
+  },
+  {
+    "reason": "same_name_multiple_source_ids_do_not_merge_without_review",
+    "display_name": "Miguel Duhamel",
+    "records": [
+      {
+        "source_rider_uuid": "4a11e7dc-e7e7-4384-a05f-040b80328ebf",
+        "motogp_legacy_id": 5635,
+        "date_of_birth": "1968-05-26",
+        "birth_place": "Montreal"
+      },
+      {
+        "source_rider_uuid": "4cccedbb-b0a4-4e4c-a7dd-be34ece5e6f6",
+        "motogp_legacy_id": 564,
+        "date_of_birth": null,
+        "birth_place": null
+      }
+    ]
+  },
+  {
+    "reason": "same_name_multiple_source_ids_do_not_merge_without_review",
+    "display_name": "Josh Hook",
+    "records": [
+      {
+        "source_rider_uuid": "6e3fdd3d-ba53-49c7-8d4e-18639024c9ee",
+        "motogp_legacy_id": 10213,
+        "date_of_birth": "1993-01-09",
+        "birth_place": "Taree"
+      },
+      {
+        "source_rider_uuid": "98bb4442-ac7d-4467-a8b9-6a6824b83a93",
+        "motogp_legacy_id": 7645,
+        "date_of_birth": "1993-01-09",
+        "birth_place": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "status": "PASS",
+  "calendar_events": 1079,
+  "event_classes": 3563,
+  "logical_pilot_races": 26,
+  "source_sessions": 27,
+  "raw_result_rows": 502,
+  "current_scoring_result_rows": 475,
+  "rider_standings_rows": 8701,
+  "unknown_points_source_rows": 90,
+  "sql_server_executed": false,
+  "checks": [
+    "calendar keys and repeated visits",
+    "TT class-specific circuits",
+    "restart selection and cancelled-race exclusion",
+    "Sprint versus GP points",
+    "2026 half-points",
+    "2013 disqualification",
+    "unknown historical points",
+    "MotoE doubleheader",
+    "1967 published standings",
+    "SQL literal round-trip and field widths"
+  ]
+}

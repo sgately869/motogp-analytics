@@ -1,0 +1,632 @@
+[
+  {
+    "manufacturer_key": "ADLER",
+    "manufacturer_name": "Adler",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=03b2bfac-203c-4b1f-8656-0cbb8c6d7961&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64"
+  },
+  {
+    "manufacturer_key": "AERMACCHI",
+    "manufacturer_name": "Aermacchi",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=03b2bfac-203c-4b1f-8656-0cbb8c6d7961&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64"
+  },
+  {
+    "manufacturer_key": "AJS",
+    "manufacturer_name": "AJS",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=03b2bfac-203c-4b1f-8656-0cbb8c6d7961&categoryUuid=211afccf-202f-4643-beb2-471646cfd0d3"
+  },
+  {
+    "manufacturer_key": "APRILIA",
+    "manufacturer_name": "Aprilia",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=1b77d8dc-001c-40cc-8a71-8ccd5ef96214&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64"
+  },
+  {
+    "manufacturer_key": "ARMSTRONG",
+    "manufacturer_name": "Armstrong",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=502d13a9-3f2e-4e51-aa0f-0a6de157a170&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64"
+  },
+  {
+    "manufacturer_key": "AUTISA",
+    "manufacturer_name": "Autisa",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=1b77d8dc-001c-40cc-8a71-8ccd5ef96214&categoryUuid=9169fbb9-6ca5-402a-8388-788a9288c560"
+  },
+  {
+    "manufacturer_key": "BENELLI",
+    "manufacturer_name": "Benelli",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=03b2bfac-203c-4b1f-8656-0cbb8c6d7961&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64"
+  },
+  {
+    "manufacturer_key": "BIANCHI",
+    "manufacturer_name": "Bianchi",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=03b2bfac-203c-4b1f-8656-0cbb8c6d7961&categoryUuid=211afccf-202f-4643-beb2-471646cfd0d3"
+  },
+  {
+    "manufacturer_key": "BIMOTA",
+    "manufacturer_name": "Bimota",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=1b0857d2-afa8-4b59-b876-079c68084527&categoryUuid=549640b8-fd9c-4245-acfd-60e4bc38b25c"
+  },
+  {
+    "manufacturer_key": "BLATA",
+    "manufacturer_name": "Blata",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=6b581433-8531-4c5b-afca-15c7eb27e809&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942"
+  },
+  {
+    "manufacturer_key": "BMW",
+    "manufacturer_name": "BMW",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=0aaccf7d-e525-4505-85aa-ae6e57c60bd8&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942"
+  },
+  {
+    "manufacturer_key": "BOSCOSCURO",
+    "manufacturer_name": "Boscoscuro",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=ae6c6f0d-c652-44f8-94aa-420fc5b3dab4&categoryUuid=549640b8-fd9c-4245-acfd-60e4bc38b25c"
+  },
+  {
+    "manufacturer_key": "BRIDGESTONE",
+    "manufacturer_name": "Bridgestone",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=05f340dd-61dd-4673-b1a9-1ec6d92b93e3&categoryUuid=7f223edb-86d6-462d-a3fa-8efbf0f2fc51"
+  },
+  {
+    "manufacturer_key": "BSA",
+    "manufacturer_name": "BSA",
+    "country_code": null,
+    "source_url": "https://en.wikipedia.org/wiki/1951_Grand_Prix_motorcycle_racing_season"
+  },
+  {
+    "manufacturer_key": "BSL",
+    "manufacturer_name": "BSL",
+    "country_code": null,
+    "source_url": "https://en.wikipedia.org/wiki/1999_French_motorcycle_Grand_Prix"
+  },
+  {
+    "manufacturer_key": "BULTACO",
+    "manufacturer_name": "Bultaco",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=03b2bfac-203c-4b1f-8656-0cbb8c6d7961&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64"
+  },
+  {
+    "manufacturer_key": "CAGIVA",
+    "manufacturer_name": "Cagiva",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=1b77d8dc-001c-40cc-8a71-8ccd5ef96214&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942"
+  },
+  {
+    "manufacturer_key": "CASAL",
+    "manufacturer_name": "Casal",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=8dd7d599-ac03-4486-8d46-edf2edc3146d&categoryUuid=9169fbb9-6ca5-402a-8388-788a9288c560"
+  },
+  {
+    "manufacturer_key": "CFMOTO",
+    "manufacturer_name": "CFMOTO",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=db8dc197-c7b2-4c1b-b3a4-6dc534c014ef&categoryUuid=954f7e65-2ef2-4423-b949-4961cc603e45"
+  },
+  {
+    "manufacturer_key": "CHEVALLIER",
+    "manufacturer_name": "Chevallier",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=17a1aefb-dd07-4fb9-bf03-05e1efd28435&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64"
+  },
+  {
+    "manufacturer_key": "COTTON",
+    "manufacturer_name": "Cotton",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=05f340dd-61dd-4673-b1a9-1ec6d92b93e3&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64"
+  },
+  {
+    "manufacturer_key": "CZ",
+    "manufacturer_name": "CZ",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=03b2bfac-203c-4b1f-8656-0cbb8c6d7961&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85"
+  },
+  {
+    "manufacturer_key": "DERBI",
+    "manufacturer_name": "Derbi",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=03b2bfac-203c-4b1f-8656-0cbb8c6d7961&categoryUuid=7f223edb-86d6-462d-a3fa-8efbf0f2fc51"
+  },
+  {
+    "manufacturer_key": "DKW",
+    "manufacturer_name": "DKW",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=5272bf19-bfe0-4017-b7e7-9754b1ee9aa7&categoryUuid=211afccf-202f-4643-beb2-471646cfd0d3"
+  },
+  {
+    "manufacturer_key": "DUCATI",
+    "manufacturer_name": "Ducati",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=03b2bfac-203c-4b1f-8656-0cbb8c6d7961&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64"
+  },
+  {
+    "manufacturer_key": "EMC",
+    "manufacturer_name": "EMC",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=03b2bfac-203c-4b1f-8656-0cbb8c6d7961&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85"
+  },
+  {
+    "manufacturer_key": "ENERGICA",
+    "manufacturer_name": "Energica",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=cbc5dc8d-3aae-4327-bd88-d1cdeea9b654&categoryUuid=3bda82ba-0445-440c-9375-cd48d777bd95"
+  },
+  {
+    "manufacturer_key": "EXCELSIOR",
+    "manufacturer_name": "Excelsior",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=72de1fab-255c-4b9a-9d4b-79ce47ab61c5&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64"
+  },
+  {
+    "manufacturer_key": "FANTIC",
+    "manufacturer_name": "Fantic",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=b9332591-9e09-441e-938b-9396daf74930&categoryUuid=9169fbb9-6ca5-402a-8388-788a9288c560"
+  },
+  {
+    "manufacturer_key": "FIOR",
+    "manufacturer_name": "Fior",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=b9332591-9e09-441e-938b-9396daf74930&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942"
+  },
+  {
+    "manufacturer_key": "FTR",
+    "manufacturer_name": "FTR",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=1b0857d2-afa8-4b59-b876-079c68084527&categoryUuid=549640b8-fd9c-4245-acfd-60e4bc38b25c"
+  },
+  {
+    "manufacturer_key": "GARELLI",
+    "manufacturer_name": "Garelli",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=17a1aefb-dd07-4fb9-bf03-05e1efd28435&categoryUuid=7f223edb-86d6-462d-a3fa-8efbf0f2fc51"
+  },
+  {
+    "manufacturer_key": "GAZZANIGA",
+    "manufacturer_name": "Gazzaniga",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=79ccac73-5093-489c-9d37-e77a005723f9&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85"
+  },
+  {
+    "manufacturer_key": "GILERA",
+    "manufacturer_name": "Gilera",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=296ab92c-cd8d-48ba-ace1-aad1455d557f&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942"
+  },
+  {
+    "manufacturer_key": "GREEVES",
+    "manufacturer_name": "Greeves",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=3ff1f0bb-074a-4a8b-94b7-eb536c6589ff&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64"
+  },
+  {
+    "manufacturer_key": "GUAZZONI",
+    "manufacturer_name": "Guazzoni",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=3826b414-4a3b-4674-90e1-94f7ff3dc9bc&categoryUuid=7f223edb-86d6-462d-a3fa-8efbf0f2fc51"
+  },
+  {
+    "manufacturer_key": "HARLEY_DAVIDSON",
+    "manufacturer_name": "Harley Davidson",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=2ab6e465-bc0d-40a5-be66-fe0dbf0e6ab2&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64"
+  },
+  {
+    "manufacturer_key": "HONDA",
+    "manufacturer_name": "Honda",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=03b2bfac-203c-4b1f-8656-0cbb8c6d7961&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64"
+  },
+  {
+    "manufacturer_key": "HOREX",
+    "manufacturer_name": "Horex",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=fbfa8959-79b0-4ec1-8ae1-d9082d0233da&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64"
+  },
+  {
+    "manufacturer_key": "HUSQVARNA",
+    "manufacturer_name": "Husqvarna",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=05f340dd-61dd-4673-b1a9-1ec6d92b93e3&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64"
+  },
+  {
+    "manufacturer_key": "ILMOR",
+    "manufacturer_name": "Ilmor",
+    "country_code": null,
+    "source_url": "https://en.wikipedia.org/wiki/Ilmor_X3"
+  },
+  {
+    "manufacturer_key": "ITALJET",
+    "manufacturer_name": "Italjet",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=445a3d24-886b-48c2-97f7-73af994ffec0&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85"
+  },
+  {
+    "manufacturer_key": "JAMATHI",
+    "manufacturer_name": "Jamathi",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=14cd72be-713f-474d-a6af-cc57ca58f252&categoryUuid=7f223edb-86d6-462d-a3fa-8efbf0f2fc51"
+  },
+  {
+    "manufacturer_key": "JAWA",
+    "manufacturer_name": "Jawa",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=03b2bfac-203c-4b1f-8656-0cbb8c6d7961&categoryUuid=211afccf-202f-4643-beb2-471646cfd0d3"
+  },
+  {
+    "manufacturer_key": "JJ_COBAS",
+    "manufacturer_name": "JJ Cobas",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=79ccac73-5093-489c-9d37-e77a005723f9&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64"
+  },
+  {
+    "manufacturer_key": "KALEX",
+    "manufacturer_name": "Kalex",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=1b0857d2-afa8-4b59-b876-079c68084527&categoryUuid=549640b8-fd9c-4245-acfd-60e4bc38b25c"
+  },
+  {
+    "manufacturer_key": "KAWASAKI",
+    "manufacturer_name": "Kawasaki",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=14cd72be-713f-474d-a6af-cc57ca58f252&categoryUuid=211afccf-202f-4643-beb2-471646cfd0d3"
+  },
+  {
+    "manufacturer_key": "KOENIG",
+    "manufacturer_name": "Koenig",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=14cd72be-713f-474d-a6af-cc57ca58f252&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942"
+  },
+  {
+    "manufacturer_key": "KRAUSER",
+    "manufacturer_name": "Krauser",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=17a1aefb-dd07-4fb9-bf03-05e1efd28435&categoryUuid=7f223edb-86d6-462d-a3fa-8efbf0f2fc51"
+  },
+  {
+    "manufacturer_key": "KREIDLER",
+    "manufacturer_name": "Kreidler",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=03b2bfac-203c-4b1f-8656-0cbb8c6d7961&categoryUuid=7f223edb-86d6-462d-a3fa-8efbf0f2fc51"
+  },
+  {
+    "manufacturer_key": "KTM",
+    "manufacturer_name": "KTM",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=1b0857d2-afa8-4b59-b876-079c68084527&categoryUuid=954f7e65-2ef2-4423-b949-4961cc603e45"
+  },
+  {
+    "manufacturer_key": "LCR",
+    "manufacturer_name": "LCR",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=b9332591-9e09-441e-938b-9396daf74930&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85"
+  },
+  {
+    "manufacturer_key": "LINTO",
+    "manufacturer_name": "Linto",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=14cd72be-713f-474d-a6af-cc57ca58f252&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942"
+  },
+  {
+    "manufacturer_key": "LONCIN",
+    "manufacturer_name": "Loncin",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=46e254dc-f6d6-402c-b7c8-8e7c14469678&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85"
+  },
+  {
+    "manufacturer_key": "MAHINDRA",
+    "manufacturer_name": "Mahindra",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=1b0857d2-afa8-4b59-b876-079c68084527&categoryUuid=954f7e65-2ef2-4423-b949-4961cc603e45"
+  },
+  {
+    "manufacturer_key": "MAICO",
+    "manufacturer_name": "Maico",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=14cd72be-713f-474d-a6af-cc57ca58f252&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85"
+  },
+  {
+    "manufacturer_key": "MALAGUTI",
+    "manufacturer_name": "Malaguti",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=632718a6-f1fe-4f5a-b95d-03b8e7635d70&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85"
+  },
+  {
+    "manufacturer_key": "MALANCA",
+    "manufacturer_name": "Malanca",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=357e99b8-cc05-4fcd-b11d-2edfbb019809&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85"
+  },
+  {
+    "manufacturer_key": "MATCHLESS",
+    "manufacturer_name": "Matchless",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=03b2bfac-203c-4b1f-8656-0cbb8c6d7961&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942"
+  },
+  {
+    "manufacturer_key": "MBA",
+    "manufacturer_name": "MBA",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=17a1aefb-dd07-4fb9-bf03-05e1efd28435&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64"
+  },
+  {
+    "manufacturer_key": "METISSE",
+    "manufacturer_name": "Metisse",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=3826b414-4a3b-4674-90e1-94f7ff3dc9bc&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942"
+  },
+  {
+    "manufacturer_key": "MINARELLI",
+    "manufacturer_name": "Minarelli",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=2ab6e465-bc0d-40a5-be66-fe0dbf0e6ab2&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85"
+  },
+  {
+    "manufacturer_key": "MONARK",
+    "manufacturer_name": "Monark",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=14cd72be-713f-474d-a6af-cc57ca58f252&categoryUuid=7f223edb-86d6-462d-a3fa-8efbf0f2fc51"
+  },
+  {
+    "manufacturer_key": "MONDIAL",
+    "manufacturer_name": "Mondial",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=03b2bfac-203c-4b1f-8656-0cbb8c6d7961&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64"
+  },
+  {
+    "manufacturer_key": "MONTESA",
+    "manufacturer_name": "Montesa",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=05f340dd-61dd-4673-b1a9-1ec6d92b93e3&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85"
+  },
+  {
+    "manufacturer_key": "MORBIDELLI",
+    "manufacturer_name": "Morbidelli",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=14cd72be-713f-474d-a6af-cc57ca58f252&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85"
+  },
+  {
+    "manufacturer_key": "MORINI",
+    "manufacturer_name": "Morini",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=03b2bfac-203c-4b1f-8656-0cbb8c6d7961&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64"
+  },
+  {
+    "manufacturer_key": "MORIWAKI",
+    "manufacturer_name": "Moriwaki",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=6c0e0734-0e32-4c4a-9987-0439449543ab&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942"
+  },
+  {
+    "manufacturer_key": "MOTOBECANE",
+    "manufacturer_name": "Motobecane",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=2ab6e465-bc0d-40a5-be66-fe0dbf0e6ab2&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85"
+  },
+  {
+    "manufacturer_key": "MOTOBI",
+    "manufacturer_name": "Motobi",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=1b0857d2-afa8-4b59-b876-079c68084527&categoryUuid=549640b8-fd9c-4245-acfd-60e4bc38b25c"
+  },
+  {
+    "manufacturer_key": "MOTO_GUZZI",
+    "manufacturer_name": "Moto Guzzi",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=03b2bfac-203c-4b1f-8656-0cbb8c6d7961&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64"
+  },
+  {
+    "manufacturer_key": "MV_AGUSTA",
+    "manufacturer_name": "MV Agusta",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=03b2bfac-203c-4b1f-8656-0cbb8c6d7961&categoryUuid=211afccf-202f-4643-beb2-471646cfd0d3"
+  },
+  {
+    "manufacturer_key": "MZ",
+    "manufacturer_name": "MZ",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=03b2bfac-203c-4b1f-8656-0cbb8c6d7961&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64"
+  },
+  {
+    "manufacturer_key": "NORTON",
+    "manufacturer_name": "Norton",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=03b2bfac-203c-4b1f-8656-0cbb8c6d7961&categoryUuid=211afccf-202f-4643-beb2-471646cfd0d3"
+  },
+  {
+    "manufacturer_key": "NSU",
+    "manufacturer_name": "NSU",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=03b2bfac-203c-4b1f-8656-0cbb8c6d7961&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64"
+  },
+  {
+    "manufacturer_key": "NTS",
+    "manufacturer_name": "NTS",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=ae6c6f0d-c652-44f8-94aa-420fc5b3dab4&categoryUuid=549640b8-fd9c-4245-acfd-60e4bc38b25c"
+  },
+  {
+    "manufacturer_key": "OSSA",
+    "manufacturer_name": "Ossa",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=3826b414-4a3b-4674-90e1-94f7ff3dc9bc&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64"
+  },
+  {
+    "manufacturer_key": "PARILLA",
+    "manufacturer_name": "Parilla",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=03b2bfac-203c-4b1f-8656-0cbb8c6d7961&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64"
+  },
+  {
+    "manufacturer_key": "PATON",
+    "manufacturer_name": "Paton",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=05f340dd-61dd-4673-b1a9-1ec6d92b93e3&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942"
+  },
+  {
+    "manufacturer_key": "PEUGEOT",
+    "manufacturer_name": "Peugeot",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=ba354746-c4da-4dc8-8b8e-776fcc43287d&categoryUuid=954f7e65-2ef2-4423-b949-4961cc603e45"
+  },
+  {
+    "manufacturer_key": "PIOVATICCI",
+    "manufacturer_name": "Piovaticci",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=7a7c657c-401c-4946-8ee7-f1c66990b608&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85"
+  },
+  {
+    "manufacturer_key": "RINGHINI",
+    "manufacturer_name": "Ringhini",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=7a7c657c-401c-4946-8ee7-f1c66990b608&categoryUuid=7f223edb-86d6-462d-a3fa-8efbf0f2fc51"
+  },
+  {
+    "manufacturer_key": "ROTAX",
+    "manufacturer_name": "Rotax",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=357e99b8-cc05-4fcd-b11d-2edfbb019809&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85"
+  },
+  {
+    "manufacturer_key": "ROYAL_ENFIELD",
+    "manufacturer_name": "Royal Enfield",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=05f340dd-61dd-4673-b1a9-1ec6d92b93e3&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64"
+  },
+  {
+    "manufacturer_key": "RUDGE",
+    "manufacturer_name": "Rudge",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=72de1fab-255c-4b9a-9d4b-79ce47ab61c5&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64"
+  },
+  {
+    "manufacturer_key": "SANVENERO",
+    "manufacturer_name": "Sanvenero",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=502d13a9-3f2e-4e51-aa0f-0a6de157a170&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85"
+  },
+  {
+    "manufacturer_key": "SEELEY",
+    "manufacturer_name": "Seeley",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=14cd72be-713f-474d-a6af-cc57ca58f252&categoryUuid=211afccf-202f-4643-beb2-471646cfd0d3"
+  },
+  {
+    "manufacturer_key": "SPEED_UP",
+    "manufacturer_name": "Speed Up",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=1b0857d2-afa8-4b59-b876-079c68084527&categoryUuid=549640b8-fd9c-4245-acfd-60e4bc38b25c"
+  },
+  {
+    "manufacturer_key": "SUTER",
+    "manufacturer_name": "Suter",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=1b0857d2-afa8-4b59-b876-079c68084527&categoryUuid=549640b8-fd9c-4245-acfd-60e4bc38b25c"
+  },
+  {
+    "manufacturer_key": "SUZUKI",
+    "manufacturer_name": "Suzuki",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=03b2bfac-203c-4b1f-8656-0cbb8c6d7961&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64"
+  },
+  {
+    "manufacturer_key": "TECH_3",
+    "manufacturer_name": "Tech 3",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=1b0857d2-afa8-4b59-b876-079c68084527&categoryUuid=549640b8-fd9c-4245-acfd-60e4bc38b25c"
+  },
+  {
+    "manufacturer_key": "TM_RACING",
+    "manufacturer_name": "TM RACING",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=c0844c71-783c-4f86-abce-a9a67adcc1a9&categoryUuid=954f7e65-2ef2-4423-b949-4961cc603e45"
+  },
+  {
+    "manufacturer_key": "TOHATSU",
+    "manufacturer_name": "Tohatsu",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=03b2bfac-203c-4b1f-8656-0cbb8c6d7961&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85"
+  },
+  {
+    "manufacturer_key": "TOMOS",
+    "manufacturer_name": "Tomos",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=14cd72be-713f-474d-a6af-cc57ca58f252&categoryUuid=7f223edb-86d6-462d-a3fa-8efbf0f2fc51"
+  },
+  {
+    "manufacturer_key": "TRIUMPH",
+    "manufacturer_name": "Triumph",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=3826b414-4a3b-4674-90e1-94f7ff3dc9bc&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942"
+  },
+  {
+    "manufacturer_key": "TSR",
+    "manufacturer_name": "TSR",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=2fd3e95f-5aca-46ba-a8f3-513a36f304b9&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64"
+  },
+  {
+    "manufacturer_key": "TUNTURI",
+    "manufacturer_name": "Tunturi",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=1b77d8dc-001c-40cc-8a71-8ccd5ef96214&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85"
+  },
+  {
+    "manufacturer_key": "VELOCETTE",
+    "manufacturer_name": "Velocette",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=296ab92c-cd8d-48ba-ace1-aad1455d557f&categoryUuid=211afccf-202f-4643-beb2-471646cfd0d3"
+  },
+  {
+    "manufacturer_key": "VILLA",
+    "manufacturer_name": "Villa",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=3826b414-4a3b-4674-90e1-94f7ff3dc9bc&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64"
+  },
+  {
+    "manufacturer_key": "VILLIERS",
+    "manufacturer_name": "Villiers",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=05f340dd-61dd-4673-b1a9-1ec6d92b93e3&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64"
+  },
+  {
+    "manufacturer_key": "VINCENT",
+    "manufacturer_name": "Vincent",
+    "country_code": null,
+    "source_url": "https://en.wikipedia.org/wiki/1951_Grand_Prix_motorcycle_racing_season"
+  },
+  {
+    "manufacturer_key": "VOSTOK",
+    "manufacturer_name": "Vostok",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=3625dc59-bf95-4c13-96b1-56e3064ff62e&categoryUuid=211afccf-202f-4643-beb2-471646cfd0d3"
+  },
+  {
+    "manufacturer_key": "YAMAHA",
+    "manufacturer_name": "Yamaha",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=05f340dd-61dd-4673-b1a9-1ec6d92b93e3&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64"
+  },
+  {
+    "manufacturer_key": "ZANELLA",
+    "manufacturer_name": "Zanella",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=1b77d8dc-001c-40cc-8a71-8ccd5ef96214&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85"
+  },
+  {
+    "manufacturer_key": "ZUNDAPP",
+    "manufacturer_name": "Zundapp",
+    "country_code": null,
+    "source_url": "https://api.motogp.pulselive.com/motogp/v1/results/standings?seasonUuid=14cd72be-713f-474d-a6af-cc57ca58f252&categoryUuid=7f223edb-86d6-462d-a3fa-8efbf0f2fc51"
+  }
+]

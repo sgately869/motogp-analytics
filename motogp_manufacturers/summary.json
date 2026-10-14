@@ -1,0 +1,20 @@
+{
+  "scope": "Solo GP 1949-2026 including MotoE; excludes sidecars and pre-1949. Source snapshot 2026-10-11, compiled 2026-10-12. Not a certified exhaustive register.",
+  "counts": {
+    "manufacturers": 105,
+    "constructors": 292,
+    "teams": 39,
+    "team_seasons": 722,
+    "team_season_names": 854,
+    "team_season_constructors": 650,
+    "class_season_suppliers": 24,
+    "team_labels": 877,
+    "team_mappings": 1666,
+    "observations": 11235
+  },
+  "constructor_labels": 291,
+  "constructor_placeholders": 3,
+  "unresolved_team_mappings": 736,
+  "empty_standings": 19,
+  "season_class_requests": 303
+}

@@ -1,0 +1,4997 @@
+[
+  {
+    "year": 1949,
+    "event_id": "10b6074d-577a-42c5-a96b-1f13e0492a90",
+    "class_name": "250cc",
+    "session_url": "https://api.motogp.pulselive.com/motogp/v1/results/sessions?eventUuid=10b6074d-577a-42c5-a96b-1f13e0492a90&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "session_count": 1,
+    "races": [
+      {
+        "event": {
+          "country": {
+            "iso": "GB",
+            "name": "United Kingdom of Great Britain and Northern Ireland",
+            "region_iso": ""
+          },
+          "event_files": {
+            "circuit_information": {
+              "url": "",
+              "menu_position": 1
+            },
+            "podiums": {
+              "url": "",
+              "menu_position": 2
+            },
+            "pole_positions": {
+              "url": "",
+              "menu_position": 2
+            },
+            "nations_statistics": {
+              "url": "",
+              "menu_position": 2
+            },
+            "riders_all_time": {
+              "url": "",
+              "menu_position": 2
+            }
+          },
+          "circuit": {
+            "id": "62cf7a47-b21e-4dd5-8901-fbfb04615619",
+            "name": "Isle of Man",
+            "legacy_id": 48,
+            "place": "Isle of Man",
+            "nation": "GBR",
+            "events_id": null
+          },
+          "test": false,
+          "sponsored_name": "TOURIST TROPHY",
+          "date_end": "1949-06-17",
+          "toad_api_uuid": "ac75ee8a-a96a-4e3a-bab5-7eff9b6ecc0f",
+          "date_start": "1949-06-17",
+          "additional_name": "TOURIST TROPHY",
+          "name": "TOURIST TROPHY",
+          "legacy_id": [
+            {
+              "categoryId": 3,
+              "eventId": 416
+            },
+            {
+              "categoryId": 5,
+              "eventId": 416
+            },
+            {
+              "categoryId": 9,
+              "eventId": 527
+            }
+          ],
+          "season": {
+            "id": "72de1fab-255c-4b9a-9d4b-79ce47ab61c5",
+            "year": 1949,
+            "current": false
+          },
+          "short_name": "TT",
+          "id": "10b6074d-577a-42c5-a96b-1f13e0492a90",
+          "status": "FINISHED",
+          "audit_year": 1949
+        },
+        "category": {
+          "id": "008a50a7-e302-44ba-b468-7e9999324c64",
+          "name": "250cc",
+          "legacy_id": 5
+        },
+        "session": {
+          "date": "1949-06-17T00:00:00+00:00",
+          "number": null,
+          "condition": {
+            "track": "",
+            "air": "º",
+            "humidity": "%",
+            "ground": "º",
+            "weather": ""
+          },
+          "circuit": "Isle of Man",
+          "session_files": {
+            "classification": {
+              "url": "",
+              "menu_position": 1
+            },
+            "analysis": {
+              "url": "",
+              "menu_position": 2
+            },
+            "average_speed": {
+              "url": "",
+              "menu_position": 2
+            },
+            "fast_lap_sequence": {
+              "url": "",
+              "menu_position": 2
+            },
+            "lap_chart": {
+              "url": "",
+              "menu_position": 2
+            },
+            "analysis_by_lap": {
+              "url": "",
+              "menu_position": 2
+            },
+            "fast_lap_rider": {
+              "url": "",
+              "menu_position": 2
+            },
+            "grid": {
+              "url": "",
+              "menu_position": 2
+            },
+            "session": {
+              "url": "",
+              "menu_position": 2
+            },
+            "world_standing": {
+              "url": "",
+              "menu_position": 2
+            },
+            "best_partial_time": {
+              "url": "",
+              "menu_position": 2
+            },
+            "maximum_speed": {
+              "url": "",
+              "menu_position": 2
+            },
+            "combined_practice": {
+              "url": "",
+              "menu_position": 2
+            },
+            "combined_classification": {
+              "url": "",
+              "menu_position": 2
+            }
+          },
+          "id": "727873db-7230-493e-ba0d-1f77eada93ea",
+          "type": "RAC",
+          "category": {
+            "id": "008a50a7-e302-44ba-b468-7e9999324c64",
+            "legacy_id": 5,
+            "name": "250cc"
+          },
+          "event": {
+            "id": "10b6074d-577a-42c5-a96b-1f13e0492a90",
+            "name": "TOURIST TROPHY",
+            "sponsored_name": "TOURIST TROPHY",
+            "short_name": "TT",
+            "test": false,
+            "season": "1949",
+            "circuit": {
+              "id": "62cf7a47-b21e-4dd5-8901-fbfb04615619",
+              "name": "Isle of Man",
+              "legacy_id": 48,
+              "place": "Isle of Man",
+              "nation": "GBR",
+              "events_id": null
+            },
+            "country": {
+              "iso": "GB",
+              "name": "United Kingdom of Great Britain and Northern Ireland",
+              "region_iso": ""
+            }
+          },
+          "status": "FINISHED"
+        },
+        "classification_url": "https://api.motogp.pulselive.com/motogp/v1/results/session/727873db-7230-493e-ba0d-1f77eada93ea/classification?seasonYear=1949&test=false",
+        "session_url": "https://api.motogp.pulselive.com/motogp/v1/results/sessions?eventUuid=10b6074d-577a-42c5-a96b-1f13e0492a90&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+        "classification_file": "727873db-7230-493e-ba0d-1f77eada93ea.json",
+        "rows": 0
+      }
+    ]
+  },
+  {
+    "year": 1949,
+    "event_id": "10b6074d-577a-42c5-a96b-1f13e0492a90",
+    "class_name": "350cc",
+    "session_url": "https://api.motogp.pulselive.com/motogp/v1/results/sessions?eventUuid=10b6074d-577a-42c5-a96b-1f13e0492a90&categoryUuid=211afccf-202f-4643-beb2-471646cfd0d3",
+    "session_count": 1,
+    "races": [
+      {
+        "event": {
+          "country": {
+            "iso": "GB",
+            "name": "United Kingdom of Great Britain and Northern Ireland",
+            "region_iso": ""
+          },
+          "event_files": {
+            "circuit_information": {
+              "url": "",
+              "menu_position": 1
+            },
+            "podiums": {
+              "url": "",
+              "menu_position": 2
+            },
+            "pole_positions": {
+              "url": "",
+              "menu_position": 2
+            },
+            "nations_statistics": {
+              "url": "",
+              "menu_position": 2
+            },
+            "riders_all_time": {
+              "url": "",
+              "menu_position": 2
+            }
+          },
+          "circuit": {
+            "id": "62cf7a47-b21e-4dd5-8901-fbfb04615619",
+            "name": "Isle of Man",
+            "legacy_id": 48,
+            "place": "Isle of Man",
+            "nation": "GBR",
+            "events_id": null
+          },
+          "test": false,
+          "sponsored_name": "TOURIST TROPHY",
+          "date_end": "1949-06-17",
+          "toad_api_uuid": "ac75ee8a-a96a-4e3a-bab5-7eff9b6ecc0f",
+          "date_start": "1949-06-17",
+          "additional_name": "TOURIST TROPHY",
+          "name": "TOURIST TROPHY",
+          "legacy_id": [
+            {
+              "categoryId": 3,
+              "eventId": 416
+            },
+            {
+              "categoryId": 5,
+              "eventId": 416
+            },
+            {
+              "categoryId": 9,
+              "eventId": 527
+            }
+          ],
+          "season": {
+            "id": "72de1fab-255c-4b9a-9d4b-79ce47ab61c5",
+            "year": 1949,
+            "current": false
+          },
+          "short_name": "TT",
+          "id": "10b6074d-577a-42c5-a96b-1f13e0492a90",
+          "status": "FINISHED",
+          "audit_year": 1949
+        },
+        "category": {
+          "id": "211afccf-202f-4643-beb2-471646cfd0d3",
+          "name": "350cc",
+          "legacy_id": 9
+        },
+        "session": {
+          "date": "1949-06-17T00:00:00+00:00",
+          "number": null,
+          "condition": {
+            "track": "",
+            "air": "º",
+            "humidity": "%",
+            "ground": "º",
+            "weather": ""
+          },
+          "circuit": "Isle of Man",
+          "session_files": {
+            "classification": {
+              "url": "",
+              "menu_position": 1
+            },
+            "analysis": {
+              "url": "",
+              "menu_position": 2
+            },
+            "average_speed": {
+              "url": "",
+              "menu_position": 2
+            },
+            "fast_lap_sequence": {
+              "url": "",
+              "menu_position": 2
+            },
+            "lap_chart": {
+              "url": "",
+              "menu_position": 2
+            },
+            "analysis_by_lap": {
+              "url": "",
+              "menu_position": 2
+            },
+            "fast_lap_rider": {
+              "url": "",
+              "menu_position": 2
+            },
+            "grid": {
+              "url": "",
+              "menu_position": 2
+            },
+            "session": {
+              "url": "",
+              "menu_position": 2
+            },
+            "world_standing": {
+              "url": "",
+              "menu_position": 2
+            },
+            "best_partial_time": {
+              "url": "",
+              "menu_position": 2
+            },
+            "maximum_speed": {
+              "url": "",
+              "menu_position": 2
+            },
+            "combined_practice": {
+              "url": "",
+              "menu_position": 2
+            },
+            "combined_classification": {
+              "url": "",
+              "menu_position": 2
+            }
+          },
+          "id": "a323bd20-e1e3-488a-b381-a74b80efe9ed",
+          "type": "RAC",
+          "category": {
+            "id": "211afccf-202f-4643-beb2-471646cfd0d3",
+            "legacy_id": 9,
+            "name": "350cc"
+          },
+          "event": {
+            "id": "10b6074d-577a-42c5-a96b-1f13e0492a90",
+            "name": "TOURIST TROPHY",
+            "sponsored_name": "TOURIST TROPHY",
+            "short_name": "TT",
+            "test": false,
+            "season": "1949",
+            "circuit": {
+              "id": "62cf7a47-b21e-4dd5-8901-fbfb04615619",
+              "name": "Isle of Man",
+              "legacy_id": 48,
+              "place": "Isle of Man",
+              "nation": "GBR",
+              "events_id": null
+            },
+            "country": {
+              "iso": "GB",
+              "name": "United Kingdom of Great Britain and Northern Ireland",
+              "region_iso": ""
+            }
+          },
+          "status": "FINISHED"
+        },
+        "classification_url": "https://api.motogp.pulselive.com/motogp/v1/results/session/a323bd20-e1e3-488a-b381-a74b80efe9ed/classification?seasonYear=1949&test=false",
+        "session_url": "https://api.motogp.pulselive.com/motogp/v1/results/sessions?eventUuid=10b6074d-577a-42c5-a96b-1f13e0492a90&categoryUuid=211afccf-202f-4643-beb2-471646cfd0d3",
+        "classification_file": "a323bd20-e1e3-488a-b381-a74b80efe9ed.json",
+        "rows": 6
+      }
+    ]
+  },
+  {
+    "year": 1949,
+    "event_id": "10b6074d-577a-42c5-a96b-1f13e0492a90",
+    "class_name": "500cc",
+    "session_url": "https://api.motogp.pulselive.com/motogp/v1/results/sessions?eventUuid=10b6074d-577a-42c5-a96b-1f13e0492a90&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "session_count": 1,
+    "races": [
+      {
+        "event": {
+          "country": {
+            "iso": "GB",
+            "name": "United Kingdom of Great Britain and Northern Ireland",
+            "region_iso": ""
+          },
+          "event_files": {
+            "circuit_information": {
+              "url": "",
+              "menu_position": 1
+            },
+            "podiums": {
+              "url": "",
+              "menu_position": 2
+            },
+            "pole_positions": {
+              "url": "",
+              "menu_position": 2
+            },
+            "nations_statistics": {
+              "url": "",
+              "menu_position": 2
+            },
+            "riders_all_time": {
+              "url": "",
+              "menu_position": 2
+            }
+          },
+          "circuit": {
+            "id": "62cf7a47-b21e-4dd5-8901-fbfb04615619",
+            "name": "Isle of Man",
+            "legacy_id": 48,
+            "place": "Isle of Man",
+            "nation": "GBR",
+            "events_id": null
+          },
+          "test": false,
+          "sponsored_name": "TOURIST TROPHY",
+          "date_end": "1949-06-17",
+          "toad_api_uuid": "ac75ee8a-a96a-4e3a-bab5-7eff9b6ecc0f",
+          "date_start": "1949-06-17",
+          "additional_name": "TOURIST TROPHY",
+          "name": "TOURIST TROPHY",
+          "legacy_id": [
+            {
+              "categoryId": 3,
+              "eventId": 416
+            },
+            {
+              "categoryId": 5,
+              "eventId": 416
+            },
+            {
+              "categoryId": 9,
+              "eventId": 527
+            }
+          ],
+          "season": {
+            "id": "72de1fab-255c-4b9a-9d4b-79ce47ab61c5",
+            "year": 1949,
+            "current": false
+          },
+          "short_name": "TT",
+          "id": "10b6074d-577a-42c5-a96b-1f13e0492a90",
+          "status": "FINISHED",
+          "audit_year": 1949
+        },
+        "category": {
+          "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+          "name": "500cc",
+          "legacy_id": 3
+        },
+        "session": {
+          "date": "1949-06-17T00:00:00+00:00",
+          "number": null,
+          "condition": {
+            "track": "",
+            "air": "º",
+            "humidity": "%",
+            "ground": "º",
+            "weather": ""
+          },
+          "circuit": "Isle of Man",
+          "session_files": {
+            "classification": {
+              "url": "",
+              "menu_position": 1
+            },
+            "analysis": {
+              "url": "",
+              "menu_position": 2
+            },
+            "average_speed": {
+              "url": "",
+              "menu_position": 2
+            },
+            "fast_lap_sequence": {
+              "url": "",
+              "menu_position": 2
+            },
+            "lap_chart": {
+              "url": "",
+              "menu_position": 2
+            },
+            "analysis_by_lap": {
+              "url": "",
+              "menu_position": 2
+            },
+            "fast_lap_rider": {
+              "url": "",
+              "menu_position": 2
+            },
+            "grid": {
+              "url": "",
+              "menu_position": 2
+            },
+            "session": {
+              "url": "",
+              "menu_position": 2
+            },
+            "world_standing": {
+              "url": "",
+              "menu_position": 2
+            },
+            "best_partial_time": {
+              "url": "",
+              "menu_position": 2
+            },
+            "maximum_speed": {
+              "url": "",
+              "menu_position": 2
+            },
+            "combined_practice": {
+              "url": "",
+              "menu_position": 2
+            },
+            "combined_classification": {
+              "url": "",
+              "menu_position": 2
+            }
+          },
+          "id": "84395b70-3f93-4e56-8475-e83a5c71e26d",
+          "type": "RAC",
+          "category": {
+            "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+            "legacy_id": 3,
+            "name": "MotoGP™"
+          },
+          "event": {
+            "id": "10b6074d-577a-42c5-a96b-1f13e0492a90",
+            "name": "TOURIST TROPHY",
+            "sponsored_name": "TOURIST TROPHY",
+            "short_name": "TT",
+            "test": false,
+            "season": "1949",
+            "circuit": {
+              "id": "62cf7a47-b21e-4dd5-8901-fbfb04615619",
+              "name": "Isle of Man",
+              "legacy_id": 48,
+              "place": "Isle of Man",
+              "nation": "GBR",
+              "events_id": null
+            },
+            "country": {
+              "iso": "GB",
+              "name": "United Kingdom of Great Britain and Northern Ireland",
+              "region_iso": ""
+            }
+          },
+          "status": "FINISHED"
+        },
+        "classification_url": "https://api.motogp.pulselive.com/motogp/v1/results/session/84395b70-3f93-4e56-8475-e83a5c71e26d/classification?seasonYear=1949&test=false",
+        "session_url": "https://api.motogp.pulselive.com/motogp/v1/results/sessions?eventUuid=10b6074d-577a-42c5-a96b-1f13e0492a90&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+        "classification_file": "84395b70-3f93-4e56-8475-e83a5c71e26d.json",
+        "rows": 6
+      }
+    ]
+  },
+  {
+    "year": 1999,
+    "event_id": "af112d52-30dc-4c7a-bb1c-6ba2fe221f6e",
+    "class_name": "125cc",
+    "session_url": "https://api.motogp.pulselive.com/motogp/v1/results/sessions?eventUuid=af112d52-30dc-4c7a-bb1c-6ba2fe221f6e&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+    "session_count": 1,
+    "races": [
+      {
+        "event": {
+          "country": {
+            "iso": "MY",
+            "name": "Malaysia",
+            "region_iso": ""
+          },
+          "event_files": {
+            "circuit_information": {
+              "url": "",
+              "menu_position": 1
+            },
+            "podiums": {
+              "url": "",
+              "menu_position": 2
+            },
+            "pole_positions": {
+              "url": "",
+              "menu_position": 2
+            },
+            "nations_statistics": {
+              "url": "",
+              "menu_position": 2
+            },
+            "riders_all_time": {
+              "url": "",
+              "menu_position": 2
+            }
+          },
+          "circuit": {
+            "id": "f5a7f3f8-0097-4810-a2da-eee749aedc77",
+            "name": "Petronas Sepang International Circuit",
+            "legacy_id": 75,
+            "place": "Sepang",
+            "nation": "MAL",
+            "events_id": null
+          },
+          "test": false,
+          "sponsored_name": "MALAYSIAN GRAND PRIX",
+          "date_end": "1999-04-18",
+          "toad_api_uuid": "ea3650ef-6b17-45b4-a540-7b31ba3c7a19",
+          "date_start": "1999-04-16",
+          "additional_name": "MALAYSIAN GRAND PRIX",
+          "name": "MALAYSIAN GRAND PRIX",
+          "legacy_id": [
+            {
+              "categoryId": 3,
+              "eventId": 1
+            },
+            {
+              "categoryId": 5,
+              "eventId": 1
+            },
+            {
+              "categoryId": 10,
+              "eventId": 1
+            }
+          ],
+          "season": {
+            "id": "2fd3e95f-5aca-46ba-a8f3-513a36f304b9",
+            "year": 1999,
+            "current": false
+          },
+          "short_name": "MAL",
+          "id": "af112d52-30dc-4c7a-bb1c-6ba2fe221f6e",
+          "status": "FINISHED",
+          "audit_year": 1999
+        },
+        "category": {
+          "id": "2391edcb-13be-4389-8627-5a5c3f967e85",
+          "name": "125cc",
+          "legacy_id": 10
+        },
+        "session": {
+          "date": "1999-04-16T00:00:00+00:00",
+          "number": null,
+          "condition": {
+            "track": "",
+            "air": "º",
+            "humidity": "%",
+            "ground": "º",
+            "weather": ""
+          },
+          "circuit": "Petronas Sepang International Circuit",
+          "session_files": {
+            "classification": {
+              "url": "https://resources.motogp.com/files/results/1999/125cc/MAL/RAC/classification.pdf",
+              "menu_position": 1
+            },
+            "analysis": {
+              "url": "https://resources.motogp.com/files/results/1999/125cc/MAL/RAC/analysis.pdf",
+              "menu_position": 2
+            },
+            "average_speed": {
+              "url": "https://resources.motogp.com/files/results/1999/125cc/MAL/RAC/average%2Bspeed.pdf",
+              "menu_position": 2
+            },
+            "fast_lap_sequence": {
+              "url": "https://resources.motogp.com/files/results/1999/125cc/MAL/RAC/fast%2Blap%2Bsequence.pdf",
+              "menu_position": 2
+            },
+            "lap_chart": {
+              "url": "https://resources.motogp.com/files/results/1999/125cc/MAL/RAC/lap%2Bchart.pdf",
+              "menu_position": 2
+            },
+            "analysis_by_lap": {
+              "url": "https://resources.motogp.com/files/results/1999/125cc/MAL/RAC/analysis%2Bby%2Blap.pdf",
+              "menu_position": 2
+            },
+            "fast_lap_rider": {
+              "url": "https://resources.motogp.com/files/results/1999/125cc/MAL/RAC/fast%2Blap%2Brider.pdf",
+              "menu_position": 2
+            },
+            "grid": {
+              "url": "https://resources.motogp.com/files/results/1999/125cc/MAL/RAC/grid.pdf",
+              "menu_position": 2
+            },
+            "session": {
+              "url": "",
+              "menu_position": 2
+            },
+            "world_standing": {
+              "url": "https://resources.motogp.com/files/results/1999/125cc/MAL/world%2Bstanding.pdf",
+              "menu_position": 2
+            },
+            "best_partial_time": {
+              "url": "",
+              "menu_position": 2
+            },
+            "maximum_speed": {
+              "url": "",
+              "menu_position": 2
+            },
+            "combined_practice": {
+              "url": "",
+              "menu_position": 2
+            },
+            "combined_classification": {
+              "url": "",
+              "menu_position": 2
+            }
+          },
+          "id": "b61acefb-e68c-472c-bac9-ed3ba54b87c8",
+          "type": "RAC",
+          "category": {
+            "id": "2391edcb-13be-4389-8627-5a5c3f967e85",
+            "legacy_id": 10,
+            "name": "125cc"
+          },
+          "event": {
+            "id": "af112d52-30dc-4c7a-bb1c-6ba2fe221f6e",
+            "name": "MALAYSIAN GRAND PRIX",
+            "sponsored_name": "MALAYSIAN GRAND PRIX",
+            "short_name": "MAL",
+            "test": false,
+            "season": "1999",
+            "circuit": {
+              "id": "f5a7f3f8-0097-4810-a2da-eee749aedc77",
+              "name": "Petronas Sepang International Circuit",
+              "legacy_id": 75,
+              "place": "Sepang",
+              "nation": "MAL",
+              "events_id": null
+            },
+            "country": {
+              "iso": "MY",
+              "name": "Malaysia",
+              "region_iso": ""
+            }
+          },
+          "status": "FINISHED"
+        },
+        "classification_url": "https://api.motogp.pulselive.com/motogp/v1/results/session/b61acefb-e68c-472c-bac9-ed3ba54b87c8/classification?seasonYear=1999&test=false",
+        "session_url": "https://api.motogp.pulselive.com/motogp/v1/results/sessions?eventUuid=af112d52-30dc-4c7a-bb1c-6ba2fe221f6e&categoryUuid=2391edcb-13be-4389-8627-5a5c3f967e85",
+        "classification_file": "b61acefb-e68c-472c-bac9-ed3ba54b87c8.json",
+        "rows": 26
+      }
+    ]
+  },
+  {
+    "year": 1999,
+    "event_id": "af112d52-30dc-4c7a-bb1c-6ba2fe221f6e",
+    "class_name": "250cc",
+    "session_url": "https://api.motogp.pulselive.com/motogp/v1/results/sessions?eventUuid=af112d52-30dc-4c7a-bb1c-6ba2fe221f6e&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+    "session_count": 1,
+    "races": [
+      {
+        "event": {
+          "country": {
+            "iso": "MY",
+            "name": "Malaysia",
+            "region_iso": ""
+          },
+          "event_files": {
+            "circuit_information": {
+              "url": "",
+              "menu_position": 1
+            },
+            "podiums": {
+              "url": "",
+              "menu_position": 2
+            },
+            "pole_positions": {
+              "url": "",
+              "menu_position": 2
+            },
+            "nations_statistics": {
+              "url": "",
+              "menu_position": 2
+            },
+            "riders_all_time": {
+              "url": "",
+              "menu_position": 2
+            }
+          },
+          "circuit": {
+            "id": "f5a7f3f8-0097-4810-a2da-eee749aedc77",
+            "name": "Petronas Sepang International Circuit",
+            "legacy_id": 75,
+            "place": "Sepang",
+            "nation": "MAL",
+            "events_id": null
+          },
+          "test": false,
+          "sponsored_name": "MALAYSIAN GRAND PRIX",
+          "date_end": "1999-04-18",
+          "toad_api_uuid": "ea3650ef-6b17-45b4-a540-7b31ba3c7a19",
+          "date_start": "1999-04-16",
+          "additional_name": "MALAYSIAN GRAND PRIX",
+          "name": "MALAYSIAN GRAND PRIX",
+          "legacy_id": [
+            {
+              "categoryId": 3,
+              "eventId": 1
+            },
+            {
+              "categoryId": 5,
+              "eventId": 1
+            },
+            {
+              "categoryId": 10,
+              "eventId": 1
+            }
+          ],
+          "season": {
+            "id": "2fd3e95f-5aca-46ba-a8f3-513a36f304b9",
+            "year": 1999,
+            "current": false
+          },
+          "short_name": "MAL",
+          "id": "af112d52-30dc-4c7a-bb1c-6ba2fe221f6e",
+          "status": "FINISHED",
+          "audit_year": 1999
+        },
+        "category": {
+          "id": "008a50a7-e302-44ba-b468-7e9999324c64",
+          "name": "250cc",
+          "legacy_id": 5
+        },
+        "session": {
+          "date": "1999-04-16T00:00:00+00:00",
+          "number": null,
+          "condition": {
+            "track": "",
+            "air": "º",
+            "humidity": "%",
+            "ground": "º",
+            "weather": ""
+          },
+          "circuit": "Petronas Sepang International Circuit",
+          "session_files": {
+            "classification": {
+              "url": "https://resources.motogp.com/files/results/1999/250cc/MAL/RAC/classification.pdf",
+              "menu_position": 1
+            },
+            "analysis": {
+              "url": "https://resources.motogp.com/files/results/1999/250cc/MAL/RAC/analysis.pdf",
+              "menu_position": 2
+            },
+            "average_speed": {
+              "url": "https://resources.motogp.com/files/results/1999/250cc/MAL/RAC/average%2Bspeed.pdf",
+              "menu_position": 2
+            },
+            "fast_lap_sequence": {
+              "url": "https://resources.motogp.com/files/results/1999/250cc/MAL/RAC/fast%2Blap%2Bsequence.pdf",
+              "menu_position": 2
+            },
+            "lap_chart": {
+              "url": "https://resources.motogp.com/files/results/1999/250cc/MAL/RAC/lap%2Bchart.pdf",
+              "menu_position": 2
+            },
+            "analysis_by_lap": {
+              "url": "https://resources.motogp.com/files/results/1999/250cc/MAL/RAC/analysis%2Bby%2Blap.pdf",
+              "menu_position": 2
+            },
+            "fast_lap_rider": {
+              "url": "https://resources.motogp.com/files/results/1999/250cc/MAL/RAC/fast%2Blap%2Brider.pdf",
+              "menu_position": 2
+            },
+            "grid": {
+              "url": "https://resources.motogp.com/files/results/1999/250cc/MAL/RAC/grid.pdf",
+              "menu_position": 2
+            },
+            "session": {
+              "url": "",
+              "menu_position": 2
+            },
+            "world_standing": {
+              "url": "https://resources.motogp.com/files/results/1999/250cc/MAL/world%2Bstanding.pdf",
+              "menu_position": 2
+            },
+            "best_partial_time": {
+              "url": "",
+              "menu_position": 2
+            },
+            "maximum_speed": {
+              "url": "",
+              "menu_position": 2
+            },
+            "combined_practice": {
+              "url": "",
+              "menu_position": 2
+            },
+            "combined_classification": {
+              "url": "",
+              "menu_position": 2
+            }
+          },
+          "id": "36f3e3e7-bdba-492d-8f93-a9def9283759",
+          "type": "RAC",
+          "category": {
+            "id": "008a50a7-e302-44ba-b468-7e9999324c64",
+            "legacy_id": 5,
+            "name": "250cc"
+          },
+          "event": {
+            "id": "af112d52-30dc-4c7a-bb1c-6ba2fe221f6e",
+            "name": "MALAYSIAN GRAND PRIX",
+            "sponsored_name": "MALAYSIAN GRAND PRIX",
+            "short_name": "MAL",
+            "test": false,
+            "season": "1999",
+            "circuit": {
+              "id": "f5a7f3f8-0097-4810-a2da-eee749aedc77",
+              "name": "Petronas Sepang International Circuit",
+              "legacy_id": 75,
+              "place": "Sepang",
+              "nation": "MAL",
+              "events_id": null
+            },
+            "country": {
+              "iso": "MY",
+              "name": "Malaysia",
+              "region_iso": ""
+            }
+          },
+          "status": "FINISHED"
+        },
+        "classification_url": "https://api.motogp.pulselive.com/motogp/v1/results/session/36f3e3e7-bdba-492d-8f93-a9def9283759/classification?seasonYear=1999&test=false",
+        "session_url": "https://api.motogp.pulselive.com/motogp/v1/results/sessions?eventUuid=af112d52-30dc-4c7a-bb1c-6ba2fe221f6e&categoryUuid=008a50a7-e302-44ba-b468-7e9999324c64",
+        "classification_file": "36f3e3e7-bdba-492d-8f93-a9def9283759.json",
+        "rows": 0
+      }
+    ]
+  },
+  {
+    "year": 1999,
+    "event_id": "af112d52-30dc-4c7a-bb1c-6ba2fe221f6e",
+    "class_name": "500cc",
+    "session_url": "https://api.motogp.pulselive.com/motogp/v1/results/sessions?eventUuid=af112d52-30dc-4c7a-bb1c-6ba2fe221f6e&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "session_count": 1,
+    "races": [
+      {
+        "event": {
+          "country": {
+            "iso": "MY",
+            "name": "Malaysia",
+            "region_iso": ""
+          },
+          "event_files": {
+            "circuit_information": {
+              "url": "",
+              "menu_position": 1
+            },
+            "podiums": {
+              "url": "",
+              "menu_position": 2
+            },
+            "pole_positions": {
+              "url": "",
+              "menu_position": 2
+            },
+            "nations_statistics": {
+              "url": "",
+              "menu_position": 2
+            },
+            "riders_all_time": {
+              "url": "",
+              "menu_position": 2
+            }
+          },
+          "circuit": {
+            "id": "f5a7f3f8-0097-4810-a2da-eee749aedc77",
+            "name": "Petronas Sepang International Circuit",
+            "legacy_id": 75,
+            "place": "Sepang",
+            "nation": "MAL",
+            "events_id": null
+          },
+          "test": false,
+          "sponsored_name": "MALAYSIAN GRAND PRIX",
+          "date_end": "1999-04-18",
+          "toad_api_uuid": "ea3650ef-6b17-45b4-a540-7b31ba3c7a19",
+          "date_start": "1999-04-16",
+          "additional_name": "MALAYSIAN GRAND PRIX",
+          "name": "MALAYSIAN GRAND PRIX",
+          "legacy_id": [
+            {
+              "categoryId": 3,
+              "eventId": 1
+            },
+            {
+              "categoryId": 5,
+              "eventId": 1
+            },
+            {
+              "categoryId": 10,
+              "eventId": 1
+            }
+          ],
+          "season": {
+            "id": "2fd3e95f-5aca-46ba-a8f3-513a36f304b9",
+            "year": 1999,
+            "current": false
+          },
+          "short_name": "MAL",
+          "id": "af112d52-30dc-4c7a-bb1c-6ba2fe221f6e",
+          "status": "FINISHED",
+          "audit_year": 1999
+        },
+        "category": {
+          "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+          "name": "500cc",
+          "legacy_id": 3
+        },
+        "session": {
+          "date": "1999-04-16T00:00:00+00:00",
+          "number": null,
+          "condition": {
+            "track": "",
+            "air": "º",
+            "humidity": "%",
+            "ground": "º",
+            "weather": ""
+          },
+          "circuit": "Petronas Sepang International Circuit",
+          "session_files": {
+            "classification": {
+              "url": "",
+              "menu_position": 1
+            },
+            "analysis": {
+              "url": "",
+              "menu_position": 2
+            },
+            "average_speed": {
+              "url": "",
+              "menu_position": 2
+            },
+            "fast_lap_sequence": {
+              "url": "",
+              "menu_position": 2
+            },
+            "lap_chart": {
+              "url": "",
+              "menu_position": 2
+            },
+            "analysis_by_lap": {
+              "url": "",
+              "menu_position": 2
+            },
+            "fast_lap_rider": {
+              "url": "",
+              "menu_position": 2
+            },
+            "grid": {
+              "url": "",
+              "menu_position": 2
+            },
+            "session": {
+              "url": "",
+              "menu_position": 2
+            },
+            "world_standing": {
+              "url": "https://resources.motogp.com/files/results/1999/500cc/MAL/world%2Bstanding.pdf",
+              "menu_position": 2
+            },
+            "best_partial_time": {
+              "url": "",
+              "menu_position": 2
+            },
+            "maximum_speed": {
+              "url": "",
+              "menu_position": 2
+            },
+            "combined_practice": {
+              "url": "",
+              "menu_position": 2
+            },
+            "combined_classification": {
+              "url": "",
+              "menu_position": 2
+            }
+          },
+          "id": "837044a2-9447-4c9e-8051-4a0bbde9b508",
+          "type": "RAC",
+          "category": {
+            "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+            "legacy_id": 3,
+            "name": "MotoGP™"
+          },
+          "event": {
+            "id": "af112d52-30dc-4c7a-bb1c-6ba2fe221f6e",
+            "name": "MALAYSIAN GRAND PRIX",
+            "sponsored_name": "MALAYSIAN GRAND PRIX",
+            "short_name": "MAL",
+            "test": false,
+            "season": "1999",
+            "circuit": {
+              "id": "f5a7f3f8-0097-4810-a2da-eee749aedc77",
+              "name": "Petronas Sepang International Circuit",
+              "legacy_id": 75,
+              "place": "Sepang",
+              "nation": "MAL",
+              "events_id": null
+            },
+            "country": {
+              "iso": "MY",
+              "name": "Malaysia",
+              "region_iso": ""
+            }
+          },
+          "status": "FINISHED"
+        },
+        "classification_url": "https://api.motogp.pulselive.com/motogp/v1/results/session/837044a2-9447-4c9e-8051-4a0bbde9b508/classification?seasonYear=1999&test=false",
+        "session_url": "https://api.motogp.pulselive.com/motogp/v1/results/sessions?eventUuid=af112d52-30dc-4c7a-bb1c-6ba2fe221f6e&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+        "classification_file": "837044a2-9447-4c9e-8051-4a0bbde9b508.json",
+        "rows": 25
+      }
+    ]
+  },
+  {
+    "year": 2013,
+    "event_id": "265bbb13-e15c-4be5-9254-e62df872b60a",
+    "class_name": "Moto2",
+    "session_url": "https://api.motogp.pulselive.com/motogp/v1/results/sessions?eventUuid=265bbb13-e15c-4be5-9254-e62df872b60a&categoryUuid=549640b8-fd9c-4245-acfd-60e4bc38b25c",
+    "session_count": 6,
+    "races": [
+      {
+        "event": {
+          "country": {
+            "iso": "AU",
+            "name": "Australia",
+            "region_iso": ""
+          },
+          "event_files": {
+            "circuit_information": {
+              "url": "https://resources.motogp.com/files/results/2013/AUS/CircuitInformation.pdf",
+              "menu_position": 1
+            },
+            "podiums": {
+              "url": "https://resources.motogp.com/files/results/2013/AUS/Podiums.pdf",
+              "menu_position": 2
+            },
+            "pole_positions": {
+              "url": "https://resources.motogp.com/files/results/2013/AUS/PolePositions.pdf",
+              "menu_position": 2
+            },
+            "nations_statistics": {
+              "url": "https://resources.motogp.com/files/results/2013/AUS/table2.pdf",
+              "menu_position": 2
+            },
+            "riders_all_time": {
+              "url": "https://resources.motogp.com/files/results/2013/AUS/table4.pdf",
+              "menu_position": 2
+            }
+          },
+          "circuit": {
+            "id": "d4629be0-3742-4950-af2e-2807562d6cb8",
+            "name": "Phillip Island",
+            "legacy_id": 32,
+            "place": "Phillip Island",
+            "nation": "AUS",
+            "events_id": null
+          },
+          "test": false,
+          "sponsored_name": "Tissot Australian Grand Prix",
+          "date_end": "2013-10-20",
+          "toad_api_uuid": "c0f8986c-fd5d-4a84-bb23-645b77d0a84a",
+          "date_start": "2013-10-18",
+          "additional_name": "AUSTRALIAN GRAND PRIX",
+          "name": "AUSTRALIAN GRAND PRIX",
+          "legacy_id": [
+            {
+              "categoryId": 1,
+              "eventId": 16
+            },
+            {
+              "categoryId": 2,
+              "eventId": 16
+            },
+            {
+              "categoryId": 3,
+              "eventId": 16
+            }
+          ],
+          "season": {
+            "id": "a0def534-ce1b-492c-bc46-e87e95d28230",
+            "year": 2013,
+            "current": false
+          },
+          "short_name": "AUS",
+          "id": "265bbb13-e15c-4be5-9254-e62df872b60a",
+          "status": "FINISHED",
+          "audit_year": 2013
+        },
+        "category": {
+          "id": "549640b8-fd9c-4245-acfd-60e4bc38b25c",
+          "name": "Moto2™",
+          "legacy_id": 2
+        },
+        "session": {
+          "date": "2013-10-20T14:20:00+00:00",
+          "number": null,
+          "condition": {
+            "track": "Dry",
+            "air": "28º",
+            "humidity": "30%",
+            "ground": "38º",
+            "weather": "Partly-Cloudy"
+          },
+          "circuit": "Phillip Island",
+          "session_files": {
+            "classification": {
+              "url": "https://resources.motogp.com/files/results/2013/AUS/Moto2/RAC/Classification.pdf",
+              "menu_position": 1
+            },
+            "analysis": {
+              "url": "https://resources.motogp.com/files/results/2013/AUS/Moto2/RAC/Analysis.pdf",
+              "menu_position": 2
+            },
+            "average_speed": {
+              "url": "https://resources.motogp.com/files/results/2013/AUS/Moto2/RAC/AverageSpeed.pdf",
+              "menu_position": 2
+            },
+            "fast_lap_sequence": {
+              "url": "https://resources.motogp.com/files/results/2013/AUS/Moto2/RAC/FastLapSequence.pdf",
+              "menu_position": 2
+            },
+            "lap_chart": {
+              "url": "https://resources.motogp.com/files/results/2013/AUS/Moto2/RAC/LapChart.pdf",
+              "menu_position": 2
+            },
+            "analysis_by_lap": {
+              "url": "https://resources.motogp.com/files/results/2013/AUS/Moto2/RAC/analysisbylap.pdf",
+              "menu_position": 2
+            },
+            "fast_lap_rider": {
+              "url": "https://resources.motogp.com/files/results/2013/AUS/Moto2/RAC/FastLapRider.pdf",
+              "menu_position": 2
+            },
+            "grid": {
+              "url": "https://resources.motogp.com/files/results/2013/AUS/Moto2/RAC/Grid.pdf",
+              "menu_position": 2
+            },
+            "session": {
+              "url": "https://resources.motogp.com/files/results/2013/AUS/Moto2/RAC/Session.pdf",
+              "menu_position": 2
+            },
+            "world_standing": {
+              "url": "https://resources.motogp.com/files/results/2013/AUS/Moto2/RAC/worldstanding.pdf",
+              "menu_position": 2
+            },
+            "best_partial_time": {
+              "url": "",
+              "menu_position": 2
+            },
+            "maximum_speed": {
+              "url": "",
+              "menu_position": 2
+            },
+            "combined_practice": {
+              "url": "",
+              "menu_position": 2
+            },
+            "combined_classification": {
+              "url": "",
+              "menu_position": 2
+            }
+          },
+          "id": "f282b20e-615e-436a-87b3-0fb1ae375693",
+          "type": "RAC",
+          "category": {
+            "id": "549640b8-fd9c-4245-acfd-60e4bc38b25c",
+            "legacy_id": 2,
+            "name": "Moto2™"
+          },
+          "event": {
+            "id": "265bbb13-e15c-4be5-9254-e62df872b60a",
+            "name": "AUSTRALIAN GRAND PRIX",
+            "sponsored_name": "Tissot Australian Grand Prix",
+            "short_name": "AUS",
+            "test": false,
+            "season": "2013",
+            "circuit": {
+              "id": "d4629be0-3742-4950-af2e-2807562d6cb8",
+              "name": "Phillip Island",
+              "legacy_id": 32,
+              "place": "Phillip Island",
+              "nation": "AUS",
+              "events_id": null
+            },
+            "country": {
+              "iso": "AU",
+              "name": "Australia",
+              "region_iso": ""
+            }
+          },
+          "status": "FINISHED"
+        },
+        "classification_url": "https://api.motogp.pulselive.com/motogp/v1/results/session/f282b20e-615e-436a-87b3-0fb1ae375693/classification?seasonYear=2013&test=false",
+        "session_url": "https://api.motogp.pulselive.com/motogp/v1/results/sessions?eventUuid=265bbb13-e15c-4be5-9254-e62df872b60a&categoryUuid=549640b8-fd9c-4245-acfd-60e4bc38b25c",
+        "classification_file": "f282b20e-615e-436a-87b3-0fb1ae375693.json",
+        "rows": 29
+      }
+    ]
+  },
+  {
+    "year": 2013,
+    "event_id": "265bbb13-e15c-4be5-9254-e62df872b60a",
+    "class_name": "Moto3",
+    "session_url": "https://api.motogp.pulselive.com/motogp/v1/results/sessions?eventUuid=265bbb13-e15c-4be5-9254-e62df872b60a&categoryUuid=954f7e65-2ef2-4423-b949-4961cc603e45",
+    "session_count": 6,
+    "races": [
+      {
+        "event": {
+          "country": {
+            "iso": "AU",
+            "name": "Australia",
+            "region_iso": ""
+          },
+          "event_files": {
+            "circuit_information": {
+              "url": "https://resources.motogp.com/files/results/2013/AUS/CircuitInformation.pdf",
+              "menu_position": 1
+            },
+            "podiums": {
+              "url": "https://resources.motogp.com/files/results/2013/AUS/Podiums.pdf",
+              "menu_position": 2
+            },
+            "pole_positions": {
+              "url": "https://resources.motogp.com/files/results/2013/AUS/PolePositions.pdf",
+              "menu_position": 2
+            },
+            "nations_statistics": {
+              "url": "https://resources.motogp.com/files/results/2013/AUS/table2.pdf",
+              "menu_position": 2
+            },
+            "riders_all_time": {
+              "url": "https://resources.motogp.com/files/results/2013/AUS/table4.pdf",
+              "menu_position": 2
+            }
+          },
+          "circuit": {
+            "id": "d4629be0-3742-4950-af2e-2807562d6cb8",
+            "name": "Phillip Island",
+            "legacy_id": 32,
+            "place": "Phillip Island",
+            "nation": "AUS",
+            "events_id": null
+          },
+          "test": false,
+          "sponsored_name": "Tissot Australian Grand Prix",
+          "date_end": "2013-10-20",
+          "toad_api_uuid": "c0f8986c-fd5d-4a84-bb23-645b77d0a84a",
+          "date_start": "2013-10-18",
+          "additional_name": "AUSTRALIAN GRAND PRIX",
+          "name": "AUSTRALIAN GRAND PRIX",
+          "legacy_id": [
+            {
+              "categoryId": 1,
+              "eventId": 16
+            },
+            {
+              "categoryId": 2,
+              "eventId": 16
+            },
+            {
+              "categoryId": 3,
+              "eventId": 16
+            }
+          ],
+          "season": {
+            "id": "a0def534-ce1b-492c-bc46-e87e95d28230",
+            "year": 2013,
+            "current": false
+          },
+          "short_name": "AUS",
+          "id": "265bbb13-e15c-4be5-9254-e62df872b60a",
+          "status": "FINISHED",
+          "audit_year": 2013
+        },
+        "category": {
+          "id": "954f7e65-2ef2-4423-b949-4961cc603e45",
+          "name": "Moto3™",
+          "legacy_id": 1
+        },
+        "session": {
+          "date": "2013-10-20T13:00:00+00:00",
+          "number": null,
+          "condition": {
+            "track": "Dry",
+            "air": "25º",
+            "humidity": "31%",
+            "ground": "29º",
+            "weather": "Cloudy"
+          },
+          "circuit": "Phillip Island",
+          "session_files": {
+            "classification": {
+              "url": "https://resources.motogp.com/files/results/2013/AUS/Moto3/RAC/Classification.pdf",
+              "menu_position": 1
+            },
+            "analysis": {
+              "url": "https://resources.motogp.com/files/results/2013/AUS/Moto3/RAC/Analysis.pdf",
+              "menu_position": 2
+            },
+            "average_speed": {
+              "url": "https://resources.motogp.com/files/results/2013/AUS/Moto3/RAC/AverageSpeed.pdf",
+              "menu_position": 2
+            },
+            "fast_lap_sequence": {
+              "url": "https://resources.motogp.com/files/results/2013/AUS/Moto3/RAC/FastLapSequence.pdf",
+              "menu_position": 2
+            },
+            "lap_chart": {
+              "url": "https://resources.motogp.com/files/results/2013/AUS/Moto3/RAC/LapChart.pdf",
+              "menu_position": 2
+            },
+            "analysis_by_lap": {
+              "url": "https://resources.motogp.com/files/results/2013/AUS/Moto3/RAC/analysisbylap.pdf",
+              "menu_position": 2
+            },
+            "fast_lap_rider": {
+              "url": "https://resources.motogp.com/files/results/2013/AUS/Moto3/RAC/FastLapRider.pdf",
+              "menu_position": 2
+            },
+            "grid": {
+              "url": "https://resources.motogp.com/files/results/2013/AUS/Moto3/RAC/Grid.pdf",
+              "menu_position": 2
+            },
+            "session": {
+              "url": "https://resources.motogp.com/files/results/2013/AUS/Moto3/RAC/Session.pdf",
+              "menu_position": 2
+            },
+            "world_standing": {
+              "url": "https://resources.motogp.com/files/results/2013/AUS/Moto3/RAC/worldstanding.pdf",
+              "menu_position": 2
+            },
+            "best_partial_time": {
+              "url": "",
+              "menu_position": 2
+            },
+            "maximum_speed": {
+              "url": "",
+              "menu_position": 2
+            },
+            "combined_practice": {
+              "url": "",
+              "menu_position": 2
+            },
+            "combined_classification": {
+              "url": "",
+              "menu_position": 2
+            }
+          },
+          "id": "6bdcdd65-e0cd-481b-a99d-a9cd939078aa",
+          "type": "RAC",
+          "category": {
+            "id": "954f7e65-2ef2-4423-b949-4961cc603e45",
+            "legacy_id": 1,
+            "name": "Moto3™"
+          },
+          "event": {
+            "id": "265bbb13-e15c-4be5-9254-e62df872b60a",
+            "name": "AUSTRALIAN GRAND PRIX",
+            "sponsored_name": "Tissot Australian Grand Prix",
+            "short_name": "AUS",
+            "test": false,
+            "season": "2013",
+            "circuit": {
+              "id": "d4629be0-3742-4950-af2e-2807562d6cb8",
+              "name": "Phillip Island",
+              "legacy_id": 32,
+              "place": "Phillip Island",
+              "nation": "AUS",
+              "events_id": null
+            },
+            "country": {
+              "iso": "AU",
+              "name": "Australia",
+              "region_iso": ""
+            }
+          },
+          "status": "FINISHED"
+        },
+        "classification_url": "https://api.motogp.pulselive.com/motogp/v1/results/session/6bdcdd65-e0cd-481b-a99d-a9cd939078aa/classification?seasonYear=2013&test=false",
+        "session_url": "https://api.motogp.pulselive.com/motogp/v1/results/sessions?eventUuid=265bbb13-e15c-4be5-9254-e62df872b60a&categoryUuid=954f7e65-2ef2-4423-b949-4961cc603e45",
+        "classification_file": "6bdcdd65-e0cd-481b-a99d-a9cd939078aa.json",
+        "rows": 33
+      }
+    ]
+  },
+  {
+    "year": 2013,
+    "event_id": "265bbb13-e15c-4be5-9254-e62df872b60a",
+    "class_name": "MotoGP",
+    "session_url": "https://api.motogp.pulselive.com/motogp/v1/results/sessions?eventUuid=265bbb13-e15c-4be5-9254-e62df872b60a&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "session_count": 8,
+    "races": [
+      {
+        "event": {
+          "country": {
+            "iso": "AU",
+            "name": "Australia",
+            "region_iso": ""
+          },
+          "event_files": {
+            "circuit_information": {
+              "url": "https://resources.motogp.com/files/results/2013/AUS/CircuitInformation.pdf",
+              "menu_position": 1
+            },
+            "podiums": {
+              "url": "https://resources.motogp.com/files/results/2013/AUS/Podiums.pdf",
+              "menu_position": 2
+            },
+            "pole_positions": {
+              "url": "https://resources.motogp.com/files/results/2013/AUS/PolePositions.pdf",
+              "menu_position": 2
+            },
+            "nations_statistics": {
+              "url": "https://resources.motogp.com/files/results/2013/AUS/table2.pdf",
+              "menu_position": 2
+            },
+            "riders_all_time": {
+              "url": "https://resources.motogp.com/files/results/2013/AUS/table4.pdf",
+              "menu_position": 2
+            }
+          },
+          "circuit": {
+            "id": "d4629be0-3742-4950-af2e-2807562d6cb8",
+            "name": "Phillip Island",
+            "legacy_id": 32,
+            "place": "Phillip Island",
+            "nation": "AUS",
+            "events_id": null
+          },
+          "test": false,
+          "sponsored_name": "Tissot Australian Grand Prix",
+          "date_end": "2013-10-20",
+          "toad_api_uuid": "c0f8986c-fd5d-4a84-bb23-645b77d0a84a",
+          "date_start": "2013-10-18",
+          "additional_name": "AUSTRALIAN GRAND PRIX",
+          "name": "AUSTRALIAN GRAND PRIX",
+          "legacy_id": [
+            {
+              "categoryId": 1,
+              "eventId": 16
+            },
+            {
+              "categoryId": 2,
+              "eventId": 16
+            },
+            {
+              "categoryId": 3,
+              "eventId": 16
+            }
+          ],
+          "season": {
+            "id": "a0def534-ce1b-492c-bc46-e87e95d28230",
+            "year": 2013,
+            "current": false
+          },
+          "short_name": "AUS",
+          "id": "265bbb13-e15c-4be5-9254-e62df872b60a",
+          "status": "FINISHED",
+          "audit_year": 2013
+        },
+        "category": {
+          "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+          "name": "MotoGP™",
+          "legacy_id": 3
+        },
+        "session": {
+          "date": "2013-10-20T16:00:00+00:00",
+          "number": null,
+          "condition": {
+            "track": "Dry",
+            "air": "28º",
+            "humidity": "30%",
+            "ground": "34º",
+            "weather": "Partly-Cloudy"
+          },
+          "circuit": "Phillip Island",
+          "session_files": {
+            "classification": {
+              "url": "https://resources.motogp.com/files/results/2013/AUS/MotoGP/RAC/Classification.pdf",
+              "menu_position": 1
+            },
+            "analysis": {
+              "url": "https://resources.motogp.com/files/results/2013/AUS/MotoGP/RAC/Analysis.pdf",
+              "menu_position": 2
+            },
+            "average_speed": {
+              "url": "https://resources.motogp.com/files/results/2013/AUS/MotoGP/RAC/AverageSpeed.pdf",
+              "menu_position": 2
+            },
+            "fast_lap_sequence": {
+              "url": "https://resources.motogp.com/files/results/2013/AUS/MotoGP/RAC/FastLapSequence.pdf",
+              "menu_position": 2
+            },
+            "lap_chart": {
+              "url": "https://resources.motogp.com/files/results/2013/AUS/MotoGP/RAC/LapChart.pdf",
+              "menu_position": 2
+            },
+            "analysis_by_lap": {
+              "url": "https://resources.motogp.com/files/results/2013/AUS/MotoGP/RAC/analysisbylap.pdf",
+              "menu_position": 2
+            },
+            "fast_lap_rider": {
+              "url": "https://resources.motogp.com/files/results/2013/AUS/MotoGP/RAC/FastLapRider.pdf",
+              "menu_position": 2
+            },
+            "grid": {
+              "url": "https://resources.motogp.com/files/results/2013/AUS/MotoGP/RAC/Grid.pdf",
+              "menu_position": 2
+            },
+            "session": {
+              "url": "https://resources.motogp.com/files/results/2013/AUS/MotoGP/RAC/Session.pdf",
+              "menu_position": 2
+            },
+            "world_standing": {
+              "url": "https://resources.motogp.com/files/results/2013/AUS/MotoGP/RAC/worldstanding.pdf",
+              "menu_position": 2
+            },
+            "best_partial_time": {
+              "url": "",
+              "menu_position": 2
+            },
+            "maximum_speed": {
+              "url": "",
+              "menu_position": 2
+            },
+            "combined_practice": {
+              "url": "",
+              "menu_position": 2
+            },
+            "combined_classification": {
+              "url": "",
+              "menu_position": 2
+            }
+          },
+          "id": "c70edd7b-e791-4c12-b8a7-867b93c86de6",
+          "type": "RAC",
+          "category": {
+            "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+            "legacy_id": 3,
+            "name": "MotoGP™"
+          },
+          "event": {
+            "id": "265bbb13-e15c-4be5-9254-e62df872b60a",
+            "name": "AUSTRALIAN GRAND PRIX",
+            "sponsored_name": "Tissot Australian Grand Prix",
+            "short_name": "AUS",
+            "test": false,
+            "season": "2013",
+            "circuit": {
+              "id": "d4629be0-3742-4950-af2e-2807562d6cb8",
+              "name": "Phillip Island",
+              "legacy_id": 32,
+              "place": "Phillip Island",
+              "nation": "AUS",
+              "events_id": null
+            },
+            "country": {
+              "iso": "AU",
+              "name": "Australia",
+              "region_iso": ""
+            }
+          },
+          "status": "FINISHED"
+        },
+        "classification_url": "https://api.motogp.pulselive.com/motogp/v1/results/session/c70edd7b-e791-4c12-b8a7-867b93c86de6/classification?seasonYear=2013&test=false",
+        "session_url": "https://api.motogp.pulselive.com/motogp/v1/results/sessions?eventUuid=265bbb13-e15c-4be5-9254-e62df872b60a&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+        "classification_file": "c70edd7b-e791-4c12-b8a7-867b93c86de6.json",
+        "rows": 23
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "event_id": "447c7454-2567-4fc0-bb28-98b3ec9c3f6e",
+    "class_name": "Moto2",
+    "session_url": "https://api.motogp.pulselive.com/motogp/v1/results/sessions?eventUuid=447c7454-2567-4fc0-bb28-98b3ec9c3f6e&categoryUuid=549640b8-fd9c-4245-acfd-60e4bc38b25c",
+    "session_count": 6,
+    "races": [
+      {
+        "event": {
+          "country": {
+            "iso": "GB",
+            "name": "United Kingdom of Great Britain and Northern Ireland",
+            "region_iso": ""
+          },
+          "event_files": {
+            "circuit_information": {
+              "url": "https://resources.motogp.com/files/results/2018/GBR/CircuitInformation.pdf",
+              "menu_position": 1
+            },
+            "podiums": {
+              "url": "",
+              "menu_position": 2
+            },
+            "pole_positions": {
+              "url": "https://resources.motogp.com/files/results/2018/GBR/PolePositions.pdf",
+              "menu_position": 2
+            },
+            "nations_statistics": {
+              "url": "",
+              "menu_position": 2
+            },
+            "riders_all_time": {
+              "url": "",
+              "menu_position": 2
+            }
+          },
+          "circuit": {
+            "id": "473ee5fa-b4e5-4c00-a0fe-28051700e20d",
+            "name": "Silverstone Circuit",
+            "legacy_id": 42,
+            "place": "Silverstone",
+            "nation": "GBR",
+            "events_id": null
+          },
+          "test": false,
+          "sponsored_name": "GoPro British Grand Prix",
+          "date_end": "2018-08-26",
+          "toad_api_uuid": "9b4b2bec-d2bb-4e7e-b587-71734c3f451e",
+          "date_start": "2018-08-24",
+          "additional_name": "BRITISH GRAND PRIX",
+          "name": "BRITISH GRAND PRIX",
+          "legacy_id": [
+            {
+              "categoryId": 1,
+              "eventId": 12
+            },
+            {
+              "categoryId": 2,
+              "eventId": 12
+            },
+            {
+              "categoryId": 3,
+              "eventId": 12
+            }
+          ],
+          "season": {
+            "id": "c0844c71-783c-4f86-abce-a9a67adcc1a9",
+            "year": 2018,
+            "current": false
+          },
+          "short_name": "GBR",
+          "id": "447c7454-2567-4fc0-bb28-98b3ec9c3f6e",
+          "status": "FINISHED",
+          "audit_year": 2018
+        },
+        "category": {
+          "id": "549640b8-fd9c-4245-acfd-60e4bc38b25c",
+          "name": "Moto2™",
+          "legacy_id": 2
+        },
+        "session": {
+          "date": "2018-08-26T14:30:00+00:00",
+          "number": null,
+          "condition": {
+            "track": "",
+            "air": "º",
+            "humidity": "%",
+            "ground": "º",
+            "weather": ""
+          },
+          "circuit": "Silverstone Circuit",
+          "session_files": {
+            "classification": {
+              "url": "",
+              "menu_position": 1
+            },
+            "analysis": {
+              "url": "",
+              "menu_position": 2
+            },
+            "average_speed": {
+              "url": "",
+              "menu_position": 2
+            },
+            "fast_lap_sequence": {
+              "url": "",
+              "menu_position": 2
+            },
+            "lap_chart": {
+              "url": "",
+              "menu_position": 2
+            },
+            "analysis_by_lap": {
+              "url": "",
+              "menu_position": 2
+            },
+            "fast_lap_rider": {
+              "url": "",
+              "menu_position": 2
+            },
+            "grid": {
+              "url": "",
+              "menu_position": 2
+            },
+            "session": {
+              "url": "",
+              "menu_position": 2
+            },
+            "world_standing": {
+              "url": "",
+              "menu_position": 2
+            },
+            "best_partial_time": {
+              "url": "",
+              "menu_position": 2
+            },
+            "maximum_speed": {
+              "url": "",
+              "menu_position": 2
+            },
+            "combined_practice": {
+              "url": "",
+              "menu_position": 2
+            },
+            "combined_classification": {
+              "url": "",
+              "menu_position": 2
+            }
+          },
+          "id": "7c33b9df-0b09-4e50-b0af-c2eeb6f7d41b",
+          "type": "RAC",
+          "category": {
+            "id": "549640b8-fd9c-4245-acfd-60e4bc38b25c",
+            "legacy_id": 2,
+            "name": "Moto2™"
+          },
+          "event": {
+            "id": "447c7454-2567-4fc0-bb28-98b3ec9c3f6e",
+            "name": "BRITISH GRAND PRIX",
+            "sponsored_name": "GoPro British Grand Prix",
+            "short_name": "GBR",
+            "test": false,
+            "season": "2018",
+            "circuit": {
+              "id": "473ee5fa-b4e5-4c00-a0fe-28051700e20d",
+              "name": "Silverstone Circuit",
+              "legacy_id": 42,
+              "place": "Silverstone",
+              "nation": "GBR",
+              "events_id": null
+            },
+            "country": {
+              "iso": "GB",
+              "name": "United Kingdom of Great Britain and Northern Ireland",
+              "region_iso": ""
+            }
+          },
+          "status": "FINISHED"
+        },
+        "classification_url": "https://api.motogp.pulselive.com/motogp/v1/results/session/7c33b9df-0b09-4e50-b0af-c2eeb6f7d41b/classification?seasonYear=2018&test=false",
+        "session_url": "https://api.motogp.pulselive.com/motogp/v1/results/sessions?eventUuid=447c7454-2567-4fc0-bb28-98b3ec9c3f6e&categoryUuid=549640b8-fd9c-4245-acfd-60e4bc38b25c",
+        "classification_file": "7c33b9df-0b09-4e50-b0af-c2eeb6f7d41b.json",
+        "rows": 0
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "event_id": "447c7454-2567-4fc0-bb28-98b3ec9c3f6e",
+    "class_name": "Moto3",
+    "session_url": "https://api.motogp.pulselive.com/motogp/v1/results/sessions?eventUuid=447c7454-2567-4fc0-bb28-98b3ec9c3f6e&categoryUuid=954f7e65-2ef2-4423-b949-4961cc603e45",
+    "session_count": 6,
+    "races": [
+      {
+        "event": {
+          "country": {
+            "iso": "GB",
+            "name": "United Kingdom of Great Britain and Northern Ireland",
+            "region_iso": ""
+          },
+          "event_files": {
+            "circuit_information": {
+              "url": "https://resources.motogp.com/files/results/2018/GBR/CircuitInformation.pdf",
+              "menu_position": 1
+            },
+            "podiums": {
+              "url": "",
+              "menu_position": 2
+            },
+            "pole_positions": {
+              "url": "https://resources.motogp.com/files/results/2018/GBR/PolePositions.pdf",
+              "menu_position": 2
+            },
+            "nations_statistics": {
+              "url": "",
+              "menu_position": 2
+            },
+            "riders_all_time": {
+              "url": "",
+              "menu_position": 2
+            }
+          },
+          "circuit": {
+            "id": "473ee5fa-b4e5-4c00-a0fe-28051700e20d",
+            "name": "Silverstone Circuit",
+            "legacy_id": 42,
+            "place": "Silverstone",
+            "nation": "GBR",
+            "events_id": null
+          },
+          "test": false,
+          "sponsored_name": "GoPro British Grand Prix",
+          "date_end": "2018-08-26",
+          "toad_api_uuid": "9b4b2bec-d2bb-4e7e-b587-71734c3f451e",
+          "date_start": "2018-08-24",
+          "additional_name": "BRITISH GRAND PRIX",
+          "name": "BRITISH GRAND PRIX",
+          "legacy_id": [
+            {
+              "categoryId": 1,
+              "eventId": 12
+            },
+            {
+              "categoryId": 2,
+              "eventId": 12
+            },
+            {
+              "categoryId": 3,
+              "eventId": 12
+            }
+          ],
+          "season": {
+            "id": "c0844c71-783c-4f86-abce-a9a67adcc1a9",
+            "year": 2018,
+            "current": false
+          },
+          "short_name": "GBR",
+          "id": "447c7454-2567-4fc0-bb28-98b3ec9c3f6e",
+          "status": "FINISHED",
+          "audit_year": 2018
+        },
+        "category": {
+          "id": "954f7e65-2ef2-4423-b949-4961cc603e45",
+          "name": "Moto3™",
+          "legacy_id": 1
+        },
+        "session": {
+          "date": "2018-08-26T13:00:00+00:00",
+          "number": null,
+          "condition": {
+            "track": "",
+            "air": "º",
+            "humidity": "%",
+            "ground": "º",
+            "weather": ""
+          },
+          "circuit": "Silverstone Circuit",
+          "session_files": {
+            "classification": {
+              "url": "",
+              "menu_position": 1
+            },
+            "analysis": {
+              "url": "",
+              "menu_position": 2
+            },
+            "average_speed": {
+              "url": "",
+              "menu_position": 2
+            },
+            "fast_lap_sequence": {
+              "url": "",
+              "menu_position": 2
+            },
+            "lap_chart": {
+              "url": "",
+              "menu_position": 2
+            },
+            "analysis_by_lap": {
+              "url": "",
+              "menu_position": 2
+            },
+            "fast_lap_rider": {
+              "url": "",
+              "menu_position": 2
+            },
+            "grid": {
+              "url": "",
+              "menu_position": 2
+            },
+            "session": {
+              "url": "",
+              "menu_position": 2
+            },
+            "world_standing": {
+              "url": "",
+              "menu_position": 2
+            },
+            "best_partial_time": {
+              "url": "",
+              "menu_position": 2
+            },
+            "maximum_speed": {
+              "url": "",
+              "menu_position": 2
+            },
+            "combined_practice": {
+              "url": "",
+              "menu_position": 2
+            },
+            "combined_classification": {
+              "url": "",
+              "menu_position": 2
+            }
+          },
+          "id": "ea13c4d3-91a5-4771-87f8-6164e0726ff6",
+          "type": "RAC",
+          "category": {
+            "id": "954f7e65-2ef2-4423-b949-4961cc603e45",
+            "legacy_id": 1,
+            "name": "Moto3™"
+          },
+          "event": {
+            "id": "447c7454-2567-4fc0-bb28-98b3ec9c3f6e",
+            "name": "BRITISH GRAND PRIX",
+            "sponsored_name": "GoPro British Grand Prix",
+            "short_name": "GBR",
+            "test": false,
+            "season": "2018",
+            "circuit": {
+              "id": "473ee5fa-b4e5-4c00-a0fe-28051700e20d",
+              "name": "Silverstone Circuit",
+              "legacy_id": 42,
+              "place": "Silverstone",
+              "nation": "GBR",
+              "events_id": null
+            },
+            "country": {
+              "iso": "GB",
+              "name": "United Kingdom of Great Britain and Northern Ireland",
+              "region_iso": ""
+            }
+          },
+          "status": "FINISHED"
+        },
+        "classification_url": "https://api.motogp.pulselive.com/motogp/v1/results/session/ea13c4d3-91a5-4771-87f8-6164e0726ff6/classification?seasonYear=2018&test=false",
+        "session_url": "https://api.motogp.pulselive.com/motogp/v1/results/sessions?eventUuid=447c7454-2567-4fc0-bb28-98b3ec9c3f6e&categoryUuid=954f7e65-2ef2-4423-b949-4961cc603e45",
+        "classification_file": "ea13c4d3-91a5-4771-87f8-6164e0726ff6.json",
+        "rows": 0
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "event_id": "447c7454-2567-4fc0-bb28-98b3ec9c3f6e",
+    "class_name": "MotoGP",
+    "session_url": "https://api.motogp.pulselive.com/motogp/v1/results/sessions?eventUuid=447c7454-2567-4fc0-bb28-98b3ec9c3f6e&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "session_count": 8,
+    "races": [
+      {
+        "event": {
+          "country": {
+            "iso": "GB",
+            "name": "United Kingdom of Great Britain and Northern Ireland",
+            "region_iso": ""
+          },
+          "event_files": {
+            "circuit_information": {
+              "url": "https://resources.motogp.com/files/results/2018/GBR/CircuitInformation.pdf",
+              "menu_position": 1
+            },
+            "podiums": {
+              "url": "",
+              "menu_position": 2
+            },
+            "pole_positions": {
+              "url": "https://resources.motogp.com/files/results/2018/GBR/PolePositions.pdf",
+              "menu_position": 2
+            },
+            "nations_statistics": {
+              "url": "",
+              "menu_position": 2
+            },
+            "riders_all_time": {
+              "url": "",
+              "menu_position": 2
+            }
+          },
+          "circuit": {
+            "id": "473ee5fa-b4e5-4c00-a0fe-28051700e20d",
+            "name": "Silverstone Circuit",
+            "legacy_id": 42,
+            "place": "Silverstone",
+            "nation": "GBR",
+            "events_id": null
+          },
+          "test": false,
+          "sponsored_name": "GoPro British Grand Prix",
+          "date_end": "2018-08-26",
+          "toad_api_uuid": "9b4b2bec-d2bb-4e7e-b587-71734c3f451e",
+          "date_start": "2018-08-24",
+          "additional_name": "BRITISH GRAND PRIX",
+          "name": "BRITISH GRAND PRIX",
+          "legacy_id": [
+            {
+              "categoryId": 1,
+              "eventId": 12
+            },
+            {
+              "categoryId": 2,
+              "eventId": 12
+            },
+            {
+              "categoryId": 3,
+              "eventId": 12
+            }
+          ],
+          "season": {
+            "id": "c0844c71-783c-4f86-abce-a9a67adcc1a9",
+            "year": 2018,
+            "current": false
+          },
+          "short_name": "GBR",
+          "id": "447c7454-2567-4fc0-bb28-98b3ec9c3f6e",
+          "status": "FINISHED",
+          "audit_year": 2018
+        },
+        "category": {
+          "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+          "name": "MotoGP™",
+          "legacy_id": 3
+        },
+        "session": {
+          "date": "2018-08-26T11:30:00+00:00",
+          "number": null,
+          "condition": {
+            "track": "",
+            "air": "º",
+            "humidity": "%",
+            "ground": "º",
+            "weather": ""
+          },
+          "circuit": "Silverstone Circuit",
+          "session_files": {
+            "classification": {
+              "url": "",
+              "menu_position": 1
+            },
+            "analysis": {
+              "url": "",
+              "menu_position": 2
+            },
+            "average_speed": {
+              "url": "",
+              "menu_position": 2
+            },
+            "fast_lap_sequence": {
+              "url": "",
+              "menu_position": 2
+            },
+            "lap_chart": {
+              "url": "",
+              "menu_position": 2
+            },
+            "analysis_by_lap": {
+              "url": "",
+              "menu_position": 2
+            },
+            "fast_lap_rider": {
+              "url": "",
+              "menu_position": 2
+            },
+            "grid": {
+              "url": "",
+              "menu_position": 2
+            },
+            "session": {
+              "url": "",
+              "menu_position": 2
+            },
+            "world_standing": {
+              "url": "",
+              "menu_position": 2
+            },
+            "best_partial_time": {
+              "url": "",
+              "menu_position": 2
+            },
+            "maximum_speed": {
+              "url": "",
+              "menu_position": 2
+            },
+            "combined_practice": {
+              "url": "",
+              "menu_position": 2
+            },
+            "combined_classification": {
+              "url": "",
+              "menu_position": 2
+            }
+          },
+          "id": "bcfa15e5-0d16-4e92-9a27-0e5257f5aa7e",
+          "type": "RAC",
+          "category": {
+            "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+            "legacy_id": 3,
+            "name": "MotoGP™"
+          },
+          "event": {
+            "id": "447c7454-2567-4fc0-bb28-98b3ec9c3f6e",
+            "name": "BRITISH GRAND PRIX",
+            "sponsored_name": "GoPro British Grand Prix",
+            "short_name": "GBR",
+            "test": false,
+            "season": "2018",
+            "circuit": {
+              "id": "473ee5fa-b4e5-4c00-a0fe-28051700e20d",
+              "name": "Silverstone Circuit",
+              "legacy_id": 42,
+              "place": "Silverstone",
+              "nation": "GBR",
+              "events_id": null
+            },
+            "country": {
+              "iso": "GB",
+              "name": "United Kingdom of Great Britain and Northern Ireland",
+              "region_iso": ""
+            }
+          },
+          "status": "FINISHED"
+        },
+        "classification_url": "https://api.motogp.pulselive.com/motogp/v1/results/session/bcfa15e5-0d16-4e92-9a27-0e5257f5aa7e/classification?seasonYear=2018&test=false",
+        "session_url": "https://api.motogp.pulselive.com/motogp/v1/results/sessions?eventUuid=447c7454-2567-4fc0-bb28-98b3ec9c3f6e&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+        "classification_file": "bcfa15e5-0d16-4e92-9a27-0e5257f5aa7e.json",
+        "rows": 0
+      }
+    ]
+  },
+  {
+    "year": 2023,
+    "event_id": "14bd179e-a4bc-4b0d-bd2e-69a9ed99cb60",
+    "class_name": "Moto2",
+    "session_url": "https://api.motogp.pulselive.com/motogp/v1/results/sessions?eventUuid=14bd179e-a4bc-4b0d-bd2e-69a9ed99cb60&categoryUuid=549640b8-fd9c-4245-acfd-60e4bc38b25c",
+    "session_count": 6,
+    "races": [
+      {
+        "event": {
+          "country": {
+            "iso": "JP",
+            "name": "Japan",
+            "region_iso": ""
+          },
+          "event_files": {
+            "circuit_information": {
+              "url": "https://resources.motogp.com/files/results/2023/JPN/CircuitInformation.pdf",
+              "menu_position": 1
+            },
+            "podiums": {
+              "url": "https://resources.motogp.com/files/results/2023/JPN/Podiums.pdf",
+              "menu_position": 2
+            },
+            "pole_positions": {
+              "url": "https://resources.motogp.com/files/results/2023/JPN/PolePositions.pdf",
+              "menu_position": 2
+            },
+            "nations_statistics": {
+              "url": "https://resources.motogp.com/files/results/2023/JPN/table2.pdf",
+              "menu_position": 2
+            },
+            "riders_all_time": {
+              "url": "https://resources.motogp.com/files/results/2023/JPN/table4.pdf",
+              "menu_position": 2
+            }
+          },
+          "circuit": {
+            "id": "213eb1ff-9ae5-4aec-862f-44a10637f36d",
+            "name": "Mobility Resort Motegi",
+            "legacy_id": 76,
+            "place": "Motegi",
+            "nation": "JPN",
+            "events_id": null
+          },
+          "test": false,
+          "sponsored_name": "Motul Grand Prix of Japan",
+          "date_end": "2023-10-01",
+          "toad_api_uuid": "035904db-81fa-4232-a671-365ea236880b",
+          "date_start": "2023-09-29",
+          "additional_name": "GRAND PRIX OF JAPAN",
+          "name": "GRAND PRIX OF JAPAN",
+          "legacy_id": [
+            {
+              "categoryId": 3,
+              "eventId": 14
+            },
+            {
+              "categoryId": 2,
+              "eventId": 14
+            },
+            {
+              "categoryId": 1,
+              "eventId": 14
+            }
+          ],
+          "season": {
+            "id": "db8dc197-c7b2-4c1b-b3a4-6dc534c023ef",
+            "year": 2023,
+            "current": false
+          },
+          "short_name": "JPN",
+          "id": "14bd179e-a4bc-4b0d-bd2e-69a9ed99cb60",
+          "status": "FINISHED",
+          "audit_year": 2023
+        },
+        "category": {
+          "id": "549640b8-fd9c-4245-acfd-60e4bc38b25c",
+          "name": "Moto2™",
+          "legacy_id": 2
+        },
+        "session": {
+          "date": "2023-10-01T13:15:00+00:00",
+          "number": null,
+          "condition": {
+            "track": "Dry",
+            "air": "25º",
+            "humidity": "78%",
+            "ground": "33º",
+            "weather": "Cloudy"
+          },
+          "circuit": "Mobility Resort Motegi",
+          "session_files": {
+            "classification": {
+              "url": "https://resources.motogp.com/files/results/2023/JPN/Moto2/RAC/Classification.pdf",
+              "menu_position": 1
+            },
+            "analysis": {
+              "url": "https://resources.motogp.com/files/results/2023/JPN/Moto2/RAC/Analysis.pdf",
+              "menu_position": 2
+            },
+            "average_speed": {
+              "url": "https://resources.motogp.com/files/results/2023/JPN/Moto2/RAC/AverageSpeed.pdf",
+              "menu_position": 2
+            },
+            "fast_lap_sequence": {
+              "url": "https://resources.motogp.com/files/results/2023/JPN/Moto2/RAC/FastLapSequence.pdf",
+              "menu_position": 2
+            },
+            "lap_chart": {
+              "url": "https://resources.motogp.com/files/results/2023/JPN/Moto2/RAC/LapChart.pdf",
+              "menu_position": 2
+            },
+            "analysis_by_lap": {
+              "url": "https://resources.motogp.com/files/results/2023/JPN/Moto2/RAC/analysisbylap.pdf",
+              "menu_position": 2
+            },
+            "fast_lap_rider": {
+              "url": "https://resources.motogp.com/files/results/2023/JPN/Moto2/RAC/FastLapRider.pdf",
+              "menu_position": 2
+            },
+            "grid": {
+              "url": "https://resources.motogp.com/files/results/2023/JPN/Moto2/RAC/Grid.pdf",
+              "menu_position": 2
+            },
+            "session": {
+              "url": "https://resources.motogp.com/files/results/2023/JPN/Moto2/RAC/Session.pdf",
+              "menu_position": 2
+            },
+            "world_standing": {
+              "url": "https://resources.motogp.com/files/results/2023/JPN/Moto2/RAC/worldstanding.pdf",
+              "menu_position": 2
+            },
+            "best_partial_time": {
+              "url": "",
+              "menu_position": 2
+            },
+            "maximum_speed": {
+              "url": "",
+              "menu_position": 2
+            },
+            "combined_practice": {
+              "url": "",
+              "menu_position": 2
+            },
+            "combined_classification": {
+              "url": "",
+              "menu_position": 2
+            }
+          },
+          "id": "b16ecb81-c845-43a0-ada6-043d1a9d1992",
+          "type": "RAC",
+          "category": {
+            "id": "549640b8-fd9c-4245-acfd-60e4bc38b25c",
+            "legacy_id": 2,
+            "name": "Moto2™"
+          },
+          "event": {
+            "id": "14bd179e-a4bc-4b0d-bd2e-69a9ed99cb60",
+            "name": "GRAND PRIX OF JAPAN",
+            "sponsored_name": "Motul Grand Prix of Japan",
+            "short_name": "JPN",
+            "test": false,
+            "season": "2023",
+            "circuit": {
+              "id": "213eb1ff-9ae5-4aec-862f-44a10637f36d",
+              "name": "Mobility Resort Motegi",
+              "legacy_id": 76,
+              "place": "Motegi",
+              "nation": "JPN",
+              "events_id": null
+            },
+            "country": {
+              "iso": "JP",
+              "name": "Japan",
+              "region_iso": ""
+            }
+          },
+          "status": "FINISHED"
+        },
+        "classification_url": "https://api.motogp.pulselive.com/motogp/v1/results/session/b16ecb81-c845-43a0-ada6-043d1a9d1992/classification?seasonYear=2023&test=false",
+        "session_url": "https://api.motogp.pulselive.com/motogp/v1/results/sessions?eventUuid=14bd179e-a4bc-4b0d-bd2e-69a9ed99cb60&categoryUuid=549640b8-fd9c-4245-acfd-60e4bc38b25c",
+        "classification_file": "b16ecb81-c845-43a0-ada6-043d1a9d1992.json",
+        "rows": 30
+      }
+    ]
+  },
+  {
+    "year": 2023,
+    "event_id": "14bd179e-a4bc-4b0d-bd2e-69a9ed99cb60",
+    "class_name": "Moto3",
+    "session_url": "https://api.motogp.pulselive.com/motogp/v1/results/sessions?eventUuid=14bd179e-a4bc-4b0d-bd2e-69a9ed99cb60&categoryUuid=954f7e65-2ef2-4423-b949-4961cc603e45",
+    "session_count": 6,
+    "races": [
+      {
+        "event": {
+          "country": {
+            "iso": "JP",
+            "name": "Japan",
+            "region_iso": ""
+          },
+          "event_files": {
+            "circuit_information": {
+              "url": "https://resources.motogp.com/files/results/2023/JPN/CircuitInformation.pdf",
+              "menu_position": 1
+            },
+            "podiums": {
+              "url": "https://resources.motogp.com/files/results/2023/JPN/Podiums.pdf",
+              "menu_position": 2
+            },
+            "pole_positions": {
+              "url": "https://resources.motogp.com/files/results/2023/JPN/PolePositions.pdf",
+              "menu_position": 2
+            },
+            "nations_statistics": {
+              "url": "https://resources.motogp.com/files/results/2023/JPN/table2.pdf",
+              "menu_position": 2
+            },
+            "riders_all_time": {
+              "url": "https://resources.motogp.com/files/results/2023/JPN/table4.pdf",
+              "menu_position": 2
+            }
+          },
+          "circuit": {
+            "id": "213eb1ff-9ae5-4aec-862f-44a10637f36d",
+            "name": "Mobility Resort Motegi",
+            "legacy_id": 76,
+            "place": "Motegi",
+            "nation": "JPN",
+            "events_id": null
+          },
+          "test": false,
+          "sponsored_name": "Motul Grand Prix of Japan",
+          "date_end": "2023-10-01",
+          "toad_api_uuid": "035904db-81fa-4232-a671-365ea236880b",
+          "date_start": "2023-09-29",
+          "additional_name": "GRAND PRIX OF JAPAN",
+          "name": "GRAND PRIX OF JAPAN",
+          "legacy_id": [
+            {
+              "categoryId": 3,
+              "eventId": 14
+            },
+            {
+              "categoryId": 2,
+              "eventId": 14
+            },
+            {
+              "categoryId": 1,
+              "eventId": 14
+            }
+          ],
+          "season": {
+            "id": "db8dc197-c7b2-4c1b-b3a4-6dc534c023ef",
+            "year": 2023,
+            "current": false
+          },
+          "short_name": "JPN",
+          "id": "14bd179e-a4bc-4b0d-bd2e-69a9ed99cb60",
+          "status": "FINISHED",
+          "audit_year": 2023
+        },
+        "category": {
+          "id": "954f7e65-2ef2-4423-b949-4961cc603e45",
+          "name": "Moto3™",
+          "legacy_id": 1
+        },
+        "session": {
+          "date": "2023-10-01T12:00:00+00:00",
+          "number": null,
+          "condition": {
+            "track": "Dry",
+            "air": "25º",
+            "humidity": "78%",
+            "ground": "33º",
+            "weather": "Cloudy"
+          },
+          "circuit": "Mobility Resort Motegi",
+          "session_files": {
+            "classification": {
+              "url": "https://resources.motogp.com/files/results/2023/JPN/Moto3/RAC/Classification.pdf",
+              "menu_position": 1
+            },
+            "analysis": {
+              "url": "https://resources.motogp.com/files/results/2023/JPN/Moto3/RAC/Analysis.pdf",
+              "menu_position": 2
+            },
+            "average_speed": {
+              "url": "https://resources.motogp.com/files/results/2023/JPN/Moto3/RAC/AverageSpeed.pdf",
+              "menu_position": 2
+            },
+            "fast_lap_sequence": {
+              "url": "https://resources.motogp.com/files/results/2023/JPN/Moto3/RAC/FastLapSequence.pdf",
+              "menu_position": 2
+            },
+            "lap_chart": {
+              "url": "https://resources.motogp.com/files/results/2023/JPN/Moto3/RAC/LapChart.pdf",
+              "menu_position": 2
+            },
+            "analysis_by_lap": {
+              "url": "https://resources.motogp.com/files/results/2023/JPN/Moto3/RAC/analysisbylap.pdf",
+              "menu_position": 2
+            },
+            "fast_lap_rider": {
+              "url": "https://resources.motogp.com/files/results/2023/JPN/Moto3/RAC/FastLapRider.pdf",
+              "menu_position": 2
+            },
+            "grid": {
+              "url": "https://resources.motogp.com/files/results/2023/JPN/Moto3/RAC/Grid.pdf",
+              "menu_position": 2
+            },
+            "session": {
+              "url": "https://resources.motogp.com/files/results/2023/JPN/Moto3/RAC/Session.pdf",
+              "menu_position": 2
+            },
+            "world_standing": {
+              "url": "https://resources.motogp.com/files/results/2023/JPN/Moto3/RAC/worldstanding.pdf",
+              "menu_position": 2
+            },
+            "best_partial_time": {
+              "url": "",
+              "menu_position": 2
+            },
+            "maximum_speed": {
+              "url": "",
+              "menu_position": 2
+            },
+            "combined_practice": {
+              "url": "",
+              "menu_position": 2
+            },
+            "combined_classification": {
+              "url": "",
+              "menu_position": 2
+            }
+          },
+          "id": "91530ad7-5849-4caa-86be-60236b236551",
+          "type": "RAC",
+          "category": {
+            "id": "954f7e65-2ef2-4423-b949-4961cc603e45",
+            "legacy_id": 1,
+            "name": "Moto3™"
+          },
+          "event": {
+            "id": "14bd179e-a4bc-4b0d-bd2e-69a9ed99cb60",
+            "name": "GRAND PRIX OF JAPAN",
+            "sponsored_name": "Motul Grand Prix of Japan",
+            "short_name": "JPN",
+            "test": false,
+            "season": "2023",
+            "circuit": {
+              "id": "213eb1ff-9ae5-4aec-862f-44a10637f36d",
+              "name": "Mobility Resort Motegi",
+              "legacy_id": 76,
+              "place": "Motegi",
+              "nation": "JPN",
+              "events_id": null
+            },
+            "country": {
+              "iso": "JP",
+              "name": "Japan",
+              "region_iso": ""
+            }
+          },
+          "status": "FINISHED"
+        },
+        "classification_url": "https://api.motogp.pulselive.com/motogp/v1/results/session/91530ad7-5849-4caa-86be-60236b236551/classification?seasonYear=2023&test=false",
+        "session_url": "https://api.motogp.pulselive.com/motogp/v1/results/sessions?eventUuid=14bd179e-a4bc-4b0d-bd2e-69a9ed99cb60&categoryUuid=954f7e65-2ef2-4423-b949-4961cc603e45",
+        "classification_file": "91530ad7-5849-4caa-86be-60236b236551.json",
+        "rows": 27
+      }
+    ]
+  },
+  {
+    "year": 2023,
+    "event_id": "14bd179e-a4bc-4b0d-bd2e-69a9ed99cb60",
+    "class_name": "MotoGP",
+    "session_url": "https://api.motogp.pulselive.com/motogp/v1/results/sessions?eventUuid=14bd179e-a4bc-4b0d-bd2e-69a9ed99cb60&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "session_count": 8,
+    "races": [
+      {
+        "event": {
+          "country": {
+            "iso": "JP",
+            "name": "Japan",
+            "region_iso": ""
+          },
+          "event_files": {
+            "circuit_information": {
+              "url": "https://resources.motogp.com/files/results/2023/JPN/CircuitInformation.pdf",
+              "menu_position": 1
+            },
+            "podiums": {
+              "url": "https://resources.motogp.com/files/results/2023/JPN/Podiums.pdf",
+              "menu_position": 2
+            },
+            "pole_positions": {
+              "url": "https://resources.motogp.com/files/results/2023/JPN/PolePositions.pdf",
+              "menu_position": 2
+            },
+            "nations_statistics": {
+              "url": "https://resources.motogp.com/files/results/2023/JPN/table2.pdf",
+              "menu_position": 2
+            },
+            "riders_all_time": {
+              "url": "https://resources.motogp.com/files/results/2023/JPN/table4.pdf",
+              "menu_position": 2
+            }
+          },
+          "circuit": {
+            "id": "213eb1ff-9ae5-4aec-862f-44a10637f36d",
+            "name": "Mobility Resort Motegi",
+            "legacy_id": 76,
+            "place": "Motegi",
+            "nation": "JPN",
+            "events_id": null
+          },
+          "test": false,
+          "sponsored_name": "Motul Grand Prix of Japan",
+          "date_end": "2023-10-01",
+          "toad_api_uuid": "035904db-81fa-4232-a671-365ea236880b",
+          "date_start": "2023-09-29",
+          "additional_name": "GRAND PRIX OF JAPAN",
+          "name": "GRAND PRIX OF JAPAN",
+          "legacy_id": [
+            {
+              "categoryId": 3,
+              "eventId": 14
+            },
+            {
+              "categoryId": 2,
+              "eventId": 14
+            },
+            {
+              "categoryId": 1,
+              "eventId": 14
+            }
+          ],
+          "season": {
+            "id": "db8dc197-c7b2-4c1b-b3a4-6dc534c023ef",
+            "year": 2023,
+            "current": false
+          },
+          "short_name": "JPN",
+          "id": "14bd179e-a4bc-4b0d-bd2e-69a9ed99cb60",
+          "status": "FINISHED",
+          "audit_year": 2023
+        },
+        "category": {
+          "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+          "name": "MotoGP™",
+          "legacy_id": 3
+        },
+        "session": {
+          "date": "2023-09-30T15:00:00+00:00",
+          "number": null,
+          "condition": {
+            "track": "Dry",
+            "air": "25º",
+            "humidity": "71%",
+            "ground": "34º",
+            "weather": "Cloudy"
+          },
+          "circuit": "Mobility Resort Motegi",
+          "session_files": {
+            "classification": {
+              "url": "https://resources.motogp.com/files/results/2023/JPN/MotoGP/SPR/Classification.pdf",
+              "menu_position": 1
+            },
+            "analysis": {
+              "url": "https://resources.motogp.com/files/results/2023/JPN/MotoGP/SPR/Analysis.pdf",
+              "menu_position": 2
+            },
+            "average_speed": {
+              "url": "https://resources.motogp.com/files/results/2023/JPN/MotoGP/SPR/AverageSpeed.pdf",
+              "menu_position": 2
+            },
+            "fast_lap_sequence": {
+              "url": "https://resources.motogp.com/files/results/2023/JPN/MotoGP/SPR/FastLapSequence.pdf",
+              "menu_position": 2
+            },
+            "lap_chart": {
+              "url": "https://resources.motogp.com/files/results/2023/JPN/MotoGP/SPR/LapChart.pdf",
+              "menu_position": 2
+            },
+            "analysis_by_lap": {
+              "url": "https://resources.motogp.com/files/results/2023/JPN/MotoGP/SPR/analysisbylap.pdf",
+              "menu_position": 2
+            },
+            "fast_lap_rider": {
+              "url": "https://resources.motogp.com/files/results/2023/JPN/MotoGP/SPR/FastLapRider.pdf",
+              "menu_position": 2
+            },
+            "grid": {
+              "url": "https://resources.motogp.com/files/results/2023/JPN/MotoGP/SPR/Grid.pdf",
+              "menu_position": 2
+            },
+            "session": {
+              "url": "https://resources.motogp.com/files/results/2023/JPN/MotoGP/SPR/Session.pdf",
+              "menu_position": 2
+            },
+            "world_standing": {
+              "url": "https://resources.motogp.com/files/results/2023/JPN/MotoGP/SPR/worldstanding.pdf",
+              "menu_position": 2
+            },
+            "best_partial_time": {
+              "url": "",
+              "menu_position": 2
+            },
+            "maximum_speed": {
+              "url": "",
+              "menu_position": 2
+            },
+            "combined_practice": {
+              "url": "",
+              "menu_position": 2
+            },
+            "combined_classification": {
+              "url": "",
+              "menu_position": 2
+            }
+          },
+          "id": "866f7d60-bd92-4b70-b883-5cbafc6bd182",
+          "type": "SPR",
+          "category": {
+            "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+            "legacy_id": 3,
+            "name": "MotoGP™"
+          },
+          "event": {
+            "id": "14bd179e-a4bc-4b0d-bd2e-69a9ed99cb60",
+            "name": "GRAND PRIX OF JAPAN",
+            "sponsored_name": "Motul Grand Prix of Japan",
+            "short_name": "JPN",
+            "test": false,
+            "season": "2023",
+            "circuit": {
+              "id": "213eb1ff-9ae5-4aec-862f-44a10637f36d",
+              "name": "Mobility Resort Motegi",
+              "legacy_id": 76,
+              "place": "Motegi",
+              "nation": "JPN",
+              "events_id": null
+            },
+            "country": {
+              "iso": "JP",
+              "name": "Japan",
+              "region_iso": ""
+            }
+          },
+          "status": "FINISHED"
+        },
+        "classification_url": "https://api.motogp.pulselive.com/motogp/v1/results/session/866f7d60-bd92-4b70-b883-5cbafc6bd182/classification?seasonYear=2023&test=false",
+        "session_url": "https://api.motogp.pulselive.com/motogp/v1/results/sessions?eventUuid=14bd179e-a4bc-4b0d-bd2e-69a9ed99cb60&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+        "classification_file": "866f7d60-bd92-4b70-b883-5cbafc6bd182.json",
+        "rows": 21
+      },
+      {
+        "event": {
+          "country": {
+            "iso": "JP",
+            "name": "Japan",
+            "region_iso": ""
+          },
+          "event_files": {
+            "circuit_information": {
+              "url": "https://resources.motogp.com/files/results/2023/JPN/CircuitInformation.pdf",
+              "menu_position": 1
+            },
+            "podiums": {
+              "url": "https://resources.motogp.com/files/results/2023/JPN/Podiums.pdf",
+              "menu_position": 2
+            },
+            "pole_positions": {
+              "url": "https://resources.motogp.com/files/results/2023/JPN/PolePositions.pdf",
+              "menu_position": 2
+            },
+            "nations_statistics": {
+              "url": "https://resources.motogp.com/files/results/2023/JPN/table2.pdf",
+              "menu_position": 2
+            },
+            "riders_all_time": {
+              "url": "https://resources.motogp.com/files/results/2023/JPN/table4.pdf",
+              "menu_position": 2
+            }
+          },
+          "circuit": {
+            "id": "213eb1ff-9ae5-4aec-862f-44a10637f36d",
+            "name": "Mobility Resort Motegi",
+            "legacy_id": 76,
+            "place": "Motegi",
+            "nation": "JPN",
+            "events_id": null
+          },
+          "test": false,
+          "sponsored_name": "Motul Grand Prix of Japan",
+          "date_end": "2023-10-01",
+          "toad_api_uuid": "035904db-81fa-4232-a671-365ea236880b",
+          "date_start": "2023-09-29",
+          "additional_name": "GRAND PRIX OF JAPAN",
+          "name": "GRAND PRIX OF JAPAN",
+          "legacy_id": [
+            {
+              "categoryId": 3,
+              "eventId": 14
+            },
+            {
+              "categoryId": 2,
+              "eventId": 14
+            },
+            {
+              "categoryId": 1,
+              "eventId": 14
+            }
+          ],
+          "season": {
+            "id": "db8dc197-c7b2-4c1b-b3a4-6dc534c023ef",
+            "year": 2023,
+            "current": false
+          },
+          "short_name": "JPN",
+          "id": "14bd179e-a4bc-4b0d-bd2e-69a9ed99cb60",
+          "status": "FINISHED",
+          "audit_year": 2023
+        },
+        "category": {
+          "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+          "name": "MotoGP™",
+          "legacy_id": 3
+        },
+        "session": {
+          "date": "2023-10-01T15:00:00+00:00",
+          "number": null,
+          "condition": {
+            "track": "Dry",
+            "air": "24º",
+            "humidity": "78%",
+            "ground": "26º",
+            "weather": "Heavy-Rain"
+          },
+          "circuit": "Mobility Resort Motegi",
+          "session_files": {
+            "classification": {
+              "url": "https://resources.motogp.com/files/results/2023/JPN/MotoGP/RAC/Classification.pdf",
+              "menu_position": 1
+            },
+            "analysis": {
+              "url": "https://resources.motogp.com/files/results/2023/JPN/MotoGP/RAC/Analysis.pdf",
+              "menu_position": 2
+            },
+            "average_speed": {
+              "url": "https://resources.motogp.com/files/results/2023/JPN/MotoGP/RAC/AverageSpeed.pdf",
+              "menu_position": 2
+            },
+            "fast_lap_sequence": {
+              "url": "https://resources.motogp.com/files/results/2023/JPN/MotoGP/RAC/FastLapSequence.pdf",
+              "menu_position": 2
+            },
+            "lap_chart": {
+              "url": "https://resources.motogp.com/files/results/2023/JPN/MotoGP/RAC/LapChart.pdf",
+              "menu_position": 2
+            },
+            "analysis_by_lap": {
+              "url": "https://resources.motogp.com/files/results/2023/JPN/MotoGP/RAC/analysisbylap.pdf",
+              "menu_position": 2
+            },
+            "fast_lap_rider": {
+              "url": "https://resources.motogp.com/files/results/2023/JPN/MotoGP/RAC/FastLapRider.pdf",
+              "menu_position": 2
+            },
+            "grid": {
+              "url": "https://resources.motogp.com/files/results/2023/JPN/MotoGP/RAC/Grid.pdf",
+              "menu_position": 2
+            },
+            "session": {
+              "url": "https://resources.motogp.com/files/results/2023/JPN/MotoGP/RAC/Session.pdf",
+              "menu_position": 2
+            },
+            "world_standing": {
+              "url": "https://resources.motogp.com/files/results/2023/JPN/MotoGP/RAC/worldstanding.pdf",
+              "menu_position": 2
+            },
+            "best_partial_time": {
+              "url": "",
+              "menu_position": 2
+            },
+            "maximum_speed": {
+              "url": "",
+              "menu_position": 2
+            },
+            "combined_practice": {
+              "url": "",
+              "menu_position": 2
+            },
+            "combined_classification": {
+              "url": "",
+              "menu_position": 2
+            }
+          },
+          "id": "36716b76-b766-4002-9eb9-823844c45486",
+          "type": "RAC",
+          "category": {
+            "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+            "legacy_id": 3,
+            "name": "MotoGP™"
+          },
+          "event": {
+            "id": "14bd179e-a4bc-4b0d-bd2e-69a9ed99cb60",
+            "name": "GRAND PRIX OF JAPAN",
+            "sponsored_name": "Motul Grand Prix of Japan",
+            "short_name": "JPN",
+            "test": false,
+            "season": "2023",
+            "circuit": {
+              "id": "213eb1ff-9ae5-4aec-862f-44a10637f36d",
+              "name": "Mobility Resort Motegi",
+              "legacy_id": 76,
+              "place": "Motegi",
+              "nation": "JPN",
+              "events_id": null
+            },
+            "country": {
+              "iso": "JP",
+              "name": "Japan",
+              "region_iso": ""
+            }
+          },
+          "status": "FINISHED"
+        },
+        "classification_url": "https://api.motogp.pulselive.com/motogp/v1/results/session/36716b76-b766-4002-9eb9-823844c45486/classification?seasonYear=2023&test=false",
+        "session_url": "https://api.motogp.pulselive.com/motogp/v1/results/sessions?eventUuid=14bd179e-a4bc-4b0d-bd2e-69a9ed99cb60&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+        "classification_file": "36716b76-b766-4002-9eb9-823844c45486.json",
+        "rows": 21
+      }
+    ]
+  },
+  {
+    "year": 2025,
+    "event_id": "b84b9bd0-3ef3-4367-90cb-2840350673ca",
+    "class_name": "Moto2",
+    "session_url": "https://api.motogp.pulselive.com/motogp/v1/results/sessions?eventUuid=b84b9bd0-3ef3-4367-90cb-2840350673ca&categoryUuid=549640b8-fd9c-4245-acfd-60e4bc38b25c",
+    "session_count": 6,
+    "races": [
+      {
+        "event": {
+          "country": {
+            "iso": "TH",
+            "name": "Thailand",
+            "region_iso": ""
+          },
+          "event_files": {
+            "circuit_information": {
+              "url": "https://resources.motogp.com/files/results/2025/THA/CircuitInformation.pdf",
+              "menu_position": 1
+            },
+            "podiums": {
+              "url": "https://resources.motogp.com/files/results/2025/THA/Podiums.pdf",
+              "menu_position": 2
+            },
+            "pole_positions": {
+              "url": "https://resources.motogp.com/files/results/2025/THA/PolePositions.pdf",
+              "menu_position": 2
+            },
+            "nations_statistics": {
+              "url": "https://resources.motogp.com/files/results/2025/THA/table2.pdf",
+              "menu_position": 2
+            },
+            "riders_all_time": {
+              "url": "https://resources.motogp.com/files/results/2025/THA/table4.pdf",
+              "menu_position": 2
+            }
+          },
+          "circuit": {
+            "id": "a8bd93f8-8e7e-4669-ae1c-1f3f5156b4e7",
+            "name": "Chang International Circuit",
+            "legacy_id": 106,
+            "place": "Buriram",
+            "nation": "THA",
+            "events_id": null
+          },
+          "test": false,
+          "sponsored_name": "PT Grand Prix of Thailand",
+          "date_end": "2025-03-02",
+          "toad_api_uuid": "3361d50e-1ba0-4d71-83a6-99f6b49daafa",
+          "date_start": "2025-02-28",
+          "additional_name": "THAILAND",
+          "name": "GRAND PRIX OF THAILAND",
+          "legacy_id": [
+            {
+              "categoryId": 3,
+              "eventId": 1
+            },
+            {
+              "categoryId": 2,
+              "eventId": 1
+            },
+            {
+              "categoryId": 1,
+              "eventId": 1
+            }
+          ],
+          "season": {
+            "id": "ae6c6f0d-c652-44f8-94aa-420fc5b3dab4",
+            "year": 2025,
+            "current": false
+          },
+          "short_name": "THA",
+          "id": "b84b9bd0-3ef3-4367-90cb-2840350673ca",
+          "status": "FINISHED",
+          "audit_year": 2025
+        },
+        "category": {
+          "id": "549640b8-fd9c-4245-acfd-60e4bc38b25c",
+          "name": "Moto2™",
+          "legacy_id": 2
+        },
+        "session": {
+          "date": "2025-03-02T13:15:00+00:00",
+          "number": null,
+          "condition": {
+            "track": "Dry",
+            "air": "36º",
+            "humidity": "41%",
+            "ground": "57º",
+            "weather": "Clear"
+          },
+          "circuit": "Chang International Circuit",
+          "session_files": {
+            "classification": {
+              "url": "https://resources.motogp.com/files/results/2025/THA/Moto2/RAC/Classification.pdf",
+              "menu_position": 1
+            },
+            "analysis": {
+              "url": "https://resources.motogp.com/files/results/2025/THA/Moto2/RAC/Analysis.pdf",
+              "menu_position": 2
+            },
+            "average_speed": {
+              "url": "https://resources.motogp.com/files/results/2025/THA/Moto2/RAC/AverageSpeed.pdf",
+              "menu_position": 2
+            },
+            "fast_lap_sequence": {
+              "url": "https://resources.motogp.com/files/results/2025/THA/Moto2/RAC/FastLapSequence.pdf",
+              "menu_position": 2
+            },
+            "lap_chart": {
+              "url": "https://resources.motogp.com/files/results/2025/THA/Moto2/RAC/LapChart.pdf",
+              "menu_position": 2
+            },
+            "analysis_by_lap": {
+              "url": "https://resources.motogp.com/files/results/2025/THA/Moto2/RAC/analysisbylap.pdf",
+              "menu_position": 2
+            },
+            "fast_lap_rider": {
+              "url": "https://resources.motogp.com/files/results/2025/THA/Moto2/RAC/FastLapRider.pdf",
+              "menu_position": 2
+            },
+            "grid": {
+              "url": "https://resources.motogp.com/files/results/2025/THA/Moto2/RAC/Grid.pdf",
+              "menu_position": 2
+            },
+            "session": {
+              "url": "https://resources.motogp.com/files/results/2025/THA/Moto2/RAC/Session.pdf",
+              "menu_position": 2
+            },
+            "world_standing": {
+              "url": "https://resources.motogp.com/files/results/2025/THA/Moto2/RAC/worldstanding.pdf",
+              "menu_position": 2
+            },
+            "best_partial_time": {
+              "url": "",
+              "menu_position": 2
+            },
+            "maximum_speed": {
+              "url": "",
+              "menu_position": 2
+            },
+            "combined_practice": {
+              "url": "",
+              "menu_position": 2
+            },
+            "combined_classification": {
+              "url": "",
+              "menu_position": 2
+            }
+          },
+          "id": "4a916b78-c790-4590-bf14-7d4e350e2a20",
+          "type": "RAC",
+          "category": {
+            "id": "549640b8-fd9c-4245-acfd-60e4bc38b25c",
+            "legacy_id": 2,
+            "name": "Moto2™"
+          },
+          "event": {
+            "id": "b84b9bd0-3ef3-4367-90cb-2840350673ca",
+            "name": "GRAND PRIX OF THAILAND",
+            "sponsored_name": "PT Grand Prix of Thailand",
+            "short_name": "THA",
+            "test": false,
+            "season": "2025",
+            "circuit": {
+              "id": "a8bd93f8-8e7e-4669-ae1c-1f3f5156b4e7",
+              "name": "Chang International Circuit",
+              "legacy_id": 106,
+              "place": "Buriram",
+              "nation": "THA",
+              "events_id": null
+            },
+            "country": {
+              "iso": "TH",
+              "name": "Thailand",
+              "region_iso": ""
+            }
+          },
+          "status": "FINISHED"
+        },
+        "classification_url": "https://api.motogp.pulselive.com/motogp/v1/results/session/4a916b78-c790-4590-bf14-7d4e350e2a20/classification?seasonYear=2025&test=false",
+        "session_url": "https://api.motogp.pulselive.com/motogp/v1/results/sessions?eventUuid=b84b9bd0-3ef3-4367-90cb-2840350673ca&categoryUuid=549640b8-fd9c-4245-acfd-60e4bc38b25c",
+        "classification_file": "4a916b78-c790-4590-bf14-7d4e350e2a20.json",
+        "rows": 28
+      }
+    ]
+  },
+  {
+    "year": 2025,
+    "event_id": "b84b9bd0-3ef3-4367-90cb-2840350673ca",
+    "class_name": "Moto3",
+    "session_url": "https://api.motogp.pulselive.com/motogp/v1/results/sessions?eventUuid=b84b9bd0-3ef3-4367-90cb-2840350673ca&categoryUuid=954f7e65-2ef2-4423-b949-4961cc603e45",
+    "session_count": 6,
+    "races": [
+      {
+        "event": {
+          "country": {
+            "iso": "TH",
+            "name": "Thailand",
+            "region_iso": ""
+          },
+          "event_files": {
+            "circuit_information": {
+              "url": "https://resources.motogp.com/files/results/2025/THA/CircuitInformation.pdf",
+              "menu_position": 1
+            },
+            "podiums": {
+              "url": "https://resources.motogp.com/files/results/2025/THA/Podiums.pdf",
+              "menu_position": 2
+            },
+            "pole_positions": {
+              "url": "https://resources.motogp.com/files/results/2025/THA/PolePositions.pdf",
+              "menu_position": 2
+            },
+            "nations_statistics": {
+              "url": "https://resources.motogp.com/files/results/2025/THA/table2.pdf",
+              "menu_position": 2
+            },
+            "riders_all_time": {
+              "url": "https://resources.motogp.com/files/results/2025/THA/table4.pdf",
+              "menu_position": 2
+            }
+          },
+          "circuit": {
+            "id": "a8bd93f8-8e7e-4669-ae1c-1f3f5156b4e7",
+            "name": "Chang International Circuit",
+            "legacy_id": 106,
+            "place": "Buriram",
+            "nation": "THA",
+            "events_id": null
+          },
+          "test": false,
+          "sponsored_name": "PT Grand Prix of Thailand",
+          "date_end": "2025-03-02",
+          "toad_api_uuid": "3361d50e-1ba0-4d71-83a6-99f6b49daafa",
+          "date_start": "2025-02-28",
+          "additional_name": "THAILAND",
+          "name": "GRAND PRIX OF THAILAND",
+          "legacy_id": [
+            {
+              "categoryId": 3,
+              "eventId": 1
+            },
+            {
+              "categoryId": 2,
+              "eventId": 1
+            },
+            {
+              "categoryId": 1,
+              "eventId": 1
+            }
+          ],
+          "season": {
+            "id": "ae6c6f0d-c652-44f8-94aa-420fc5b3dab4",
+            "year": 2025,
+            "current": false
+          },
+          "short_name": "THA",
+          "id": "b84b9bd0-3ef3-4367-90cb-2840350673ca",
+          "status": "FINISHED",
+          "audit_year": 2025
+        },
+        "category": {
+          "id": "954f7e65-2ef2-4423-b949-4961cc603e45",
+          "name": "Moto3™",
+          "legacy_id": 1
+        },
+        "session": {
+          "date": "2025-03-02T12:00:00+00:00",
+          "number": null,
+          "condition": {
+            "track": "Dry",
+            "air": "37º",
+            "humidity": "41%",
+            "ground": "56º",
+            "weather": "Clear"
+          },
+          "circuit": "Chang International Circuit",
+          "session_files": {
+            "classification": {
+              "url": "https://resources.motogp.com/files/results/2025/THA/Moto3/RAC/Classification.pdf",
+              "menu_position": 1
+            },
+            "analysis": {
+              "url": "https://resources.motogp.com/files/results/2025/THA/Moto3/RAC/Analysis.pdf",
+              "menu_position": 2
+            },
+            "average_speed": {
+              "url": "https://resources.motogp.com/files/results/2025/THA/Moto3/RAC/AverageSpeed.pdf",
+              "menu_position": 2
+            },
+            "fast_lap_sequence": {
+              "url": "https://resources.motogp.com/files/results/2025/THA/Moto3/RAC/FastLapSequence.pdf",
+              "menu_position": 2
+            },
+            "lap_chart": {
+              "url": "https://resources.motogp.com/files/results/2025/THA/Moto3/RAC/LapChart.pdf",
+              "menu_position": 2
+            },
+            "analysis_by_lap": {
+              "url": "https://resources.motogp.com/files/results/2025/THA/Moto3/RAC/analysisbylap.pdf",
+              "menu_position": 2
+            },
+            "fast_lap_rider": {
+              "url": "https://resources.motogp.com/files/results/2025/THA/Moto3/RAC/FastLapRider.pdf",
+              "menu_position": 2
+            },
+            "grid": {
+              "url": "https://resources.motogp.com/files/results/2025/THA/Moto3/RAC/Grid.pdf",
+              "menu_position": 2
+            },
+            "session": {
+              "url": "https://resources.motogp.com/files/results/2025/THA/Moto3/RAC/Session.pdf",
+              "menu_position": 2
+            },
+            "world_standing": {
+              "url": "https://resources.motogp.com/files/results/2025/THA/Moto3/RAC/worldstanding.pdf",
+              "menu_position": 2
+            },
+            "best_partial_time": {
+              "url": "",
+              "menu_position": 2
+            },
+            "maximum_speed": {
+              "url": "",
+              "menu_position": 2
+            },
+            "combined_practice": {
+              "url": "",
+              "menu_position": 2
+            },
+            "combined_classification": {
+              "url": "",
+              "menu_position": 2
+            }
+          },
+          "id": "e944476f-eb07-47c0-9955-5b7ba8217a96",
+          "type": "RAC",
+          "category": {
+            "id": "954f7e65-2ef2-4423-b949-4961cc603e45",
+            "legacy_id": 1,
+            "name": "Moto3™"
+          },
+          "event": {
+            "id": "b84b9bd0-3ef3-4367-90cb-2840350673ca",
+            "name": "GRAND PRIX OF THAILAND",
+            "sponsored_name": "PT Grand Prix of Thailand",
+            "short_name": "THA",
+            "test": false,
+            "season": "2025",
+            "circuit": {
+              "id": "a8bd93f8-8e7e-4669-ae1c-1f3f5156b4e7",
+              "name": "Chang International Circuit",
+              "legacy_id": 106,
+              "place": "Buriram",
+              "nation": "THA",
+              "events_id": null
+            },
+            "country": {
+              "iso": "TH",
+              "name": "Thailand",
+              "region_iso": ""
+            }
+          },
+          "status": "FINISHED"
+        },
+        "classification_url": "https://api.motogp.pulselive.com/motogp/v1/results/session/e944476f-eb07-47c0-9955-5b7ba8217a96/classification?seasonYear=2025&test=false",
+        "session_url": "https://api.motogp.pulselive.com/motogp/v1/results/sessions?eventUuid=b84b9bd0-3ef3-4367-90cb-2840350673ca&categoryUuid=954f7e65-2ef2-4423-b949-4961cc603e45",
+        "classification_file": "e944476f-eb07-47c0-9955-5b7ba8217a96.json",
+        "rows": 26
+      }
+    ]
+  },
+  {
+    "year": 2025,
+    "event_id": "b84b9bd0-3ef3-4367-90cb-2840350673ca",
+    "class_name": "MotoGP",
+    "session_url": "https://api.motogp.pulselive.com/motogp/v1/results/sessions?eventUuid=b84b9bd0-3ef3-4367-90cb-2840350673ca&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "session_count": 8,
+    "races": [
+      {
+        "event": {
+          "country": {
+            "iso": "TH",
+            "name": "Thailand",
+            "region_iso": ""
+          },
+          "event_files": {
+            "circuit_information": {
+              "url": "https://resources.motogp.com/files/results/2025/THA/CircuitInformation.pdf",
+              "menu_position": 1
+            },
+            "podiums": {
+              "url": "https://resources.motogp.com/files/results/2025/THA/Podiums.pdf",
+              "menu_position": 2
+            },
+            "pole_positions": {
+              "url": "https://resources.motogp.com/files/results/2025/THA/PolePositions.pdf",
+              "menu_position": 2
+            },
+            "nations_statistics": {
+              "url": "https://resources.motogp.com/files/results/2025/THA/table2.pdf",
+              "menu_position": 2
+            },
+            "riders_all_time": {
+              "url": "https://resources.motogp.com/files/results/2025/THA/table4.pdf",
+              "menu_position": 2
+            }
+          },
+          "circuit": {
+            "id": "a8bd93f8-8e7e-4669-ae1c-1f3f5156b4e7",
+            "name": "Chang International Circuit",
+            "legacy_id": 106,
+            "place": "Buriram",
+            "nation": "THA",
+            "events_id": null
+          },
+          "test": false,
+          "sponsored_name": "PT Grand Prix of Thailand",
+          "date_end": "2025-03-02",
+          "toad_api_uuid": "3361d50e-1ba0-4d71-83a6-99f6b49daafa",
+          "date_start": "2025-02-28",
+          "additional_name": "THAILAND",
+          "name": "GRAND PRIX OF THAILAND",
+          "legacy_id": [
+            {
+              "categoryId": 3,
+              "eventId": 1
+            },
+            {
+              "categoryId": 2,
+              "eventId": 1
+            },
+            {
+              "categoryId": 1,
+              "eventId": 1
+            }
+          ],
+          "season": {
+            "id": "ae6c6f0d-c652-44f8-94aa-420fc5b3dab4",
+            "year": 2025,
+            "current": false
+          },
+          "short_name": "THA",
+          "id": "b84b9bd0-3ef3-4367-90cb-2840350673ca",
+          "status": "FINISHED",
+          "audit_year": 2025
+        },
+        "category": {
+          "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+          "name": "MotoGP™",
+          "legacy_id": 3
+        },
+        "session": {
+          "date": "2025-03-01T15:00:00+00:00",
+          "number": null,
+          "condition": {
+            "track": "Dry",
+            "air": "37º",
+            "humidity": "33%",
+            "ground": "57º",
+            "weather": "Clear"
+          },
+          "circuit": "Chang International Circuit",
+          "session_files": {
+            "classification": {
+              "url": "https://resources.motogp.com/files/results/2025/THA/MotoGP/SPR/Classification.pdf",
+              "menu_position": 1
+            },
+            "analysis": {
+              "url": "https://resources.motogp.com/files/results/2025/THA/MotoGP/SPR/Analysis.pdf",
+              "menu_position": 2
+            },
+            "average_speed": {
+              "url": "https://resources.motogp.com/files/results/2025/THA/MotoGP/SPR/AverageSpeed.pdf",
+              "menu_position": 2
+            },
+            "fast_lap_sequence": {
+              "url": "https://resources.motogp.com/files/results/2025/THA/MotoGP/SPR/FastLapSequence.pdf",
+              "menu_position": 2
+            },
+            "lap_chart": {
+              "url": "https://resources.motogp.com/files/results/2025/THA/MotoGP/SPR/LapChart.pdf",
+              "menu_position": 2
+            },
+            "analysis_by_lap": {
+              "url": "https://resources.motogp.com/files/results/2025/THA/MotoGP/SPR/analysisbylap.pdf",
+              "menu_position": 2
+            },
+            "fast_lap_rider": {
+              "url": "https://resources.motogp.com/files/results/2025/THA/MotoGP/SPR/FastLapRider.pdf",
+              "menu_position": 2
+            },
+            "grid": {
+              "url": "https://resources.motogp.com/files/results/2025/THA/MotoGP/SPR/Grid.pdf",
+              "menu_position": 2
+            },
+            "session": {
+              "url": "https://resources.motogp.com/files/results/2025/THA/MotoGP/SPR/Session.pdf",
+              "menu_position": 2
+            },
+            "world_standing": {
+              "url": "https://resources.motogp.com/files/results/2025/THA/MotoGP/SPR/worldstanding.pdf",
+              "menu_position": 2
+            },
+            "best_partial_time": {
+              "url": "",
+              "menu_position": 2
+            },
+            "maximum_speed": {
+              "url": "",
+              "menu_position": 2
+            },
+            "combined_practice": {
+              "url": "",
+              "menu_position": 2
+            },
+            "combined_classification": {
+              "url": "",
+              "menu_position": 2
+            }
+          },
+          "id": "c3527211-a966-40df-ba52-9413fdb1d1cc",
+          "type": "SPR",
+          "category": {
+            "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+            "legacy_id": 3,
+            "name": "MotoGP™"
+          },
+          "event": {
+            "id": "b84b9bd0-3ef3-4367-90cb-2840350673ca",
+            "name": "GRAND PRIX OF THAILAND",
+            "sponsored_name": "PT Grand Prix of Thailand",
+            "short_name": "THA",
+            "test": false,
+            "season": "2025",
+            "circuit": {
+              "id": "a8bd93f8-8e7e-4669-ae1c-1f3f5156b4e7",
+              "name": "Chang International Circuit",
+              "legacy_id": 106,
+              "place": "Buriram",
+              "nation": "THA",
+              "events_id": null
+            },
+            "country": {
+              "iso": "TH",
+              "name": "Thailand",
+              "region_iso": ""
+            }
+          },
+          "status": "FINISHED"
+        },
+        "classification_url": "https://api.motogp.pulselive.com/motogp/v1/results/session/c3527211-a966-40df-ba52-9413fdb1d1cc/classification?seasonYear=2025&test=false",
+        "session_url": "https://api.motogp.pulselive.com/motogp/v1/results/sessions?eventUuid=b84b9bd0-3ef3-4367-90cb-2840350673ca&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+        "classification_file": "c3527211-a966-40df-ba52-9413fdb1d1cc.json",
+        "rows": 22
+      },
+      {
+        "event": {
+          "country": {
+            "iso": "TH",
+            "name": "Thailand",
+            "region_iso": ""
+          },
+          "event_files": {
+            "circuit_information": {
+              "url": "https://resources.motogp.com/files/results/2025/THA/CircuitInformation.pdf",
+              "menu_position": 1
+            },
+            "podiums": {
+              "url": "https://resources.motogp.com/files/results/2025/THA/Podiums.pdf",
+              "menu_position": 2
+            },
+            "pole_positions": {
+              "url": "https://resources.motogp.com/files/results/2025/THA/PolePositions.pdf",
+              "menu_position": 2
+            },
+            "nations_statistics": {
+              "url": "https://resources.motogp.com/files/results/2025/THA/table2.pdf",
+              "menu_position": 2
+            },
+            "riders_all_time": {
+              "url": "https://resources.motogp.com/files/results/2025/THA/table4.pdf",
+              "menu_position": 2
+            }
+          },
+          "circuit": {
+            "id": "a8bd93f8-8e7e-4669-ae1c-1f3f5156b4e7",
+            "name": "Chang International Circuit",
+            "legacy_id": 106,
+            "place": "Buriram",
+            "nation": "THA",
+            "events_id": null
+          },
+          "test": false,
+          "sponsored_name": "PT Grand Prix of Thailand",
+          "date_end": "2025-03-02",
+          "toad_api_uuid": "3361d50e-1ba0-4d71-83a6-99f6b49daafa",
+          "date_start": "2025-02-28",
+          "additional_name": "THAILAND",
+          "name": "GRAND PRIX OF THAILAND",
+          "legacy_id": [
+            {
+              "categoryId": 3,
+              "eventId": 1
+            },
+            {
+              "categoryId": 2,
+              "eventId": 1
+            },
+            {
+              "categoryId": 1,
+              "eventId": 1
+            }
+          ],
+          "season": {
+            "id": "ae6c6f0d-c652-44f8-94aa-420fc5b3dab4",
+            "year": 2025,
+            "current": false
+          },
+          "short_name": "THA",
+          "id": "b84b9bd0-3ef3-4367-90cb-2840350673ca",
+          "status": "FINISHED",
+          "audit_year": 2025
+        },
+        "category": {
+          "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+          "name": "MotoGP™",
+          "legacy_id": 3
+        },
+        "session": {
+          "date": "2025-03-02T15:00:00+00:00",
+          "number": null,
+          "condition": {
+            "track": "Dry",
+            "air": "36º",
+            "humidity": "41%",
+            "ground": "50º",
+            "weather": "Partly-Cloudy"
+          },
+          "circuit": "Chang International Circuit",
+          "session_files": {
+            "classification": {
+              "url": "https://resources.motogp.com/files/results/2025/THA/MotoGP/RAC/Classification.pdf",
+              "menu_position": 1
+            },
+            "analysis": {
+              "url": "https://resources.motogp.com/files/results/2025/THA/MotoGP/RAC/Analysis.pdf",
+              "menu_position": 2
+            },
+            "average_speed": {
+              "url": "https://resources.motogp.com/files/results/2025/THA/MotoGP/RAC/AverageSpeed.pdf",
+              "menu_position": 2
+            },
+            "fast_lap_sequence": {
+              "url": "https://resources.motogp.com/files/results/2025/THA/MotoGP/RAC/FastLapSequence.pdf",
+              "menu_position": 2
+            },
+            "lap_chart": {
+              "url": "https://resources.motogp.com/files/results/2025/THA/MotoGP/RAC/LapChart.pdf",
+              "menu_position": 2
+            },
+            "analysis_by_lap": {
+              "url": "https://resources.motogp.com/files/results/2025/THA/MotoGP/RAC/analysisbylap.pdf",
+              "menu_position": 2
+            },
+            "fast_lap_rider": {
+              "url": "https://resources.motogp.com/files/results/2025/THA/MotoGP/RAC/FastLapRider.pdf",
+              "menu_position": 2
+            },
+            "grid": {
+              "url": "https://resources.motogp.com/files/results/2025/THA/MotoGP/RAC/Grid.pdf",
+              "menu_position": 2
+            },
+            "session": {
+              "url": "https://resources.motogp.com/files/results/2025/THA/MotoGP/RAC/Session.pdf",
+              "menu_position": 2
+            },
+            "world_standing": {
+              "url": "https://resources.motogp.com/files/results/2025/THA/MotoGP/RAC/worldstanding.pdf",
+              "menu_position": 2
+            },
+            "best_partial_time": {
+              "url": "",
+              "menu_position": 2
+            },
+            "maximum_speed": {
+              "url": "",
+              "menu_position": 2
+            },
+            "combined_practice": {
+              "url": "",
+              "menu_position": 2
+            },
+            "combined_classification": {
+              "url": "",
+              "menu_position": 2
+            }
+          },
+          "id": "8a982e72-625e-440f-aad8-5bd8801944ad",
+          "type": "RAC",
+          "category": {
+            "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+            "legacy_id": 3,
+            "name": "MotoGP™"
+          },
+          "event": {
+            "id": "b84b9bd0-3ef3-4367-90cb-2840350673ca",
+            "name": "GRAND PRIX OF THAILAND",
+            "sponsored_name": "PT Grand Prix of Thailand",
+            "short_name": "THA",
+            "test": false,
+            "season": "2025",
+            "circuit": {
+              "id": "a8bd93f8-8e7e-4669-ae1c-1f3f5156b4e7",
+              "name": "Chang International Circuit",
+              "legacy_id": 106,
+              "place": "Buriram",
+              "nation": "THA",
+              "events_id": null
+            },
+            "country": {
+              "iso": "TH",
+              "name": "Thailand",
+              "region_iso": ""
+            }
+          },
+          "status": "FINISHED"
+        },
+        "classification_url": "https://api.motogp.pulselive.com/motogp/v1/results/session/8a982e72-625e-440f-aad8-5bd8801944ad/classification?seasonYear=2025&test=false",
+        "session_url": "https://api.motogp.pulselive.com/motogp/v1/results/sessions?eventUuid=b84b9bd0-3ef3-4367-90cb-2840350673ca&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+        "classification_file": "8a982e72-625e-440f-aad8-5bd8801944ad.json",
+        "rows": 22
+      }
+    ]
+  },
+  {
+    "year": 2026,
+    "event_id": "f3fd8ba7-2966-46bd-8687-b92047f5e733",
+    "class_name": "Moto2",
+    "session_url": "https://api.motogp.pulselive.com/motogp/v1/results/sessions?eventUuid=f3fd8ba7-2966-46bd-8687-b92047f5e733&categoryUuid=549640b8-fd9c-4245-acfd-60e4bc38b25c",
+    "session_count": 7,
+    "races": [
+      {
+        "event": {
+          "country": {
+            "iso": "TH",
+            "name": "Thailand",
+            "region_iso": ""
+          },
+          "event_files": {
+            "circuit_information": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/CircuitInformation.pdf",
+              "menu_position": 1
+            },
+            "podiums": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/Podiums.pdf",
+              "menu_position": 2
+            },
+            "pole_positions": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/PolePositions.pdf",
+              "menu_position": 2
+            },
+            "nations_statistics": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/table2.pdf",
+              "menu_position": 2
+            },
+            "riders_all_time": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/table4.pdf",
+              "menu_position": 2
+            }
+          },
+          "circuit": {
+            "id": "a8bd93f8-8e7e-4669-ae1c-1f3f5156b4e7",
+            "name": "Chang International Circuit",
+            "legacy_id": 106,
+            "place": "Buriram",
+            "nation": "THA",
+            "events_id": null
+          },
+          "test": false,
+          "sponsored_name": "PT Grand Prix of Thailand",
+          "date_end": "2026-03-01",
+          "toad_api_uuid": "364a0bd9-d3c2-4ab3-a4cd-211ff469953e",
+          "date_start": "2026-02-27",
+          "additional_name": "THAILAND",
+          "name": "GRAND PRIX OF THAILAND",
+          "legacy_id": [
+            {
+              "categoryId": 3,
+              "eventId": 1
+            },
+            {
+              "categoryId": 2,
+              "eventId": 1
+            },
+            {
+              "categoryId": 1,
+              "eventId": 1
+            }
+          ],
+          "season": {
+            "id": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
+            "year": 2026,
+            "current": true
+          },
+          "short_name": "THA",
+          "id": "f3fd8ba7-2966-46bd-8687-b92047f5e733",
+          "status": "FINISHED",
+          "audit_year": 2026
+        },
+        "category": {
+          "id": "549640b8-fd9c-4245-acfd-60e4bc38b25c",
+          "name": "Moto2™",
+          "legacy_id": 2
+        },
+        "session": {
+          "date": "2026-03-01T13:15:00+00:00",
+          "number": null,
+          "condition": {
+            "track": "Dry",
+            "air": "34º",
+            "humidity": "45%",
+            "ground": "53º",
+            "weather": "Partly-Cloudy"
+          },
+          "circuit": "Chang International Circuit",
+          "session_files": {
+            "classification": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/Moto2/RAC/Classification.pdf",
+              "menu_position": 1
+            },
+            "analysis": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/Moto2/RAC/Analysis.pdf",
+              "menu_position": 2
+            },
+            "average_speed": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/Moto2/RAC/AverageSpeed.pdf",
+              "menu_position": 2
+            },
+            "fast_lap_sequence": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/Moto2/RAC/FastLapSequence.pdf",
+              "menu_position": 2
+            },
+            "lap_chart": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/Moto2/RAC/LapChart.pdf",
+              "menu_position": 2
+            },
+            "analysis_by_lap": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/Moto2/RAC/analysisbylap.pdf",
+              "menu_position": 2
+            },
+            "fast_lap_rider": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/Moto2/RAC/FastLapRider.pdf",
+              "menu_position": 2
+            },
+            "grid": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/Moto2/RAC/Grid.pdf",
+              "menu_position": 2
+            },
+            "session": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/Moto2/RAC/Session.pdf",
+              "menu_position": 2
+            },
+            "world_standing": {
+              "url": "",
+              "menu_position": 2
+            },
+            "best_partial_time": {
+              "url": "",
+              "menu_position": 2
+            },
+            "maximum_speed": {
+              "url": "",
+              "menu_position": 2
+            },
+            "combined_practice": {
+              "url": "",
+              "menu_position": 2
+            },
+            "combined_classification": {
+              "url": "",
+              "menu_position": 2
+            }
+          },
+          "id": "43a6f2cb-2fab-477f-9a80-59ee69a31aaa",
+          "type": "RAC",
+          "category": {
+            "id": "549640b8-fd9c-4245-acfd-60e4bc38b25c",
+            "legacy_id": 2,
+            "name": "Moto2™"
+          },
+          "event": {
+            "id": "f3fd8ba7-2966-46bd-8687-b92047f5e733",
+            "name": "GRAND PRIX OF THAILAND",
+            "sponsored_name": "PT Grand Prix of Thailand",
+            "short_name": "THA",
+            "test": false,
+            "season": "2026",
+            "circuit": {
+              "id": "a8bd93f8-8e7e-4669-ae1c-1f3f5156b4e7",
+              "name": "Chang International Circuit",
+              "legacy_id": 106,
+              "place": "Buriram",
+              "nation": "THA",
+              "events_id": null
+            },
+            "country": {
+              "iso": "TH",
+              "name": "Thailand",
+              "region_iso": ""
+            }
+          },
+          "status": "FINISHED"
+        },
+        "classification_url": "https://api.motogp.pulselive.com/motogp/v1/results/session/43a6f2cb-2fab-477f-9a80-59ee69a31aaa/classification?seasonYear=2026&test=false",
+        "session_url": "https://api.motogp.pulselive.com/motogp/v1/results/sessions?eventUuid=f3fd8ba7-2966-46bd-8687-b92047f5e733&categoryUuid=549640b8-fd9c-4245-acfd-60e4bc38b25c",
+        "classification_file": "43a6f2cb-2fab-477f-9a80-59ee69a31aaa.json",
+        "rows": 27
+      },
+      {
+        "event": {
+          "country": {
+            "iso": "TH",
+            "name": "Thailand",
+            "region_iso": ""
+          },
+          "event_files": {
+            "circuit_information": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/CircuitInformation.pdf",
+              "menu_position": 1
+            },
+            "podiums": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/Podiums.pdf",
+              "menu_position": 2
+            },
+            "pole_positions": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/PolePositions.pdf",
+              "menu_position": 2
+            },
+            "nations_statistics": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/table2.pdf",
+              "menu_position": 2
+            },
+            "riders_all_time": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/table4.pdf",
+              "menu_position": 2
+            }
+          },
+          "circuit": {
+            "id": "a8bd93f8-8e7e-4669-ae1c-1f3f5156b4e7",
+            "name": "Chang International Circuit",
+            "legacy_id": 106,
+            "place": "Buriram",
+            "nation": "THA",
+            "events_id": null
+          },
+          "test": false,
+          "sponsored_name": "PT Grand Prix of Thailand",
+          "date_end": "2026-03-01",
+          "toad_api_uuid": "364a0bd9-d3c2-4ab3-a4cd-211ff469953e",
+          "date_start": "2026-02-27",
+          "additional_name": "THAILAND",
+          "name": "GRAND PRIX OF THAILAND",
+          "legacy_id": [
+            {
+              "categoryId": 3,
+              "eventId": 1
+            },
+            {
+              "categoryId": 2,
+              "eventId": 1
+            },
+            {
+              "categoryId": 1,
+              "eventId": 1
+            }
+          ],
+          "season": {
+            "id": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
+            "year": 2026,
+            "current": true
+          },
+          "short_name": "THA",
+          "id": "f3fd8ba7-2966-46bd-8687-b92047f5e733",
+          "status": "FINISHED",
+          "audit_year": 2026
+        },
+        "category": {
+          "id": "549640b8-fd9c-4245-acfd-60e4bc38b25c",
+          "name": "Moto2™",
+          "legacy_id": 2
+        },
+        "session": {
+          "date": "2026-03-01T13:45:00+00:00",
+          "number": 2,
+          "condition": {
+            "track": "Dry",
+            "air": "34º",
+            "humidity": "42%",
+            "ground": "54º",
+            "weather": "Partly-Cloudy"
+          },
+          "circuit": "Chang International Circuit",
+          "session_files": {
+            "classification": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/Moto2/RAC2/Classification.pdf",
+              "menu_position": 1
+            },
+            "analysis": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/Moto2/RAC2/Analysis.pdf",
+              "menu_position": 2
+            },
+            "average_speed": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/Moto2/RAC2/AverageSpeed.pdf",
+              "menu_position": 2
+            },
+            "fast_lap_sequence": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/Moto2/RAC2/FastLapSequence.pdf",
+              "menu_position": 2
+            },
+            "lap_chart": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/Moto2/RAC2/LapChart.pdf",
+              "menu_position": 2
+            },
+            "analysis_by_lap": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/Moto2/RAC2/analysisbylap.pdf",
+              "menu_position": 2
+            },
+            "fast_lap_rider": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/Moto2/RAC2/FastLapRider.pdf",
+              "menu_position": 2
+            },
+            "grid": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/Moto2/RAC2/Grid.pdf",
+              "menu_position": 2
+            },
+            "session": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/Moto2/RAC2/Session.pdf",
+              "menu_position": 2
+            },
+            "world_standing": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/Moto2/RAC2/worldstanding.pdf",
+              "menu_position": 2
+            },
+            "best_partial_time": {
+              "url": "",
+              "menu_position": 2
+            },
+            "maximum_speed": {
+              "url": "",
+              "menu_position": 2
+            },
+            "combined_practice": {
+              "url": "",
+              "menu_position": 2
+            },
+            "combined_classification": {
+              "url": "",
+              "menu_position": 2
+            }
+          },
+          "id": "0700559d-65bc-4f7a-ac40-918f86244092",
+          "type": "RAC",
+          "category": {
+            "id": "549640b8-fd9c-4245-acfd-60e4bc38b25c",
+            "legacy_id": 2,
+            "name": "Moto2™"
+          },
+          "event": {
+            "id": "f3fd8ba7-2966-46bd-8687-b92047f5e733",
+            "name": "GRAND PRIX OF THAILAND",
+            "sponsored_name": "PT Grand Prix of Thailand",
+            "short_name": "THA",
+            "test": false,
+            "season": "2026",
+            "circuit": {
+              "id": "a8bd93f8-8e7e-4669-ae1c-1f3f5156b4e7",
+              "name": "Chang International Circuit",
+              "legacy_id": 106,
+              "place": "Buriram",
+              "nation": "THA",
+              "events_id": null
+            },
+            "country": {
+              "iso": "TH",
+              "name": "Thailand",
+              "region_iso": ""
+            }
+          },
+          "status": "FINISHED"
+        },
+        "classification_url": "https://api.motogp.pulselive.com/motogp/v1/results/session/0700559d-65bc-4f7a-ac40-918f86244092/classification?seasonYear=2026&test=false",
+        "session_url": "https://api.motogp.pulselive.com/motogp/v1/results/sessions?eventUuid=f3fd8ba7-2966-46bd-8687-b92047f5e733&categoryUuid=549640b8-fd9c-4245-acfd-60e4bc38b25c",
+        "classification_file": "0700559d-65bc-4f7a-ac40-918f86244092.json",
+        "rows": 27
+      }
+    ]
+  },
+  {
+    "year": 2026,
+    "event_id": "f3fd8ba7-2966-46bd-8687-b92047f5e733",
+    "class_name": "Moto3",
+    "session_url": "https://api.motogp.pulselive.com/motogp/v1/results/sessions?eventUuid=f3fd8ba7-2966-46bd-8687-b92047f5e733&categoryUuid=954f7e65-2ef2-4423-b949-4961cc603e45",
+    "session_count": 6,
+    "races": [
+      {
+        "event": {
+          "country": {
+            "iso": "TH",
+            "name": "Thailand",
+            "region_iso": ""
+          },
+          "event_files": {
+            "circuit_information": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/CircuitInformation.pdf",
+              "menu_position": 1
+            },
+            "podiums": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/Podiums.pdf",
+              "menu_position": 2
+            },
+            "pole_positions": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/PolePositions.pdf",
+              "menu_position": 2
+            },
+            "nations_statistics": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/table2.pdf",
+              "menu_position": 2
+            },
+            "riders_all_time": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/table4.pdf",
+              "menu_position": 2
+            }
+          },
+          "circuit": {
+            "id": "a8bd93f8-8e7e-4669-ae1c-1f3f5156b4e7",
+            "name": "Chang International Circuit",
+            "legacy_id": 106,
+            "place": "Buriram",
+            "nation": "THA",
+            "events_id": null
+          },
+          "test": false,
+          "sponsored_name": "PT Grand Prix of Thailand",
+          "date_end": "2026-03-01",
+          "toad_api_uuid": "364a0bd9-d3c2-4ab3-a4cd-211ff469953e",
+          "date_start": "2026-02-27",
+          "additional_name": "THAILAND",
+          "name": "GRAND PRIX OF THAILAND",
+          "legacy_id": [
+            {
+              "categoryId": 3,
+              "eventId": 1
+            },
+            {
+              "categoryId": 2,
+              "eventId": 1
+            },
+            {
+              "categoryId": 1,
+              "eventId": 1
+            }
+          ],
+          "season": {
+            "id": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
+            "year": 2026,
+            "current": true
+          },
+          "short_name": "THA",
+          "id": "f3fd8ba7-2966-46bd-8687-b92047f5e733",
+          "status": "FINISHED",
+          "audit_year": 2026
+        },
+        "category": {
+          "id": "954f7e65-2ef2-4423-b949-4961cc603e45",
+          "name": "Moto3™",
+          "legacy_id": 1
+        },
+        "session": {
+          "date": "2026-03-01T12:00:00+00:00",
+          "number": null,
+          "condition": {
+            "track": "Dry",
+            "air": "34º",
+            "humidity": "46%",
+            "ground": "51º",
+            "weather": "Partly-Cloudy"
+          },
+          "circuit": "Chang International Circuit",
+          "session_files": {
+            "classification": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/Moto3/RAC/Classification.pdf",
+              "menu_position": 1
+            },
+            "analysis": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/Moto3/RAC/Analysis.pdf",
+              "menu_position": 2
+            },
+            "average_speed": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/Moto3/RAC/AverageSpeed.pdf",
+              "menu_position": 2
+            },
+            "fast_lap_sequence": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/Moto3/RAC/FastLapSequence.pdf",
+              "menu_position": 2
+            },
+            "lap_chart": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/Moto3/RAC/LapChart.pdf",
+              "menu_position": 2
+            },
+            "analysis_by_lap": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/Moto3/RAC/analysisbylap.pdf",
+              "menu_position": 2
+            },
+            "fast_lap_rider": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/Moto3/RAC/FastLapRider.pdf",
+              "menu_position": 2
+            },
+            "grid": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/Moto3/RAC/Grid.pdf",
+              "menu_position": 2
+            },
+            "session": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/Moto3/RAC/Session.pdf",
+              "menu_position": 2
+            },
+            "world_standing": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/Moto3/RAC/worldstanding.pdf",
+              "menu_position": 2
+            },
+            "best_partial_time": {
+              "url": "",
+              "menu_position": 2
+            },
+            "maximum_speed": {
+              "url": "",
+              "menu_position": 2
+            },
+            "combined_practice": {
+              "url": "",
+              "menu_position": 2
+            },
+            "combined_classification": {
+              "url": "",
+              "menu_position": 2
+            }
+          },
+          "id": "08317214-1726-4b26-abdc-9362d7b38532",
+          "type": "RAC",
+          "category": {
+            "id": "954f7e65-2ef2-4423-b949-4961cc603e45",
+            "legacy_id": 1,
+            "name": "Moto3™"
+          },
+          "event": {
+            "id": "f3fd8ba7-2966-46bd-8687-b92047f5e733",
+            "name": "GRAND PRIX OF THAILAND",
+            "sponsored_name": "PT Grand Prix of Thailand",
+            "short_name": "THA",
+            "test": false,
+            "season": "2026",
+            "circuit": {
+              "id": "a8bd93f8-8e7e-4669-ae1c-1f3f5156b4e7",
+              "name": "Chang International Circuit",
+              "legacy_id": 106,
+              "place": "Buriram",
+              "nation": "THA",
+              "events_id": null
+            },
+            "country": {
+              "iso": "TH",
+              "name": "Thailand",
+              "region_iso": ""
+            }
+          },
+          "status": "FINISHED"
+        },
+        "classification_url": "https://api.motogp.pulselive.com/motogp/v1/results/session/08317214-1726-4b26-abdc-9362d7b38532/classification?seasonYear=2026&test=false",
+        "session_url": "https://api.motogp.pulselive.com/motogp/v1/results/sessions?eventUuid=f3fd8ba7-2966-46bd-8687-b92047f5e733&categoryUuid=954f7e65-2ef2-4423-b949-4961cc603e45",
+        "classification_file": "08317214-1726-4b26-abdc-9362d7b38532.json",
+        "rows": 26
+      }
+    ]
+  },
+  {
+    "year": 2026,
+    "event_id": "f3fd8ba7-2966-46bd-8687-b92047f5e733",
+    "class_name": "MotoGP",
+    "session_url": "https://api.motogp.pulselive.com/motogp/v1/results/sessions?eventUuid=f3fd8ba7-2966-46bd-8687-b92047f5e733&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "session_count": 8,
+    "races": [
+      {
+        "event": {
+          "country": {
+            "iso": "TH",
+            "name": "Thailand",
+            "region_iso": ""
+          },
+          "event_files": {
+            "circuit_information": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/CircuitInformation.pdf",
+              "menu_position": 1
+            },
+            "podiums": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/Podiums.pdf",
+              "menu_position": 2
+            },
+            "pole_positions": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/PolePositions.pdf",
+              "menu_position": 2
+            },
+            "nations_statistics": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/table2.pdf",
+              "menu_position": 2
+            },
+            "riders_all_time": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/table4.pdf",
+              "menu_position": 2
+            }
+          },
+          "circuit": {
+            "id": "a8bd93f8-8e7e-4669-ae1c-1f3f5156b4e7",
+            "name": "Chang International Circuit",
+            "legacy_id": 106,
+            "place": "Buriram",
+            "nation": "THA",
+            "events_id": null
+          },
+          "test": false,
+          "sponsored_name": "PT Grand Prix of Thailand",
+          "date_end": "2026-03-01",
+          "toad_api_uuid": "364a0bd9-d3c2-4ab3-a4cd-211ff469953e",
+          "date_start": "2026-02-27",
+          "additional_name": "THAILAND",
+          "name": "GRAND PRIX OF THAILAND",
+          "legacy_id": [
+            {
+              "categoryId": 3,
+              "eventId": 1
+            },
+            {
+              "categoryId": 2,
+              "eventId": 1
+            },
+            {
+              "categoryId": 1,
+              "eventId": 1
+            }
+          ],
+          "season": {
+            "id": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
+            "year": 2026,
+            "current": true
+          },
+          "short_name": "THA",
+          "id": "f3fd8ba7-2966-46bd-8687-b92047f5e733",
+          "status": "FINISHED",
+          "audit_year": 2026
+        },
+        "category": {
+          "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+          "name": "MotoGP™",
+          "legacy_id": 3
+        },
+        "session": {
+          "date": "2026-02-28T15:00:00+00:00",
+          "number": null,
+          "condition": {
+            "track": "Dry",
+            "air": "33º",
+            "humidity": "54%",
+            "ground": "52º",
+            "weather": "Partly-Cloudy"
+          },
+          "circuit": "Chang International Circuit",
+          "session_files": {
+            "classification": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/MotoGP/SPR/Classification.pdf",
+              "menu_position": 1
+            },
+            "analysis": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/MotoGP/SPR/Analysis.pdf",
+              "menu_position": 2
+            },
+            "average_speed": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/MotoGP/SPR/AverageSpeed.pdf",
+              "menu_position": 2
+            },
+            "fast_lap_sequence": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/MotoGP/SPR/FastLapSequence.pdf",
+              "menu_position": 2
+            },
+            "lap_chart": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/MotoGP/SPR/LapChart.pdf",
+              "menu_position": 2
+            },
+            "analysis_by_lap": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/MotoGP/SPR/analysisbylap.pdf",
+              "menu_position": 2
+            },
+            "fast_lap_rider": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/MotoGP/SPR/FastLapRider.pdf",
+              "menu_position": 2
+            },
+            "grid": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/MotoGP/SPR/Grid.pdf",
+              "menu_position": 2
+            },
+            "session": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/MotoGP/SPR/Session.pdf",
+              "menu_position": 2
+            },
+            "world_standing": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/MotoGP/SPR/worldstanding.pdf",
+              "menu_position": 2
+            },
+            "best_partial_time": {
+              "url": "",
+              "menu_position": 2
+            },
+            "maximum_speed": {
+              "url": "",
+              "menu_position": 2
+            },
+            "combined_practice": {
+              "url": "",
+              "menu_position": 2
+            },
+            "combined_classification": {
+              "url": "",
+              "menu_position": 2
+            }
+          },
+          "id": "d3e62405-3f19-40db-99f7-a8c943032512",
+          "type": "SPR",
+          "category": {
+            "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+            "legacy_id": 3,
+            "name": "MotoGP™"
+          },
+          "event": {
+            "id": "f3fd8ba7-2966-46bd-8687-b92047f5e733",
+            "name": "GRAND PRIX OF THAILAND",
+            "sponsored_name": "PT Grand Prix of Thailand",
+            "short_name": "THA",
+            "test": false,
+            "season": "2026",
+            "circuit": {
+              "id": "a8bd93f8-8e7e-4669-ae1c-1f3f5156b4e7",
+              "name": "Chang International Circuit",
+              "legacy_id": 106,
+              "place": "Buriram",
+              "nation": "THA",
+              "events_id": null
+            },
+            "country": {
+              "iso": "TH",
+              "name": "Thailand",
+              "region_iso": ""
+            }
+          },
+          "status": "FINISHED"
+        },
+        "classification_url": "https://api.motogp.pulselive.com/motogp/v1/results/session/d3e62405-3f19-40db-99f7-a8c943032512/classification?seasonYear=2026&test=false",
+        "session_url": "https://api.motogp.pulselive.com/motogp/v1/results/sessions?eventUuid=f3fd8ba7-2966-46bd-8687-b92047f5e733&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+        "classification_file": "d3e62405-3f19-40db-99f7-a8c943032512.json",
+        "rows": 22
+      },
+      {
+        "event": {
+          "country": {
+            "iso": "TH",
+            "name": "Thailand",
+            "region_iso": ""
+          },
+          "event_files": {
+            "circuit_information": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/CircuitInformation.pdf",
+              "menu_position": 1
+            },
+            "podiums": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/Podiums.pdf",
+              "menu_position": 2
+            },
+            "pole_positions": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/PolePositions.pdf",
+              "menu_position": 2
+            },
+            "nations_statistics": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/table2.pdf",
+              "menu_position": 2
+            },
+            "riders_all_time": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/table4.pdf",
+              "menu_position": 2
+            }
+          },
+          "circuit": {
+            "id": "a8bd93f8-8e7e-4669-ae1c-1f3f5156b4e7",
+            "name": "Chang International Circuit",
+            "legacy_id": 106,
+            "place": "Buriram",
+            "nation": "THA",
+            "events_id": null
+          },
+          "test": false,
+          "sponsored_name": "PT Grand Prix of Thailand",
+          "date_end": "2026-03-01",
+          "toad_api_uuid": "364a0bd9-d3c2-4ab3-a4cd-211ff469953e",
+          "date_start": "2026-02-27",
+          "additional_name": "THAILAND",
+          "name": "GRAND PRIX OF THAILAND",
+          "legacy_id": [
+            {
+              "categoryId": 3,
+              "eventId": 1
+            },
+            {
+              "categoryId": 2,
+              "eventId": 1
+            },
+            {
+              "categoryId": 1,
+              "eventId": 1
+            }
+          ],
+          "season": {
+            "id": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
+            "year": 2026,
+            "current": true
+          },
+          "short_name": "THA",
+          "id": "f3fd8ba7-2966-46bd-8687-b92047f5e733",
+          "status": "FINISHED",
+          "audit_year": 2026
+        },
+        "category": {
+          "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+          "name": "MotoGP™",
+          "legacy_id": 3
+        },
+        "session": {
+          "date": "2026-03-01T15:00:00+00:00",
+          "number": null,
+          "condition": {
+            "track": "Dry",
+            "air": "35º",
+            "humidity": "42%",
+            "ground": "55º",
+            "weather": "Partly-Cloudy"
+          },
+          "circuit": "Chang International Circuit",
+          "session_files": {
+            "classification": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/MotoGP/RAC/Classification.pdf",
+              "menu_position": 1
+            },
+            "analysis": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/MotoGP/RAC/Analysis.pdf",
+              "menu_position": 2
+            },
+            "average_speed": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/MotoGP/RAC/AverageSpeed.pdf",
+              "menu_position": 2
+            },
+            "fast_lap_sequence": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/MotoGP/RAC/FastLapSequence.pdf",
+              "menu_position": 2
+            },
+            "lap_chart": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/MotoGP/RAC/LapChart.pdf",
+              "menu_position": 2
+            },
+            "analysis_by_lap": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/MotoGP/RAC/analysisbylap.pdf",
+              "menu_position": 2
+            },
+            "fast_lap_rider": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/MotoGP/RAC/FastLapRider.pdf",
+              "menu_position": 2
+            },
+            "grid": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/MotoGP/RAC/Grid.pdf",
+              "menu_position": 2
+            },
+            "session": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/MotoGP/RAC/Session.pdf",
+              "menu_position": 2
+            },
+            "world_standing": {
+              "url": "https://resources.motogp.com/files/results/2026/THA/MotoGP/RAC/worldstanding.pdf",
+              "menu_position": 2
+            },
+            "best_partial_time": {
+              "url": "",
+              "menu_position": 2
+            },
+            "maximum_speed": {
+              "url": "",
+              "menu_position": 2
+            },
+            "combined_practice": {
+              "url": "",
+              "menu_position": 2
+            },
+            "combined_classification": {
+              "url": "",
+              "menu_position": 2
+            }
+          },
+          "id": "656efa33-5c39-4d93-b8ef-8b669fdbec05",
+          "type": "RAC",
+          "category": {
+            "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+            "legacy_id": 3,
+            "name": "MotoGP™"
+          },
+          "event": {
+            "id": "f3fd8ba7-2966-46bd-8687-b92047f5e733",
+            "name": "GRAND PRIX OF THAILAND",
+            "sponsored_name": "PT Grand Prix of Thailand",
+            "short_name": "THA",
+            "test": false,
+            "season": "2026",
+            "circuit": {
+              "id": "a8bd93f8-8e7e-4669-ae1c-1f3f5156b4e7",
+              "name": "Chang International Circuit",
+              "legacy_id": 106,
+              "place": "Buriram",
+              "nation": "THA",
+              "events_id": null
+            },
+            "country": {
+              "iso": "TH",
+              "name": "Thailand",
+              "region_iso": ""
+            }
+          },
+          "status": "FINISHED"
+        },
+        "classification_url": "https://api.motogp.pulselive.com/motogp/v1/results/session/656efa33-5c39-4d93-b8ef-8b669fdbec05/classification?seasonYear=2026&test=false",
+        "session_url": "https://api.motogp.pulselive.com/motogp/v1/results/sessions?eventUuid=f3fd8ba7-2966-46bd-8687-b92047f5e733&categoryUuid=e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+        "classification_file": "656efa33-5c39-4d93-b8ef-8b669fdbec05.json",
+        "rows": 22
+      }
+    ]
+  },
+  {
+    "year": 2025,
+    "event_id": "bf43aaac-e8d6-4758-8685-db0c5b9d5ef9",
+    "class_name": "MotoE",
+    "session_url": "https://api.motogp.pulselive.com/motogp/v1/results/sessions?eventUuid=bf43aaac-e8d6-4758-8685-db0c5b9d5ef9&categoryUuid=3bda82ba-0445-440c-9375-cd48d777bd95",
+    "session_count": 6,
+    "races": [
+      {
+        "event": {
+          "country": {
+            "iso": "FR",
+            "name": "France",
+            "region_iso": ""
+          },
+          "event_files": {
+            "circuit_information": {
+              "url": "https://resources.motogp.com/files/results/2025/FRA/CircuitInformation.pdf",
+              "menu_position": 1
+            },
+            "podiums": {
+              "url": "https://resources.motogp.com/files/results/2025/FRA/Podiums.pdf",
+              "menu_position": 2
+            },
+            "pole_positions": {
+              "url": "https://resources.motogp.com/files/results/2025/FRA/PolePositions.pdf",
+              "menu_position": 2
+            },
+            "nations_statistics": {
+              "url": "https://resources.motogp.com/files/results/2025/FRA/table2.pdf",
+              "menu_position": 2
+            },
+            "riders_all_time": {
+              "url": "https://resources.motogp.com/files/results/2025/FRA/table4.pdf",
+              "menu_position": 2
+            }
+          },
+          "circuit": {
+            "id": "ebb41e75-8664-4dfd-b0eb-07f24bd5fb92",
+            "name": "Le Mans",
+            "legacy_id": 8,
+            "place": "Le Mans",
+            "nation": "FRA",
+            "events_id": null
+          },
+          "test": false,
+          "sponsored_name": "Michelin® Grand Prix de France",
+          "date_end": "2025-05-11",
+          "toad_api_uuid": "e9b386c5-9d95-405e-880e-7d9105ce1cbe",
+          "date_start": "2025-05-09",
+          "additional_name": "FRANCE",
+          "name": "GRAND PRIX DE FRANCE",
+          "legacy_id": [
+            {
+              "categoryId": 19,
+              "eventId": 71
+            },
+            {
+              "categoryId": 19,
+              "eventId": 6
+            },
+            {
+              "categoryId": 3,
+              "eventId": 6
+            },
+            {
+              "categoryId": 2,
+              "eventId": 6
+            },
+            {
+              "categoryId": 1,
+              "eventId": 6
+            }
+          ],
+          "season": {
+            "id": "ae6c6f0d-c652-44f8-94aa-420fc5b3dab4",
+            "year": 2025,
+            "current": false
+          },
+          "short_name": "FRA",
+          "id": "bf43aaac-e8d6-4758-8685-db0c5b9d5ef9",
+          "status": "FINISHED",
+          "audit_year": 2025
+        },
+        "category": {
+          "id": "3bda82ba-0445-440c-9375-cd48d777bd95",
+          "name": "MotoE™",
+          "legacy_id": 19
+        },
+        "session": {
+          "date": "2025-05-10T12:27:00+00:00",
+          "number": 1,
+          "condition": {
+            "track": "Dry",
+            "air": "21º",
+            "humidity": "46%",
+            "ground": "32º",
+            "weather": "Partly-Cloudy"
+          },
+          "circuit": "Le Mans",
+          "session_files": {
+            "classification": {
+              "url": "https://resources.motogp.com/files/results/2025/FRA/MotoE/RAC1/Classification.pdf",
+              "menu_position": 1
+            },
+            "analysis": {
+              "url": "https://resources.motogp.com/files/results/2025/FRA/MotoE/RAC1/Analysis.pdf",
+              "menu_position": 2
+            },
+            "average_speed": {
+              "url": "https://resources.motogp.com/files/results/2025/FRA/MotoE/RAC1/AverageSpeed.pdf",
+              "menu_position": 2
+            },
+            "fast_lap_sequence": {
+              "url": "https://resources.motogp.com/files/results/2025/FRA/MotoE/RAC1/FastLapSequence.pdf",
+              "menu_position": 2
+            },
+            "lap_chart": {
+              "url": "https://resources.motogp.com/files/results/2025/FRA/MotoE/RAC1/LapChart.pdf",
+              "menu_position": 2
+            },
+            "analysis_by_lap": {
+              "url": "https://resources.motogp.com/files/results/2025/FRA/MotoE/RAC1/analysisbylap.pdf",
+              "menu_position": 2
+            },
+            "fast_lap_rider": {
+              "url": "https://resources.motogp.com/files/results/2025/FRA/MotoE/RAC1/FastLapRider.pdf",
+              "menu_position": 2
+            },
+            "grid": {
+              "url": "https://resources.motogp.com/files/results/2025/FRA/MotoE/RAC1/Grid.pdf",
+              "menu_position": 2
+            },
+            "session": {
+              "url": "https://resources.motogp.com/files/results/2025/FRA/MotoE/RAC1/Session.pdf",
+              "menu_position": 2
+            },
+            "world_standing": {
+              "url": "https://resources.motogp.com/files/results/2025/FRA/MotoE/RAC1/worldstanding.pdf",
+              "menu_position": 2
+            },
+            "best_partial_time": {
+              "url": "",
+              "menu_position": 2
+            },
+            "maximum_speed": {
+              "url": "",
+              "menu_position": 2
+            },
+            "combined_practice": {
+              "url": "",
+              "menu_position": 2
+            },
+            "combined_classification": {
+              "url": "",
+              "menu_position": 2
+            }
+          },
+          "id": "c145e164-397c-4429-8a2d-2f4f20653572",
+          "type": "RAC",
+          "category": {
+            "id": "3bda82ba-0445-440c-9375-cd48d777bd95",
+            "legacy_id": 19,
+            "name": "MotoE™"
+          },
+          "event": {
+            "id": "bf43aaac-e8d6-4758-8685-db0c5b9d5ef9",
+            "name": "GRAND PRIX DE FRANCE",
+            "sponsored_name": "Michelin® Grand Prix de France",
+            "short_name": "FRA",
+            "test": false,
+            "season": "2025",
+            "circuit": {
+              "id": "ebb41e75-8664-4dfd-b0eb-07f24bd5fb92",
+              "name": "Le Mans",
+              "legacy_id": 8,
+              "place": "Le Mans",
+              "nation": "FRA",
+              "events_id": null
+            },
+            "country": {
+              "iso": "FR",
+              "name": "France",
+              "region_iso": ""
+            }
+          },
+          "status": "FINISHED"
+        },
+        "classification_url": "https://api.motogp.pulselive.com/motogp/v1/results/session/c145e164-397c-4429-8a2d-2f4f20653572/classification?seasonYear=2025&test=false",
+        "session_url": "https://api.motogp.pulselive.com/motogp/v1/results/sessions?eventUuid=bf43aaac-e8d6-4758-8685-db0c5b9d5ef9&categoryUuid=3bda82ba-0445-440c-9375-cd48d777bd95",
+        "classification_file": "c145e164-397c-4429-8a2d-2f4f20653572.json",
+        "rows": 17,
+        "retrieved_at": "2026-10-13"
+      },
+      {
+        "event": {
+          "country": {
+            "iso": "FR",
+            "name": "France",
+            "region_iso": ""
+          },
+          "event_files": {
+            "circuit_information": {
+              "url": "https://resources.motogp.com/files/results/2025/FRA/CircuitInformation.pdf",
+              "menu_position": 1
+            },
+            "podiums": {
+              "url": "https://resources.motogp.com/files/results/2025/FRA/Podiums.pdf",
+              "menu_position": 2
+            },
+            "pole_positions": {
+              "url": "https://resources.motogp.com/files/results/2025/FRA/PolePositions.pdf",
+              "menu_position": 2
+            },
+            "nations_statistics": {
+              "url": "https://resources.motogp.com/files/results/2025/FRA/table2.pdf",
+              "menu_position": 2
+            },
+            "riders_all_time": {
+              "url": "https://resources.motogp.com/files/results/2025/FRA/table4.pdf",
+              "menu_position": 2
+            }
+          },
+          "circuit": {
+            "id": "ebb41e75-8664-4dfd-b0eb-07f24bd5fb92",
+            "name": "Le Mans",
+            "legacy_id": 8,
+            "place": "Le Mans",
+            "nation": "FRA",
+            "events_id": null
+          },
+          "test": false,
+          "sponsored_name": "Michelin® Grand Prix de France",
+          "date_end": "2025-05-11",
+          "toad_api_uuid": "e9b386c5-9d95-405e-880e-7d9105ce1cbe",
+          "date_start": "2025-05-09",
+          "additional_name": "FRANCE",
+          "name": "GRAND PRIX DE FRANCE",
+          "legacy_id": [
+            {
+              "categoryId": 19,
+              "eventId": 71
+            },
+            {
+              "categoryId": 19,
+              "eventId": 6
+            },
+            {
+              "categoryId": 3,
+              "eventId": 6
+            },
+            {
+              "categoryId": 2,
+              "eventId": 6
+            },
+            {
+              "categoryId": 1,
+              "eventId": 6
+            }
+          ],
+          "season": {
+            "id": "ae6c6f0d-c652-44f8-94aa-420fc5b3dab4",
+            "year": 2025,
+            "current": false
+          },
+          "short_name": "FRA",
+          "id": "bf43aaac-e8d6-4758-8685-db0c5b9d5ef9",
+          "status": "FINISHED",
+          "audit_year": 2025
+        },
+        "category": {
+          "id": "3bda82ba-0445-440c-9375-cd48d777bd95",
+          "name": "MotoE™",
+          "legacy_id": 19
+        },
+        "session": {
+          "date": "2025-05-10T16:10:00+00:00",
+          "number": 2,
+          "condition": {
+            "track": "Dry",
+            "air": "23º",
+            "humidity": "40%",
+            "ground": "35º",
+            "weather": "Partly-Cloudy"
+          },
+          "circuit": "Le Mans",
+          "session_files": {
+            "classification": {
+              "url": "https://resources.motogp.com/files/results/2025/FRA/MotoE/RAC2/Classification.pdf",
+              "menu_position": 1
+            },
+            "analysis": {
+              "url": "https://resources.motogp.com/files/results/2025/FRA/MotoE/RAC2/Analysis.pdf",
+              "menu_position": 2
+            },
+            "average_speed": {
+              "url": "https://resources.motogp.com/files/results/2025/FRA/MotoE/RAC2/AverageSpeed.pdf",
+              "menu_position": 2
+            },
+            "fast_lap_sequence": {
+              "url": "https://resources.motogp.com/files/results/2025/FRA/MotoE/RAC2/FastLapSequence.pdf",
+              "menu_position": 2
+            },
+            "lap_chart": {
+              "url": "https://resources.motogp.com/files/results/2025/FRA/MotoE/RAC2/LapChart.pdf",
+              "menu_position": 2
+            },
+            "analysis_by_lap": {
+              "url": "https://resources.motogp.com/files/results/2025/FRA/MotoE/RAC2/analysisbylap.pdf",
+              "menu_position": 2
+            },
+            "fast_lap_rider": {
+              "url": "https://resources.motogp.com/files/results/2025/FRA/MotoE/RAC2/FastLapRider.pdf",
+              "menu_position": 2
+            },
+            "grid": {
+              "url": "https://resources.motogp.com/files/results/2025/FRA/MotoE/RAC2/Grid.pdf",
+              "menu_position": 2
+            },
+            "session": {
+              "url": "https://resources.motogp.com/files/results/2025/FRA/MotoE/RAC2/Session.pdf",
+              "menu_position": 2
+            },
+            "world_standing": {
+              "url": "https://resources.motogp.com/files/results/2025/FRA/MotoE/RAC2/worldstanding.pdf",
+              "menu_position": 2
+            },
+            "best_partial_time": {
+              "url": "",
+              "menu_position": 2
+            },
+            "maximum_speed": {
+              "url": "",
+              "menu_position": 2
+            },
+            "combined_practice": {
+              "url": "",
+              "menu_position": 2
+            },
+            "combined_classification": {
+              "url": "",
+              "menu_position": 2
+            }
+          },
+          "id": "6fef0843-cb73-44c9-82f3-7b72d85a8fc6",
+          "type": "RAC",
+          "category": {
+            "id": "3bda82ba-0445-440c-9375-cd48d777bd95",
+            "legacy_id": 19,
+            "name": "MotoE™"
+          },
+          "event": {
+            "id": "bf43aaac-e8d6-4758-8685-db0c5b9d5ef9",
+            "name": "GRAND PRIX DE FRANCE",
+            "sponsored_name": "Michelin® Grand Prix de France",
+            "short_name": "FRA",
+            "test": false,
+            "season": "2025",
+            "circuit": {
+              "id": "ebb41e75-8664-4dfd-b0eb-07f24bd5fb92",
+              "name": "Le Mans",
+              "legacy_id": 8,
+              "place": "Le Mans",
+              "nation": "FRA",
+              "events_id": null
+            },
+            "country": {
+              "iso": "FR",
+              "name": "France",
+              "region_iso": ""
+            }
+          },
+          "status": "FINISHED"
+        },
+        "classification_url": "https://api.motogp.pulselive.com/motogp/v1/results/session/6fef0843-cb73-44c9-82f3-7b72d85a8fc6/classification?seasonYear=2025&test=false",
+        "session_url": "https://api.motogp.pulselive.com/motogp/v1/results/sessions?eventUuid=bf43aaac-e8d6-4758-8685-db0c5b9d5ef9&categoryUuid=3bda82ba-0445-440c-9375-cd48d777bd95",
+        "classification_file": "6fef0843-cb73-44c9-82f3-7b72d85a8fc6.json",
+        "rows": 16,
+        "retrieved_at": "2026-10-13"
+      }
+    ]
+  }
+]
